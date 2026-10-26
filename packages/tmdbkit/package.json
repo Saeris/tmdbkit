@@ -1,27 +1,30 @@
 {
   "name": "@saeris/tmdbkit",
-  "description": "A modern, type-safe TMDB API client for Node.js and the browser",
   "version": "0.0.1",
+  "description": "A modern, type-safe TMDB API client for Node.js and the browser",
+  "keywords": [
+    "api-client",
+    "metadata",
+    "movies",
+    "themoviedb",
+    "tmdb",
+    "tv"
+  ],
   "license": "MIT",
   "author": "Drake Costa <drake@saeris.gg> (https://saeris.gg)",
-  "keywords": [
-    "tmdb",
-    "themoviedb",
-    "movies",
-    "tv",
-    "metadata",
-    "api-client"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/saeris/tmdbkit.git",
     "directory": "packages/tmdbkit"
   },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org"
-  },
+  "files": [
+    "dist/**/*"
+  ],
   "type": "module",
+  "sideEffects": false,
+  "imports": {
+    "#mocks": "./src/__mocks__/mockSchema.mock.ts"
+  },
   "exports": {
     ".": {
       "@saeris/tmdbkit/source": "./src/index.ts",
@@ -35,15 +38,15 @@
     },
     "./package.json": "./package.json"
   },
-  "files": [
-    "dist/**/*"
-  ],
-  "sideEffects": false,
-  "peerDependencies": {
-    "valibot": ">= 1.4.0"
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
     "valibot": "catalog:"
+  },
+  "peerDependencies": {
+    "valibot": ">= 1.4.0"
   },
   "bumpy": {
     "buildCommand": "vp pack"

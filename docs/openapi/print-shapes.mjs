@@ -37,9 +37,7 @@ function shape(schema, depth = 0, max = 2) {
 for (const [p, info] of Object.entries(s)) {
   console.log(`=== ${p} ===`);
   console.log(
-    `params: ${(info.params || [])
-      .map((x) => x.name + (x.required ? "*" : ""))
-      .join(", ")}`
+    `params: ${(info.params || []).map((x) => x.name + (x.required ? "*" : "")).join(", ")}`
   );
   console.log(shape(info.schema));
   console.log();
