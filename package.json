@@ -1,0 +1,33 @@
+{
+  "name": "tmdbkit",
+  "description": "A modern, type-safe TMDB API client for Node.js and the browser",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "packageManager": "yarn@4.18.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "resolutions": {
+    "vite": "npm:@voidzero-dev/vite-plus-core@1.4.0"
+  },
+  "scripts": {
+    "format": "vp run lint --fix",
+    "test": "vp test --fileParallelism",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "msw": "catalog:",
+    "valibot": "catalog:",
+    "valimock": "catalog:"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "catalog:",
+    "@saeris/configs": "1.6.1",
+    "@types/node": "catalog:",
+    "@varlock/bumpy": "catalog:",
+    "typescript": "catalog:",
+    "vite-plus": "catalog:"
+  }
+}

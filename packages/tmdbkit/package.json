@@ -1,0 +1,51 @@
+{
+  "name": "@saeris/tmdbkit",
+  "description": "A modern, type-safe TMDB API client for Node.js and the browser",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Drake Costa <drake@saeris.gg> (https://saeris.gg)",
+  "keywords": [
+    "tmdb",
+    "themoviedb",
+    "movies",
+    "tv",
+    "metadata",
+    "api-client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saeris/tmdbkit.git",
+    "directory": "packages/tmdbkit"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "type": "module",
+  "exports": {
+    ".": {
+      "@saeris/tmdbkit/source": "./src/index.ts",
+      "types": "./dist/index.d.mts",
+      "import": "./dist/index.mjs"
+    },
+    "./*": {
+      "@saeris/tmdbkit/source": "./src/*.ts",
+      "types": "./dist/*.d.mts",
+      "import": "./dist/*.mjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "sideEffects": false,
+  "peerDependencies": {
+    "valibot": ">= 1.4.0"
+  },
+  "devDependencies": {
+    "valibot": "catalog:"
+  },
+  "bumpy": {
+    "buildCommand": "vp pack"
+  }
+}

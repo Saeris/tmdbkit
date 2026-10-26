@@ -1,0 +1,19 @@
+{
+  "extends": "@saeris/configs/tsconfig",
+  "include": ["./**/*.ts", "./**/*.tsx", "./**/*.mts", "./**/*.cts"],
+  "exclude": [
+    "node_modules",
+    ".yarn",
+    ".claude",
+    "./**/dist",
+    "./**/coverage",
+    "docs"
+  ],
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM"],
+    "customConditions": ["@saeris/tmdbkit/source"],
+    "importHelpers": true,
+    "allowImportingTsExtensions": true,
+    "types": ["node"]
+  }
+}
