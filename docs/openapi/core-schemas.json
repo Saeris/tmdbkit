@@ -1,0 +1,1891 @@
+{
+  "/3/configuration": {
+    "summary": "Details",
+    "schema": {
+      "type": "object",
+      "properties": {
+        "images": {
+          "type": "object",
+          "properties": {
+            "base_url": {
+              "type": "string",
+              "example": "http://image.tmdb.org/t/p/"
+            },
+            "secure_base_url": {
+              "type": "string",
+              "example": "https://image.tmdb.org/t/p/"
+            },
+            "backdrop_sizes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "example": "w300"
+              }
+            },
+            "logo_sizes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "example": "w45"
+              }
+            },
+            "poster_sizes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "example": "w92"
+              }
+            },
+            "profile_sizes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "example": "w45"
+              }
+            },
+            "still_sizes": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "example": "w92"
+              }
+            }
+          }
+        },
+        "change_keys": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "example": "adult"
+          }
+        }
+      }
+    }
+  },
+  "/3/search/movie": {
+    "summary": "Movie",
+    "params": [
+      {
+        "name": "query",
+        "in": "query",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "include_adult",
+        "in": "query",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      },
+      {
+        "name": "primary_release_year",
+        "in": "query",
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "page",
+        "in": "query",
+        "schema": {
+          "type": "integer",
+          "format": "int32",
+          "default": 1
+        }
+      },
+      {
+        "name": "region",
+        "in": "query",
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "year",
+        "in": "query",
+        "schema": {
+          "type": "string"
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "page": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "results": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "adult": {
+                "type": "boolean",
+                "example": false,
+                "default": true
+              },
+              "backdrop_path": {
+                "type": "string",
+                "example": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg"
+              },
+              "genre_ids": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "example": 18,
+                  "default": 0
+                }
+              },
+              "id": {
+                "type": "integer",
+                "example": 550,
+                "default": 0
+              },
+              "original_language": {
+                "type": "string",
+                "example": "en"
+              },
+              "original_title": {
+                "type": "string",
+                "example": "Fight Club"
+              },
+              "overview": {
+                "type": "string",
+                "example": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion."
+              },
+              "popularity": {
+                "type": "number",
+                "example": 73.433,
+                "default": 0
+              },
+              "poster_path": {
+                "type": "string",
+                "example": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+              },
+              "release_date": {
+                "type": "string",
+                "example": "1999-10-15"
+              },
+              "title": {
+                "type": "string",
+                "example": "Fight Club"
+              },
+              "video": {
+                "type": "boolean",
+                "example": false,
+                "default": true
+              },
+              "vote_average": {
+                "type": "number",
+                "example": 8.433,
+                "default": 0
+              },
+              "vote_count": {
+                "type": "integer",
+                "example": 26279,
+                "default": 0
+              }
+            }
+          }
+        },
+        "total_pages": {
+          "type": "integer",
+          "example": 2,
+          "default": 0
+        },
+        "total_results": {
+          "type": "integer",
+          "example": 39,
+          "default": 0
+        }
+      }
+    }
+  },
+  "/3/search/tv": {
+    "summary": "TV",
+    "params": [
+      {
+        "name": "query",
+        "in": "query",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "first_air_date_year",
+        "in": "query",
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "include_adult",
+        "in": "query",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      },
+      {
+        "name": "page",
+        "in": "query",
+        "schema": {
+          "type": "integer",
+          "format": "int32",
+          "default": 1
+        }
+      },
+      {
+        "name": "year",
+        "in": "query",
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "page": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "results": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "adult": {
+                "type": "boolean",
+                "example": false,
+                "default": true
+              },
+              "backdrop_path": {
+                "type": "string",
+                "example": "/bsNm9z2TJfe0WO3RedPGWQ8mG1X.jpg"
+              },
+              "genre_ids": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "example": 18,
+                  "default": 0
+                }
+              },
+              "id": {
+                "type": "integer",
+                "example": 1396,
+                "default": 0
+              },
+              "origin_country": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "example": "US"
+                }
+              },
+              "original_language": {
+                "type": "string",
+                "example": "en"
+              },
+              "original_name": {
+                "type": "string",
+                "example": "Breaking Bad"
+              },
+              "overview": {
+                "type": "string",
+                "example": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime."
+              },
+              "popularity": {
+                "type": "number",
+                "example": 298.884,
+                "default": 0
+              },
+              "poster_path": {
+                "type": "string",
+                "example": "/ggFHVNu6YYI5L9pCfOacjizRGt.jpg"
+              },
+              "first_air_date": {
+                "type": "string",
+                "example": "2008-01-20"
+              },
+              "name": {
+                "type": "string",
+                "example": "Breaking Bad"
+              },
+              "vote_average": {
+                "type": "number",
+                "example": 8.879,
+                "default": 0
+              },
+              "vote_count": {
+                "type": "integer",
+                "example": 11536,
+                "default": 0
+              }
+            }
+          }
+        },
+        "total_pages": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "total_results": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        }
+      }
+    }
+  },
+  "/3/search/person": {
+    "summary": "Person",
+    "params": [
+      {
+        "name": "query",
+        "in": "query",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "include_adult",
+        "in": "query",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      },
+      {
+        "name": "page",
+        "in": "query",
+        "schema": {
+          "type": "integer",
+          "format": "int32",
+          "default": 1
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "page": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "results": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "adult": {
+                "type": "boolean",
+                "example": false,
+                "default": true
+              },
+              "gender": {
+                "type": "integer",
+                "example": 2,
+                "default": 0
+              },
+              "id": {
+                "type": "integer",
+                "example": 31,
+                "default": 0
+              },
+              "known_for_department": {
+                "type": "string",
+                "example": "Acting"
+              },
+              "name": {
+                "type": "string",
+                "example": "Tom Hanks"
+              },
+              "original_name": {
+                "type": "string",
+                "example": "Tom Hanks"
+              },
+              "popularity": {
+                "type": "number",
+                "example": 84.631,
+                "default": 0
+              },
+              "profile_path": {
+                "type": "string",
+                "example": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+              },
+              "known_for": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "adult": {
+                      "type": "boolean",
+                      "example": false,
+                      "default": true
+                    },
+                    "backdrop_path": {
+                      "type": "string",
+                      "example": "/3h1JZGDhZ8nzxdgvkxha0qBqi05.jpg"
+                    },
+                    "id": {
+                      "type": "integer",
+                      "example": 13,
+                      "default": 0
+                    },
+                    "title": {
+                      "type": "string",
+                      "example": "Forrest Gump"
+                    },
+                    "original_language": {
+                      "type": "string",
+                      "example": "en"
+                    },
+                    "original_title": {
+                      "type": "string",
+                      "example": "Forrest Gump"
+                    },
+                    "overview": {
+                      "type": "string",
+                      "example": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him."
+                    },
+                    "poster_path": {
+                      "type": "string",
+                      "example": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg"
+                    },
+                    "media_type": {
+                      "type": "string",
+                      "example": "movie"
+                    },
+                    "genre_ids": {
+                      "type": "array",
+                      "items": {
+                        "type": "integer",
+                        "example": 35,
+                        "default": 0
+                      }
+                    },
+                    "popularity": {
+                      "type": "number",
+                      "example": 67.209,
+                      "default": 0
+                    },
+                    "release_date": {
+                      "type": "string",
+                      "example": "1994-06-23"
+                    },
+                    "video": {
+                      "type": "boolean",
+                      "example": false,
+                      "default": true
+                    },
+                    "vote_average": {
+                      "type": "number",
+                      "example": 8.481,
+                      "default": 0
+                    },
+                    "vote_count": {
+                      "type": "integer",
+                      "example": 24525,
+                      "default": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "total_pages": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "total_results": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        }
+      }
+    }
+  },
+  "/3/search/multi": {
+    "summary": "Multi",
+    "params": [
+      {
+        "name": "query",
+        "in": "query",
+        "required": true,
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "include_adult",
+        "in": "query",
+        "schema": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      },
+      {
+        "name": "page",
+        "in": "query",
+        "schema": {
+          "type": "integer",
+          "format": "int32",
+          "default": 1
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "page": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "results": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "adult": {
+                "type": "boolean",
+                "example": false,
+                "default": true
+              },
+              "backdrop_path": {
+                "type": "string",
+                "example": "/aDYSnJAK0BTVeE8osOy22Kz3SXY.jpg"
+              },
+              "id": {
+                "type": "integer",
+                "example": 11,
+                "default": 0
+              },
+              "title": {
+                "type": "string",
+                "example": "Star Wars"
+              },
+              "original_language": {
+                "type": "string",
+                "example": "en"
+              },
+              "original_title": {
+                "type": "string",
+                "example": "Star Wars"
+              },
+              "overview": {
+                "type": "string",
+                "example": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire."
+              },
+              "poster_path": {
+                "type": "string",
+                "example": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+              },
+              "media_type": {
+                "type": "string",
+                "example": "movie"
+              },
+              "genre_ids": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "example": 12,
+                  "default": 0
+                }
+              },
+              "popularity": {
+                "type": "number",
+                "example": 78.047,
+                "default": 0
+              },
+              "release_date": {
+                "type": "string",
+                "example": "1977-05-25"
+              },
+              "video": {
+                "type": "boolean",
+                "example": false,
+                "default": true
+              },
+              "vote_average": {
+                "type": "number",
+                "example": 8.208,
+                "default": 0
+              },
+              "vote_count": {
+                "type": "integer",
+                "example": 18528,
+                "default": 0
+              },
+              "name": {
+                "type": "string"
+              },
+              "original_name": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "total_pages": {
+          "type": "integer",
+          "example": 11,
+          "default": 0
+        },
+        "total_results": {
+          "type": "integer",
+          "example": 201,
+          "default": 0
+        }
+      }
+    }
+  },
+  "/3/movie/{movie_id}": {
+    "summary": "Details",
+    "params": [
+      {
+        "name": "movie_id",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "append_to_response",
+        "in": "query",
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "adult": {
+          "type": "boolean",
+          "example": false,
+          "default": "false"
+        },
+        "backdrop_path": {
+          "type": "string",
+          "example": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg"
+        },
+        "belongs_to_collection": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer",
+              "example": 10,
+              "default": 0
+            },
+            "name": {
+              "type": "string",
+              "example": "Star Wars Collection"
+            },
+            "poster_path": {
+              "type": "string",
+              "example": "/pWVLFh4OuejTpUaDQbB1C4zoS2p.jpg"
+            },
+            "backdrop_path": {
+              "type": "string",
+              "example": "/iY2ujEY2m68OTTlPFTiHub9joHS.jpg"
+            }
+          }
+        },
+        "budget": {
+          "type": "integer",
+          "example": 11000000,
+          "default": 0
+        },
+        "genres": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer",
+                "example": 12,
+                "default": 0
+              },
+              "name": {
+                "type": "string",
+                "example": "Adventure"
+              }
+            }
+          }
+        },
+        "homepage": {
+          "type": "string",
+          "example": "http://www.starwars.com/films/star-wars-episode-iv-a-new-hope"
+        },
+        "id": {
+          "type": "integer",
+          "example": 11,
+          "default": 0
+        },
+        "imdb_id": {
+          "type": "string",
+          "example": "tt0076759"
+        },
+        "origin_country": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "example": "US"
+          }
+        },
+        "original_language": {
+          "type": "string",
+          "example": "en"
+        },
+        "original_title": {
+          "type": "string",
+          "example": "Star Wars"
+        },
+        "overview": {
+          "type": "string",
+          "example": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire."
+        },
+        "popularity": {
+          "type": "number",
+          "example": 20.6912,
+          "default": 0
+        },
+        "poster_path": {
+          "type": "string",
+          "example": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+        },
+        "production_companies": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer",
+                "example": 1,
+                "default": 0
+              },
+              "logo_path": {
+                "type": "string",
+                "example": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png"
+              },
+              "name": {
+                "type": "string",
+                "example": "Lucasfilm Ltd."
+              },
+              "origin_country": {
+                "type": "string",
+                "example": "US"
+              }
+            }
+          }
+        },
+        "production_countries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "iso_3166_1": {
+                "type": "string",
+                "example": "US"
+              },
+              "name": {
+                "type": "string",
+                "example": "United States of America"
+              }
+            }
+          }
+        },
+        "release_date": {
+          "type": "string",
+          "example": "1977-05-25"
+        },
+        "revenue": {
+          "type": "integer",
+          "example": 775398007,
+          "default": 0
+        },
+        "runtime": {
+          "type": "integer",
+          "example": 121,
+          "default": 0
+        },
+        "spoken_languages": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "english_name": {
+                "type": "string",
+                "example": "English"
+              },
+              "iso_639_1": {
+                "type": "string",
+                "example": "en"
+              },
+              "name": {
+                "type": "string",
+                "example": "English"
+              }
+            }
+          }
+        },
+        "status": {
+          "type": "string",
+          "example": "Released"
+        },
+        "tagline": {
+          "type": "string",
+          "example": "A long time ago in a galaxy far, far away..."
+        },
+        "title": {
+          "type": "string",
+          "example": "Star Wars"
+        },
+        "video": {
+          "type": "boolean",
+          "example": false,
+          "default": "false"
+        },
+        "vote_average": {
+          "type": "number",
+          "example": 8.2,
+          "default": 0
+        },
+        "vote_count": {
+          "type": "integer",
+          "example": 22061,
+          "default": 0
+        }
+      }
+    }
+  },
+  "/3/tv/{series_id}": {
+    "summary": "Details",
+    "params": [
+      {
+        "name": "series_id",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "append_to_response",
+        "in": "query",
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "adult": {
+          "type": "boolean",
+          "example": false,
+          "default": true
+        },
+        "backdrop_path": {
+          "type": "string",
+          "example": "/6LWy0jvMpmjoS9fojNgHIKoWL05.jpg"
+        },
+        "created_by": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer",
+                "example": 9813,
+                "default": 0
+              },
+              "credit_id": {
+                "type": "string",
+                "example": "5256c8c219c2956ff604858a"
+              },
+              "name": {
+                "type": "string",
+                "example": "David Benioff"
+              },
+              "gender": {
+                "type": "integer",
+                "example": 2,
+                "default": 0
+              },
+              "profile_path": {
+                "type": "string",
+                "example": "/xvNN5huL0X8yJ7h3IZfGG4O2zBD.jpg"
+              }
+            }
+          }
+        },
+        "episode_run_time": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "example": 60,
+            "default": 0
+          }
+        },
+        "first_air_date": {
+          "type": "string",
+          "example": "2011-04-17"
+        },
+        "genres": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer",
+                "example": 10765,
+                "default": 0
+              },
+              "name": {
+                "type": "string",
+                "example": "Sci-Fi & Fantasy"
+              }
+            }
+          }
+        },
+        "homepage": {
+          "type": "string",
+          "example": "http://www.hbo.com/game-of-thrones"
+        },
+        "id": {
+          "type": "integer",
+          "example": 1399,
+          "default": 0
+        },
+        "in_production": {
+          "type": "boolean",
+          "example": false,
+          "default": true
+        },
+        "languages": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "example": "en"
+          }
+        },
+        "last_air_date": {
+          "type": "string",
+          "example": "2019-05-19"
+        },
+        "last_episode_to_air": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer",
+              "example": 1551830,
+              "default": 0
+            },
+            "name": {
+              "type": "string",
+              "example": "The Iron Throne"
+            },
+            "overview": {
+              "type": "string",
+              "example": "In the aftermath of the devastating attack on King's Landing, Daenerys must face the survivors."
+            },
+            "vote_average": {
+              "type": "number",
+              "example": 4.809,
+              "default": 0
+            },
+            "vote_count": {
+              "type": "integer",
+              "example": 241,
+              "default": 0
+            },
+            "air_date": {
+              "type": "string",
+              "example": "2019-05-19"
+            },
+            "episode_number": {
+              "type": "integer",
+              "example": 6,
+              "default": 0
+            },
+            "production_code": {
+              "type": "string",
+              "example": "806"
+            },
+            "runtime": {
+              "type": "integer",
+              "example": 80,
+              "default": 0
+            },
+            "season_number": {
+              "type": "integer",
+              "example": 8,
+              "default": 0
+            },
+            "show_id": {
+              "type": "integer",
+              "example": 1399,
+              "default": 0
+            },
+            "still_path": {
+              "type": "string",
+              "example": "/zBi2O5EJfgTS6Ae0HdAYLm9o2nf.jpg"
+            }
+          }
+        },
+        "name": {
+          "type": "string",
+          "example": "Game of Thrones"
+        },
+        "next_episode_to_air": {},
+        "networks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer",
+                "example": 49,
+                "default": 0
+              },
+              "logo_path": {
+                "type": "string",
+                "example": "/tuomPhY2UtuPTqqFnKMVHvSb724.png"
+              },
+              "name": {
+                "type": "string",
+                "example": "HBO"
+              },
+              "origin_country": {
+                "type": "string",
+                "example": "US"
+              }
+            }
+          }
+        },
+        "number_of_episodes": {
+          "type": "integer",
+          "example": 73,
+          "default": 0
+        },
+        "number_of_seasons": {
+          "type": "integer",
+          "example": 8,
+          "default": 0
+        },
+        "origin_country": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "example": "US"
+          }
+        },
+        "original_language": {
+          "type": "string",
+          "example": "en"
+        },
+        "original_name": {
+          "type": "string",
+          "example": "Game of Thrones"
+        },
+        "overview": {
+          "type": "string",
+          "example": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
+        },
+        "popularity": {
+          "type": "number",
+          "example": 346.098,
+          "default": 0
+        },
+        "poster_path": {
+          "type": "string",
+          "example": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
+        },
+        "production_companies": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer",
+                "example": 76043,
+                "default": 0
+              },
+              "logo_path": {
+                "type": "string",
+                "example": "/9RO2vbQ67otPrBLXCaC8UMp3Qat.png"
+              },
+              "name": {
+                "type": "string",
+                "example": "Revolution Sun Studios"
+              },
+              "origin_country": {
+                "type": "string",
+                "example": "US"
+              }
+            }
+          }
+        },
+        "production_countries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "iso_3166_1": {
+                "type": "string",
+                "example": "GB"
+              },
+              "name": {
+                "type": "string",
+                "example": "United Kingdom"
+              }
+            }
+          }
+        },
+        "seasons": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "air_date": {
+                "type": "string",
+                "example": "2010-12-05"
+              },
+              "episode_count": {
+                "type": "integer",
+                "example": 272,
+                "default": 0
+              },
+              "id": {
+                "type": "integer",
+                "example": 3627,
+                "default": 0
+              },
+              "name": {
+                "type": "string",
+                "example": "Specials"
+              },
+              "overview": {
+                "type": "string",
+                "example": ""
+              },
+              "poster_path": {
+                "type": "string",
+                "example": "/kMTcwNRfFKCZ0O2OaBZS0nZ2AIe.jpg"
+              },
+              "season_number": {
+                "type": "integer",
+                "example": 0,
+                "default": 0
+              },
+              "vote_average": {
+                "type": "integer",
+                "example": 0,
+                "default": 0
+              }
+            }
+          }
+        },
+        "spoken_languages": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "english_name": {
+                "type": "string",
+                "example": "English"
+              },
+              "iso_639_1": {
+                "type": "string",
+                "example": "en"
+              },
+              "name": {
+                "type": "string",
+                "example": "English"
+              }
+            }
+          }
+        },
+        "status": {
+          "type": "string",
+          "example": "Ended"
+        },
+        "tagline": {
+          "type": "string",
+          "example": "Winter Is Coming"
+        },
+        "type": {
+          "type": "string",
+          "example": "Scripted"
+        },
+        "vote_average": {
+          "type": "number",
+          "example": 8.438,
+          "default": 0
+        },
+        "vote_count": {
+          "type": "integer",
+          "example": 21390,
+          "default": 0
+        }
+      }
+    }
+  },
+  "/3/tv/{series_id}/season/{season_number}": {
+    "summary": "Details",
+    "params": [
+      {
+        "name": "series_id",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "season_number",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "append_to_response",
+        "in": "query",
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "_id": {
+          "type": "string",
+          "example": "5256c89f19c2956ff6046d47"
+        },
+        "air_date": {
+          "type": "string",
+          "example": "2011-04-17"
+        },
+        "episodes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "air_date": {
+                "type": "string",
+                "example": "2011-04-17"
+              },
+              "episode_number": {
+                "type": "integer",
+                "example": 1,
+                "default": 0
+              },
+              "episode_type": {
+                "type": "string",
+                "example": "standard"
+              },
+              "id": {
+                "type": "integer",
+                "example": 63056,
+                "default": 0
+              },
+              "name": {
+                "type": "string",
+                "example": "Winter Is Coming"
+              },
+              "overview": {
+                "type": "string",
+                "example": "Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army."
+              },
+              "production_code": {
+                "type": "string",
+                "example": "101"
+              },
+              "runtime": {
+                "type": "integer",
+                "example": 62,
+                "default": 0
+              },
+              "season_number": {
+                "type": "integer",
+                "example": 1,
+                "default": 0
+              },
+              "show_id": {
+                "type": "integer",
+                "example": 1399,
+                "default": 0
+              },
+              "still_path": {
+                "type": "string",
+                "example": "/9hGF3WUkBf7cSjMg0cdMDHJkByd.jpg"
+              },
+              "vote_average": {
+                "type": "number",
+                "example": 8.1,
+                "default": 0
+              },
+              "vote_count": {
+                "type": "integer",
+                "example": 396,
+                "default": 0
+              },
+              "crew": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "department": {
+                      "type": "string",
+                      "example": "Directing"
+                    },
+                    "job": {
+                      "type": "string",
+                      "example": "Director"
+                    },
+                    "credit_id": {
+                      "type": "string",
+                      "example": "5256c8a219c2956ff6046e77"
+                    },
+                    "adult": {
+                      "type": "boolean",
+                      "example": false,
+                      "default": true
+                    },
+                    "gender": {
+                      "type": "integer",
+                      "example": 2,
+                      "default": 0
+                    },
+                    "id": {
+                      "type": "integer",
+                      "example": 44797,
+                      "default": 0
+                    },
+                    "known_for_department": {
+                      "type": "string",
+                      "example": "Directing"
+                    },
+                    "name": {
+                      "type": "string",
+                      "example": "Tim Van Patten"
+                    },
+                    "original_name": {
+                      "type": "string",
+                      "example": "Tim Van Patten"
+                    },
+                    "popularity": {
+                      "type": "number",
+                      "example": 0.8004,
+                      "default": 0
+                    },
+                    "profile_path": {
+                      "type": "string",
+                      "example": "/vwcARZBg4PEzOwnPsXdjRWeUVrZ.jpg"
+                    }
+                  }
+                }
+              },
+              "guest_stars": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "character": {
+                      "type": "string",
+                      "example": "Benjen Stark"
+                    },
+                    "credit_id": {
+                      "type": "string",
+                      "example": "5256c8b919c2956ff604836a"
+                    },
+                    "order": {
+                      "type": "integer",
+                      "example": 61,
+                      "default": 0
+                    },
+                    "adult": {
+                      "type": "boolean",
+                      "example": false,
+                      "default": true
+                    },
+                    "gender": {
+                      "type": "integer",
+                      "example": 2,
+                      "default": 0
+                    },
+                    "id": {
+                      "type": "integer",
+                      "example": 119783,
+                      "default": 0
+                    },
+                    "known_for_department": {
+                      "type": "string",
+                      "example": "Acting"
+                    },
+                    "name": {
+                      "type": "string",
+                      "example": "Joseph Mawle"
+                    },
+                    "original_name": {
+                      "type": "string",
+                      "example": "Joseph Mawle"
+                    },
+                    "popularity": {
+                      "type": "number",
+                      "example": 0.8932,
+                      "default": 0
+                    },
+                    "profile_path": {
+                      "type": "string",
+                      "example": "/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "name": {
+          "type": "string",
+          "example": "Season 1"
+        },
+        "networks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer",
+                "example": 49,
+                "default": 0
+              },
+              "logo_path": {
+                "type": "string",
+                "example": "/tuomPhY2UtuPTqqFnKMVHvSb724.png"
+              },
+              "name": {
+                "type": "string",
+                "example": "HBO"
+              },
+              "origin_country": {
+                "type": "string",
+                "example": "US"
+              }
+            }
+          }
+        },
+        "overview": {
+          "type": "string",
+          "example": "Trouble is brewing in the Seven Kingdoms of Westeros. For the driven inhabitants of this visionary world, control of Westeros' Iron Throne holds the lure of great power. But in a land where the seasons can last a lifetime, winter is coming...and beyond the Great Wall that protects them, an ancient evil has returned. In Season One, the story centers on three primary areas: the Stark and the Lannister families, whose designs on controlling the throne threaten a tenuous peace; the dragon princess Daenerys, heir to the former dynasty, who waits just over the Narrow Sea with her malevolent brother Viserys; and the Great Wall--a massive barrier of ice where a forgotten danger is stirring."
+        },
+        "id": {
+          "type": "integer",
+          "example": 3624,
+          "default": 0
+        },
+        "poster_path": {
+          "type": "string",
+          "example": "/wgfKiqzuMrFIkU1M68DDDY8kGC1.jpg"
+        },
+        "season_number": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "vote_average": {
+          "type": "number",
+          "example": 8.4,
+          "default": 0
+        }
+      }
+    }
+  },
+  "/3/tv/{series_id}/season/{season_number}/episode/{episode_number}": {
+    "summary": "Details",
+    "params": [
+      {
+        "name": "series_id",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "season_number",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "episode_number",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "append_to_response",
+        "in": "query",
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "air_date": {
+          "type": "string",
+          "example": "2011-04-17"
+        },
+        "crew": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "department": {
+                "type": "string",
+                "example": "Directing"
+              },
+              "job": {
+                "type": "string",
+                "example": "Director"
+              },
+              "credit_id": {
+                "type": "string",
+                "example": "5256c8a219c2956ff6046e77"
+              },
+              "adult": {
+                "type": "boolean",
+                "example": false,
+                "default": true
+              },
+              "gender": {
+                "type": "integer",
+                "example": 2,
+                "default": 0
+              },
+              "id": {
+                "type": "integer",
+                "example": 44797,
+                "default": 0
+              },
+              "known_for_department": {
+                "type": "string",
+                "example": "Directing"
+              },
+              "name": {
+                "type": "string",
+                "example": "Timothy Van Patten"
+              },
+              "original_name": {
+                "type": "string",
+                "example": "Timothy Van Patten"
+              },
+              "popularity": {
+                "type": "number",
+                "example": 7.775,
+                "default": 0
+              },
+              "profile_path": {
+                "type": "string",
+                "example": "/MzSOFrd99HRdr6pkSRSctk3kBR.jpg"
+              }
+            }
+          }
+        },
+        "episode_number": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "guest_stars": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "character": {
+                "type": "string",
+                "example": "Benjen Stark"
+              },
+              "credit_id": {
+                "type": "string",
+                "example": "5256c8b919c2956ff604836a"
+              },
+              "order": {
+                "type": "integer",
+                "example": 62,
+                "default": 0
+              },
+              "adult": {
+                "type": "boolean",
+                "example": false,
+                "default": true
+              },
+              "gender": {
+                "type": "integer",
+                "example": 2,
+                "default": 0
+              },
+              "id": {
+                "type": "integer",
+                "example": 119783,
+                "default": 0
+              },
+              "known_for_department": {
+                "type": "string",
+                "example": "Acting"
+              },
+              "name": {
+                "type": "string",
+                "example": "Joseph Mawle"
+              },
+              "original_name": {
+                "type": "string",
+                "example": "Joseph Mawle"
+              },
+              "popularity": {
+                "type": "number",
+                "example": 6.758,
+                "default": 0
+              },
+              "profile_path": {
+                "type": "string",
+                "example": "/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg"
+              }
+            }
+          }
+        },
+        "name": {
+          "type": "string",
+          "example": "Winter Is Coming"
+        },
+        "overview": {
+          "type": "string",
+          "example": "Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army."
+        },
+        "id": {
+          "type": "integer",
+          "example": 63056,
+          "default": 0
+        },
+        "production_code": {
+          "type": "string",
+          "example": "101"
+        },
+        "runtime": {
+          "type": "integer",
+          "example": 62,
+          "default": 0
+        },
+        "season_number": {
+          "type": "integer",
+          "example": 1,
+          "default": 0
+        },
+        "still_path": {
+          "type": "string",
+          "example": "/9hGF3WUkBf7cSjMg0cdMDHJkByd.jpg"
+        },
+        "vote_average": {
+          "type": "number",
+          "example": 7.8,
+          "default": 0
+        },
+        "vote_count": {
+          "type": "integer",
+          "example": 286,
+          "default": 0
+        }
+      }
+    }
+  },
+  "/3/person/{person_id}": {
+    "summary": "Details",
+    "params": [
+      {
+        "name": "person_id",
+        "in": "path",
+        "required": true,
+        "schema": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      {
+        "name": "append_to_response",
+        "in": "query",
+        "schema": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "language",
+        "in": "query",
+        "schema": {
+          "type": "string",
+          "default": "en-US"
+        }
+      }
+    ],
+    "schema": {
+      "type": "object",
+      "properties": {
+        "adult": {
+          "type": "boolean",
+          "example": false,
+          "default": true
+        },
+        "also_known_as": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "example": "Thomas Jeffrey Hanks"
+          }
+        },
+        "biography": {
+          "type": "string",
+          "example": "Thomas Jeffrey Hanks (born July 9, 1956) is an American actor and filmmaker. Known for both his comedic and dramatic roles, Hanks is one of the most popular and recognizable film stars worldwide, and is widely regarded as an American cultural icon.\n\nHanks made his breakthrough with leading roles in the comedies Splash (1984) and Big (1988). He won two consecutive Academy Awards for Best Actor for starring as a gay lawyer suffering from AIDS in Philadelphia (1993) and a young man with below-average IQ in Forrest Gump (1994). Hanks collaborated with film director Steven Spielberg on five films: Saving Private Ryan (1998), Catch Me If You Can (2002), The Terminal (2004), Bridge of Spies (2015), and The Post (2017), as well as the 2001 miniseries Band of Brothers, which launched him as a director, producer, and screenwriter.\n\nHanks' other notable films include the romantic comedies Sleepless in Seattle (1993) and You've Got Mail (1998); the dramas Apollo 13 (1995), The Green Mile (1999), Cast Away (2000), Road to Perdition (2002), and Cloud Atlas (2012); and the biographical dramas Saving Mr. Banks (2013), Captain Phillips (2013), Sully (2016), and A Beautiful Day in the Neighborhood (2019). He has also appeared as the title character in the Robert Langdon film series, and has voiced Sheriff Woody in the Toy Story film series.\n\nDescription above from the Wikipedia article Tom Hanks, licensed under CC-BY-SA, full list of contributors on Wikipedia."
+        },
+        "birthday": {
+          "type": "string",
+          "example": "1956-07-09"
+        },
+        "deathday": {},
+        "gender": {
+          "type": "integer",
+          "example": 2,
+          "default": 0
+        },
+        "homepage": {},
+        "id": {
+          "type": "integer",
+          "example": 31,
+          "default": 0
+        },
+        "imdb_id": {
+          "type": "string",
+          "example": "nm0000158"
+        },
+        "known_for_department": {
+          "type": "string",
+          "example": "Acting"
+        },
+        "name": {
+          "type": "string",
+          "example": "Tom Hanks"
+        },
+        "place_of_birth": {
+          "type": "string",
+          "example": "Concord, California, USA"
+        },
+        "popularity": {
+          "type": "number",
+          "example": 82.989,
+          "default": 0
+        },
+        "profile_path": {
+          "type": "string",
+          "example": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+        }
+      }
+    }
+  }
+}
