@@ -9,14 +9,12 @@
   ],
   "type": "module",
   "scripts": {
-    "format": "vp run lint --fix",
+    "ci": "vp check && vp test",
+    "build": "vp run -r build",
+    "check": "vp check",
+    "format": "vp check --fix",
     "test": "vp test --fileParallelism",
     "typecheck": "tsc --noEmit"
-  },
-  "dependencies": {
-    "msw": "catalog:",
-    "valibot": "catalog:",
-    "valimock": "catalog:"
   },
   "devDependencies": {
     "@faker-js/faker": "catalog:",
@@ -29,5 +27,8 @@
   "resolutions": {
     "vite": "npm:@voidzero-dev/vite-plus-core@1.4.0"
   },
-  "packageManager": "yarn@4.18.1"
+  "packageManager": "yarn@4.18.1",
+  "engines": {
+    "node": ">=22"
+  }
 }

@@ -528,10 +528,22 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@saeris/tmdbkit-test-utils@workspace:^, @saeris/tmdbkit-test-utils@workspace:packages/test-utils":
+  version: 0.0.0-use.local
+  resolution: "@saeris/tmdbkit-test-utils@workspace:packages/test-utils"
+  dependencies:
+    "@faker-js/faker": "catalog:"
+    msw: "catalog:"
+    valibot: "catalog:"
+    valimock: "catalog:"
+  languageName: unknown
+  linkType: soft
+
 "@saeris/tmdbkit@workspace:packages/tmdbkit":
   version: 0.0.0-use.local
   resolution: "@saeris/tmdbkit@workspace:packages/tmdbkit"
   dependencies:
+    "@saeris/tmdbkit-test-utils": "workspace:^"
     valibot: "catalog:"
   peerDependencies:
     valibot: ">= 1.4.0"
@@ -1906,10 +1918,7 @@ __metadata:
     "@saeris/configs": "npm:1.6.1"
     "@types/node": "catalog:"
     "@varlock/bumpy": "catalog:"
-    msw: "catalog:"
     typescript: "catalog:"
-    valibot: "catalog:"
-    valimock: "catalog:"
     vite-plus: "catalog:"
   languageName: unknown
   linkType: soft

@@ -10,11 +10,12 @@
     "tmdb",
     "tv"
   ],
+  "homepage": "https://github.com/Saeris/tmdbkit#readme",
   "license": "MIT",
   "author": "Drake Costa <drake@saeris.gg> (https://saeris.gg)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/saeris/tmdbkit.git",
+    "url": "https://github.com/Saeris/tmdbkit.git",
     "directory": "packages/tmdbkit"
   },
   "files": [
@@ -42,7 +43,11 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "devDependencies": {
+    "@saeris/tmdbkit-test-utils": "workspace:^",
     "valibot": "catalog:"
   },
   "peerDependencies": {

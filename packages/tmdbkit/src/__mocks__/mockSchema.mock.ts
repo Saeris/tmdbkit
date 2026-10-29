@@ -1,5 +1,5 @@
 import { afterAll } from "vite-plus/test";
-import { MockUtils } from "../test-utils/MockUtils.js";
+import { MockUtils } from "@saeris/tmdbkit-test-utils";
 import { tmdb } from "../requests/TmdbSession.js";
 
 // Shared MockUtils instance for the whole test suite. The msw server is

@@ -18,3 +18,7 @@ node_modules
 dist
 coverage
 .vitest/
+
+# Local secrets (TMDB_API_TOKEN for fixture recording / contract tests)
+.env
+.env.*
