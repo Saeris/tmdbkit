@@ -1,15 +1,13 @@
 import * as v from "valibot";
 import { schema } from "../validations/schema.js";
+import { integer } from "../validations/integer.js";
 
 export const productionCompanyEntries = {
-  /** the company id */
-  id: v.number(),
-  /** the path of the company logo */
-  logoPath: v.nullish(v.string()),
-  /** the name of the company */
+  id: integer,
+  logoPath: v.nullable(v.string()),
   name: v.string(),
-  /** the ISO 3166-1 code for the country the company is based in */
-  originCountry: v.nullish(v.string())
+  /** ISO 3166-1 code, or `""` when TMDB doesn't know it. */
+  originCountry: v.string()
 } as const;
 
 const _productionCompanySchema = v.object(productionCompanyEntries);
@@ -19,9 +17,9 @@ export interface ProductionCompany extends v.InferOutput<
 > {}
 
 /**
- * ### [Production Company](https://www.themoviedb.org/documentation/api/production-companies)
+ * ### Production Company
  *
- * A production company that produced a movie or TV show.
+ * A company credited on a movie or TV series. TV networks share this shape.
  */
 export const productionCompanySchema = schema<ProductionCompany>(
   _productionCompanySchema

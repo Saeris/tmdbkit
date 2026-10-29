@@ -2,11 +2,10 @@ import * as v from "valibot";
 import { schema } from "../validations/schema.js";
 
 export const spokenLanguageEntries = {
-  /** the English name of the language */
   englishName: v.string(),
-  /** the ISO 639-1 code for the language */
-  iso6391: v.string(),
-  /** the native name of the language */
+  /** ISO 639-1 code. */
+  iso_639_1: v.string(),
+  /** The language's name in itself, or `""` when TMDB doesn't have one. */
   name: v.string()
 } as const;
 
@@ -17,9 +16,9 @@ export interface SpokenLanguage extends v.InferOutput<
 > {}
 
 /**
- * ### [Spoken Language](https://www.themoviedb.org/documentation/api/spoken-languages)
+ * ### Spoken Language
  *
- * A language spoken in a movie or TV show.
+ * A language spoken in a movie or TV series. `getLanguages` returns the same shape.
  */
 export const spokenLanguageSchema = schema<SpokenLanguage>(
   _spokenLanguageSchema

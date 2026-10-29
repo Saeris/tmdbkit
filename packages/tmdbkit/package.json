@@ -24,7 +24,8 @@
   "type": "module",
   "sideEffects": false,
   "imports": {
-    "#mocks": "./src/__mocks__/mockSchema.mock.ts"
+    "#mocks": "./src/__mocks__/mockSchema.mock.ts",
+    "#fixtures": "./src/__mocks__/fixtures.ts"
   },
   "exports": {
     ".": {

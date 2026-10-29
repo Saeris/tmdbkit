@@ -36,7 +36,7 @@ if (!operation || !op) {
 }
 
 const camel = (key: string): string =>
-  key.replace(/_([a-z0-9])/g, (_, c: string) => c.toUpperCase());
+  key.replace(/_([a-zA-Z])/g, (_, c: string) => c.toUpperCase());
 /** TMDB keys are lower snake_case, so an all-capitals two-letter segment is a country code: a record key, not a field. */
 const recordKey = /^[A-Z]{2}(-[A-Z0-9]{1,3})?$/;
 const normalise = (path: string): string =>
@@ -76,7 +76,12 @@ const indent = (depth: number): string => `  `.repeat(depth);
 
 const render = (path: string, depth: number): string => {
   const field = fields[path];
-  const kinds = field ? [...field.kinds] : [`object`];
+  // The root has no recorded kind: it is an array when its items (`[]`) were recorded, else an object.
+  const kinds = field
+    ? [...field.kinds]
+    : path === `` && `[]` in fields
+      ? [`array`]
+      : [`object`];
   const nullable = kinds.includes(`null`);
   const solid = kinds.filter((k) => k !== `null`);
   let schema: string;

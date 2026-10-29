@@ -18,8 +18,8 @@ export default defineConfig({
     options: { typeAware: true, typeCheck: true },
     overrides: [
       {
-        // As in discordkit: `scripts/` holds dev tooling (fixture recording), not shipped library surface. Casting `JSON.parse` output to a declared shape is the point of those scripts.
-        files: [`scripts/**/*.ts`],
+        // As in discordkit: `scripts/` (fixture recording, codegen) and `__mocks__/` (test helpers) are dev tooling, not shipped library surface. Casting `JSON.parse` output to a declared shape is the point of those scripts.
+        files: [`scripts/**/*.ts`, `packages/tmdbkit/src/__mocks__/**/*.ts`],
         rules: {
           "typescript/no-unsafe-type-assertion": `off`,
           "typescript/no-unnecessary-condition": `off`
