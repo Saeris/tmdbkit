@@ -1,6 +1,6 @@
 {
   "name": "@saeris/tmdbkit",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A modern, type-safe TMDB API client for Node.js and the browser",
   "keywords": [
     "api-client",
