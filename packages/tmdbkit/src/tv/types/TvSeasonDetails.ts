@@ -13,8 +13,8 @@ import { tvSeasonExternalIdsSchema } from "./TvExternalIds.js";
 import { nameOverviewTranslationsSchema } from "./TvTranslations.js";
 
 export const tvSeasonDetailsEntries = {
-  /** TMDB's internal document id, sent as `_id`. tmdbkit's camelCasing turns the leading `_i` into `I`, so it arrives as `Id`. Use `id`. */
-  Id: v.string(),
+  /** TMDB's internal document id. Leading-underscore keys keep their names, so it stays `_id`; use `id` to identify the season. */
+  _id: v.string(),
   /** `YYYY-MM-DD`, or `null` when unknown. */
   airDate: v.nullable(v.string()),
   episodes: v.array(

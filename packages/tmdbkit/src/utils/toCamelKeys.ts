@@ -1,15 +1,25 @@
 import { isObject } from "./isObject.js";
 import { toCamelCase } from "./toCamelCase.js";
 
-/**
- * Convert a `snake_case` string-literal type to `camelCase`, matching exactly
- * what {@link toCamelCase} does at runtime: each `_x` becomes `X`.
- * Self-contained (no general word-splitting); we only ever convert
- * underscore-delimited TMDB API keys, so this is all the casing we need.
- */
-type CamelCase<S extends string> = S extends `${infer Head}_${infer Tail}`
-  ? `${Head}${CamelCase<Capitalize<Tail>>}`
+/** Whether a one-character string is a letter (it has a case). */
+type IsLetter<C extends string> =
+  Lowercase<C> extends Uppercase<C> ? false : true;
+
+/** {@link CamelCase} after any leading `_`: an `_` before a letter is dropped and the letter capitalised; an `_` before anything else stays. */
+type CamelTail<S extends string> = S extends `${infer Head}_${infer Tail}`
+  ? Tail extends `${infer First}${string}`
+    ? IsLetter<First> extends true
+      ? `${Head}${CamelTail<Capitalize<Tail>>}`
+      : `${Head}_${CamelTail<Tail>}`
+    : S
   : S;
+
+/**
+ * Convert a `snake_case` string-literal type to `camelCase`, matching exactly what {@link toCamelCase} does at runtime: `poster_path` → `posterPath`, while `iso_3166_1` and `_id` are unchanged (see `toCamelCase` for why).
+ */
+type CamelCase<S extends string> = S extends `_${infer Rest}`
+  ? `_${CamelTail<Rest>}`
+  : CamelTail<S>;
 
 /**
  * Recursively camel-case the keys of an object/array type. Mirrors
