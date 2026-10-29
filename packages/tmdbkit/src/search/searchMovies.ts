@@ -10,10 +10,11 @@ export const searchMoviesSchema = v.object({
       v.object({
         includeAdult: v.boolean(),
         language: v.string(),
-        primaryReleaseYear: v.string(),
+        /** The spec types the year params as strings; TMDB reads `1977` and `"1977"` alike. */
+        primaryReleaseYear: v.union([integer, v.string()]),
         page: integer,
         region: v.string(),
-        year: v.string()
+        year: v.union([integer, v.string()])
       })
     )
   )

@@ -53,8 +53,5 @@
   },
   "peerDependencies": {
     "valibot": ">= 1.4.0"
-  },
-  "bumpy": {
-    "buildCommand": "vp pack"
   }
 }

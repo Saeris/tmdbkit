@@ -2,5 +2,10 @@
   "$schema": "../node_modules/@varlock/bumpy/config-schema.json",
   "baseBranch": "main",
   "changelog": "github",
-  "githubRelease": true
+  "githubRelease": true,
+  "packages": {
+    "@saeris/tmdbkit": {
+      "buildCommand": "vp pack"
+    }
+  }
 }
