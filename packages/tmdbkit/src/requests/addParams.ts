@@ -1,8 +1,7 @@
 import { toSnakeCase } from "../utils/toSnakeCase.js";
 
 /**
- * The shape of query params accepted by the typed helpers. Arrays produce
- * repeated keys; `null`/`undefined` values are skipped.
+ * The shape of query params accepted by the typed helpers. `null`/`undefined` values are skipped.
  */
 export type RequestParams = Partial<
   Record<
@@ -12,22 +11,17 @@ export type RequestParams = Partial<
 >;
 
 /**
- * Append query params to a URL. Keys are converted from camelCase to
- * snake_case (TMDB's wire format), and array values are appended as repeated
- * keys.
+ * Append query params to a URL. Keys are converted from camelCase to snake_case (TMDB's wire format).
+ *
+ * Arrays are **comma-joined**, never repeated: TMDB reads lists as one comma-separated value (`append_to_response=credits,images`, `with_genres=28,12` meaning AND). For OR-logic TMDB uses `|`, which callers pass as a single string (`with_genres: "28|12"`).
  */
 export const addParams = (url: URL, params: RequestParams): URL => {
   for (const [key, value] of Object.entries(params)) {
     if (value === null || value === undefined) continue;
-
-    const snakeKey = toSnakeCase(key);
-    if (Array.isArray(value)) {
-      for (const item of value) {
-        url.searchParams.append(snakeKey, String(item));
-      }
-    } else {
-      url.searchParams.set(snakeKey, String(value));
-    }
+    url.searchParams.set(
+      toSnakeCase(key),
+      Array.isArray(value) ? value.join(`,`) : String(value)
+    );
   }
   return url;
 };

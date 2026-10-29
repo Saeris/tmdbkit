@@ -33,7 +33,10 @@ Each phase ends with `vp check` + `vp test` green and a commit.
 - Done before this plan (Qwen): scaffold; request layer port; 13 entities; 10 ops (search ×4, movie, tv/season/episode, person, configuration); echo-style specs.
 - Audit of that state: `../mediameta/docs/03-tmdb-api.md` §6.
 - Qwen's formatting-only working-tree churn is stashed (`stash@{0}`), not discarded.
-- **Next:** Phase 0, then Phase 1. Phase 2 needs a TMDB token.
+- **Phase 0 done** (`7f0789d`): plan, AGENTS.md, release setup, private test-utils package, `vp run build` works.
+- **Phase 1 done:** session rebuilt (concurrent limiter, 429/5xx/network retries, `AbortSignal` throughout, api key never in the caller's URL or error messages), arrays comma-joined, `toValidated` forwards options, `base` URL override dropped (unused, not in discordkit). 72 specs, all network mocking through msw; mutation-checked (4/5 caught, the 5th is an equivalent mutation). MockUtils records each received request, and the `getMovie` spec shows the pattern.
+- The 9 other op specs still only echo; Phase 3 rewrites every op and its spec.
+- **Next:** Phase 2 needs a TMDB token (`TMDB_API_TOKEN` in a git-ignored `.env`).
 
 ## Risks and open questions
 

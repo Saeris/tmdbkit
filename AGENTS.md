@@ -58,6 +58,8 @@ A type-safe TMDB v3 client (`packages/tmdbkit`, published as `@saeris/tmdbkit`).
 - **Reference implementation: `../discordkit`** (`packages/core/src/requests/`, `packages/client/src/`, `packages/test-utils/`). New code follows its patterns unless `docs/plan.md` records a deliberate difference. `../valimock` is the reference for packaging, README and release setup.
 - **TMDB facts come from TMDB, not memory.** Field names: `docs/openapi/tmdb-api-v3.json`. Nullability: recorded responses in `fixtures/`. Limits/auth: developer.themoviedb.org, linked with a `verified YYYY-MM-DD` date. If you can't verify something, say so in the JSDoc.
 - Never commit API tokens. `TMDB_API_TOKEN` lives in a git-ignored `.env`.
+- **Never mock `fetch`.** Network responses in tests come from Mock Service Worker (`msw`, `setupServer`): handlers record the `request` they receive so specs can assert what was sent. With fake timers, fake only `setTimeout`/`clearTimeout`/`Date` so msw keeps running.
+- **One mocked route per spec file.** msw serves the most recently registered handler, and every `describe` registers its handlers when the file is collected; two `describe`s mocking the same route silently share the later one.
 
 ## Commits
 

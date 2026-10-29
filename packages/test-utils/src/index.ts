@@ -75,16 +75,24 @@ type CustomMock = (
   options?: ValimockOptions
 ) => unknown;
 
+/**
+ * Every request the mocked handler received, in order. Specs assert on it so they check what was actually sent (path, query, auth) rather than only that the mocked response came back.
+ */
+interface RecordedRequests {
+  requests: Request[];
+}
+
 type CreateMockReturn<
   TConfig extends Schema | null,
   TResult extends Schema | null
-> = TConfig extends Schema
-  ? TResult extends Schema
-    ? { config: InferOutput<TConfig>; expected: InferOutput<TResult> }
-    : { config: InferOutput<TConfig>; expected: null }
-  : TResult extends Schema
-    ? { config: null; expected: InferOutput<TResult> }
-    : { config: null; expected: null };
+> = RecordedRequests &
+  (TConfig extends Schema
+    ? TResult extends Schema
+      ? { config: InferOutput<TConfig>; expected: InferOutput<TResult> }
+      : { config: InferOutput<TConfig>; expected: null }
+    : TResult extends Schema
+      ? { config: null; expected: InferOutput<TResult> }
+      : { config: null; expected: null });
 
 /**
  * A test harness that pairs an msw request interceptor with Valimock schema
@@ -212,12 +220,14 @@ export class MockUtils {
       // producing flakes on any spec with `exact_optional` fields.
       // oxlint-disable-next-line typescript/no-unsafe-assignment
       const expected = result === undefined ? mocked : JSON.parse(result);
+      const requests: Request[] = [];
 
       try {
         this.#msw.use(
           http[type](
             new URL(path.replace(/^\//, ``), this.#session.endpoint).href,
-            () => {
+            ({ request }) => {
+              requests.push(request.clone());
               try {
                 const response = new Response(result ?? null, {
                   status: typeof result === `undefined` ? 204 : undefined,
@@ -236,9 +246,9 @@ export class MockUtils {
         throw new Error(`Failed to mock request!`, { cause: err });
       }
 
-      const returnValue = { config, expected };
+      const returnValue = { config, expected, requests };
       // oxlint-disable-next-line typescript/no-unsafe-type-assertion
-      return returnValue as CreateMockReturn<TConfig, TResult>;
+      return returnValue as unknown as CreateMockReturn<TConfig, TResult>;
     };
   }
 
