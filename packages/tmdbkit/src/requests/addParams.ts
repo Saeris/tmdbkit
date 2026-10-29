@@ -1,8 +1,7 @@
 import { toSnakeCase } from "../utils/toSnakeCase.js";
 
 type ParamValue =
-  | number[]
-  | string[]
+  | Array<number | string>
   | boolean
   | number
   | string

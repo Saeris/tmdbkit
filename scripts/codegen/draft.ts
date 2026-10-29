@@ -84,6 +84,8 @@ const render = (path: string, depth: number): string => {
       : [`object`];
   const nullable = kinds.includes(`null`);
   const solid = kinds.filter((k) => k !== `null`);
+  // Only ever null: no evidence of the real type, so say so instead of letting a vacuous `[].every(…)` below pick one.
+  if (solid.length === 0) return `v.null() /* only ever null: type unknown */`;
   let schema: string;
   let note = ``;
   if (solid.some((k) => k === `object`)) {

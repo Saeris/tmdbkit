@@ -1,5 +1,5 @@
 {
-  "recordedAt": "2026-10-29T01:08:58.680Z",
+  "recordedAt": "2026-10-29T01:42:20.273Z",
   "language": "en-US (TMDB default)",
   "entries": [
     {
@@ -2250,6 +2250,28 @@
       },
       "status": 200,
       "file": "find/tvdb-gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "find",
+      "label": "imdb-bradPitt",
+      "path": "find/nm0000093",
+      "query": {
+        "external_source": "imdb_id"
+      },
+      "status": 200,
+      "file": "find/imdb-bradPitt.json",
+      "truncated": []
+    },
+    {
+      "operation": "find",
+      "label": "tvdb-gameOfThrones1",
+      "path": "find/364731",
+      "query": {
+        "external_source": "tvdb_id"
+      },
+      "status": 200,
+      "file": "find/tvdb-gameOfThrones1.json",
       "truncated": []
     },
     {

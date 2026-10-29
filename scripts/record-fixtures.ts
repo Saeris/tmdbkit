@@ -500,6 +500,13 @@ await record(`find`, `imdb-starWars`, `find/tt0076759`, {
 await record(`find`, `tvdb-gameOfThrones`, `find/121361`, {
   external_source: `tvdb_id`
 });
+// So `person_results` and `tv_season_results` are evidence too, not only ever `[]`.
+await record(`find`, `imdb-bradPitt`, `find/nm0000093`, {
+  external_source: `imdb_id`
+});
+await record(`find`, `tvdb-gameOfThrones1`, `find/364731`, {
+  external_source: `tvdb_id`
+});
 for (const kind of [`all`, `movie`, `tv`, `person`]) {
   await record(`trending-${kind}`, `day`, `trending/${kind}/day`);
 }

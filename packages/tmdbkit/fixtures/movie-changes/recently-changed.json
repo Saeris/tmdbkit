@@ -1,6 +1,21 @@
 {
   "changes": [
     {
+      "key": "general",
+      "items": [
+        {
+          "id": "6ae13d108135fac3ae382516",
+          "action": "destroyed",
+          "time": "2026-10-28 00:08:48 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "reason": "2"
+          }
+        }
+      ]
+    },
+    {
       "key": "crew",
       "items": [
         {
@@ -63,21 +78,6 @@
           "iso_3166_1": "",
           "value": "Canceled",
           "original_value": "Planned"
-        }
-      ]
-    },
-    {
-      "key": "general",
-      "items": [
-        {
-          "id": "6ae13d108135fac3ae382516",
-          "action": "destroyed",
-          "time": "2026-10-28 00:08:48 UTC",
-          "iso_639_1": "",
-          "iso_3166_1": "",
-          "value": {
-            "reason": "2"
-          }
         }
       ]
     }

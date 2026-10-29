@@ -1,0 +1,20 @@
+{
+  "movie_results": [],
+  "person_results": [],
+  "tv_results": [],
+  "tv_episode_results": [],
+  "tv_season_results": [
+    {
+      "id": 3624,
+      "name": "Season 1",
+      "overview": "Trouble is brewing in the Seven Kingdoms of Westeros. For the driven inhabitants of this visionary world, control of Westeros' Iron Throne holds the lure of great power. But in a land where the seasons can last a lifetime, winter is coming...and beyond the Great Wall that protects them, an ancient evil has returned. In Season One, the story centers on three primary areas: the Stark and the Lannister families, whose designs on controlling the throne threaten a tenuous peace; the dragon princess Daenerys, heir to the former dynasty, who waits just over the Narrow Sea with her malevolent brother Viserys; and the Great Wall--a massive barrier of ice where a forgotten danger is stirring.",
+      "poster_path": "/wgfKiqzuMrFIkU1M68DDDY8kGC1.jpg",
+      "media_type": "tv_season",
+      "vote_average": 8.4,
+      "air_date": "2011-04-17",
+      "season_number": 1,
+      "show_id": 1399,
+      "episode_count": 10
+    }
+  ]
+}

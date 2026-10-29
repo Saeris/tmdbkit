@@ -35,9 +35,9 @@ Each phase ends with `vp check` + `vp test` green and a commit.
 - Qwen's formatting-only working-tree churn is stashed (`stash@{0}`), not discarded.
 - **Phase 0 done** (`7f0789d`): plan, AGENTS.md, release setup, private test-utils package, `vp run build` works.
 - **Phase 1 done:** session rebuilt (concurrent limiter, 429/5xx/network retries, `AbortSignal` throughout, api key never in the caller's URL or error messages), arrays comma-joined, `toValidated` forwards options, `base` URL override dropped (unused, not in discordkit). 72 specs, all network mocking through msw; mutation-checked (4/5 caught, the 5th is an equivalent mutation). MockUtils records each received request, and the `getMovie` spec shows the pattern.
-- The 9 other op specs still only echo; Phase 3 rewrites every op and its spec.
-- **Phase 2 done:** `yarn fixtures:record` stored 231 real responses (114 operations, recorded 2026-10-28 with a v3 key) in `packages/tmdbkit/fixtures/`, with `manifest.json` and `shapes.json`, the per-field evidence (kinds seen, how often absent). Arrays are capped at 20 items. Subjects mix rich titles with sparse ones found by ascending popularity.
-- **Next:** Phase 3, the read endpoints.
+- **Phase 2 done:** `yarn fixtures:record` stores 233 real responses (114 operations, re-recorded 2026-10-28 with a v3 key) in `packages/tmdbkit/fixtures/`, with `manifest.json` and `shapes.json`, the per-field evidence (kinds seen, how often absent). Arrays are capped at 20 items. Subjects mix rich titles with sparse ones found by ascending popularity.
+- **Phase 3 done:** all 116 read operations (Qwen's 10 rebuilt among them), 410 specs. Every spec checks the request sent and that every recorded fixture passes the response schema; a full re-record changed no outcome. Where evidence and the obvious shape disagreed, the schema follows the evidence and its JSDoc says so with the date (list `posterPath` a number, episode details without `showId`, season `_id` arriving as `Id`, …).
+- **Next:** Phase 4, the 27 session-scoped operations (auth, account, lists, ratings, guest sessions, account states).
 
 ## Phase 3 conventions
 

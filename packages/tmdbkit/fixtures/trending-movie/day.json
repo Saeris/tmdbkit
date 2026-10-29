@@ -16,12 +16,12 @@
         53,
         18
       ],
-      "popularity": 138.1498,
+      "popularity": 179.6426,
       "release_date": "2026-09-30",
       "softcore": false,
       "video": false,
-      "vote_average": 6.343,
-      "vote_count": 281
+      "vote_average": 6.342,
+      "vote_count": 285
     },
     {
       "adult": false,
@@ -37,12 +37,55 @@
         10749,
         53
       ],
-      "popularity": 15.225,
+      "popularity": 204.0101,
       "release_date": "2026-10-27",
       "softcore": false,
       "video": false,
-      "vote_average": 7.393,
-      "vote_count": 14
+      "vote_average": 7.469,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5V3eWbnYwbgnWsRFFYw9EvMhvEn.jpg",
+      "id": 1727734,
+      "title": "Ali G: Who Iz I?",
+      "original_title": "Ali G: Who Iz I?",
+      "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+      "poster_path": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        35
+      ],
+      "popularity": 71.8228,
+      "release_date": "2026-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+      "id": 1384216,
+      "title": "The Dog Stars",
+      "original_title": "The Dog Stars",
+      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "poster_path": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        878,
+        10751
+      ],
+      "popularity": 168.3803,
+      "release_date": "2026-08-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.808,
+      "vote_count": 463
     },
     {
       "adult": false,
@@ -61,55 +104,12 @@
         35,
         10751
       ],
-      "popularity": 104.3815,
+      "popularity": 115.6275,
       "release_date": "2026-09-10",
       "softcore": false,
       "video": false,
       "vote_average": 7.5,
-      "vote_count": 110
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-      "id": 1384216,
-      "title": "The Dog Stars",
-      "original_title": "The Dog Stars",
-      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "poster_path": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "media_type": "movie",
-      "original_language": "en",
-      "genre_ids": [
-        28,
-        53,
-        878,
-        10751
-      ],
-      "popularity": 155.6076,
-      "release_date": "2026-08-26",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.779,
-      "vote_count": 454
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5V3eWbnYwbgnWsRFFYw9EvMhvEn.jpg",
-      "id": 1727734,
-      "title": "Ali G: Who Iz I?",
-      "original_title": "Ali G: Who Iz I?",
-      "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
-      "poster_path": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-      "media_type": "movie",
-      "original_language": "en",
-      "genre_ids": [
-        35
-      ],
-      "popularity": 14.1893,
-      "release_date": "2026-10-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 16
+      "vote_count": 111
     },
     {
       "adult": false,
@@ -126,12 +126,12 @@
         53,
         878
       ],
-      "popularity": 251.5349,
+      "popularity": 231.682,
       "release_date": "2026-10-19",
       "softcore": false,
       "video": false,
-      "vote_average": 7.458,
-      "vote_count": 252
+      "vote_average": 7.457,
+      "vote_count": 256
     },
     {
       "adult": false,
@@ -148,33 +148,12 @@
         12,
         14
       ],
-      "popularity": 154.7558,
+      "popularity": 152.4449,
       "release_date": "2026-10-19",
       "softcore": false,
       "video": false,
       "vote_average": 8.6,
       "vote_count": 96
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-      "id": 1170608,
-      "title": "Dune: Part Three",
-      "original_title": "Dune: Part Three",
-      "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-      "poster_path": "/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
-      "media_type": "movie",
-      "original_language": "en",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "popularity": 47.9783,
-      "release_date": "2026-12-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
     },
     {
       "adult": false,
@@ -190,12 +169,33 @@
         28,
         35
       ],
-      "popularity": 98.0219,
+      "popularity": 98.7576,
       "release_date": "2026-09-07",
       "softcore": false,
       "video": false,
       "vote_average": 8.339,
       "vote_count": 746
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+      "id": 1170608,
+      "title": "Dune: Part Three",
+      "original_title": "Dune: Part Three",
+      "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+      "poster_path": "/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "popularity": 54.6298,
+      "release_date": "2026-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
       "adult": false,
@@ -211,34 +211,33 @@
         18,
         10749
       ],
-      "popularity": 86.2164,
+      "popularity": 92.5104,
       "release_date": "2026-09-23",
       "softcore": false,
       "video": false,
-      "vote_average": 7.393,
-      "vote_count": 89
+      "vote_average": 7.378,
+      "vote_count": 90
     },
     {
       "adult": false,
-      "backdrop_path": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-      "id": 1003596,
-      "title": "Avengers: Doomsday",
-      "original_title": "Avengers: Doomsday",
-      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-      "poster_path": "/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+      "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "id": 1339713,
+      "title": "Obsession",
+      "original_title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "media_type": "movie",
       "original_language": "en",
       "genre_ids": [
-        878,
-        28,
-        12
+        27,
+        53
       ],
-      "popularity": 98.0508,
-      "release_date": "2026-12-16",
+      "popularity": 99.6614,
+      "release_date": "2026-05-13",
       "softcore": false,
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_average": 8.2,
+      "vote_count": 6389
     },
     {
       "adult": false,
@@ -255,12 +254,99 @@
         28,
         12
       ],
-      "popularity": 21.2564,
+      "popularity": 27.9479,
       "release_date": "2026-11-18",
       "softcore": false,
       "video": false,
       "vote_average": 0,
       "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "id": 1003596,
+      "title": "Avengers: Doomsday",
+      "original_title": "Avengers: Doomsday",
+      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+      "poster_path": "/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "popularity": 97.1252,
+      "release_date": "2026-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "id": 1058424,
+      "title": "Hope",
+      "original_title": "호프",
+      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+      "media_type": "movie",
+      "original_language": "ko",
+      "genre_ids": [
+        878,
+        9648,
+        28
+      ],
+      "popularity": 509.9983,
+      "release_date": "2026-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 379
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+      "id": 1562777,
+      "title": "The Stunt Driver",
+      "original_title": "The Stunt Driver",
+      "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+      "poster_path": "/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        18,
+        36
+      ],
+      "popularity": 20.0694,
+      "release_date": "2026-09-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.75,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "id": 1422041,
+      "title": "LA BOLA NEGRA",
+      "original_title": "La bola negra",
+      "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+      "poster_path": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+      "media_type": "movie",
+      "original_language": "es",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "popularity": 66.2126,
+      "release_date": "2026-09-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 133
     },
     {
       "adult": false,
@@ -277,7 +363,7 @@
         14,
         35
       ],
-      "popularity": 68.1485,
+      "popularity": 71.3542,
       "release_date": "2026-10-21",
       "softcore": false,
       "video": false,
@@ -299,99 +385,35 @@
         27,
         53
       ],
-      "popularity": 76.6231,
+      "popularity": 93.891,
       "release_date": "2026-09-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.768,
-      "vote_count": 56
+      "vote_average": 6.754,
+      "vote_count": 57
     },
     {
       "adult": false,
-      "backdrop_path": "/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
-      "id": 1562777,
-      "title": "The Stunt Driver",
-      "original_title": "The Stunt Driver",
-      "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
-      "poster_path": "/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+      "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "original_title": "Toy Story 5",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "media_type": "movie",
       "original_language": "en",
       "genre_ids": [
+        16,
+        10751,
         35,
-        18,
-        36
+        12
       ],
-      "popularity": 14.0477,
-      "release_date": "2026-09-25",
+      "popularity": 101.3406,
+      "release_date": "2026-06-17",
       "softcore": false,
       "video": false,
-      "vote_average": 8.75,
-      "vote_count": 4
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-      "id": 1368337,
-      "title": "The Odyssey",
-      "original_title": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "media_type": "movie",
-      "original_language": "en",
-      "genre_ids": [
-        12,
-        28,
-        14
-      ],
-      "popularity": 227.7843,
-      "release_date": "2026-07-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8,
-      "vote_count": 4290
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "id": 1058424,
-      "title": "Hope",
-      "original_title": "호프",
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "media_type": "movie",
-      "original_language": "ko",
-      "genre_ids": [
-        878,
-        9648,
-        28
-      ],
-      "popularity": 526.0192,
-      "release_date": "2026-07-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.772,
-      "vote_count": 377
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "id": 1339713,
-      "title": "Obsession",
-      "original_title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "media_type": "movie",
-      "original_language": "en",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "popularity": 102.6005,
-      "release_date": "2026-05-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.2,
-      "vote_count": 6389
+      "vote_average": 8.279,
+      "vote_count": 2750
     },
     {
       "adult": false,
@@ -408,34 +430,12 @@
         28,
         12
       ],
-      "popularity": 472.7845,
+      "popularity": 444.3082,
       "release_date": "2026-07-29",
       "softcore": false,
       "video": false,
       "vote_average": 8.476,
-      "vote_count": 6276
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "id": 1381071,
-      "title": "Godzilla Minus Zero",
-      "original_title": "ゴジラ-0.0",
-      "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-      "media_type": "movie",
-      "original_language": "ja",
-      "genre_ids": [
-        878,
-        27,
-        28
-      ],
-      "popularity": 21.0126,
-      "release_date": "2026-11-03",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_count": 6279
     }
   ],
   "total_pages": 500,
