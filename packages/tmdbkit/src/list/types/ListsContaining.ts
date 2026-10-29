@@ -12,8 +12,8 @@ const _listSummarySchema = v.object({
   itemCount: integer,
   iso_639_1: v.string(),
   iso_3166_1: v.string(),
-  /** `movie` or `tv`. */
-  listType: v.string(),
+  /** `movie` or `tv`. Present on a movie's lists, absent from a TV series' (2026-10-28). */
+  listType: v.exactOptional(v.string()),
   posterPath: v.nullable(v.string())
 });
 
