@@ -37,7 +37,8 @@ Each phase ends with `vp check` + `vp test` green and a commit.
 - **Phase 1 done:** session rebuilt (concurrent limiter, 429/5xx/network retries, `AbortSignal` throughout, api key never in the caller's URL or error messages), arrays comma-joined, `toValidated` forwards options, `base` URL override dropped (unused, not in discordkit). 72 specs, all network mocking through msw; mutation-checked (4/5 caught, the 5th is an equivalent mutation). MockUtils records each received request, and the `getMovie` spec shows the pattern.
 - **Phase 2 done:** `yarn fixtures:record` stores 233 real responses (114 operations, re-recorded 2026-10-28 with a v3 key) in `packages/tmdbkit/fixtures/`, with `manifest.json` and `shapes.json`, the per-field evidence (kinds seen, how often absent). Arrays are capped at 20 items. Subjects mix rich titles with sparse ones found by ascending popularity.
 - **Phase 3 done:** all 116 read operations (Qwen's 10 rebuilt among them), 410 specs. Every spec checks the request sent and that every recorded fixture passes the response schema; a full re-record changed no outcome. Where evidence and the obvious shape disagreed, the schema follows the evidence and its JSDoc says so with the date (list `posterPath` a number, episode details without `showId`, season `_id` arriving as `Id`, …).
-- **Next:** Phase 4, the 27 session-scoped operations (auth, account, lists, ratings, guest sessions, account states).
+- **Phase 5 done:** `imageUrl(filePath, size?, base?)` with the recorded host and per-kind size lists (a spec fails if a re-recording disagrees); a `null` path gives `null`.
+- **Next:** Phase 4 (27 session-scoped operations) needs the owner: recording them means approving a TMDB session in a browser, and the write endpoints change a real account. Phase 6 (publish) can proceed meanwhile.
 
 ## Phase 3 conventions
 
