@@ -239,7 +239,11 @@ const specFile = (op: Operation): string => {
     ...(op.fixture ? [`import * as v from "valibot";`] : []),
     `import { describe, it, expect } from "vite-plus/test";`,
     `import { mockUtils } from "#mocks";`,
-    `import { ${[...(op.fixture ? [`fixtures`] : []), ...(hasInput ? [`expectedQuery`] : [])].join(`, `) || `expectedQuery`} } from "#fixtures";`,
+    ...(op.fixture || hasInput
+      ? [
+          `import { ${[...(op.fixture ? [`fixtures`] : []), ...(hasInput ? [`expectedQuery`] : [])].join(`, `)} } from "#fixtures";`
+        ]
+      : []),
     `import { toValidated } from "../../requests/toValidated.js";`,
     `import { ${op.name}${hasInput ? `, ${op.name}Schema` : ``} } from "../${op.name}.js";`,
     `import { ${schemaName} } from "${schemaImport}";`,
