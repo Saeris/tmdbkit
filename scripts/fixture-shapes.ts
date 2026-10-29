@@ -3,9 +3,10 @@
  *
  * Run: `yarn fixtures:shapes` (`yarn fixtures:record` runs it too).
  */
-import { readFileSync, writeFileSync } from "node:fs";
+import { writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
+import manifestJson from "../packages/tmdbkit/fixtures/manifest.json" with { type: "json" };
 
 type Json = null | boolean | number | string | Json[] | { [key: string]: Json };
 type Kind =
@@ -34,9 +35,7 @@ const root = join(
   `tmdbkit`,
   `fixtures`
 );
-const manifest = JSON.parse(
-  readFileSync(join(root, `manifest.json`), `utf8`)
-) as {
+const manifest = manifestJson as {
   entries: Array<{ operation: string; file: string; status: number }>;
 };
 
@@ -86,7 +85,10 @@ for (const { operation, file, status } of manifest.entries) {
         visit(child, path ? `${path}.${key}` : key);
     }
   };
-  visit(JSON.parse(readFileSync(join(root, file), `utf8`)) as Json, ``);
+  const sample = (await import(pathToFileURL(join(root, file)).href, {
+    with: { type: `json` }
+  })) as { default: Json };
+  visit(sample.default, ``);
 }
 
 // Presence, once every key is known: in each sample, a key is missing from each object at its parent path that didn't hold it. An empty array has no objects, so it can't make its items' keys look optional.

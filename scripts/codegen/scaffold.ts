@@ -5,15 +5,10 @@
  *
  * Input rules (docs/plan.md, Phase 3 conventions): path params are top-level (`tmdbId` for `*_id` integers, `ordinal` for season/episode numbers, encoded strings otherwise); required query params are top-level too, the rest go under `params`; dotted range params group into `{ gte, lte }`; AND/OR list params take an array (comma = AND) or a `|`-joined string (OR); `appendToResponse` is a picklist array of at most 20.
  */
-import {
-  existsSync,
-  mkdirSync,
-  readFileSync,
-  readdirSync,
-  writeFileSync
-} from "node:fs";
+import { existsSync, mkdirSync, readdirSync, writeFileSync } from "node:fs";
 import { dirname, join, posix } from "node:path";
 import { fileURLToPath } from "node:url";
+import specJson from "../../docs/openapi/tmdb-api-v3.json" with { type: "json" };
 import { operations, type Operation } from "./operations.ts";
 
 interface Param {
@@ -26,9 +21,7 @@ interface Param {
 
 const repo = join(dirname(fileURLToPath(import.meta.url)), `..`, `..`);
 const src = join(repo, `packages`, `tmdbkit`, `src`);
-const spec = JSON.parse(
-  readFileSync(join(repo, `docs`, `openapi`, `tmdb-api-v3.json`), `utf8`)
-) as {
+const spec = specJson as unknown as {
   paths: Record<string, { get: { parameters?: Param[] } }>;
 };
 

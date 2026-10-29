@@ -3,6 +3,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { toCamelKeys } from "../utils/toCamelKeys.js";
 import { toSnakeCase } from "../utils/toSnakeCase.js";
+import manifestJson from "../../fixtures/manifest.json" with { type: "json" };
 
 const root = join(
   dirname(fileURLToPath(import.meta.url)),
@@ -18,11 +19,7 @@ interface ManifestEntry {
   file: string;
 }
 
-const manifest = (
-  JSON.parse(readFileSync(join(root, `manifest.json`), `utf8`)) as {
-    entries: ManifestEntry[];
-  }
-).entries;
+const manifest = (manifestJson as { entries: ManifestEntry[] }).entries;
 
 /**
  * Every successful response recorded for a fixture operation (see `scripts/record-fixtures.ts`), camelCased the way tmdbkit's request layer delivers them. Throws when there are none, so a spec can't silently check nothing.

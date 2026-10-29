@@ -5,26 +5,17 @@
  *
  * Mapping: a kind set containing `null` → `v.nullable(…)`; a key ever absent → `v.exactOptional(…)`; integer-only numbers → `v.number()` with a `// integer` note; `""` alongside strings stays `v.string()` (noted, since TMDB uses `""` for "unknown"); keys that are ISO 3166-1 country codes collapse into `v.record(v.string(), …)`.
  */
-import { readFileSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import shapesJson from "../../packages/tmdbkit/fixtures/shapes.json" with { type: "json" };
 
 interface FieldShape {
   kinds: string[];
   missing?: string;
 }
 
-const root = join(
-  dirname(fileURLToPath(import.meta.url)),
-  `..`,
-  `..`,
-  `packages`,
-  `tmdbkit`,
-  `fixtures`
-);
-const shapes = JSON.parse(
-  readFileSync(join(root, `shapes.json`), `utf8`)
-) as Record<string, { samples: number; fields: Record<string, FieldShape> }>;
+const shapes = shapesJson as Record<
+  string,
+  { samples: number; fields: Record<string, FieldShape> }
+>;
 
 const [operation, base = ``] = process.argv.slice(2);
 const op = operation ? shapes[operation] : undefined;

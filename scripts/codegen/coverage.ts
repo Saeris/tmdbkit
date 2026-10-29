@@ -3,15 +3,10 @@
  *
  * Run: `node scripts/codegen/coverage.ts > coverage.md`, then replace what sits between the coverage markers in `packages/tmdbkit/README.md` with the output (minus its first, summary line).
  */
-import { readFileSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import specJson from "../../docs/openapi/tmdb-api-v3.json" with { type: "json" };
 import { operations } from "./operations.ts";
 
-const repo = join(dirname(fileURLToPath(import.meta.url)), `..`, `..`);
-const spec = JSON.parse(
-  readFileSync(join(repo, `docs`, `openapi`, `tmdb-api-v3.json`), `utf8`)
-) as {
+const spec = specJson as {
   paths: Record<
     string,
     Record<string, { operationId: string; summary?: string }>

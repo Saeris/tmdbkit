@@ -1,8 +1,4 @@
-import { readFileSync } from "node:fs";
-
-const s = JSON.parse(
-  readFileSync(new URL("./core-schemas.json", import.meta.url), "utf8")
-);
+import s from "./core-schemas.json" with { type: "json" };
 
 const paths = process.argv.slice(2);
 
