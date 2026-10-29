@@ -29,7 +29,7 @@ export default defineConfig({
   }),
   fmt: {
     ...fmt,
-    // Recorded TMDB responses are machine-written evidence (`yarn fixtures:record`); re-recording would undo any formatting, so the formatter leaves them alone.
-    ignorePatterns: [`packages/tmdbkit/fixtures/**`]
+    // Machine-written files the formatter leaves alone: recorded TMDB responses (`yarn fixtures:record`) and the changelogs Bumpy writes on each version PR, since regenerating either would undo any formatting.
+    ignorePatterns: [`packages/tmdbkit/fixtures/**`, `**/CHANGELOG.md`]
   }
 });
