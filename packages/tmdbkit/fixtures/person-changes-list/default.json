@@ -1,0 +1,107 @@
+{
+  "results": [
+    {
+      "id": 2174260,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 278402,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 2180764,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 2411554,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 4874199,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 6580805,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 12114,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 6579964,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 224629,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 5062624,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 5380859,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 5062625,
+      "adult": null,
+      "softcore": null
+    },
+    {
+      "id": 5062626,
+      "adult": null,
+      "softcore": null
+    },
+    {
+      "id": 1733771,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 6580806,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 3686820,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 93308,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 1841023,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 6580807,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 6580808,
+      "adult": false,
+      "softcore": false
+    }
+  ],
+  "page": 1,
+  "total_pages": 51,
+  "total_results": 5060
+}

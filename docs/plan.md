@@ -36,10 +36,20 @@ Each phase ends with `vp check` + `vp test` green and a commit.
 - **Phase 0 done** (`7f0789d`): plan, AGENTS.md, release setup, private test-utils package, `vp run build` works.
 - **Phase 1 done:** session rebuilt (concurrent limiter, 429/5xx/network retries, `AbortSignal` throughout, api key never in the caller's URL or error messages), arrays comma-joined, `toValidated` forwards options, `base` URL override dropped (unused, not in discordkit). 72 specs, all network mocking through msw; mutation-checked (4/5 caught, the 5th is an equivalent mutation). MockUtils records each received request, and the `getMovie` spec shows the pattern.
 - The 9 other op specs still only echo; Phase 3 rewrites every op and its spec.
-- **Next:** Phase 2 needs a TMDB token (`TMDB_API_TOKEN` in a git-ignored `.env`).
+- **Phase 2 done:** `yarn fixtures:record` stored 231 real responses (114 operations, recorded 2026-10-28 with a v3 key) in `packages/tmdbkit/fixtures/`, with `manifest.json` and `shapes.json`, the per-field evidence (kinds seen, how often absent). Arrays are capped at 20 items. Subjects mix rich titles with sparse ones found by ascending popularity.
+- **Next:** Phase 3, the read endpoints.
+
+## What the fixtures established (2026-10-28)
+
+Schema authors: read `fixtures/shapes.json` for the operation, and also check the field name across operations, since four samples can't show every `null`.
+
+- **Appended payloads equal the standalone response minus its `id`**, byte for byte (`movie-details/starWars-appended` vs `movie-credits/starWars`). So the type of an appended key is `Omit<StandaloneResponse, "id">`, exact-optional on the details schema. The watch-providers key is literally `"watch/providers"`, and camel-casing leaves it as is.
+- **TMDB uses `""` and `null` per field, not by rule.** `""` for unknown `release_date`, `first_air_date`, `overview`, `tagline`, `biography`; `null` for `air_date`, `birthday`, `deathday`, `imdb_id` and most external ids, `runtime`; both for `homepage`, `tiktok_id`, `youtube_id` and ISO codes. Image `*_path` fields are nullable (`file_path` inside image lists is not).
+- **The spec misses fields** (`softcore` on movies) and **mislabels operation ids** (`details-copy`, `lists-copy`, `translations`), so op names come from the path, not the `operationId`.
+- `episode_run_time` was always `[]`, and `origin_country` is an array on most entities but a string on some.
 
 ## Risks and open questions
 
-- **No token yet.** Phase 2–3 nullability depends on recorded responses. Without them, schemas would be guessed, which D-015 in mediameta forbids.
+- **Evidence is samples, not proof.** A field never seen `null` may still be nullable; when the field name is nullable elsewhere (e.g. `logo_path`), treat it as nullable. Re-record before a release to catch drift.
 - **The spec lags the API.** Fixtures are the arbiter; spec-vs-fixture differences get noted in the op's JSDoc.
-- **Adult content in fixtures.** Pick ids so committed fixtures stay SFW.
+- **Adult content in fixtures.** Subjects are hand-picked and SFW; `latest` endpoints aren't recorded for that reason.

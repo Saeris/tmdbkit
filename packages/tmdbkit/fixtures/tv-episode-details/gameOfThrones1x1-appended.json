@@ -1,0 +1,1345 @@
+{
+  "id": 63056,
+  "air_date": "2011-04-17",
+  "crew": [
+    {
+      "department": "Directing",
+      "job": "Director",
+      "credit_id": "5256c8a219c2956ff6046e77",
+      "adult": false,
+      "gender": 2,
+      "id": 44797,
+      "known_for_department": "Directing",
+      "name": "Tim Van Patten",
+      "original_name": "Tim Van Patten",
+      "popularity": 1.8322,
+      "profile_path": "/vwcARZBg4PEzOwnPsXdjRWeUVrZ.jpg"
+    },
+    {
+      "job": "Writer",
+      "department": "Writing",
+      "credit_id": "5256c8a219c2956ff6046e4b",
+      "adult": false,
+      "gender": 2,
+      "id": 228068,
+      "known_for_department": "Writing",
+      "name": "D. B. Weiss",
+      "original_name": "D. B. Weiss",
+      "popularity": 1.0296,
+      "profile_path": "/6Wt006TIQoDSSnl0YaKihfn3w7K.jpg"
+    },
+    {
+      "job": "Writer",
+      "department": "Writing",
+      "credit_id": "5256c8a019c2956ff6046e2b",
+      "adult": false,
+      "gender": 2,
+      "id": 9813,
+      "known_for_department": "Writing",
+      "name": "David Benioff",
+      "original_name": "David Benioff",
+      "popularity": 2.247,
+      "profile_path": "/xvNN5huL0X8yJ7h3IZfGG4O2zBD.jpg"
+    },
+    {
+      "job": "Editor",
+      "department": "Editing",
+      "credit_id": "54eef2ab925141795f005d4f",
+      "adult": false,
+      "gender": 2,
+      "id": 18077,
+      "known_for_department": "Editing",
+      "name": "Oral Norrie Ottey",
+      "original_name": "Oral Norrie Ottey",
+      "popularity": 0.5206,
+      "profile_path": null
+    },
+    {
+      "job": "Director of Photography",
+      "department": "Camera",
+      "credit_id": "54eef2429251417974005cb6",
+      "adult": false,
+      "gender": 2,
+      "id": 1318704,
+      "known_for_department": "Directing",
+      "name": "Alik Sakharov",
+      "original_name": "Алик Сахаров",
+      "popularity": 1.6863,
+      "profile_path": "/nsawlXcvphwnzz66ULKwMl9sKUx.jpg"
+    }
+  ],
+  "episode_number": 1,
+  "episode_type": "standard",
+  "guest_stars": [
+    {
+      "character": "Benjen Stark",
+      "credit_id": "5256c8b919c2956ff604836a",
+      "order": 61,
+      "adult": false,
+      "gender": 2,
+      "id": 119783,
+      "known_for_department": "Acting",
+      "name": "Joseph Mawle",
+      "original_name": "Joseph Mawle",
+      "popularity": 1.0622,
+      "profile_path": "/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg"
+    },
+    {
+      "character": "Rickon Stark",
+      "credit_id": "566a83bcc3a3683f56003604",
+      "order": 80,
+      "adult": false,
+      "gender": 2,
+      "id": 1050248,
+      "known_for_department": "Acting",
+      "name": "Art Parkinson",
+      "original_name": "Art Parkinson",
+      "popularity": 1.9446,
+      "profile_path": "/ejAKOJME1DsvHECLWdQ7dEtXyyc.jpg"
+    },
+    {
+      "character": "Hodor",
+      "credit_id": "5256c8be19c2956ff6048446",
+      "order": 81,
+      "adult": false,
+      "gender": 2,
+      "id": 1223792,
+      "known_for_department": "Acting",
+      "name": "Kristian Nairn",
+      "original_name": "Kristian Nairn",
+      "popularity": 1.4366,
+      "profile_path": "/dlbq6cCW0xdpFY15q6flP6lDXWV.jpg"
+    },
+    {
+      "character": "Will",
+      "credit_id": "6176291c924ce50044219a23",
+      "order": 808,
+      "adult": false,
+      "gender": 2,
+      "id": 75076,
+      "known_for_department": "Acting",
+      "name": "Bronson Webb",
+      "original_name": "Bronson Webb",
+      "popularity": 1.4569,
+      "profile_path": "/foMvmr6ch16GGM1L413KA9UQKIO.jpg"
+    },
+    {
+      "character": "Jon Arryn",
+      "credit_id": "6176293a172d7f009254e782",
+      "order": 809,
+      "adult": false,
+      "gender": 2,
+      "id": 11282,
+      "known_for_department": "Acting",
+      "name": "John Standing",
+      "original_name": "John Standing",
+      "popularity": 1.026,
+      "profile_path": "/hQpTeZDljWR2F9n1PcL7sXilwCE.jpg"
+    },
+    {
+      "character": "Waymar Royce",
+      "credit_id": "61774bcd71f0950042d37204",
+      "order": 810,
+      "adult": false,
+      "gender": 2,
+      "id": 1864916,
+      "known_for_department": "Acting",
+      "name": "Rob Ostlere",
+      "original_name": "Rob Ostlere",
+      "popularity": 0.5622,
+      "profile_path": "/wwsP4vXDWbClGiGOznSR4dJjim2.jpg"
+    },
+    {
+      "character": "Pentoshi Servant",
+      "credit_id": "61774d0965e0a200448c7445",
+      "order": 811,
+      "adult": false,
+      "gender": 1,
+      "id": 1864921,
+      "known_for_department": "Acting",
+      "name": "Rania Zouari",
+      "original_name": "Rania Zouari",
+      "popularity": 0.4821,
+      "profile_path": "/vwV5Dp6rX38FjjgIBRNxPtmn8Ma.jpg"
+    },
+    {
+      "character": "Gared",
+      "credit_id": "57b72bcc925141389d002188",
+      "order": 812,
+      "adult": false,
+      "gender": 2,
+      "id": 191751,
+      "known_for_department": "Acting",
+      "name": "Dermot Keaney",
+      "original_name": "Dermot Keaney",
+      "popularity": 0.6228,
+      "profile_path": "/nvXkSjiw3cgpGRmeKRwQkgdprb5.jpg"
+    },
+    {
+      "character": "White Walker #1",
+      "credit_id": "61774d6fb458b8006a123cd5",
+      "order": 813,
+      "adult": false,
+      "gender": 2,
+      "id": 946696,
+      "known_for_department": "Acting",
+      "name": "Ian Whyte",
+      "original_name": "Ian Whyte",
+      "popularity": 0.8066,
+      "profile_path": "/svlJyDgPbTHoGjbQKU4S2J6g5hi.jpg"
+    },
+    {
+      "character": "White Walker #2",
+      "credit_id": "61774da4e9da69002b9ba63c",
+      "order": 814,
+      "adult": false,
+      "gender": 2,
+      "id": 25451,
+      "known_for_department": "Acting",
+      "name": "Spencer Wilding",
+      "original_name": "Spencer Wilding",
+      "popularity": 0.8579,
+      "profile_path": "/4NMcve4Nckpi653znyYOnoS4Mci.jpg"
+    },
+    {
+      "character": "Wight Wildling Girl",
+      "credit_id": "61774e0ae9da69002b9ba6f5",
+      "order": 815,
+      "adult": false,
+      "gender": 0,
+      "id": 3284663,
+      "known_for_department": "Acting",
+      "name": "Claire Wright",
+      "original_name": "Claire Wright",
+      "popularity": 0.3669,
+      "profile_path": "/rx6NoCpwoYQUy4VzMyYGA0R6k5V.jpg"
+    },
+    {
+      "character": "Jory Cassel",
+      "credit_id": "5752136f9251414c510001a0",
+      "order": 827,
+      "adult": false,
+      "gender": 2,
+      "id": 1833,
+      "known_for_department": "Acting",
+      "name": "Jamie Sives",
+      "original_name": "Jamie Sives",
+      "popularity": 0.969,
+      "profile_path": "/bdEyp4f1VUEepihC6vyqCGP6k2s.jpg"
+    },
+    {
+      "character": "Septa Mordane",
+      "credit_id": "57520bc19251414c470000de",
+      "order": 867,
+      "adult": false,
+      "gender": 1,
+      "id": 438859,
+      "known_for_department": "Acting",
+      "name": "Susan Brown",
+      "original_name": "Susan Brown",
+      "popularity": 1.5017,
+      "profile_path": "/rbi81V4GUsOqjUfLvnoHj4lIAMf.jpg"
+    },
+    {
+      "character": "Illyrio Mopatis",
+      "credit_id": "575216bdc3a36851fe0001d8",
+      "order": 868,
+      "adult": false,
+      "gender": 2,
+      "id": 11279,
+      "known_for_department": "Acting",
+      "name": "Roger Allam",
+      "original_name": "Roger Allam",
+      "popularity": 1.4657,
+      "profile_path": "/hrtVjATnltwatFCOjhtCZTnN2hW.jpg"
+    },
+    {
+      "character": "Qotho",
+      "credit_id": "5752158b9251414c470001c0",
+      "order": 908,
+      "adult": false,
+      "gender": 2,
+      "id": 234907,
+      "known_for_department": "Acting",
+      "name": "Dar Salim",
+      "original_name": "Dar Salim",
+      "popularity": 5.2859,
+      "profile_path": "/mqIH4exzdXXU47ykPohDTAkZ8tN.jpg"
+    },
+    {
+      "character": "Maester Luwin",
+      "credit_id": "5987d310c3a3681e2a014bfe",
+      "order": 931,
+      "adult": false,
+      "gender": 2,
+      "id": 20425,
+      "known_for_department": "Acting",
+      "name": "Donald Sumpter",
+      "original_name": "Donald Sumpter",
+      "popularity": 2.1446,
+      "profile_path": "/jfdH7vojRZ3fRSesLF8K3tZwwtq.jpg"
+    },
+    {
+      "character": "Rodrik Cassel",
+      "credit_id": "5987d342c3a3681df0012c76",
+      "order": 946,
+      "adult": false,
+      "gender": 2,
+      "id": 63141,
+      "known_for_department": "Acting",
+      "name": "Ron Donachie",
+      "original_name": "Ron Donachie",
+      "popularity": 1.2279,
+      "profile_path": "/vnBM7idgiyXoat1E8IBKGekx2GS.jpg"
+    },
+    {
+      "character": "Myrcella Baratheon",
+      "credit_id": "57521d4cc3a3685215000344",
+      "order": 971,
+      "adult": false,
+      "gender": 1,
+      "id": 1600544,
+      "known_for_department": "Acting",
+      "name": "Aimee Richardson",
+      "original_name": "Aimee Richardson",
+      "popularity": 0.7177,
+      "profile_path": "/97wwITEknXx7MbQda71NegQvJtz.jpg"
+    },
+    {
+      "character": "Ros",
+      "credit_id": "5987d3909251415244014acc",
+      "order": 998,
+      "adult": false,
+      "gender": 1,
+      "id": 1014921,
+      "known_for_department": "Acting",
+      "name": "Esmé Bianco",
+      "original_name": "Esmé Bianco",
+      "popularity": 1.3769,
+      "profile_path": "/3SV97kbZMdUmm6PvSGokM4pvLd4.jpg"
+    },
+    {
+      "character": "Tommen Baratheon",
+      "credit_id": "57521fafc3a368521500041d",
+      "order": 1009,
+      "adult": false,
+      "gender": 2,
+      "id": 1600543,
+      "known_for_department": "Acting",
+      "name": "Callum Wharry",
+      "original_name": "Callum Wharry",
+      "popularity": 0.4992,
+      "profile_path": null
+    }
+  ],
+  "name": "Winter Is Coming",
+  "overview": "Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army.",
+  "production_code": "101",
+  "runtime": 62,
+  "season_number": 1,
+  "still_path": "/o4IX9Mm0kpLITVANJMx7inyEUaY.jpg",
+  "vote_average": 8.2,
+  "vote_count": 543,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22970,
+        "known_for_department": "Acting",
+        "name": "Peter Dinklage",
+        "original_name": "Peter Dinklage",
+        "popularity": 4.5451,
+        "profile_path": "/ji3w1BW7mWfv1Mmen24rKn2ImeE.jpg",
+        "character": "Tyrion 'The Halfman' Lannister",
+        "credit_id": "5256c8b219c2956ff6047cd8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239019,
+        "known_for_department": "Acting",
+        "name": "Kit Harington",
+        "original_name": "Kit Harington",
+        "popularity": 3.0744,
+        "profile_path": "/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg",
+        "character": "Jon Snow",
+        "credit_id": "5256c8af19c2956ff6047af6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48,
+        "known_for_department": "Acting",
+        "name": "Sean Bean",
+        "original_name": "Sean Bean",
+        "popularity": 4.1234,
+        "profile_path": "/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg",
+        "character": "Lord Eddard 'Ned' Stark",
+        "credit_id": "58c7134792514179d20011a9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13633,
+        "known_for_department": "Acting",
+        "name": "Mark Addy",
+        "original_name": "Mark Addy",
+        "popularity": 2.0073,
+        "profile_path": "/4ao6jitEAxmQDlJheEOKT8lhJI8.jpg",
+        "character": "Robert Baratheon",
+        "credit_id": "5256c8ad19c2956ff60478e2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 512991,
+        "known_for_department": "Acting",
+        "name": "Richard Madden",
+        "original_name": "Richard Madden",
+        "popularity": 2.1913,
+        "profile_path": "/9QQFfVZ6PLe3WVmOL56wGNOnbGL.jpg",
+        "character": "Robb Stark",
+        "credit_id": "5256c8af19c2956ff6047b1a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12795,
+        "known_for_department": "Acting",
+        "name": "Nikolaj Coster-Waldau",
+        "original_name": "Nikolaj Coster-Waldau",
+        "popularity": 4.0372,
+        "profile_path": "/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg",
+        "character": "Sir Jaime 'Kingslayer' Lannister",
+        "credit_id": "5256c8ad19c2956ff604793e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17286,
+        "known_for_department": "Acting",
+        "name": "Lena Headey",
+        "original_name": "Lena Headey",
+        "popularity": 5.3408,
+        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg",
+        "character": "Cersei Lannister",
+        "credit_id": "5256c8ad19c2956ff60479ce",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20057,
+        "known_for_department": "Acting",
+        "name": "Michelle Fairley",
+        "original_name": "Michelle Fairley",
+        "popularity": 2.4106,
+        "profile_path": "/eBKT3hf2W2YRwqgcKU92zfEttKp.jpg",
+        "character": "Catelyn Stark",
+        "credit_id": "5256c8ad19c2956ff604796a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223786,
+        "known_for_department": "Acting",
+        "name": "Emilia Clarke",
+        "original_name": "Emilia Clarke",
+        "popularity": 5.8427,
+        "profile_path": "/iFY6t7Ux9r70WB7Sp0TTVz6eGtm.jpg",
+        "character": "Daenerys Targaryen",
+        "credit_id": "5256c8af19c2956ff60479f6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1181313,
+        "known_for_department": "Acting",
+        "name": "Maisie Williams",
+        "original_name": "Maisie Williams",
+        "popularity": 4.6212,
+        "profile_path": "/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg",
+        "character": "Arya Stark",
+        "credit_id": "5256c8b419c2956ff6047f0c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20508,
+        "known_for_department": "Acting",
+        "name": "Iain Glen",
+        "original_name": "Iain Glen",
+        "popularity": 3.4931,
+        "profile_path": "/d9CKAAiV1HvSnzzmpDzD0mC0HlX.jpg",
+        "character": "Ser Jorah Mormont",
+        "credit_id": "5256c8af19c2956ff6047a5c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239020,
+        "known_for_department": "Acting",
+        "name": "Isaac Hempstead Wright",
+        "original_name": "Isaac Hempstead Wright",
+        "popularity": 1.9828,
+        "profile_path": "/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg",
+        "character": "Brandon 'Bran' Stark",
+        "credit_id": "5256c8b119c2956ff6047c22",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49735,
+        "known_for_department": "Acting",
+        "name": "Aidan Gillen",
+        "original_name": "Aidan Gillen",
+        "popularity": 4.0619,
+        "profile_path": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg",
+        "character": "Petyr 'Littlefinger' Baelish",
+        "credit_id": "5256c8af19c2956ff6047aa4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1001657,
+        "known_for_department": "Acting",
+        "name": "Sophie Turner",
+        "original_name": "Sophie Turner",
+        "popularity": 4.7018,
+        "profile_path": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg",
+        "character": "Sansa Stark",
+        "credit_id": "5256c8b419c2956ff6047f34",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 205258,
+        "known_for_department": "Acting",
+        "name": "Harry Lloyd",
+        "original_name": "Harry Lloyd",
+        "popularity": 15.4192,
+        "profile_path": "/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg",
+        "character": "Viserys Targaryen",
+        "credit_id": "5256c8af19c2956ff6047ac2",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3075,
+        "known_for_department": "Acting",
+        "name": "Rory McCann",
+        "original_name": "Rory McCann",
+        "popularity": 2.3667,
+        "profile_path": "/meEHyiCRXTTCiYQMzP4VEdvEuD0.jpg",
+        "character": "Sandor 'The Hound' Clegane",
+        "credit_id": "5256c8b119c2956ff6047c84",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71586,
+        "known_for_department": "Acting",
+        "name": "Alfie Allen",
+        "original_name": "Alfie Allen",
+        "popularity": 2.1322,
+        "profile_path": "/aF3SyXNd2JfktnYkUvC1tsFHJDu.jpg",
+        "character": "Theon Greyjoy",
+        "credit_id": "5256c8b019c2956ff6047b5a",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 489467,
+        "known_for_department": "Acting",
+        "name": "Jack Gleeson",
+        "original_name": "Jack Gleeson",
+        "popularity": 1.6563,
+        "profile_path": "/97NkocCiLUwNzMDYjngSm5soGlN.jpg",
+        "character": "Joffrey Baratheon",
+        "credit_id": "5256c8b119c2956ff6047c4e",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117642,
+        "known_for_department": "Acting",
+        "name": "Jason Momoa",
+        "original_name": "Jason Momoa",
+        "popularity": 7.9342,
+        "profile_path": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
+        "character": "Khal Drogo",
+        "credit_id": "65101612a9117f00e192467c",
+        "order": 94
+      }
+    ],
+    "crew": [
+      {
+        "department": "Directing",
+        "job": "Director",
+        "credit_id": "5256c8a219c2956ff6046e77",
+        "adult": false,
+        "gender": 2,
+        "id": 44797,
+        "known_for_department": "Directing",
+        "name": "Tim Van Patten",
+        "original_name": "Tim Van Patten",
+        "popularity": 1.8322,
+        "profile_path": "/vwcARZBg4PEzOwnPsXdjRWeUVrZ.jpg"
+      },
+      {
+        "job": "Writer",
+        "department": "Writing",
+        "credit_id": "5256c8a219c2956ff6046e4b",
+        "adult": false,
+        "gender": 2,
+        "id": 228068,
+        "known_for_department": "Writing",
+        "name": "D. B. Weiss",
+        "original_name": "D. B. Weiss",
+        "popularity": 1.0296,
+        "profile_path": "/6Wt006TIQoDSSnl0YaKihfn3w7K.jpg"
+      },
+      {
+        "job": "Writer",
+        "department": "Writing",
+        "credit_id": "5256c8a019c2956ff6046e2b",
+        "adult": false,
+        "gender": 2,
+        "id": 9813,
+        "known_for_department": "Writing",
+        "name": "David Benioff",
+        "original_name": "David Benioff",
+        "popularity": 2.247,
+        "profile_path": "/xvNN5huL0X8yJ7h3IZfGG4O2zBD.jpg"
+      },
+      {
+        "job": "Editor",
+        "department": "Editing",
+        "credit_id": "54eef2ab925141795f005d4f",
+        "adult": false,
+        "gender": 2,
+        "id": 18077,
+        "known_for_department": "Editing",
+        "name": "Oral Norrie Ottey",
+        "original_name": "Oral Norrie Ottey",
+        "popularity": 0.5206,
+        "profile_path": null
+      },
+      {
+        "job": "Director of Photography",
+        "department": "Camera",
+        "credit_id": "54eef2429251417974005cb6",
+        "adult": false,
+        "gender": 2,
+        "id": 1318704,
+        "known_for_department": "Directing",
+        "name": "Alik Sakharov",
+        "original_name": "Алик Сахаров",
+        "popularity": 1.6863,
+        "profile_path": "/nsawlXcvphwnzz66ULKwMl9sKUx.jpg"
+      }
+    ],
+    "guest_stars": [
+      {
+        "character": "Benjen Stark",
+        "credit_id": "5256c8b919c2956ff604836a",
+        "order": 61,
+        "adult": false,
+        "gender": 2,
+        "id": 119783,
+        "known_for_department": "Acting",
+        "name": "Joseph Mawle",
+        "original_name": "Joseph Mawle",
+        "popularity": 1.0622,
+        "profile_path": "/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg"
+      },
+      {
+        "character": "Rickon Stark",
+        "credit_id": "566a83bcc3a3683f56003604",
+        "order": 80,
+        "adult": false,
+        "gender": 2,
+        "id": 1050248,
+        "known_for_department": "Acting",
+        "name": "Art Parkinson",
+        "original_name": "Art Parkinson",
+        "popularity": 1.9446,
+        "profile_path": "/ejAKOJME1DsvHECLWdQ7dEtXyyc.jpg"
+      },
+      {
+        "character": "Hodor",
+        "credit_id": "5256c8be19c2956ff6048446",
+        "order": 81,
+        "adult": false,
+        "gender": 2,
+        "id": 1223792,
+        "known_for_department": "Acting",
+        "name": "Kristian Nairn",
+        "original_name": "Kristian Nairn",
+        "popularity": 1.4366,
+        "profile_path": "/dlbq6cCW0xdpFY15q6flP6lDXWV.jpg"
+      },
+      {
+        "character": "Will",
+        "credit_id": "6176291c924ce50044219a23",
+        "order": 808,
+        "adult": false,
+        "gender": 2,
+        "id": 75076,
+        "known_for_department": "Acting",
+        "name": "Bronson Webb",
+        "original_name": "Bronson Webb",
+        "popularity": 1.4569,
+        "profile_path": "/foMvmr6ch16GGM1L413KA9UQKIO.jpg"
+      },
+      {
+        "character": "Jon Arryn",
+        "credit_id": "6176293a172d7f009254e782",
+        "order": 809,
+        "adult": false,
+        "gender": 2,
+        "id": 11282,
+        "known_for_department": "Acting",
+        "name": "John Standing",
+        "original_name": "John Standing",
+        "popularity": 1.026,
+        "profile_path": "/hQpTeZDljWR2F9n1PcL7sXilwCE.jpg"
+      },
+      {
+        "character": "Waymar Royce",
+        "credit_id": "61774bcd71f0950042d37204",
+        "order": 810,
+        "adult": false,
+        "gender": 2,
+        "id": 1864916,
+        "known_for_department": "Acting",
+        "name": "Rob Ostlere",
+        "original_name": "Rob Ostlere",
+        "popularity": 0.5622,
+        "profile_path": "/wwsP4vXDWbClGiGOznSR4dJjim2.jpg"
+      },
+      {
+        "character": "Pentoshi Servant",
+        "credit_id": "61774d0965e0a200448c7445",
+        "order": 811,
+        "adult": false,
+        "gender": 1,
+        "id": 1864921,
+        "known_for_department": "Acting",
+        "name": "Rania Zouari",
+        "original_name": "Rania Zouari",
+        "popularity": 0.4821,
+        "profile_path": "/vwV5Dp6rX38FjjgIBRNxPtmn8Ma.jpg"
+      },
+      {
+        "character": "Gared",
+        "credit_id": "57b72bcc925141389d002188",
+        "order": 812,
+        "adult": false,
+        "gender": 2,
+        "id": 191751,
+        "known_for_department": "Acting",
+        "name": "Dermot Keaney",
+        "original_name": "Dermot Keaney",
+        "popularity": 0.6228,
+        "profile_path": "/nvXkSjiw3cgpGRmeKRwQkgdprb5.jpg"
+      },
+      {
+        "character": "White Walker #1",
+        "credit_id": "61774d6fb458b8006a123cd5",
+        "order": 813,
+        "adult": false,
+        "gender": 2,
+        "id": 946696,
+        "known_for_department": "Acting",
+        "name": "Ian Whyte",
+        "original_name": "Ian Whyte",
+        "popularity": 0.8066,
+        "profile_path": "/svlJyDgPbTHoGjbQKU4S2J6g5hi.jpg"
+      },
+      {
+        "character": "White Walker #2",
+        "credit_id": "61774da4e9da69002b9ba63c",
+        "order": 814,
+        "adult": false,
+        "gender": 2,
+        "id": 25451,
+        "known_for_department": "Acting",
+        "name": "Spencer Wilding",
+        "original_name": "Spencer Wilding",
+        "popularity": 0.8579,
+        "profile_path": "/4NMcve4Nckpi653znyYOnoS4Mci.jpg"
+      },
+      {
+        "character": "Wight Wildling Girl",
+        "credit_id": "61774e0ae9da69002b9ba6f5",
+        "order": 815,
+        "adult": false,
+        "gender": 0,
+        "id": 3284663,
+        "known_for_department": "Acting",
+        "name": "Claire Wright",
+        "original_name": "Claire Wright",
+        "popularity": 0.3669,
+        "profile_path": "/rx6NoCpwoYQUy4VzMyYGA0R6k5V.jpg"
+      },
+      {
+        "character": "Jory Cassel",
+        "credit_id": "5752136f9251414c510001a0",
+        "order": 827,
+        "adult": false,
+        "gender": 2,
+        "id": 1833,
+        "known_for_department": "Acting",
+        "name": "Jamie Sives",
+        "original_name": "Jamie Sives",
+        "popularity": 0.969,
+        "profile_path": "/bdEyp4f1VUEepihC6vyqCGP6k2s.jpg"
+      },
+      {
+        "character": "Septa Mordane",
+        "credit_id": "57520bc19251414c470000de",
+        "order": 867,
+        "adult": false,
+        "gender": 1,
+        "id": 438859,
+        "known_for_department": "Acting",
+        "name": "Susan Brown",
+        "original_name": "Susan Brown",
+        "popularity": 1.5017,
+        "profile_path": "/rbi81V4GUsOqjUfLvnoHj4lIAMf.jpg"
+      },
+      {
+        "character": "Illyrio Mopatis",
+        "credit_id": "575216bdc3a36851fe0001d8",
+        "order": 868,
+        "adult": false,
+        "gender": 2,
+        "id": 11279,
+        "known_for_department": "Acting",
+        "name": "Roger Allam",
+        "original_name": "Roger Allam",
+        "popularity": 1.4657,
+        "profile_path": "/hrtVjATnltwatFCOjhtCZTnN2hW.jpg"
+      },
+      {
+        "character": "Qotho",
+        "credit_id": "5752158b9251414c470001c0",
+        "order": 908,
+        "adult": false,
+        "gender": 2,
+        "id": 234907,
+        "known_for_department": "Acting",
+        "name": "Dar Salim",
+        "original_name": "Dar Salim",
+        "popularity": 5.2859,
+        "profile_path": "/mqIH4exzdXXU47ykPohDTAkZ8tN.jpg"
+      },
+      {
+        "character": "Maester Luwin",
+        "credit_id": "5987d310c3a3681e2a014bfe",
+        "order": 931,
+        "adult": false,
+        "gender": 2,
+        "id": 20425,
+        "known_for_department": "Acting",
+        "name": "Donald Sumpter",
+        "original_name": "Donald Sumpter",
+        "popularity": 2.1446,
+        "profile_path": "/jfdH7vojRZ3fRSesLF8K3tZwwtq.jpg"
+      },
+      {
+        "character": "Rodrik Cassel",
+        "credit_id": "5987d342c3a3681df0012c76",
+        "order": 946,
+        "adult": false,
+        "gender": 2,
+        "id": 63141,
+        "known_for_department": "Acting",
+        "name": "Ron Donachie",
+        "original_name": "Ron Donachie",
+        "popularity": 1.2279,
+        "profile_path": "/vnBM7idgiyXoat1E8IBKGekx2GS.jpg"
+      },
+      {
+        "character": "Myrcella Baratheon",
+        "credit_id": "57521d4cc3a3685215000344",
+        "order": 971,
+        "adult": false,
+        "gender": 1,
+        "id": 1600544,
+        "known_for_department": "Acting",
+        "name": "Aimee Richardson",
+        "original_name": "Aimee Richardson",
+        "popularity": 0.7177,
+        "profile_path": "/97wwITEknXx7MbQda71NegQvJtz.jpg"
+      },
+      {
+        "character": "Ros",
+        "credit_id": "5987d3909251415244014acc",
+        "order": 998,
+        "adult": false,
+        "gender": 1,
+        "id": 1014921,
+        "known_for_department": "Acting",
+        "name": "Esmé Bianco",
+        "original_name": "Esmé Bianco",
+        "popularity": 1.3769,
+        "profile_path": "/3SV97kbZMdUmm6PvSGokM4pvLd4.jpg"
+      },
+      {
+        "character": "Tommen Baratheon",
+        "credit_id": "57521fafc3a368521500041d",
+        "order": 1009,
+        "adult": false,
+        "gender": 2,
+        "id": 1600543,
+        "known_for_department": "Acting",
+        "name": "Callum Wharry",
+        "original_name": "Callum Wharry",
+        "popularity": 0.4992,
+        "profile_path": null
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt1480055",
+    "freebase_mid": "/m/0gmc6ph",
+    "freebase_id": "/en/winter_is_coming",
+    "tvdb_id": 3254641,
+    "tvrage_id": 1065008299,
+    "wikidata_id": "Q2614622"
+  },
+  "images": {
+    "stills": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/o4IX9Mm0kpLITVANJMx7inyEUaY.jpg",
+        "vote_average": 9.016,
+        "vote_count": 11,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9hGF3WUkBf7cSjMg0cdMDHJkByd.jpg",
+        "vote_average": 5.25,
+        "vote_count": 16,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 995,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/c05nayHjwQR2uPwkQwNy4UVVQlt.jpg",
+        "vote_average": 3.334,
+        "vote_count": 4,
+        "width": 1768
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wrGWeW4WKxnaeA8sxJb2T9O6ryo.jpg",
+        "vote_average": 3.288,
+        "vote_count": 18,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pyp0LgtqjgaeXzPMtXKnkuNBugV.jpg",
+        "vote_average": 1.75,
+        "vote_count": 5,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/w85NsRYgZQZrICE1kC9q8F2D6wS.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/g0OnOaBqSepbA8omNTfYBCl4Sbo.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/v3bGMbT5Ik86ERFBfsXFqpiMTFy.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uaSOtAsNrXbKxOVzC31GjYxLRXJ.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xIfvIM7YgkADTrqp23rm3CLaOVQ.jpg",
+        "vote_average": 1.75,
+        "vote_count": 6,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qYqCWKoiyR845nUOotJ7rKIXGPM.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nDkA929hW9ePdyvNure6Q0fNBWo.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gDOWFhBTkuwhLKrFqpd7yhAwxVH.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lYQyyPoFpFBWQ9cta2zcfZE1axn.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ecDSsfUAgH9VqtdtaDdO2fi5KMF.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9o3HXUmWaZq14tIAbBrn7e34NRZ.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wZPID3NddTuH7lBNgsFEiXWB6Bj.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.333,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rKnOnGO6HQStLVps8RYTT6Zecbj.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 960
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qyBiLdFVGjsNdHy0Yl0LK5ilYb0.jpg",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "name": "Winter Is Coming",
+          "overview": "Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army."
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "name": "Der Winter naht",
+          "overview": "Jon Arryn, die Hand des Königs, ist tot. König Robert Baratheon plant, seinen ältesten Freund, Eddard Stark, zu bitten, Jons Platz einzunehmen. Auf der anderen Seite des Meeres plant Viserys Targaryen, seine Schwester mit einem nomadischen Kriegsherrn im Austausch für eine Armee zu verheiraten."
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "name": "Winter Is Coming",
+          "overview": "Er roert iets in het land waar de zomers decennia duren en de winters een leven lang kunnen aanslepen. Achter een eeuwenoude, gigantische muur van ijs in het uiterste noorden van Westeros maakt een kille vijand zich op om het land onder de voet te lopen. Robert Baratheon, de vorst van Westeros, strijkt met zijn hofhouding neer in Winterfell, bezuiden de Muur, om de hulp van zijn oude vriend Eddard Stark in te roepen. Terzelfdertijd, op een ander continent, gaan de laatste overlevenden van het vorige Targaryenregime op zoek naar een nieuwe alliantie. Ze willen hun rijk gewapenderhand heroveren op de \"usurpator\", Koning Robert..."
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "name": "L'hiver vient",
+          "overview": "Sur le continent de Westeros, un jeune patrouilleur de la Garde de Nuit, chargée de veiller sur le Mur, est condamné à mort pour désertion par Eddard Stark, seigneur de Winterfell et Gardien du Nord. Mais de sombres nouvelles arrivent de Port-Réal, la capitale des Sept Couronnes : Jon Arryn, ami intime d'Eddard et Main du roi Robert Baratheon, vient de mourir. Le roi Robert et sa cour entreprennent alors un voyage vers Winterfell, pour gratifier son ami Eddard de la charge de Main du roi. Pendant ce temps, les descendants des rois Targaryen en exil, renversés par Robert, fomentent leur retour en Westeros par un jeu d'alliance avec les Dothrakis, une tribu de guerriers nomades. Alors qu'à Winterfell les festivités vont bon train durant le séjour du roi, Brandon, l'un des fils d'Eddard Stark, fait une découverte qui lui attire les foudres de la famille royale…"
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "name": "L'inverno sta arrivando",
+          "overview": "Nei Sette Regni di Westeros, la famiglia Stark e la stirpe dei Lannister si sfidano per la conquista del trono mentre forze sovrumane minacciano i confini."
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "name": "Se acerca el invierno",
+          "overview": "El Lord Ned Stark está preocupado por los perturbantes reportes de un desertor del Nights Watch; El Rey Robert y los Lannisters llegan a Winterfell; el exiliado Viserys Targaryen forja una nueva y poderosa alianza."
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "name": "Зима близко",
+          "overview": "Отправленный на поиски одичалых отряд воинов сталкивается с куда более пугающим злом, чем племя диких людей. Винтерфелл. Лорд Эддард Старк узнает о поимке дезертира, утверждающего о возвращении белых ходоков, а дети лорда заводят домашних питомцев. Из Королевской гавани приходит известие о смерти советника короля, а также новость о намечающемся визите королевской семьи. Король Роберт Баратеон предлагает Старку не только новую должность, но и объединение семей. Пентос. Ради достижения власти Визерис Таргариен принуждает сестру Дейнерис заключить брачный союз с кхалом Дрого."
+        }
+      },
+      {
+        "iso_3166_1": "HU",
+        "iso_639_1": "hu",
+        "name": "Magyar",
+        "english_name": "Hungarian",
+        "data": {
+          "name": "Közeleg a tél",
+          "overview": "Westeros királyság északi határát hatalmas jeges fal választja el az örök tél birodalmától. Lord Eddard \"Ned\" Stark az északi birodalom, Deres ura és az északi nemesek vezére, az ő ősei építették a Falat, amelyet az Éjszakai Őrség véd. Amikor Robert király tanácsadója és Ned mentora, Jon Arryn meghal, Robert Baratheon a barátját, Nedet kéri fel, hogy lépjen a helyébe. Eközben a régi uralkodóház, a Targaryenek utolsó leszármazottja, Viserys azt tervezi, hogy visszaszerzi a trónt. Szövetséget köt a nomád dothraki harcosokkal, és vezérüknek, Khal Drogónak adja a húga, Daenerys kezét. Baratheon király és a felesége, a Lannister-házbeli Cersei királyné Deresbe utazik. Velük tart a Lannister família több tagja: a királyné ikertestvére, Jaime, a másik testvére, a törpe Tyrion, illetve a királyné tizenkét éves fia, a trón örököse, Joffrey. Ned nem utasíthatja vissza öreg királya és barátja kérését, így a birodalom fővárosába készül. Mindeközben Havas Jon elhatározza, hogy északra utazik a Fekete Kastélyba, hogy csatlakozzon az Éjszakai Őrséghez, ahová a kíváncsi Tyrion is elkíséri. De az ifjú Bran sötét titokra bukkan, ami nem várt következményekkel jár."
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "name": "凛冬将至",
+          "overview": "劳勃国王在一位忠臣死后，前往北方延请史塔克爵士投入自己麾下。同时，流亡王子韦塞里斯想把妹妹丹妮莉丝送去和番，只为巩固自己的兵力。"
+        }
+      },
+      {
+        "iso_3166_1": "GR",
+        "iso_639_1": "el",
+        "name": "ελληνικά",
+        "english_name": "Greek",
+        "data": {
+          "name": "Έρχεται Χειμώνας",
+          "overview": "H ιστορία αρχίζει 298 χρόνια μετά την κατάκτηση της ηπείρου του Γουέστερος από τον Αίγκον τον κατακτητή. Όταν ο βαρύς χειμώνας έρχεται, μια σειρά από γεγονότα ανατρέπουν την πολιτική κατάσταση και πυροδοτούν τον πόλεμο των επτά Βασιλέων."
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "name": "Zima se blíží",
+          "overview": "Lord Eddard 'Ned' Stark z Winterfellu je navštíven královskou rodinou. Jeho starý přítel a král Robert Baratheon mu učiní nabídku, kterou nemůže odmítnout. Catelyn Stark, Nedova žena, dostane vzkaz od své sestry Lysy, díky kterému by mohla obvinit členy královské rodiny z vraždy. Nedův mladý syn Bran učiní ohromující objev, díky kterému bude bojovat o holý život. Přes Úzké moře deportovaný princ Viserys Targaryen tvoří alianci s vidinou zisku Železného trůnu. Divokému válečníkovi khalu Drogovi dá za manželku svou sestru Daenerys výměnou za jeho vojenskou podporu."
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "name": "O Inverno Está a Chegar",
+          "overview": "Lorde Eddard \"Ned\" Stark descobre que o seu mentor, Jon Arryn, morreu em Porto Real, capital de Westeros, e que o Rei Robert se encontra a caminho do norte para oferecer a Ned o posto de Arryn como Mão do Rei."
+        }
+      },
+      {
+        "iso_3166_1": "IR",
+        "iso_639_1": "fa",
+        "name": "فارسی",
+        "english_name": "Persian",
+        "data": {
+          "name": "زمستان در راه است",
+          "overview": ""
+        }
+      },
+      {
+        "iso_3166_1": "BG",
+        "iso_639_1": "bg",
+        "name": "български език",
+        "english_name": "Bulgarian",
+        "data": {
+          "name": "Зимата идва",
+          "overview": "На север от Стената дебнат предатели и лорд Едард Старк разбира за това, след като залавя шпионин. Крал Робърт пътува на север, за да предложи на Нед Арин позицията на съветника на краля. В същото време, отвъд Тясното море Висерис Таргариен готви план да си върне трона. Той иска да омъжи сестра си Данерис за номадския командир Кал Дрого. Крал Робърт пристига във Винтерфел, където заварва съпругата си Серсей и семейство Ланистер."
+        }
+      },
+      {
+        "iso_3166_1": "SK",
+        "iso_639_1": "sk",
+        "name": "Slovenčina",
+        "english_name": "Slovak",
+        "data": {
+          "name": "Zima sa blíži",
+          "overview": "Lord Eddard „Ned“ Stark z Winterfellu je navštívený kráľovskou rodinou. Jeho starý priateľ a kráľ Robert Baratheon mu dá ponuku, ktorú nemôže odmietnuť. Catelyn Stark, Nedova žena, dostane odkaz od svojej sestry Lysy, vďaka ktorému by mohla obviniť členov kráľovskej rodiny z vraždy. Nedov mladý syn Bran vykoná ohromujúci objav, vďaka ktorému bude bojovať o holý život. Cez Úzke more deportovaný princ Viserys Targaryen tvorí alianciu s vidinou zisku Železného trónu. Divokému vojakovi Drogovi dá za manželku svoju sestru Daenerys výmenou za jeho vojenskú podporu."
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "name": "החורף מתקרב",
+          "overview": "עיבוד טלוויזיוני לסדרת רבי-המכר. הסדרה מגוללת את סיפור המאבק עקוב הדם על כס המלוכה של המלך רוברט באראתיאון, ששולט על ממלכת ווסטרוז בעזרת יד ימינו, הלורד אדארד סטארק."
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "name": "Nadchodzi zima",
+          "overview": "Dezerter z Nocnej Straży, będący świadkiem niewytłumaczalnych zjawisk, zostaje pojmany tuż za murami Winterfell i poddany pod sąd Lorda Eddarda \"Neda\" Starka. Po powrocie do domu Ned dowiaduje się od żony Catelyn, że jego mentor, Jon Arryn, zmarł w Królewskiej Przystani w stolicy królestwa Westeros. W tym samym czasie na drugim krańcu Wąskiego Morza w Pentos, Viserys Targaryen knuje plan, by odzyskać utracony przez jego rodzinę tron przy wsparciu koczowniczych dotrackich wojowników. W imię sojuszu jest gotów zaoferować Khalowi Drogo, przywódcy plemienia, swoją piękną siostrę Daenerys. Król Robert wraz z żoną Cersei, przybywają do Winterfell. Towarzyszą im pozostali członkowie rodziny Lannisterów - brat bliźniak królowej Jaime, kolejny brat Tyrion oraz 12-letni Joffrey. Król Robert proponuje Nedowi objęcie stanowiska namiestnika. Ned nie umie odmówić władcy, który jest jego starym przyjacielem. Przyjmuje złożoną mu propozycję i szykuje się do wyjazdu do Królewskiej Przystani. Jon Snow, pozamałżeński syn Neda, opuszcza Winterfell, by dołączyć do Nocnej Straży. Towarzyszą mu Benjen Stark i Tyrion Lannister."
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "name": "Winter Is Coming",
+          "overview": "Man hittar en desertör från Nattens Väktare utanför Winterfell, vilket leder till att lord Eddard \"Ned\" Stark skipar omedelbar rättvisa, men det ger också upphov till oro över farorna som lurar norr om muren. På andra sidan havet planerar Viserys Targaryen att ta tillbaka tronen genom att äkta sin vackra syster Daenerys med dothrakiernas ledare Khal Drogo. Kung Robert anländer till Winterfell med sin fru, drottning Cersei, och andra medlemmar av familjen Lannister. Ned tar jobbet som kungens hand och förbereder sig att lämna Winterfell, men ett dåd mot unga Bran kan fördröja avresan."
+        }
+      },
+      {
+        "iso_3166_1": "DK",
+        "iso_639_1": "da",
+        "name": "Dansk",
+        "english_name": "Danish",
+        "data": {
+          "name": "Vinteren er på vej",
+          "overview": "En desertør opspores uden for Winterfell, hvilket fører til hurtig rettergang ved dommer Lord Eddard \"Ned\" Stark og giver anledning til bekymringer om farerne i nord. Neds mentor Jon Arryn er død i hovedstaden, og Kong Robert er på vej for at tilbyde ham Arryns job som kongens hjælper. Imens i Pentos udtænker Viserys Targaryen en plan for en alliance med Dothraki nomadekrigerne. Robert ankommer med Dronning Cersei og deres følge, og Ned forbereder sig på at tage af sted, da Jon Snow beslutter at slutte sig til Night's Watch. Men et overraskende forræderi kan sætte en stoppe for begges afgang."
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "name": "Kış Geliyor",
+          "overview": "Duvarın ardında büyük gizemler yaşanıyor iken Kral Robert Baratheon,Winterfell’deki eski dostu Ned Stark’a önemli bir teklif yapmaya gelir."
+        }
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Game of Thrones: \"Iron Throne Preview\" (HBO)",
+        "key": "hhqRmcsWqac",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68dee65b4432b3ce7e2e4317",
+        "published_at": "2011-01-15T01:59:02.000Z"
+      }
+    ]
+  }
+}

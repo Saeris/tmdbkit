@@ -1,0 +1,245 @@
+{
+  "id": 1416,
+  "translations": [
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "name": "",
+        "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+        "homepage": "",
+        "tagline": "Begin again."
+      }
+    },
+    {
+      "iso_3166_1": "HU",
+      "iso_639_1": "hu",
+      "name": "Magyar",
+      "english_name": "Hungarian",
+      "data": {
+        "name": "A Grace klinika",
+        "overview": "A történet középpontjában Meredith Grey áll, az a céltudatos nő, aki mindent megtesz annak érdekében, hogy teljes életet élhessen egy olyan felelősségteljes munka mellett, ami mindezt lehetetlenné teszi. Elsőéves sebészeti gyakornokként dolgozik a Seattle Grace Kórházban barátaival, a szintén rezidensi évüket töltő Cristina Yanggal, Izzie Stevensszel, George O'Malley-vel és Alex Karevvel, akikkel tegnap még az iskolapadban ültek. Ma azonban már életek múlnak rajtuk.",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "IT",
+      "iso_639_1": "it",
+      "name": "Italiano",
+      "english_name": "Italian",
+      "data": {
+        "name": "Grey's Anatomy",
+        "overview": "Meredith Grey è una giovane ragazza di Boston che, dopo la laurea in medicina, riesce ad entrare nel gruppo di tirocinanti di chirurgia del Seattle Grace Hospital. Si trasferisce così a Seattle, nella vecchia casa appartenuta alla madre. Qui si ritrova a condividere questa nuova esperienza insieme ad un gruppo di giovani coetanei, tutti alle prese con i più svariati problemi. Meredith è figlia di Ellis Grey, una famosa dottoressa specialista in chirurgia generale, e sente molto il peso del suo cognome. La sera prima di iniziare il tirocinio, Meredith incontra in un pub Derek, un affascinante uomo con cui passa la notte; solo il giorno dopo scopre che in realtà lui è Derek Shepherd, neurochirurgo dell'ospedale, nonché suo supervisore. Meredith deve così districarsi tra lo studio e il lavoro per poter diventare un chirurgo, e i sentimenti che prova per Derek.",
+        "homepage": "",
+        "tagline": "La vita che salvi potrebbe essere la tua."
+      }
+    },
+    {
+      "iso_3166_1": "DE",
+      "iso_639_1": "de",
+      "name": "Deutsch",
+      "english_name": "German",
+      "data": {
+        "name": "",
+        "overview": "Die Serie erzählt die Geschichte von fünf jungen Assistenzärzten des fiktiven Krankenhauses Seattle Grace Hospital in Seattle. Im Mittelpunkt steht die junge Ärztin Meredith Grey, die zusammen mit ihren Kollegen Cristina Yang, Isobel „Izzie“ Stevens, George O’Malley und Alex Karev ihre Ausbildung in der Chirurgie absolviert. Im Kern der Handlung stehen die verschiedenen Beziehungen der Assistenzärzte untereinander und mit ihren Stationsoberärzten.",
+        "homepage": "",
+        "tagline": "Das Leben, das Sie retten, kann Ihr eigenes sein."
+      }
+    },
+    {
+      "iso_3166_1": "PT",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "name": "Anatomia de Grey",
+        "overview": "Os médicos do Grey Sloan Memorial Hospital lidam com consequências de vida ou morte todos os dias - é uns nos outros que encontram conforto, amizade e, por vezes, mais do que amizade. Juntos, descobrem que nem a medicina nem as relações humanas são a preto e branco. A vida real tem vários tons de cinzento.",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "es",
+      "name": "Español",
+      "english_name": "Spanish",
+      "data": {
+        "name": "Anatomía de Grey",
+        "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+        "homepage": "",
+        "tagline": "La vida que salves puede ser la tuya propia."
+      }
+    },
+    {
+      "iso_3166_1": "FR",
+      "iso_639_1": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "data": {
+        "name": "",
+        "overview": "Meredith Grey, fille d'un chirurgien très réputé, commence son internat de première année en médecine chirurgicale dans un hôpital de Seattle. La jeune femme s'efforce de maintenir de bonnes relations avec ses camarades internes, mais dans ce métier difficile la compétition fait rage.",
+        "homepage": "",
+        "tagline": "La vie que tu sauves pourrait être la tienne."
+      }
+    },
+    {
+      "iso_3166_1": "BG",
+      "iso_639_1": "bg",
+      "name": "български език",
+      "english_name": "Bulgarian",
+      "data": {
+        "name": "Анатомията на Грей",
+        "overview": "Основният персонаж е стажантката по хирургия Мередит Грей. Тя се опитва да се пребори с несправедливостта на живота с помощтта на своята най-добра приятелка Кристина Янг, както и другите стажанти Джордж О'Мали, Изабел (Изи) Стивънс и Алекс Карев. Техен наставник е наричаната \"нацистът\" - Миранда Бейли. В основата на сериала стои любовната история между Мередит и един от лекарите в болницата \"Сиатъл Грейс\" - Дерек Шепърд.",
+        "homepage": "",
+        "tagline": "Кой ще събере отново разбитото ти сърце?"
+      }
+    },
+    {
+      "iso_3166_1": "IL",
+      "iso_639_1": "he",
+      "name": "עִבְרִית",
+      "english_name": "Hebrew",
+      "data": {
+        "name": "האנטומיה של גריי",
+        "overview": "האנטומיה של גריי היא דרמת בית חולים אמריקאית מצליחה, העוקבת אחר חייהם של הרופאים בבית החולים הבדיוני \"סיאטל גרייס\", ויחסם הנוקשה אל המתמחים צעירים שחולמים לקבל הזדמנות להצטרף לניתוחים במחלקה הכירורגית. העלילה סובבת סביב חייה של המתמחה מרדית' גריי, העליות והמורדות במערכת היחסים הרומנטית שלה עם ד\"ר דרק שפרד, וחייהם האישים והמקצועיים של חבריה המתמחים.",
+        "homepage": "",
+        "tagline": "החיים שתציל, עשויים להיות שלך..."
+      }
+    },
+    {
+      "iso_3166_1": "KR",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말",
+      "english_name": "Korean",
+      "data": {
+        "name": "그레이 아나토미",
+        "overview": "시애틀에 있는 병원 의사들의 삶에 대한 이야기. 의사로서의 감정과 개인적인 감정에 대한 묘사가 적절히 조화를 이루어 그려진다. 인턴이지만 결국 레지던트가 되는 메러디스 그레이는 시애틀 병원의 동료 의사들과 함께 사적, 직업적인 열정에 휩쓸리는 자신을 발견한다.",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "DK",
+      "iso_639_1": "da",
+      "name": "Dansk",
+      "english_name": "Danish",
+      "data": {
+        "name": "Grey's Hvide Verden",
+        "overview": "Meredith Grey og hendes kollegaer er i gang med et af de hårdeste lægekandidatforløb i USA. De lærer snart, at en praktisk uddannelse kan være et spørgsmål om liv eller død.",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "name": "实习医生格蕾",
+        "overview": "西雅图格雷斯医院迎来新一批实习生，梅雷迪斯·格雷、克里斯蒂娜·杨、伊泽贝尔·斯蒂文、乔治·梅利 、亚里克斯·卡莱，五个医学院好友同期毕业，需要以良好表现争夺住院医师正式席位。进入医院伊始，梅雷迪斯崩溃地发现前晚在酒吧和她发生一夜情的男人，竟然是神经外科医生德立克·舍伯，两人纠葛就此开始；克里斯蒂娜吸引了胸外科医师普雷斯顿·伯克的注意，因为他们同样高傲和野心勃勃；乔治悄悄爱着梅雷迪斯；美丽的伊泽贝尔第一时间掀起流言，一年的实习期注定充满高密度的压力竞争与荷尔蒙……",
+        "homepage": "",
+        "tagline": "你拯救的生命也许将是你自己"
+      }
+    },
+    {
+      "iso_3166_1": "GR",
+      "iso_639_1": "el",
+      "name": "ελληνικά",
+      "english_name": "Greek",
+      "data": {
+        "name": "",
+        "overview": "Η Μέρεντιθ Γκρέι και οι συνάδελφοί της, συμμετέχουν σε ένα από τα δυσκολότερα εκπαιδευτικά προγράμματα στη χώρα, εξισορροπώντας παράλληλα τα προσωπικά τους. Μαθαίνουν ότι η πρακτική εκπαίδευση, μπορεί να γίνει θέμα ζωής και θανάτου.",
+        "homepage": "",
+        "tagline": "Η ζωή που σώζεις μπορεί να είναι δική σου."
+      }
+    },
+    {
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "name": "Pусский",
+      "english_name": "Russian",
+      "data": {
+        "name": "Анатомия страсти",
+        "overview": "В центре событий — молодая женщина-хирург Мередит Грей, дочь известного врача Эллис Грей. Она работает в городской больнице Сиэтла, и её коллеги, такие же начинающие врачи, как она. Хирурги оперируют и влюбляются, заводят истории болезни и служебные романы, хранят свои врачебные тайны, борются с осложнениями у пациентов и в собственной личной жизни. И зачастую отношения с противоположным полом волнуют их не меньше, чем вопрос приобретения ими профессионального опыта.",
+        "homepage": "",
+        "tagline": "«Начни сначала»"
+      }
+    },
+    {
+      "iso_3166_1": "RO",
+      "iso_639_1": "ro",
+      "name": "Română",
+      "english_name": "Romanian",
+      "data": {
+        "name": "Anatomia lui Grey",
+        "overview": "Drama medicală plină de intensitate urmărește viața lui Meredith Grey și a echipei de doctori de la spitalul Grey Sloan Memorial, care se confruntă cu decizii de viață și de moarte în fiecare zi. Ei caută consolare unii la alții și, uneori, ceva mai mult decât o simplă prietenie. Împreună ei descoperă că nici medicina, nici relațiile nu pot fi definite în alb și negru.",
+        "homepage": "",
+        "tagline": "Doctorii se confruntă cu decizii de viață și de moarte în fiecare zi."
+      }
+    },
+    {
+      "iso_3166_1": "TR",
+      "iso_639_1": "tr",
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "data": {
+        "name": "Grey's Anatomy",
+        "overview": "Grace Hastanesi'ne hoş geldiniz! Burada yeni ve acemi doktorlar için en zorlu doktorluk ihtisas devresi programlarından biri uygulanıyor. Bu acımasız eğitimle başa çıkmak zorunda olan kahramanlarımız ise Meredith, Izzie, George, Alex ve Cristina. Onlar dün öğrenciydiler, bugün ise doktor oldular. Eğer yedi yıl boyunca Grace gibi bir cehennemde başarılı olurlarsa cerrahlığa da hak kazanmış olacaklar. Ancak ihtisas devresinin bu kadar zorlu olması, onlar için yaşamlarının geri kalanının durdurduğu anlamına da gelmiyor. Yani bu grup, aynı zamanda kıskanç sevgililer, ebeveynler, tek gecelik ilişkiler ve ev bulma krizleriyle mücadele etmek zorunda. Üstelik kahramanlarımız, bu stresli ve rekabet dolu ortamda dostluklar da kurmaya çalışıyolar.",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "NL",
+      "iso_639_1": "nl",
+      "name": "Nederlands",
+      "english_name": "Dutch",
+      "data": {
+        "name": "Grey's Anatomy",
+        "overview": "Meredith Grey is een aspirant chirurg en de dochter van een van de beste chirurgen, Dr. Ellis Grey. Meredith baant zich een weg door persoonlijke en professionele uitdagingen in haar leven, samen met haar collega-chirurgen in het Seattle Grace Hospital.",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "HR",
+      "iso_639_1": "hr",
+      "name": "Hrvatski",
+      "english_name": "Croatian",
+      "data": {
+        "name": "Uvod u anatomiju",
+        "overview": "Oni su mladi, željni znanja, neumorni i radoznali. Pet diplomaca započinje stažiranje u jednoj od najpoznatijih bolnica na svjetu - Seattle Grace. Njihovi privatni životi postaju podređeni pacijentima i nauci, ali i njihovom novom mentoru, dr Mirandi Bailey, koja je riješila da, po svaku cijenu, od njih napravi najbolje specijaliste.\n\nSerija je dobila i spin-off, seriju Private Practice.",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "BS",
+      "iso_639_1": "bs",
+      "name": "Bosanski",
+      "english_name": "Bosnian",
+      "data": {
+        "name": "Greys Anatomy",
+        "overview": "Oni su mladi, željni znanja, neumorni i radoznali. Pet diplomaca započinje stažiranje u jednoj od najpoznatijih bolnica na svjetu - Seattle Grace. Njihovi privatni životi postaju podređeni pacijentima i nauci, ali i njihovom novom mentoru, dr Mirandi Bailey, koja je riješila da, po svaku cijenu, od njih napravi najbolje specijaliste.",
+        "homepage": "",
+        "tagline": ""
+      }
+    },
+    {
+      "iso_3166_1": "PL",
+      "iso_639_1": "pl",
+      "name": "Polski",
+      "english_name": "Polish",
+      "data": {
+        "name": "Chirurdzy",
+        "overview": "Serial opowiada o perypetiach lekarzy i stażystów ze szpitala Seattle Grace. Ukazuje zarówno ich życie zawodowe, jak i prywatne.",
+        "homepage": "",
+        "tagline": "Zacznij od nowa."
+      }
+    }
+  ]
+}

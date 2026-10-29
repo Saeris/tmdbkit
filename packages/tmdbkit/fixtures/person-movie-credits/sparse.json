@@ -1,0 +1,94 @@
+{
+  "cast": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1639963,
+      "title": "Kiran Aur Kali",
+      "original_language": "ur",
+      "original_title": "Kiran Aur Kali",
+      "overview": "The Urdu film Kiran Aur Kali (1981) was directed by Zahid Shah.",
+      "popularity": 1.0874,
+      "poster_path": "/fix02MJR97osgHlAl2BEbLlWkLC.jpg",
+      "release_date": "1981-09-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "character": "",
+      "credit_id": "699a6d3ca6684e29555909e4",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1721682,
+      "title": "Palki",
+      "original_language": "ur",
+      "original_title": "Palki",
+      "overview": "Classic Pakistani romantic drama film directed by Qamar Zaidi",
+      "popularity": 1.2763,
+      "poster_path": null,
+      "release_date": "1975-08-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "character": "",
+      "credit_id": "6a5d29ef6e324867099a5ebc",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1721686,
+      "title": "Umang",
+      "original_language": "ur",
+      "original_title": "Umang",
+      "overview": "Pakistani Film",
+      "popularity": 1.3463,
+      "poster_path": null,
+      "release_date": "1975-11-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "character": "",
+      "credit_id": "6a5e07f0cf8fc82f4368728e",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1721697,
+      "title": "Insan Aur Farishta",
+      "original_language": "ur",
+      "original_title": "انسان اور فرشتہ",
+      "overview": "Pakistani film.",
+      "popularity": 0.9866,
+      "poster_path": null,
+      "release_date": "1976-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "character": "",
+      "credit_id": "6a5e8f70ac7470fb3f63ea05",
+      "order": 2
+    }
+  ],
+  "crew": [],
+  "id": 2345735
+}

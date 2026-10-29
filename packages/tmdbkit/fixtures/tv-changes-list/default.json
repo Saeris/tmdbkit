@@ -1,0 +1,107 @@
+{
+  "results": [
+    {
+      "id": 261557,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 3022,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 302350,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 61305,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 299764,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 340185,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 31991,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 77236,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 83893,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 92237,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 88989,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 237243,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 303552,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 340115,
+      "adult": true,
+      "softcore": false
+    },
+    {
+      "id": 1719,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 239618,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 158101,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 74820,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 335870,
+      "adult": false,
+      "softcore": false
+    },
+    {
+      "id": 289892,
+      "adult": false,
+      "softcore": false
+    }
+  ],
+  "page": 1,
+  "total_pages": 21,
+  "total_results": 2003
+}

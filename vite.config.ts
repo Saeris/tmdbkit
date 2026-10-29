@@ -15,7 +15,21 @@ export default defineConfig({
   lint: mergeLint(lint, {
     jsPlugins: [{ name: "vite-plus", specifier: "vite-plus/oxlint-plugin" }],
     rules: { "vite-plus/prefer-vite-plus-imports": "error" },
-    options: { typeAware: true, typeCheck: true }
+    options: { typeAware: true, typeCheck: true },
+    overrides: [
+      {
+        // As in discordkit: `scripts/` holds dev tooling (fixture recording), not shipped library surface. Casting `JSON.parse` output to a declared shape is the point of those scripts.
+        files: [`scripts/**/*.ts`],
+        rules: {
+          "typescript/no-unsafe-type-assertion": `off`,
+          "typescript/no-unnecessary-condition": `off`
+        }
+      }
+    ]
   }),
-  fmt
+  fmt: {
+    ...fmt,
+    // Recorded TMDB responses are machine-written evidence (`yarn fixtures:record`); re-recording would undo any formatting, so the formatter leaves them alone.
+    ignorePatterns: [`packages/tmdbkit/fixtures/**`]
+  }
 });

@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "description": "",
+      "episode_count": 426,
+      "group_count": 20,
+      "id": "64512017435011014135f6a8",
+      "name": "DVD Order",
+      "network": null,
+      "type": 3
+    },
+    {
+      "description": "",
+      "episode_count": 386,
+      "group_count": 18,
+      "id": "5d4d01f01283e9001586be16",
+      "name": "Production Order",
+      "network": null,
+      "type": 6
+    }
+  ],
+  "id": 1416
+}

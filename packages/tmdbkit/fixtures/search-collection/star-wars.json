@@ -1,0 +1,87 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/uOuBnSRwjDUBbQALvZGZXLve0P.jpg",
+      "id": 1797552,
+      "name": "Star Wars Anthology",
+      "original_language": "zh",
+      "original_name": "Star Wars Anthology",
+      "overview": "The Star Wars Anthology standalone films feature stories outside the main Skywalker saga. Rogue One tells the story of a ragtag rebel team stealing the Death Star plans right before A New Hope. Solo explores the early adventures of young Han Solo, including how he meets Chewbacca and Lando Calrissian.",
+      "poster_path": "/thegQn0yFTZTyX0aSveGz0mjPjf.jpg"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iY2ujEY2m68OTTlPFTiHub9joHS.jpg",
+      "id": 10,
+      "name": "Star Wars Collection",
+      "original_language": "en",
+      "original_name": "Star Wars Collection",
+      "overview": "An epic space-opera theatrical film series, which depicts the adventures of various characters \"a long time ago in a galaxy far, far away….\"",
+      "poster_path": "/pWVLFh4OuejTpUaDQbB1C4zoS2p.jpg"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zU0W0VRF0ZkN8CvjW4LGw0oSyTa.jpg",
+      "id": 302331,
+      "name": "LEGO Star Wars Collection",
+      "original_language": "en",
+      "original_name": "LEGO Star Wars Collection",
+      "overview": "A set of animated LEGO movies based on the Star Wars universe.",
+      "poster_path": "/sHlgKW5hlQvwJseJkmnkSmL3YDI.jpg"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "id": 141748,
+      "name": "Robot Chicken: Star Wars Collection",
+      "original_language": "en",
+      "original_name": "Robot Chicken: Star Wars Collection",
+      "overview": "A series of Robot Chicken TV films parodying the Star Wars films.",
+      "poster_path": "/MqNsF0LZGZF1R9HjUq7MydiYvH.jpg"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cVYUqWzzUSrkLQwb4jlWAkaFCAX.jpg",
+      "id": 1004630,
+      "name": "LEGO Star Wars (Seasonal) Collection",
+      "original_language": "en",
+      "original_name": "LEGO Star Wars (Seasonal) Collection",
+      "overview": "A collection of LEGO Stars Wars seasonal specials released on Disney+.",
+      "poster_path": "/jHITUzB6fZVOYZ13YCqVTS06iyw.jpg"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "id": 1741483,
+      "name": "Vader (A Star Wars Theory Fan Film)",
+      "original_language": "en",
+      "original_name": "Vader (A Star Wars Theory Fan Film)",
+      "overview": "Vader (A Star Wars Theory Fan Film)",
+      "poster_path": null
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/VXwSW7UGuNScCTy5V5H9pgioir.jpg",
+      "id": 133830,
+      "name": "Star Wars: The Ewok Adventures Collection",
+      "original_language": "en",
+      "original_name": "Star Wars: The Ewok Adventures Collection",
+      "overview": "The Ewok Adventures is a 1984 American made-for-TV film duology based in the Star Wars setting. It was released theatrically in Europe as Caravan of Courage: An Ewok Adventure, and is known by that title today. The film focuses on the struggles of a brother and sister, stranded on the forest moon of Endor, in locating their parents, who have been kidnapped by a monster known as the Gorax. The film is set sometime between the fifth and sixth episodes of the Star Wars saga. It is the first of two spin-off films featuring the Ewoks from Star Wars Episode VI: Return of the Jedi. A sequel to this movie released in 1985. While the sequel's working title was simply Ewoks II, it was released as Ewoks: The Battle for Endor.",
+      "poster_path": "/vSrIbcWQJ3IL0R5DoWLh0c7HMTz.jpg"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "id": 423877,
+      "name": "The Man Who Saved the World Collection",
+      "original_language": "en",
+      "original_name": "Dünyayı Kurtaran Adam Koleksiyonu",
+      "overview": "Dünyayı Kurtaran Adam (The Man Who Saved the World) and Dünyayi Kurtaran Adam'in Oglu (The Son of the Man who Saved the World) is a series of Turkish adventure films also known as Turkish Star Wars because of its notorious use of unauthorized footage from Star Wars and other movies worked into the film.",
+      "poster_path": "/bq8NBaPz1dbv4B1xWV7pGhXcixc.jpg"
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 8
+}

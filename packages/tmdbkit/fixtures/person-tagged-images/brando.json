@@ -1,0 +1,145 @@
+{
+  "id": 3084,
+  "page": 0,
+  "results": [
+    {
+      "aspect_ratio": 0.667,
+      "file_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "height": 2250,
+      "id": "5f494dcaefca000035c5518b",
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "vote_average": 4.818,
+      "vote_count": 77,
+      "width": 1500,
+      "image_type": "poster",
+      "media": {
+        "adult": false,
+        "backdrop_path": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+        "id": 238,
+        "title": "The Godfather",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 53.2185,
+        "release_date": "1972-03-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.688,
+        "vote_count": 23864
+      },
+      "media_type": "movie"
+    },
+    {
+      "aspect_ratio": 0.667,
+      "file_path": "/g4JzO2VlYwBvBdXU9dn3IMdXxnH.jpg",
+      "height": 1284,
+      "id": "619547b0bb1057008e9e367f",
+      "iso_3166_1": "XX",
+      "iso_639_1": "xx",
+      "vote_average": 0,
+      "vote_count": 0,
+      "width": 856,
+      "image_type": "poster",
+      "media": {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 899466,
+        "title": "Brando: An Icon Is Born",
+        "original_title": "Brando: An Icon Is Born",
+        "overview": "A short retroperspective feature on Brando's influence on acting itself and the cultural impact of his role in \"The Wild One\".",
+        "poster_path": "/g4JzO2VlYwBvBdXU9dn3IMdXxnH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          99
+        ],
+        "popularity": 1.1464,
+        "release_date": "2007-05-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      "media_type": "movie"
+    },
+    {
+      "aspect_ratio": 0.667,
+      "file_path": "/A5oumpVudKlNL9D1f1KBJSmFeFQ.jpg",
+      "height": 1800,
+      "id": "66470a1f16c572e93da92d79",
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "vote_average": 0,
+      "vote_count": 0,
+      "width": 1200,
+      "image_type": "poster",
+      "media": {
+        "adult": false,
+        "backdrop_path": "/bCQRbHuUl7fsgNBh7FRqpmtKs8H.jpg",
+        "id": 1267935,
+        "title": "Marlon Brando in Paradise",
+        "original_title": "Marlon Brando: Im Paradies",
+        "overview": "In 1966, Marlon Brando (1924-2004), one of the greatest actors of all time, bought Tetiaroa Atoll, located in French Polynesia, with the purpose of creating a natural sanctuary dedicated to scientific research.",
+        "poster_path": "/A5oumpVudKlNL9D1f1KBJSmFeFQ.jpg",
+        "media_type": "movie",
+        "original_language": "de",
+        "genre_ids": [
+          99,
+          36,
+          10770
+        ],
+        "popularity": 1.0451,
+        "release_date": "2024-04-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 5
+      },
+      "media_type": "movie"
+    },
+    {
+      "aspect_ratio": 0.667,
+      "file_path": "/dWIZvEO6M2xKWajgZq63WOxlRer.jpg",
+      "height": 1800,
+      "id": "66470a1f24159ce9d42e021f",
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "vote_average": 0,
+      "vote_count": 0,
+      "width": 1200,
+      "image_type": "poster",
+      "media": {
+        "adult": false,
+        "backdrop_path": "/bCQRbHuUl7fsgNBh7FRqpmtKs8H.jpg",
+        "id": 1267935,
+        "title": "Marlon Brando in Paradise",
+        "original_title": "Marlon Brando: Im Paradies",
+        "overview": "In 1966, Marlon Brando (1924-2004), one of the greatest actors of all time, bought Tetiaroa Atoll, located in French Polynesia, with the purpose of creating a natural sanctuary dedicated to scientific research.",
+        "poster_path": "/A5oumpVudKlNL9D1f1KBJSmFeFQ.jpg",
+        "media_type": "movie",
+        "original_language": "de",
+        "genre_ids": [
+          99,
+          36,
+          10770
+        ],
+        "popularity": 1.0451,
+        "release_date": "2024-04-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 5
+      },
+      "media_type": "movie"
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

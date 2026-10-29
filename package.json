@@ -14,7 +14,9 @@
     "check": "vp check",
     "format": "vp check --fix",
     "test": "vp test --fileParallelism",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "fixtures:record": "node --env-file=.env scripts/record-fixtures.ts && node scripts/fixture-shapes.ts",
+    "fixtures:shapes": "node scripts/fixture-shapes.ts"
   },
   "devDependencies": {
     "@faker-js/faker": "catalog:",

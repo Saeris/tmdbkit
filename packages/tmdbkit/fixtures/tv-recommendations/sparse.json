@@ -1,0 +1,469 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/SwelVZszZ1yn6g7wGokN4PHy7w.jpg",
+      "id": 1584,
+      "name": "What a Cartoon!",
+      "original_name": "What a Cartoon!",
+      "overview": "Various original cartoons by some of today's top animators.",
+      "poster_path": "/hxlRNgdB1dvtylJuLyXHGtVo3Tu.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "popularity": 16.769,
+      "first_air_date": "1995-02-20",
+      "softcore": false,
+      "vote_average": 7.5,
+      "vote_count": 27,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bfeOXOhilwMYcO0ruvFXruBsv4H.jpg",
+      "id": 127706,
+      "name": "Kiff",
+      "original_name": "Kiff",
+      "overview": "This series follows Kiff, an optimistic squirrel whose best intentions often lead to complete chaos, and her best friend Barry, a sweet and mellow bunny. Set in the bustling mountains, where animals and magical creatures live together in harmony, the series features the duo, who take the town by storm with their endless adventures and zest for life.",
+      "poster_path": "/h7xhJ1uWu7FurJ3W5iKzrfiPF3K.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 28.5686,
+      "first_air_date": "2023-03-10",
+      "softcore": false,
+      "vote_average": 8.4,
+      "vote_count": 22,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e1WQUxuwgfwEEKPQ49wqxKf5fqA.jpg",
+      "id": 334,
+      "name": "Sealab 2021",
+      "original_name": "Sealab 2021",
+      "overview": "The year is 2021. Deep below the ocean's surface, looms a vast, magnificently high-tech compound: Sealab. A multi-national scientific station with an annual budget in the trillions, manned by a motley collection of malcontents and screw-ups who were unfit for work in the private sector. They really don't get any research done, but instead spend their time bickering among themselves or just plain goofing off. The crew have manipulated their luckless leader, Captain Murphy, into submission, and are content to ride the government clock, raking in fat, hazardous-duty paychecks.",
+      "poster_path": "/eA4JJfHZ6DdfPd3BCu5qWm99Fl5.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 18.7779,
+      "first_air_date": "2000-12-21",
+      "softcore": false,
+      "vote_average": 7.4,
+      "vote_count": 103,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kWAOFPCUIN4AOagMHUZgvpN9ngx.jpg",
+      "id": 7985,
+      "name": "Seth MacFarlane's Cavalcade of Cartoon Comedy",
+      "original_name": "Seth MacFarlane's Cavalcade of Cartoon Comedy",
+      "overview": "Seth MacFarlane's Cavalcade of Cartoon Comedy is an American cartoon web series created by Seth MacFarlane. The series is based on the cutaway jokes on Family Guy.",
+      "poster_path": "/fqF6s89GdSyHTwuI4seqBrvapHR.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 25.2463,
+      "first_air_date": "2008-09-10",
+      "softcore": false,
+      "vote_average": 5.9,
+      "vote_count": 36,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6vlbQnMPDI5PJdcKf7wsv8ECKrR.jpg",
+      "id": 7972,
+      "name": "Dumb and Dumber",
+      "original_name": "Dumb and Dumber",
+      "overview": "The mind-blowing adventures of America's favorite morons take a surreal turn in this cartoon spin-off of the smash success comedy movie Dumb and Dumber. The show starts off with the duo rescuing their dognapped van, Otto, and picking up one strange pet, Kitty, a purple beaver, then hits the road for the ridiculous with the pedal to the metal. No circumstance is to strange for this show's satire, from the mundanities of physical fitness and test piloting to the insanities of robot mailmen and speeding taco-mobiles rigged with stink bombs!",
+      "poster_path": "/6zPRyKCHTvJk5JZSI7cwEnwLx7p.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 8.2161,
+      "first_air_date": "1995-10-28",
+      "softcore": false,
+      "vote_average": 6,
+      "vote_count": 22,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cOJnXnfB4ADrZDqXqpOSlosTouw.jpg",
+      "id": 61858,
+      "name": "The Cyanide & Happiness Show",
+      "original_name": "The Cyanide & Happiness Show",
+      "overview": "Following the success of its webcomic and occasional animated shorts, Cyanide & Happiness has debuted its animated show. After a very successful Kickstarter campaign, the creators of the popular comic (Kris Wilson, Rob DenBleyker, Matt Melvin, Dave McElfatrick) have released a much longer show that’s essentially a collection of animated sketches with some recurring themes throughout.",
+      "poster_path": "/1IaXQ40ri9fz4IoE1E7MnorL5Xw.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "popularity": 8.6783,
+      "first_air_date": "2014-11-12",
+      "softcore": false,
+      "vote_average": 7.2,
+      "vote_count": 22,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dwNNwA3tY9ShotYFxXRbcb7MrIN.jpg",
+      "id": 6670,
+      "name": "The Charlie Brown and Snoopy Show",
+      "original_name": "The Charlie Brown and Snoopy Show",
+      "overview": "Your favorite Peanuts stories come to life in this animated television series. With short sketches featuring these classic and much-loved characters, it's easy to, as the opening song suggests, “have a party with Charlie Brown and Snoopy.”",
+      "poster_path": "/4tpCaJq94eHBWsWVtwFWojbUjcM.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 7.7865,
+      "first_air_date": "1983-09-17",
+      "softcore": false,
+      "vote_average": 7.6,
+      "vote_count": 152,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sFJQKAJ7WdQaGLssnOwFhlRMaSZ.jpg",
+      "id": 31499,
+      "name": "Fish Hooks",
+      "original_name": "Fish Hooks",
+      "overview": "This inventive animated comedy series, set inside a giant fish tank in Bud's Pet Shop, presents high school life as seen through the eyes of three BFFs (best fish friends), Bea, Milo and Oscar. Together they experience the typical life challenges and triumphs, including friendship, dating and sports, along with more atypical situations such as giant lobster attacks and, with the use of special land suits, school field trips to the hamster cages. The series was created by children's book illustrator Noah Z. Jones and features a notable voice cast. It's produced using an innovative mixture of digital animation and photo collage",
+      "poster_path": "/sejbZwyIgotzTRH9BdYqMKgtgIp.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        10762
+      ],
+      "popularity": 25.8184,
+      "first_air_date": "2010-09-03",
+      "softcore": false,
+      "vote_average": 6.5,
+      "vote_count": 94,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jXsSUyHRE7mCjXwMjnxyBNP8VzJ.jpg",
+      "id": 13914,
+      "name": "Fat Albert and the Cosby Kids",
+      "original_name": "Fat Albert and the Cosby Kids",
+      "overview": "Fat Albert and the Cosby Kids is an animated series created, produced, and hosted by comedian Bill Cosby, who also lent his voice to a number of characters, including Fat Albert himself. Filmation was the production company for the series. The show premiered in 1972 and ran until 1985. The show, based on Cosby's remembrances of his childhood gang, centered on Albert, and his friends.\n\nThe show always had an educational lesson emphasized by Cosby's live-action segments, and in early episodes the gang would usually gather in their North Philadelphia junkyard to play a rock song on their cobbled-together instruments at the end of the show.",
+      "poster_path": "/f3kClXCfyDibYXpdUAxQmtCaKQB.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 13.6316,
+      "first_air_date": "1972-09-09",
+      "softcore": false,
+      "vote_average": 6.7,
+      "vote_count": 37,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nPGOwVnAULxHov0i0sror9GM4Ph.jpg",
+      "id": 204358,
+      "name": "Strange Planet",
+      "original_name": "Strange Planet",
+      "overview": "Welcome to a distant planet not unlike our own, with hilarious yet poignant observations on life, love, and friendship—told in the most peculiar way.",
+      "poster_path": "/zM1UUFXEhlc417nshpi3GyG9TzA.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 9.2722,
+      "first_air_date": "2023-08-08",
+      "softcore": false,
+      "vote_average": 6.1,
+      "vote_count": 59,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7M0huD4pLqe15c3VSxBMCqzFMSW.jpg",
+      "id": 2,
+      "name": "Clerks",
+      "original_name": "Clerks",
+      "overview": "The continuing adventures of store clerks Dante and Randal, who try to make the best of their menial labor, with no help from Jay and Silent Bob.",
+      "poster_path": "/xunXvzFlkf1GGgMkCySA9CCFumB.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 10.7018,
+      "first_air_date": "2000-05-31",
+      "softcore": false,
+      "vote_average": 7.2,
+      "vote_count": 131,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aZh1ZTBlw8oJC88chVJrotloblx.jpg",
+      "id": 13120,
+      "name": "Code Monkeys",
+      "original_name": "Code Monkeys",
+      "overview": "Set in the early 1980s, Code Monkeys follows the adventures of fictional video game company GameAVision.",
+      "poster_path": "/meSp7BdlrDmDqrRI280CybLWf5r.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 9.0707,
+      "first_air_date": "2007-07-11",
+      "softcore": false,
+      "vote_average": 7.2,
+      "vote_count": 27,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3gTIwbdGPE5d448o0dqOtYeDXBx.jpg",
+      "id": 539,
+      "name": "Squidbillies",
+      "original_name": "Squidbillies",
+      "overview": "Squidbillies is an animated television series about the Cuylers, an impoverished family of anthropomorphic hillbilly mud squids living in the Appalachian region of Georgia's mountains. The show is produced by Williams Street Studios for the Adult Swim programming block of Cartoon Network and premiered on October 16, 2005. It is written by Dave Willis, co-creator of Aqua Teen Hunger Force, and Jim Fortier, previously of The Brak Show, both of whom worked on the Adult Swim series Space Ghost Coast to Coast. The animation is done by Awesome Incorporated, with background design by Ben Prisk.",
+      "poster_path": "/ffXx3qq4eopQMof6M26tZ2yiiT3.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "popularity": 24.8511,
+      "first_air_date": "2005-10-16",
+      "softcore": false,
+      "vote_average": 6.9,
+      "vote_count": 88,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yLLRJwHlRwADEojNwVhqAxSH8hh.jpg",
+      "id": 81425,
+      "name": "Talking Tom and Friends",
+      "original_name": "Talking Tom and Friends",
+      "overview": "Armed with technological gear, great ideas and an unfailing sense of humour, Talking Tom and his friends are on a mission to reach stardom at all costs.",
+      "poster_path": "/u6We7ht3z8bSIaUF8P7DEwopOPi.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        10762
+      ],
+      "popularity": 26.6181,
+      "first_air_date": "2014-12-23",
+      "softcore": false,
+      "vote_average": 7,
+      "vote_count": 20,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mofoDq8K1tvhSKE00NrlLkS7Mrg.jpg",
+      "id": 709,
+      "name": "Robot Chicken",
+      "original_name": "Robot Chicken",
+      "overview": "A series of pop-culture parodies using stop-motion animation of toys, action figures and dolls. The title character was an ordinary chicken until he was run down by a car and subsequently brought back to life in cyborg form by mad scientist Fritz Huhnmorder, who tortures Robot Chicken by forcing him to watch a random selection of TV shows, the sketches that make up the body of each episode.",
+      "poster_path": "/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "popularity": 66.8642,
+      "first_air_date": "2005-02-20",
+      "softcore": false,
+      "vote_average": 7.6,
+      "vote_count": 599,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nOJh6eAVjKmmD3W6Hb83k0zQgGb.jpg",
+      "id": 1679,
+      "name": "The Tracey Ullman Show",
+      "original_name": "The Tracey Ullman Show",
+      "overview": "The Tracey Ullman Show is an American television variety show, hosted by British-born actress and onetime pop singer Tracey Ullman. It debuted on April 5, 1987 as the Fox network's second primetime series after Married... with Children (1987–1997), and ran until May 26, 1990. The show is produced by Gracie Films and 20th Century Fox Television. The show blended sketch comedy shorts with many musical numbers, featuring choreography by Paula Abdul. The show also produced The Simpsons shorts before it spun off into its own show, which was also produced by Gracie Films and 20th Century Fox Television.",
+      "poster_path": "/a9LEacUqkY2DNDEkLK75EvHCzF.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 11.6983,
+      "first_air_date": "1987-04-05",
+      "softcore": false,
+      "vote_average": 7,
+      "vote_count": 24,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lupHqKwfIY4J1D5RuePwmimypvO.jpg",
+      "id": 1542,
+      "name": "Frisky Dingo",
+      "original_name": "Frisky Dingo",
+      "overview": "Alien supervillain Killface wants to destroy Earth. Billionaire playboy Xander Crews realizes he can make more money if he stops him. Who will win?",
+      "poster_path": "/htOTzAqXEuf5rmqmmcHJG6avqde.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 8.7918,
+      "first_air_date": "2006-10-16",
+      "softcore": false,
+      "vote_average": 7.4,
+      "vote_count": 76,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f1w0WaBPDVXL1U6rH5TwHll7C8Z.jpg",
+      "id": 42370,
+      "name": "Unsupervised",
+      "original_name": "Unsupervised",
+      "overview": "15-year-old best friends Gary and Joel try to navigate teenage life while also trying to do the right thing without the help of any parental supervision.",
+      "poster_path": "/i8m1BIJCoDi0WUAncm9PkYJbTqY.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 9.0299,
+      "first_air_date": "2012-01-19",
+      "softcore": false,
+      "vote_average": 6.6,
+      "vote_count": 27,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kgEFD11dQdi8tCUgdNX1Ul02LlW.jpg",
+      "id": 107124,
+      "name": "Animaniacs",
+      "original_name": "Animaniacs",
+      "overview": "Yakko, Wakko and Dot return for all-new big laughs and the occasional epic takedown of authority figures in serious need of an ego check. Joining the Warners are Starbox & Cindy on their latest play date while Pinky and the Brain's ideas for world domination lead them to all new adventures.",
+      "poster_path": "/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 34.3682,
+      "first_air_date": "2020-11-20",
+      "softcore": false,
+      "vote_average": 8.4,
+      "vote_count": 608,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8yF2AzMBDYQpCFgaZrSftDdy8Dw.jpg",
+      "id": 39680,
+      "name": "China, IL",
+      "original_name": "China, IL",
+      "overview": "The absurdist legacy of the worst college in America is set to unfold, as the Professor Brothers, Steve and Frank Smith, alongside their colleagues, deal with life, each other, and the nagging responsibility of their collegiate duties, whether slamming drinks during lectures or finding any possible excuse not to teach.",
+      "poster_path": "/gxzKGspzftXVmhIquL2tYdt9ZU5.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 14.0865,
+      "first_air_date": "2011-10-02",
+      "softcore": false,
+      "vote_average": 6.8,
+      "vote_count": 30,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 42,
+  "total_results": 829
+}

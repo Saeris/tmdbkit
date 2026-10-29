@@ -1,0 +1,85 @@
+{
+  "changes": [
+    {
+      "key": "crew",
+      "items": [
+        {
+          "id": "6ae13b0e6be00581a4d01f00",
+          "action": "deleted",
+          "time": "2026-10-28 00:00:14 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "original_value": {
+            "person_id": 57633,
+            "department": "Directing",
+            "job": "Director",
+            "cast_id": 4,
+            "credit_id": "692f313d6a881ea048512aa5"
+          }
+        }
+      ]
+    },
+    {
+      "key": "cast",
+      "items": [
+        {
+          "id": "6ae13b078135fac3ae3824ec",
+          "action": "deleted",
+          "time": "2026-10-28 00:00:07 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "original_value": {
+            "person_id": 131,
+            "character": "",
+            "order": 0,
+            "cast_id": 1,
+            "credit_id": "692f3102dd5bb5550f6e30f4"
+          }
+        },
+        {
+          "id": "6ae13b0a898e45c09b2b0888",
+          "action": "deleted",
+          "time": "2026-10-28 00:00:10 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "original_value": {
+            "person_id": 83002,
+            "character": "",
+            "order": 0,
+            "cast_id": 2,
+            "credit_id": "692f310c27802ce29c64b0d5"
+          }
+        }
+      ]
+    },
+    {
+      "key": "status",
+      "items": [
+        {
+          "id": "6ae13b17a7e735de50a809f6",
+          "action": "updated",
+          "time": "2026-10-28 00:00:23 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": "Canceled",
+          "original_value": "Planned"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "items": [
+        {
+          "id": "6ae13d108135fac3ae382516",
+          "action": "destroyed",
+          "time": "2026-10-28 00:08:48 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "reason": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

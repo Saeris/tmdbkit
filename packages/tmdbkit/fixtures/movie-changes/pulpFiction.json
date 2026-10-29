@@ -1,0 +1,21 @@
+{
+  "changes": [
+    {
+      "key": "images",
+      "items": [
+        {
+          "id": "6ae13e1d97cb88aaf42b0937",
+          "action": "added",
+          "time": "2026-10-28 00:13:17 UTC",
+          "iso_639_1": "xx",
+          "iso_3166_1": "XX",
+          "value": {
+            "poster": {
+              "file_path": "/zZbQFD2yZh5qXma3FCjSzIjcAFw.jpg"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

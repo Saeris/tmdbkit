@@ -1,0 +1,225 @@
+{
+  "id": 10,
+  "translations": [
+    {
+      "iso_3166_1": "DE",
+      "iso_639_1": "de",
+      "name": "Deutsch",
+      "english_name": "German",
+      "data": {
+        "title": "Star Wars Filmreihe",
+        "overview": "\"Star Wars™\" ist die größte Science-Fiction-Saga aller Zeiten, die mit ihren bislang neun filmischen Episoden und den unüberschaubaren Verzweigungen alle Dimensionen der Unterhaltungskultur gesprengt hat. Die Abenteuer von Luke Skywalker, Han Solo und der schönen Prinzessin Leia fesseln die Kinozuschauer und die Leser in aller Welt.",
+        "homepage": "http://www.starwars-union.de"
+      }
+    },
+    {
+      "iso_3166_1": "HU",
+      "iso_639_1": "hu",
+      "name": "Magyar",
+      "english_name": "Hungarian",
+      "data": {
+        "title": "Star Wars gyűjtemény",
+        "overview": "A Csillagok háborúja (eredeti címe: Star Wars) egy űropera filmsorozatnak, irodalmi műveknek és számítógépes játékoknak a neve. Mindezek George Lucas filmrendező ötletei alapján készültek el. A filmek cselekménye a Galaktikus Köztársaság és a Galaktikus Birodalom közti átmenetek, valamint a Galaktikus Polgárháború (amely a Lázadó Szövetség és a Galaktikus Birodalom között zajlik) körül forog. Valójában az egész cselekmény a jó és a rossz harcát jelképezi. A történet „réges régen, egy messzi-messzi galaxisban…” játszódik. Az eredeti Csillagok háborúja-trilógia, főleg annak elsőként vetített része, az Egy új remény (IV. epizód) úttörő jelentőségű volt a sci-fi műfajában mind tartalmilag, mind a technikai megvalósítást tekintve, de az előzmény-trilógia (Baljós árnyak, A klónok támadása, A Sith-ek bosszúja) is számos újítást hozott magával.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "CZ",
+      "iso_639_1": "cs",
+      "name": "Český",
+      "english_name": "Czech",
+      "data": {
+        "title": "Star Wars (kolekce)",
+        "overview": "Star Wars (česky původně též Hvězdné války) je americká multimediální franšíza žánru space opera, vytvořená Georgem Lucasem. Její hlavní částí je devítidílná řada celovečerních filmů, ke které se postupně přidala další díla.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "UA",
+      "iso_639_1": "uk",
+      "name": "Український",
+      "english_name": "Ukrainian",
+      "data": {
+        "title": "Зоряні війни | Колекція",
+        "overview": "Культова епічна фантастична сага, що містить оповіді про протистояння планет, цивілізації та фракцій «Далекої галактики».",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "FI",
+      "iso_639_1": "fi",
+      "name": "suomi",
+      "english_name": "Finnish",
+      "data": {
+        "title": "Tähtien sota",
+        "overview": "",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "FR",
+      "iso_639_1": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "data": {
+        "title": "Star Wars - Saga",
+        "overview": "Luke Skywalker, la Princesse Leia, Dark Vador, C3PO, R2D2 et de nombreux autres personnages du film sont désormais des noms familiers de l'un des projets cinématographiques les plus réussis de tous les temps.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "DK",
+      "iso_639_1": "da",
+      "name": "Dansk",
+      "english_name": "Danish",
+      "data": {
+        "title": "Star Wars (Samling)",
+        "overview": "For meget længe siden i en fjern, fjern galakse....",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "RO",
+      "iso_639_1": "ro",
+      "name": "Română",
+      "english_name": "Romanian",
+      "data": {
+        "title": "Colecția Războiul stelelor",
+        "overview": "O serie de filme artistice cinematografice epice de operă spațială, care prezintă aventurile diferitelor personaje „cu mult timp în urmă, într-o galaxie foarte, foarte îndepărtată....”.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "title": "星球大战（系列）",
+        "overview": "该系列是好莱坞经典科幻史诗正传九部曲外传2部，以绝地武士与西斯尊主的光剑对决、原力善恶对抗、银河帝国与反抗军的星际战争为核心，是影史最具影响力的太空歌剧系列。  系列以天行者家族的命运为主线，横跨三代人的恩怨纠葛：从阿纳金・天行者堕入黑暗面成为达斯・维达，到卢克・天行者崛起反抗帝国，再到蕾伊传承原力终结西斯，串联起银河共和国、帝国、第一秩序的兴衰更迭。全系列均以宏大星际战场、经典原力设定与史诗般的宿命叙事，奠定太空科幻片的经典范式。",
+        "homepage": "https://www.starwars.com/"
+      }
+    },
+    {
+      "iso_3166_1": "NO",
+      "iso_639_1": "no",
+      "name": "Norsk",
+      "english_name": "Norwegian",
+      "data": {
+        "title": "Star Wars-samlingen",
+        "overview": "",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "HR",
+      "iso_639_1": "hr",
+      "name": "Hrvatski",
+      "english_name": "Croatian",
+      "data": {
+        "title": "Ratovi zvijezda zbirka",
+        "overview": "Epska filmska franšiza svemirske opere, koja prikazuje avanture raznih likova \"nekoć davno, u jednoj dalekoj galaksiji...\"",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "PT",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "title": "Star Wars - Guerra das Estrelas",
+        "overview": "Uma série épica de filmes ópera espacial, que retratam as aventuras de vários personagens \"há muito tempo numa galáxia muito, muito distante...\"",
+        "homepage": "https://www.starwars.com/"
+      }
+    },
+    {
+      "iso_3166_1": "NL",
+      "iso_639_1": "nl",
+      "name": "Nederlands",
+      "english_name": "Dutch",
+      "data": {
+        "title": "Star Wars Collectie",
+        "overview": "De collectie van de 9 theatrale productie van films uit de regisseur, scenarioschrijver en producer George Lucas. Luke Skywalker, Princess Leia, Darth Vader, C3PO, R2D2 en vele andere personages uit de film zijn nu vertrouwde namen van een van de meest succesvolle filmprojecten aller tijden.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "PL",
+      "iso_639_1": "pl",
+      "name": "Polski",
+      "english_name": "Polish",
+      "data": {
+        "title": "Gwiezdne wojny - Kolekcja",
+        "overview": "Kolekcja „Gwiezdne wojny” to epicka saga opowiadająca o walce dobra ze złem w odległej galaktyce. Śledzi losy Jedi, Sithów, rebeliantów i imperiów, którzy toczą bitwy o władzę, wolność i równowagę w Mocy, łącząc w sobie widowiskową akcję, emocjonujące historie i ponadczasowe przesłanie.",
+        "homepage": "http://www.starwars.com/"
+      }
+    },
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "title": "",
+        "overview": "An epic space-opera theatrical film series, which depicts the adventures of various characters \"a long time ago in a galaxy far, far away….\"",
+        "homepage": "https://www.starwars.com/films"
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "es",
+      "name": "Español",
+      "english_name": "Spanish",
+      "data": {
+        "title": "La guerra de las galaxias - Colección",
+        "overview": "La colección de las 9 películas del director , escritor y productor George Lucas. Con Luke Skywalker, Princesa Leia, Darth Vader, C3PO, R2D2 y más personajes de la saga de la Guerra de las Galaxias.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "SE",
+      "iso_639_1": "sv",
+      "name": "svenska",
+      "english_name": "Swedish",
+      "data": {
+        "title": "Star Wars Sagan",
+        "overview": "Star Wars är en episk saga som utspelar sig i en fjärran galax och där kampen mellan gott och ont står i centrum. Sagan följer tre generationer av samma familj och deras avgörande roll i galaxens kamp mellan ljus och mörker.  Berättelsen börjar med Anakin Skywalker, en slavpojke med enorm styrka i Kraften som långsamt dras mot den mörka sidan och blir Darth Vader. I den ursprungliga trilogin möter vi hans barn, Luke och Leia, som växer upp ovetande om sitt arv. Luke tränas till jedi och blir rebellalliansens hopp i kampen mot imperiet och sin egen far. Den avslutande trilogin skildrar hur galaxen åter hotas av nya mörka krafter, samtidigt som Rey – en ung kvinna med stark koppling till Kraften – söker sin identitet och sin plats i historien. Tillsammans med de sista Skywalkers formar hon det slutliga uppgöret som avgör galaxens framtid.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "IL",
+      "iso_639_1": "he",
+      "name": "עִבְרִית",
+      "english_name": "Hebrew",
+      "data": {
+        "title": "מלחמת הכוכבים - אוסף",
+        "overview": "מלחמת הכוכבים הוא שמה של סדרת סרטי מדע בדיוני מצליחים שיצר במאי הקולנוע ג'ורג' לוקאס. הסרט הראשון בסדרה, שנקרא אז \"מלחמת הכוכבים\" וכיום נקרא \"מלחמת הכוכבים - פרק 4: תקווה חדשה\", יצא בשנת 1977. מאז יצאו חמישה סרטים נוספים בסדרה, האחרון שבהם בשנת 2005. בסדרת הסרטים כיכבו אנסמבל של שחקנים כדוגמת מארק המיל, האריסון פורד, קארי פישר ואלק גינס (בטרילוגיה המקורית) והיידן כריסטנסן, נטלי פורטמן, יואן מקגרגור, ליאם ניסן, כריסטופר לי וסמואל ל. ג'קסון (בטרילוגיה המקדימה). בעקבות רכישת לוקאס פילם על ידי דיסני, הכריזו הרוכשים על הפקת טרילוגיה חדשה (פרקים 7-9); הראשון בהם צפוי לצאת לאקרנים בשנת 2015.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "KR",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말",
+      "english_name": "Korean",
+      "data": {
+        "title": "스타워즈 시리즈",
+        "overview": "오래전 멀고 먼 은하계에...",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "SK",
+      "iso_639_1": "sk",
+      "name": "Slovenčina",
+      "english_name": "Slovak",
+      "data": {
+        "title": "Star Wars (kolekcia)",
+        "overview": "",
+        "homepage": "http://www.starwars.com"
+      }
+    }
+  ]
+}

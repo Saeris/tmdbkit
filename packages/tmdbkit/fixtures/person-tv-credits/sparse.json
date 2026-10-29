@@ -1,0 +1,54 @@
+{
+  "cast": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10764
+      ],
+      "id": 90442,
+      "origin_country": [
+        "PK"
+      ],
+      "original_language": "ur",
+      "original_name": "Lux Style Awards",
+      "overview": "The Lux Style Awards is the largest award ceremony held annually in Pakistan since 2002. The awards celebrate \"style\" in the Pakistani entertainment industry, and it is the oldest event dedicated to cinema, television, fashion, music and film industry in Pakistan.",
+      "popularity": 5.5668,
+      "poster_path": "/zpn96nikrfsUHd5VJSyVnqWf7GA.jpg",
+      "first_air_date": "2002-02-18",
+      "softcore": false,
+      "name": "Lux Style Awards",
+      "vote_average": 10,
+      "vote_count": 1,
+      "character": "Self",
+      "credit_id": "5d0f62d20e0a26378dcc614c",
+      "episode_count": 1,
+      "first_credit_air_date": "2010-02-02"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 340281,
+      "origin_country": [
+        "PK"
+      ],
+      "original_language": "ur",
+      "original_name": "Dehleez",
+      "overview": "The drama unfolds in urban Karachi and centers on Saeeda (Roohi Bano), a principled and resilient woman who endures profound setbacks—most notably being expelled from her home by her husband. Faced with adversity, she relocates to a lower-income neighborhood, determined to rebuild a life for herself and her children. Facing societal prejudice, financial hardship, and emotional turmoil, she finds strength in her character, dignity, and the support of kind-hearted neighbors. The story captures the struggles of middle-class women, the harsh realities of a male-dominated society, and the courage it takes to stand up for oneself while raising a family.",
+      "popularity": 0.0194,
+      "poster_path": null,
+      "first_air_date": "",
+      "softcore": false,
+      "name": "Dehleez",
+      "vote_average": 0,
+      "vote_count": 0,
+      "character": "Saeeda",
+      "credit_id": "6ae24977bdd09fc135095e28",
+      "episode_count": 2,
+      "first_credit_air_date": null
+    }
+  ],
+  "crew": [],
+  "id": 2345735
+}

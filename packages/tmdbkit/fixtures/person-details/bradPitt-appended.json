@@ -1,0 +1,3779 @@
+{
+  "adult": false,
+  "also_known_as": [
+    "William Bradley Pitt"
+  ],
+  "biography": "William Bradley Pitt (born December 18, 1963) is an American actor and film producer. In a film career spanning more than thirty years, Pitt has received numerous accolades, including two Academy Awards, two British Academy Film Awards, two Golden Globe Awards, two Primetime Emmy Awards and one Volpi Cup. His films as a leading actor have grossed over $7.5 billion worldwide.\n\nPitt first gained recognition as a cowboy hitchhiker in the Ridley Scott road film Thelma & Louise (1991). Pitt emerged as a star taking on starring roles in films such as the drama A River Runs Through It (1992), the western Legends of the Fall (1994), the horror film Interview with the Vampire (1994), the crime thriller Seven (1995), the cult film Fight Club (1999), and the crime comedy Snatch (2000). He cemented his leading man status by starring in blockbusters such as Steven Soderbergh's Ocean's film trilogy (2001–2007), Troy (2004), Mr. & Mrs. Smith (2005), World War Z (2013), Bullet Train (2022) and F1 (2025).\n\nPitt earned Academy Award nominations for his performances in the science fiction drama 12 Monkeys (1995), the fantasy romance The Curious Case of Benjamin Button (2008) and the sports drama Moneyball (2011). For his portrayal of a stuntman in Quentin Tarantino's Once Upon a Time in Hollywood (2019), he won the Academy Award for Best Supporting Actor. He also starred in acclaimed films such as Babel(2006), The Assassination of Jesse James by the Coward Robert Ford (2007), Burn After Reading (2008), Inglourious Basterds (2009), The Tree of Life (2011), Fury (2014), The Big Short (2015), Ad Astra (2019) and Babylon (2022).\n\nIn 2001, Pitt co-founded the production company Plan B Entertainment. As a producer, he won the Academy Award for Best Picture for 12 Years a Slave (2013). He was nominated for Moneyball (2011) and The Big Short (2015). An influential figure in popular culture, Pitt appeared on Forbes' annual Celebrity 100 list from 2006 to 2008, and the Time 100 list in 2007. Regarded as a sex symbol, Pitt was named People's Sexiest Man Alive in 1995 and 2000. Pitt's relationships have also been subject to widespread media attention, particularly his marriages to actresses Jennifer Aniston and Angelina Jolie, the latter of whom he shares six children with.\n\nDescription above from the Wikipedia article Brad Pitt, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+  "birthday": "1963-12-18",
+  "deathday": null,
+  "gender": 2,
+  "homepage": null,
+  "id": 287,
+  "imdb_id": "nm0000093",
+  "known_for_department": "Acting",
+  "name": "Brad Pitt",
+  "place_of_birth": "Shawnee, Oklahoma, USA",
+  "popularity": 9.699,
+  "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+  "changes": {
+    "changes": []
+  },
+  "combined_credits": {
+    "cast": [
+      {
+        "adult": false,
+        "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+        "genre_ids": [
+          878,
+          53,
+          9648
+        ],
+        "id": 63,
+        "title": "Twelve Monkeys",
+        "original_language": "en",
+        "original_title": "Twelve Monkeys",
+        "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+        "popularity": 16.5112,
+        "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+        "release_date": "1995-12-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.613,
+        "vote_count": 9502,
+        "character": "Jeffrey Goines",
+        "credit_id": "52fe4212c3a36847f8001b39",
+        "order": 2,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 107,
+        "title": "Snatch",
+        "original_language": "en",
+        "original_title": "Snatch",
+        "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+        "popularity": 22.8879,
+        "poster_path": "/kIBMvdZ3qLUycHLbT6IFs7UtaCq.jpg",
+        "release_date": "2000-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.831,
+        "vote_count": 10418,
+        "character": "Mickey O'Neil",
+        "credit_id": "52fe4218c3a36847f8003be5",
+        "order": 3,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 161,
+        "title": "Ocean's Eleven",
+        "original_language": "en",
+        "original_title": "Ocean's Eleven",
+        "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+        "popularity": 23.1714,
+        "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+        "release_date": "2001-12-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.466,
+        "vote_count": 13060,
+        "character": "Rusty Ryan",
+        "credit_id": "52fe4220c3a36847f800616b",
+        "order": 1,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 163,
+        "title": "Ocean's Twelve",
+        "original_language": "en",
+        "original_title": "Ocean's Twelve",
+        "overview": "Despite pulling off one of the biggest heists in Las Vegas history and splitting the $160 million take, each of the infamous Ocean's crew have tried to go straight, lay low and live a legit life... but that's proven to be a challenge. Casino owner Terry Benedict demands that Danny Ocean return the money, plus millions more in interest. Unable to come up the cash, the crew is forced to come together to pull off another series of heists, this time in Rome, Paris, and Amsterdam – but a Europol agent is hot on their heels.",
+        "popularity": 12.385,
+        "poster_path": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+        "release_date": "2004-12-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.569,
+        "vote_count": 8225,
+        "character": "Rusty Ryan",
+        "credit_id": "52fe4221c3a36847f80062e5",
+        "order": 2,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/85dLdBCBbuZYde0T6L1CKXd707u.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 293,
+        "title": "A River Runs Through It",
+        "original_language": "en",
+        "original_title": "A River Runs Through It",
+        "overview": "The Maclean brothers, Paul and Norman, live a relatively idyllic life in rural Montana, spending much of their time fly fishing. The sons of a minister, the boys eventually part company when Norman moves east to attend college, leaving his rebellious brother to find trouble back home. When Norman finally returns, the siblings resume their fishing outings, and assess where they've been and where they're going.",
+        "popularity": 7.9441,
+        "poster_path": "/aVP45oS2cBL4WtZ1kB7r8uarruB.jpg",
+        "release_date": "1992-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1258,
+        "character": "Paul Maclean",
+        "credit_id": "52fe4233c3a36847f800bb79",
+        "order": 1,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uS18gs16EXfFJhjA11cXj4WWPMb.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 298,
+        "title": "Ocean's Thirteen",
+        "original_language": "en",
+        "original_title": "Ocean's Thirteen",
+        "overview": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+        "popularity": 12.1402,
+        "poster_path": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+        "release_date": "2007-06-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.734,
+        "vote_count": 7166,
+        "character": "Rusty Ryan",
+        "credit_id": "52fe4234c3a36847f800bf0f",
+        "order": 1,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uMBByiSDpgFwWVegAtwwnuzvogJ.jpg",
+        "genre_ids": [
+          14,
+          18,
+          10749
+        ],
+        "id": 297,
+        "title": "Meet Joe Black",
+        "original_language": "en",
+        "original_title": "Meet Joe Black",
+        "overview": "Bill Parrish has it all - success, wealth and power. Days before his 65th birthday, he receives a visit from a mysterious stranger, Joe Black, who soon reveals himself as Death. In exchange for extra time, Bill agrees to serve as Joe's earthly guide. But will he regret his choice when Joe unexpectedly falls in love with Bill's beautiful daughter Susan?",
+        "popularity": 10.9815,
+        "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+        "release_date": "1998-11-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.377,
+        "vote_count": 6017,
+        "character": "Joe Black / Young Man in Coffee Shop",
+        "credit_id": "52fe4234c3a36847f800bdbb",
+        "order": 0,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+        "genre_ids": [
+          28,
+          80,
+          10749
+        ],
+        "id": 319,
+        "title": "True Romance",
+        "original_language": "en",
+        "original_title": "True Romance",
+        "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+        "popularity": 8.9919,
+        "poster_path": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+        "release_date": "1993-09-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 3224,
+        "character": "Floyd (Dick's Roommate)",
+        "credit_id": "52fe4237c3a36847f800cdd3",
+        "order": 5,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/athnSvS41TEHOSK2Ax0LAM0ulDp.jpg",
+        "genre_ids": [
+          12,
+          18,
+          36
+        ],
+        "id": 978,
+        "title": "Seven Years in Tibet",
+        "original_language": "en",
+        "original_title": "Seven Years in Tibet",
+        "overview": "Austrian mountaineer Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Lhasa, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",
+        "popularity": 7.4603,
+        "poster_path": "/qm87HHUew8ICtUCM4asO3gFYvby.jpg",
+        "release_date": "1997-09-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.164,
+        "vote_count": 3246,
+        "character": "Heinrich Harrer",
+        "credit_id": "52fe4295c3a36847f802a10d",
+        "order": 0,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o2eG4ugPId4cY6gp2C1MBm33UG.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1164,
+        "title": "Babel",
+        "original_language": "en",
+        "original_title": "Babel",
+        "overview": "Tragedy strikes a married couple vacationing in the Moroccan desert, which jumpstarts an interlocking story involving four different families.",
+        "popularity": 8.4759,
+        "poster_path": "/fCHqcBl1LFDIGurUDEdFCpkYTnH.jpg",
+        "release_date": "2006-10-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.17,
+        "vote_count": 4238,
+        "character": "Richard Jones",
+        "credit_id": "52fe42e9c3a36847f802c221",
+        "order": 0,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 550,
+        "title": "Fight Club",
+        "original_language": "en",
+        "original_title": "Fight Club",
+        "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+        "popularity": 43.6677,
+        "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+        "release_date": "1999-10-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.438,
+        "vote_count": 33159,
+        "character": "Tyler Durden",
+        "credit_id": "52fe4250c3a36847f80149f7",
+        "order": 1,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+        "genre_ids": [
+          27,
+          18,
+          14
+        ],
+        "id": 628,
+        "title": "Interview with the Vampire",
+        "original_language": "en",
+        "original_title": "Interview with the Vampire",
+        "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+        "popularity": 12.3106,
+        "poster_path": "/t7NU8IcmcNBrlunCxiycX9JV7Rp.jpg",
+        "release_date": "1994-11-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.386,
+        "vote_count": 6686,
+        "character": "Louis",
+        "credit_id": "52fe4260c3a36847f80199f9",
+        "order": 1,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Hfatv0lZkMyxw8UBZmiK2qSXDR.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 1535,
+        "title": "Spy Game",
+        "original_language": "en",
+        "original_title": "Spy Game",
+        "overview": "On the day of his retirement, a veteran CIA agent learns that his former protégé has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.",
+        "popularity": 7.2756,
+        "poster_path": "/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg",
+        "release_date": "2001-11-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.921,
+        "vote_count": 2477,
+        "character": "Tom Bishop",
+        "credit_id": "52fe42fbc3a36847f8031727",
+        "order": 1,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u49EZzHvGCNrHdQxkc3hhLmQEPP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 1541,
+        "title": "Thelma & Louise",
+        "original_language": "en",
+        "original_title": "Thelma & Louise",
+        "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+        "popularity": 8.5426,
+        "poster_path": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+        "release_date": "1991-05-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 4058,
+        "character": "J.D.",
+        "credit_id": "52fe42fbc3a36847f8031a6d",
+        "order": 6,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
+        "genre_ids": [
+          28,
+          12
+        ],
+        "id": 652,
+        "title": "Troy",
+        "original_language": "en",
+        "original_title": "Troy",
+        "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+        "popularity": 21.8424,
+        "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+        "release_date": "2004-05-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.193,
+        "vote_count": 11656,
+        "character": "Achilles",
+        "credit_id": "52fe4264c3a36847f801b083",
+        "order": 0,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          53
+        ],
+        "id": 807,
+        "title": "Se7en",
+        "original_language": "en",
+        "original_title": "Se7en",
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "popularity": 42.291,
+        "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+        "release_date": "1995-09-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.383,
+        "vote_count": 24093,
+        "character": "Mills",
+        "credit_id": "52fe4279c3a36847f802178b",
+        "order": 1,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sDhABATFQX8nfTHShTfH8HeqKY1.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 819,
+        "title": "Sleepers",
+        "original_language": "en",
+        "original_title": "Sleepers",
+        "overview": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
+        "popularity": 11.5326,
+        "poster_path": "/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+        "release_date": "1996-10-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.605,
+        "vote_count": 4109,
+        "character": "Michael",
+        "credit_id": "52fe427bc3a36847f80222a7",
+        "order": 5,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nSVwus6Vcnw06zqKAa1ioacrpUF.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 877817,
+        "title": "Wolfs",
+        "original_language": "en",
+        "original_title": "Wolfs",
+        "overview": "Hired to cover up a high-profile crime, a fixer soon finds his night spiralling out of control when he's forced to work with an unexpected counterpart.",
+        "popularity": 12.3149,
+        "poster_path": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+        "release_date": "2024-09-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.551,
+        "vote_count": 1629,
+        "character": "Pam's Man",
+        "credit_id": "614e5afb140bad0061a61a39",
+        "order": 1,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mSYuqQE8MXwzz3CqtuEIR2cyUfm.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 10909,
+        "title": "Kalifornia",
+        "original_language": "en",
+        "original_title": "Kalifornia",
+        "overview": "A journalist duo go on a tour of serial killer murder sites with two companions, unaware that one of them is a serial killer himself.",
+        "popularity": 5.2709,
+        "poster_path": "/aXyA3UvVaXBoX2zq9zH7NcK5rKT.jpg",
+        "release_date": "1993-06-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 911,
+        "character": "Early Grayce",
+        "credit_id": "52fe43ce9251416c7501ef13",
+        "order": 0,
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sZlb6FAyeKkOXHOuwSCi7blYaJ2.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10770
+        ],
+        "id": 10917,
+        "title": "Too Young to Die",
+        "original_language": "en",
+        "original_title": "Too Young to Die",
+        "overview": "An abused 15 year old is charged with a murder that carries the death penalty in this fact-based story.",
+        "popularity": 2.0883,
+        "poster_path": "/GGo6AblNm3BuBOJvKKxYjvmjec.jpg",
+        "release_date": "1990-02-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 118,
+        "character": "Billy Canton",
+        "credit_id": "52fe43d09251416c7501f331",
+        "order": 1,
+        "media_type": "movie"
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "id": 1422,
+        "title": "The Departed",
+        "original_language": "en",
+        "original_title": "The Departed",
+        "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+        "popularity": 28.6303,
+        "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+        "release_date": "2006-10-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.16,
+        "vote_count": 16846,
+        "credit_id": "52fe42f5c3a36847f802ff41",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zjVE6yJE3UvQbBTB6QbiN3fK52m.jpg",
+        "genre_ids": [
+          18,
+          53,
+          36
+        ],
+        "id": 1988,
+        "title": "A Mighty Heart",
+        "original_language": "en",
+        "original_title": "A Mighty Heart",
+        "overview": "Based on Mariane Pearl's account of the terrifying and unforgettable story of her husband, Wall Street Journal reporter Danny Pearl's life and death.",
+        "popularity": 3.4568,
+        "poster_path": "/z5f7KPg8vqqYXtaF0wUkSWryDIg.jpg",
+        "release_date": "2007-06-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 360,
+        "credit_id": "52fe4329c3a36847f803ee3b",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3HvQ5PaxwQJEiRSZD5AyVuqEiNn.jpg",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "id": 4512,
+        "title": "The Assassination of Jesse James by the Coward Robert Ford",
+        "original_language": "en",
+        "original_title": "The Assassination of Jesse James by the Coward Robert Ford",
+        "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+        "popularity": 5.9331,
+        "poster_path": "/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+        "release_date": "2007-09-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.07,
+        "vote_count": 2905,
+        "credit_id": "52fe43c7c3a36847f806ef0b",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "id": 23483,
+        "title": "Kick-Ass",
+        "original_language": "en",
+        "original_title": "Kick-Ass",
+        "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+        "popularity": 19.4335,
+        "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+        "release_date": "2010-03-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.126,
+        "vote_count": 12755,
+        "credit_id": "52fe446ac3a368484e021e13",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3B4DbexR2hXINqJN6LqhmmAaVeS.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          14
+        ],
+        "id": 24420,
+        "title": "The Time Traveler's Wife",
+        "original_language": "en",
+        "original_title": "The Time Traveler's Wife",
+        "overview": "Due to a genetic disorder, handsome librarian Henry DeTamble involuntarily zips through time, appearing at various moments in the life of his true love, the beautiful artist Clare Abshire.",
+        "popularity": 11.0847,
+        "poster_path": "/J3ewuzQwhFro0pDpdcbZ4j7MYy.jpg",
+        "release_date": "2009-08-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 2831,
+        "credit_id": "52fe4495c3a368484e02af99",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8pkD8os8efLv2qYWc9xSjMvlaCU.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 7510,
+        "title": "Running with Scissors",
+        "original_language": "en",
+        "original_title": "Running with Scissors",
+        "overview": "Young Augusten Burroughs absorbs experiences that could make for a shocking memoir: the son of an alcoholic father and an unstable mother, he's handed off to his mother's therapist, Dr. Finch, and spends his adolescent years as a member of Finch's bizarre extended family.",
+        "popularity": 3.746,
+        "poster_path": "/pbWUFYyyZzawsYljkbIKmDxQN8Y.jpg",
+        "release_date": "2006-10-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 266,
+        "credit_id": "52fe4481c3a36847f809a065",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/elzrIY3nfzWz4AXh0lxxBsXLCGI.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 38167,
+        "title": "Eat Pray Love",
+        "original_language": "en",
+        "original_title": "Eat Pray Love",
+        "overview": "A married woman realizes how unhappy her marriage really is, and that her life needs to go in a different direction. After a painful divorce, she takes off on a round-the-world journey to \"find herself\".",
+        "popularity": 8.6278,
+        "poster_path": "/gjR5zUeMGV6UNqtI0OuzqrLQcjU.jpg",
+        "release_date": "2010-08-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 2707,
+        "credit_id": "52fe469c9251416c91059ecf",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4xGuNyCX46pwEpdQISRYiaBXEN7.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 64689,
+        "title": "Killing Them Softly",
+        "original_language": "en",
+        "original_title": "Killing Them Softly",
+        "overview": "Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a Mob protected card game, causing the local criminal economy to collapse.",
+        "popularity": 5.0328,
+        "poster_path": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+        "release_date": "2012-07-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.026,
+        "vote_count": 2521,
+        "credit_id": "52fe46e4c3a368484e0a9aa7",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+        "genre_ids": [
+          28,
+          27,
+          878
+        ],
+        "id": 72190,
+        "title": "World War Z",
+        "original_language": "en",
+        "original_title": "World War Z",
+        "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+        "popularity": 30.6578,
+        "poster_path": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+        "release_date": "2013-06-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.857,
+        "vote_count": 17239,
+        "credit_id": "52fe485dc3a368484e0f50f9",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6fi3YWputv9CiKXgo38ZGgnmnwm.jpg",
+        "genre_ids": [
+          35,
+          878,
+          53
+        ],
+        "id": 369773,
+        "title": "House of Time",
+        "original_language": "en",
+        "original_title": "House of Time",
+        "overview": "Robert d'Eglantine invites his friends to spend a few days in an old country house where he proposes them to embark on a daring adventure with a surprising destination.",
+        "popularity": 2.0014,
+        "poster_path": "/kNxr5ppUZ8zLlCAM8MVmOLdgBhR.jpg",
+        "release_date": "2016-01-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 12,
+        "credit_id": "60bd62d6b0460500571f3fae",
+        "department": "Crew",
+        "job": "Thanks",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 76203,
+        "title": "12 Years a Slave",
+        "original_language": "en",
+        "original_title": "12 Years a Slave",
+        "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+        "popularity": 12.0583,
+        "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+        "release_date": "2013-10-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.928,
+        "vote_count": 12320,
+        "credit_id": "52fe492cc3a368484e11dfe1",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          18,
+          36
+        ],
+        "id": 842096,
+        "title": "Civil War (Or, Who Do We Think We Are)",
+        "original_language": "en",
+        "original_title": "Civil War (Or, Who Do We Think We Are)",
+        "overview": "A journey across the United States to explore the story of the Civil War of Americans from President Obama's final year in office through the present.",
+        "popularity": 1.0149,
+        "poster_path": "/c0RwJWGu2urVpeVBABchemspdeE.jpg",
+        "release_date": "2021-06-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 2,
+        "credit_id": "60ce311c2da84600404c6484",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oQMqMLIJXZAVMplga9RhDyZInAW.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "id": 746419,
+        "title": "Father of the Bride",
+        "original_language": "en",
+        "original_title": "Father of the Bride",
+        "overview": "A father comes to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family.",
+        "popularity": 4.475,
+        "poster_path": "/chKMG9tzFqSkj24ejXTio156Qo0.jpg",
+        "release_date": "2022-07-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 213,
+        "credit_id": "62799073f44f270052d83143",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 174349,
+        "title": "Big Men",
+        "original_language": "en",
+        "original_title": "Big Men",
+        "overview": "For her latest industrial exposé, Rachel Boynton (Our Brand Is Crisis) gained unprecedented access to Africa's oil companies. The result is a gripping account of the costly personal tolls levied when American corporate interests pursue oil in places like Ghana and the Niger River Delta. Executive produced by Steven Shainberg and Brad Pitt, Big Men investigates the caustic blend of ambition, corruption and greed that threatens to exacerbate Africa’s resource curse.",
+        "popularity": 1.2327,
+        "poster_path": "/dIAUdpfNsXztO7n1lZO2N2n52m7.jpg",
+        "release_date": "2014-03-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 15,
+        "credit_id": "52fe4d49c3a36847f8258cf3",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kYlBNDkB5qFdpTDpnlQdH0CdK3T.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 60308,
+        "title": "Moneyball",
+        "original_language": "en",
+        "original_title": "Moneyball",
+        "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
+        "popularity": 11.7407,
+        "poster_path": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+        "release_date": "2011-09-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.304,
+        "vote_count": 6091,
+        "credit_id": "5383b2540e0a2624bd00d335",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sdirxnHDdRmrM55mWfLCFeMdRSn.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 301502,
+        "title": "Blonde",
+        "original_language": "en",
+        "original_title": "Blonde",
+        "overview": "From her volatile childhood as Norma Jeane, through her rise to stardom and romantic entanglements, this reimagined fictional portrait of Hollywood legend Marilyn Monroe blurs the lines of fact and fiction to explore the widening split between her public and private selves.",
+        "popularity": 8.0546,
+        "poster_path": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+        "release_date": "2022-09-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.871,
+        "vote_count": 1586,
+        "credit_id": "545c379ec3a368536b002903",
+        "department": "Production",
+        "job": "Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+        "genre_ids": [
+          10752,
+          18,
+          28
+        ],
+        "id": 228150,
+        "title": "Fury",
+        "original_language": "en",
+        "original_title": "Fury",
+        "overview": "April, 1945. As the Allies make their final push in the European Theater, a battle-hardened army sergeant commands a Sherman tank with a five-man crew on a deadly mission behind enemy lines.",
+        "popularity": 40.1199,
+        "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+        "release_date": "2014-10-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.547,
+        "vote_count": 13377,
+        "credit_id": "5477f63d92514103b80010c0",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bTnUxw2qH4oBGDMM0w4r6KQ11BD.jpg",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 273895,
+        "title": "Selma",
+        "original_language": "en",
+        "original_title": "Selma",
+        "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+        "popularity": 3.9357,
+        "poster_path": "/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
+        "release_date": "2014-12-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 2387,
+        "credit_id": "54aeb6ac9251417aa7000998",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/edH2sKM63YiSEOWoaJPN87a71dZ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 777245,
+        "title": "Women Talking",
+        "original_language": "en",
+        "original_title": "Women Talking",
+        "overview": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
+        "popularity": 7.216,
+        "poster_path": "/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+        "release_date": "2022-12-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.826,
+        "vote_count": 783,
+        "credit_id": "630578df263462007e14dcd0",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Pq5k17JjKfBErKz42e7mkDlBZF.jpg",
+        "genre_ids": [
+          80,
+          18,
+          36
+        ],
+        "id": 245706,
+        "title": "True Story",
+        "original_language": "en",
+        "original_title": "True Story",
+        "overview": "A drama centered on the relationship between journalist Michael Finkel and Christian Longo, an FBI Most Wanted List murderer who for years lived outside the U.S. under Finkel's name.",
+        "popularity": 3.609,
+        "poster_path": "/ncP8XQ0bXP0xSpJmMsRt8mUcEXd.jpg",
+        "release_date": "2015-04-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.266,
+        "vote_count": 2139,
+        "credit_id": "55a5c16a9251410996000596",
+        "department": "Production",
+        "job": "Executive Producer",
+        "media_type": "movie"
+      }
+    ]
+  },
+  "external_ids": {
+    "freebase_mid": "/m/0c6qh",
+    "freebase_id": "/en/brad_pitt",
+    "imdb_id": "nm0000093",
+    "tvrage_id": 59436,
+    "wikidata_id": "Q35332",
+    "facebook_id": null,
+    "instagram_id": null,
+    "tiktok_id": "",
+    "twitter_id": null,
+    "youtube_id": ""
+  },
+  "images": {
+    "profiles": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 721,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+        "vote_average": 4.976,
+        "vote_count": 121,
+        "width": 481
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 980,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cckcYc2v0yh1tc9QjRelptcOBko.jpg",
+        "vote_average": 4.842,
+        "vote_count": 140,
+        "width": 653
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 1572,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kU3B75TyRiCgE270EyZnHjfivoq.jpg",
+        "vote_average": 4.752,
+        "vote_count": 105,
+        "width": 1047
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1377,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tJiSUYst4ddIaz1zge2LqCtu9tw.jpg",
+        "vote_average": 4.458,
+        "vote_count": 84,
+        "width": 918
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eAOtKAc4p2C3DV8TGJQJzw8DeRv.jpg",
+        "vote_average": 4.36,
+        "vote_count": 64,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2100,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1k9MVNS9M3Y4KejBHusNdbGJwRw.jpg",
+        "vote_average": 4.336,
+        "vote_count": 52,
+        "width": 1400
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 631,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/w1L55dXNi9UAmw2CURQjQI0DTf2.jpg",
+        "vote_average": 4.098,
+        "vote_count": 66,
+        "width": 421
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gVtRLNr7MiASuGXO6UZfFBU9Ol4.jpg",
+        "vote_average": 3.738,
+        "vote_count": 44,
+        "width": 600
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2967,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dtjUmQPplX7O9QBjBnRWwK0zCGw.jpg",
+        "vote_average": 3.666,
+        "vote_count": 15,
+        "width": 1978
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9DKttGh4CVamibODXqQ33a64aDU.jpg",
+        "vote_average": 3.666,
+        "vote_count": 24,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nWyL0YMgsBOsvX4gVSFB16VfnPU.jpg",
+        "vote_average": 3.666,
+        "vote_count": 21,
+        "width": 1200
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 810,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/n7HMim8RVpwsDqECprpeYzZggrR.jpg",
+        "vote_average": 3.666,
+        "vote_count": 18,
+        "width": 540
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 2000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uGlfGvB9DzmDaDYErPOZ9071sqt.jpg",
+        "vote_average": 3.598,
+        "vote_count": 46,
+        "width": 1333
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/r9DzKQLNbh5QfXlrFGHoVNKER7X.jpg",
+        "vote_average": 3.468,
+        "vote_count": 16,
+        "width": 600
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oL1KfFHc76aSckCaxDJ7vajmi8d.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 2244,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tBZoijrOG6gxrjjbTTzOPzWoceS.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 1495
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ldc3BcJuDUI1AG8RhzyrHLvfyqh.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 850,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8dS6WLU32PlJX2j5pztq20lAHM7.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 567
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9OfnD7lxgIj3BNQpJFnwxnwl6w5.jpg",
+        "vote_average": 3.294,
+        "vote_count": 17,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3UmLRKzI9fXONhyad2wdQ3JAKDO.jpg",
+        "vote_average": 3.25,
+        "vote_count": 38,
+        "width": 600
+      }
+    ]
+  },
+  "movie_credits": {
+    "cast": [
+      {
+        "adult": false,
+        "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+        "genre_ids": [
+          878,
+          53,
+          9648
+        ],
+        "id": 63,
+        "title": "Twelve Monkeys",
+        "original_language": "en",
+        "original_title": "Twelve Monkeys",
+        "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+        "popularity": 16.5112,
+        "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+        "release_date": "1995-12-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.613,
+        "vote_count": 9502,
+        "character": "Jeffrey Goines",
+        "credit_id": "52fe4212c3a36847f8001b39",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 107,
+        "title": "Snatch",
+        "original_language": "en",
+        "original_title": "Snatch",
+        "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+        "popularity": 22.8879,
+        "poster_path": "/kIBMvdZ3qLUycHLbT6IFs7UtaCq.jpg",
+        "release_date": "2000-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.831,
+        "vote_count": 10418,
+        "character": "Mickey O'Neil",
+        "credit_id": "52fe4218c3a36847f8003be5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 161,
+        "title": "Ocean's Eleven",
+        "original_language": "en",
+        "original_title": "Ocean's Eleven",
+        "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+        "popularity": 23.1714,
+        "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+        "release_date": "2001-12-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.466,
+        "vote_count": 13060,
+        "character": "Rusty Ryan",
+        "credit_id": "52fe4220c3a36847f800616b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 163,
+        "title": "Ocean's Twelve",
+        "original_language": "en",
+        "original_title": "Ocean's Twelve",
+        "overview": "Despite pulling off one of the biggest heists in Las Vegas history and splitting the $160 million take, each of the infamous Ocean's crew have tried to go straight, lay low and live a legit life... but that's proven to be a challenge. Casino owner Terry Benedict demands that Danny Ocean return the money, plus millions more in interest. Unable to come up the cash, the crew is forced to come together to pull off another series of heists, this time in Rome, Paris, and Amsterdam – but a Europol agent is hot on their heels.",
+        "popularity": 12.385,
+        "poster_path": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+        "release_date": "2004-12-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.569,
+        "vote_count": 8225,
+        "character": "Rusty Ryan",
+        "credit_id": "52fe4221c3a36847f80062e5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/85dLdBCBbuZYde0T6L1CKXd707u.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 293,
+        "title": "A River Runs Through It",
+        "original_language": "en",
+        "original_title": "A River Runs Through It",
+        "overview": "The Maclean brothers, Paul and Norman, live a relatively idyllic life in rural Montana, spending much of their time fly fishing. The sons of a minister, the boys eventually part company when Norman moves east to attend college, leaving his rebellious brother to find trouble back home. When Norman finally returns, the siblings resume their fishing outings, and assess where they've been and where they're going.",
+        "popularity": 7.9441,
+        "poster_path": "/aVP45oS2cBL4WtZ1kB7r8uarruB.jpg",
+        "release_date": "1992-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1258,
+        "character": "Paul Maclean",
+        "credit_id": "52fe4233c3a36847f800bb79",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uMBByiSDpgFwWVegAtwwnuzvogJ.jpg",
+        "genre_ids": [
+          14,
+          18,
+          10749
+        ],
+        "id": 297,
+        "title": "Meet Joe Black",
+        "original_language": "en",
+        "original_title": "Meet Joe Black",
+        "overview": "Bill Parrish has it all - success, wealth and power. Days before his 65th birthday, he receives a visit from a mysterious stranger, Joe Black, who soon reveals himself as Death. In exchange for extra time, Bill agrees to serve as Joe's earthly guide. But will he regret his choice when Joe unexpectedly falls in love with Bill's beautiful daughter Susan?",
+        "popularity": 10.9815,
+        "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+        "release_date": "1998-11-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.377,
+        "vote_count": 6017,
+        "character": "Joe Black / Young Man in Coffee Shop",
+        "credit_id": "52fe4234c3a36847f800bdbb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uS18gs16EXfFJhjA11cXj4WWPMb.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 298,
+        "title": "Ocean's Thirteen",
+        "original_language": "en",
+        "original_title": "Ocean's Thirteen",
+        "overview": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+        "popularity": 12.1402,
+        "poster_path": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+        "release_date": "2007-06-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.734,
+        "vote_count": 7166,
+        "character": "Rusty Ryan",
+        "credit_id": "52fe4234c3a36847f800bf0f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+        "genre_ids": [
+          28,
+          80,
+          10749
+        ],
+        "id": 319,
+        "title": "True Romance",
+        "original_language": "en",
+        "original_title": "True Romance",
+        "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+        "popularity": 8.9919,
+        "poster_path": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+        "release_date": "1993-09-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 3224,
+        "character": "Floyd (Dick's Roommate)",
+        "credit_id": "52fe4237c3a36847f800cdd3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/athnSvS41TEHOSK2Ax0LAM0ulDp.jpg",
+        "genre_ids": [
+          12,
+          18,
+          36
+        ],
+        "id": 978,
+        "title": "Seven Years in Tibet",
+        "original_language": "en",
+        "original_title": "Seven Years in Tibet",
+        "overview": "Austrian mountaineer Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Lhasa, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",
+        "popularity": 7.4603,
+        "poster_path": "/qm87HHUew8ICtUCM4asO3gFYvby.jpg",
+        "release_date": "1997-09-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.164,
+        "vote_count": 3246,
+        "character": "Heinrich Harrer",
+        "credit_id": "52fe4295c3a36847f802a10d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o2eG4ugPId4cY6gp2C1MBm33UG.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1164,
+        "title": "Babel",
+        "original_language": "en",
+        "original_title": "Babel",
+        "overview": "Tragedy strikes a married couple vacationing in the Moroccan desert, which jumpstarts an interlocking story involving four different families.",
+        "popularity": 8.4759,
+        "poster_path": "/fCHqcBl1LFDIGurUDEdFCpkYTnH.jpg",
+        "release_date": "2006-10-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.17,
+        "vote_count": 4238,
+        "character": "Richard Jones",
+        "credit_id": "52fe42e9c3a36847f802c221",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 550,
+        "title": "Fight Club",
+        "original_language": "en",
+        "original_title": "Fight Club",
+        "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+        "popularity": 43.6677,
+        "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+        "release_date": "1999-10-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.438,
+        "vote_count": 33159,
+        "character": "Tyler Durden",
+        "credit_id": "52fe4250c3a36847f80149f7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+        "genre_ids": [
+          27,
+          18,
+          14
+        ],
+        "id": 628,
+        "title": "Interview with the Vampire",
+        "original_language": "en",
+        "original_title": "Interview with the Vampire",
+        "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+        "popularity": 12.3106,
+        "poster_path": "/t7NU8IcmcNBrlunCxiycX9JV7Rp.jpg",
+        "release_date": "1994-11-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.386,
+        "vote_count": 6686,
+        "character": "Louis",
+        "credit_id": "52fe4260c3a36847f80199f9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Hfatv0lZkMyxw8UBZmiK2qSXDR.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 1535,
+        "title": "Spy Game",
+        "original_language": "en",
+        "original_title": "Spy Game",
+        "overview": "On the day of his retirement, a veteran CIA agent learns that his former protégé has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.",
+        "popularity": 7.2756,
+        "poster_path": "/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg",
+        "release_date": "2001-11-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.921,
+        "vote_count": 2477,
+        "character": "Tom Bishop",
+        "credit_id": "52fe42fbc3a36847f8031727",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u49EZzHvGCNrHdQxkc3hhLmQEPP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 1541,
+        "title": "Thelma & Louise",
+        "original_language": "en",
+        "original_title": "Thelma & Louise",
+        "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+        "popularity": 8.5426,
+        "poster_path": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+        "release_date": "1991-05-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 4058,
+        "character": "J.D.",
+        "credit_id": "52fe42fbc3a36847f8031a6d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
+        "genre_ids": [
+          28,
+          12
+        ],
+        "id": 652,
+        "title": "Troy",
+        "original_language": "en",
+        "original_title": "Troy",
+        "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+        "popularity": 21.8424,
+        "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+        "release_date": "2004-05-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.193,
+        "vote_count": 11656,
+        "character": "Achilles",
+        "credit_id": "52fe4264c3a36847f801b083",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          53
+        ],
+        "id": 807,
+        "title": "Se7en",
+        "original_language": "en",
+        "original_title": "Se7en",
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "popularity": 42.291,
+        "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+        "release_date": "1995-09-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.383,
+        "vote_count": 24093,
+        "character": "Mills",
+        "credit_id": "52fe4279c3a36847f802178b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sDhABATFQX8nfTHShTfH8HeqKY1.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 819,
+        "title": "Sleepers",
+        "original_language": "en",
+        "original_title": "Sleepers",
+        "overview": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
+        "popularity": 11.5326,
+        "poster_path": "/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+        "release_date": "1996-10-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.605,
+        "vote_count": 4109,
+        "character": "Michael",
+        "credit_id": "52fe427bc3a36847f80222a7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nSVwus6Vcnw06zqKAa1ioacrpUF.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 877817,
+        "title": "Wolfs",
+        "original_language": "en",
+        "original_title": "Wolfs",
+        "overview": "Hired to cover up a high-profile crime, a fixer soon finds his night spiralling out of control when he's forced to work with an unexpected counterpart.",
+        "popularity": 12.3149,
+        "poster_path": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+        "release_date": "2024-09-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.551,
+        "vote_count": 1629,
+        "character": "Pam's Man",
+        "credit_id": "614e5afb140bad0061a61a39",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mSYuqQE8MXwzz3CqtuEIR2cyUfm.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 10909,
+        "title": "Kalifornia",
+        "original_language": "en",
+        "original_title": "Kalifornia",
+        "overview": "A journalist duo go on a tour of serial killer murder sites with two companions, unaware that one of them is a serial killer himself.",
+        "popularity": 5.2709,
+        "poster_path": "/aXyA3UvVaXBoX2zq9zH7NcK5rKT.jpg",
+        "release_date": "1993-06-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 911,
+        "character": "Early Grayce",
+        "credit_id": "52fe43ce9251416c7501ef13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sZlb6FAyeKkOXHOuwSCi7blYaJ2.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10770
+        ],
+        "id": 10917,
+        "title": "Too Young to Die",
+        "original_language": "en",
+        "original_title": "Too Young to Die",
+        "overview": "An abused 15 year old is charged with a murder that carries the death penalty in this fact-based story.",
+        "popularity": 2.0883,
+        "poster_path": "/GGo6AblNm3BuBOJvKKxYjvmjec.jpg",
+        "release_date": "1990-02-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 118,
+        "character": "Billy Canton",
+        "credit_id": "52fe43d09251416c7501f331",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "id": 1422,
+        "title": "The Departed",
+        "original_language": "en",
+        "original_title": "The Departed",
+        "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+        "popularity": 28.6303,
+        "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+        "release_date": "2006-10-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.16,
+        "vote_count": 16846,
+        "credit_id": "52fe42f5c3a36847f802ff41",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zjVE6yJE3UvQbBTB6QbiN3fK52m.jpg",
+        "genre_ids": [
+          18,
+          53,
+          36
+        ],
+        "id": 1988,
+        "title": "A Mighty Heart",
+        "original_language": "en",
+        "original_title": "A Mighty Heart",
+        "overview": "Based on Mariane Pearl's account of the terrifying and unforgettable story of her husband, Wall Street Journal reporter Danny Pearl's life and death.",
+        "popularity": 3.4568,
+        "poster_path": "/z5f7KPg8vqqYXtaF0wUkSWryDIg.jpg",
+        "release_date": "2007-06-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 360,
+        "credit_id": "52fe4329c3a36847f803ee3b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3HvQ5PaxwQJEiRSZD5AyVuqEiNn.jpg",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "id": 4512,
+        "title": "The Assassination of Jesse James by the Coward Robert Ford",
+        "original_language": "en",
+        "original_title": "The Assassination of Jesse James by the Coward Robert Ford",
+        "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+        "popularity": 5.9331,
+        "poster_path": "/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+        "release_date": "2007-09-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.07,
+        "vote_count": 2905,
+        "credit_id": "52fe43c7c3a36847f806ef0b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "id": 23483,
+        "title": "Kick-Ass",
+        "original_language": "en",
+        "original_title": "Kick-Ass",
+        "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+        "popularity": 19.4335,
+        "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+        "release_date": "2010-03-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.126,
+        "vote_count": 12755,
+        "credit_id": "52fe446ac3a368484e021e13",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3B4DbexR2hXINqJN6LqhmmAaVeS.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          14
+        ],
+        "id": 24420,
+        "title": "The Time Traveler's Wife",
+        "original_language": "en",
+        "original_title": "The Time Traveler's Wife",
+        "overview": "Due to a genetic disorder, handsome librarian Henry DeTamble involuntarily zips through time, appearing at various moments in the life of his true love, the beautiful artist Clare Abshire.",
+        "popularity": 11.0847,
+        "poster_path": "/J3ewuzQwhFro0pDpdcbZ4j7MYy.jpg",
+        "release_date": "2009-08-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 2831,
+        "credit_id": "52fe4495c3a368484e02af99",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8pkD8os8efLv2qYWc9xSjMvlaCU.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 7510,
+        "title": "Running with Scissors",
+        "original_language": "en",
+        "original_title": "Running with Scissors",
+        "overview": "Young Augusten Burroughs absorbs experiences that could make for a shocking memoir: the son of an alcoholic father and an unstable mother, he's handed off to his mother's therapist, Dr. Finch, and spends his adolescent years as a member of Finch's bizarre extended family.",
+        "popularity": 3.746,
+        "poster_path": "/pbWUFYyyZzawsYljkbIKmDxQN8Y.jpg",
+        "release_date": "2006-10-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 266,
+        "credit_id": "52fe4481c3a36847f809a065",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/elzrIY3nfzWz4AXh0lxxBsXLCGI.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 38167,
+        "title": "Eat Pray Love",
+        "original_language": "en",
+        "original_title": "Eat Pray Love",
+        "overview": "A married woman realizes how unhappy her marriage really is, and that her life needs to go in a different direction. After a painful divorce, she takes off on a round-the-world journey to \"find herself\".",
+        "popularity": 8.6278,
+        "poster_path": "/gjR5zUeMGV6UNqtI0OuzqrLQcjU.jpg",
+        "release_date": "2010-08-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 2707,
+        "credit_id": "52fe469c9251416c91059ecf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4xGuNyCX46pwEpdQISRYiaBXEN7.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 64689,
+        "title": "Killing Them Softly",
+        "original_language": "en",
+        "original_title": "Killing Them Softly",
+        "overview": "Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a Mob protected card game, causing the local criminal economy to collapse.",
+        "popularity": 5.0328,
+        "poster_path": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+        "release_date": "2012-07-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.026,
+        "vote_count": 2521,
+        "credit_id": "52fe46e4c3a368484e0a9aa7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+        "genre_ids": [
+          28,
+          27,
+          878
+        ],
+        "id": 72190,
+        "title": "World War Z",
+        "original_language": "en",
+        "original_title": "World War Z",
+        "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+        "popularity": 30.6578,
+        "poster_path": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+        "release_date": "2013-06-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.856,
+        "vote_count": 17239,
+        "credit_id": "52fe485dc3a368484e0f50f9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6fi3YWputv9CiKXgo38ZGgnmnwm.jpg",
+        "genre_ids": [
+          35,
+          878,
+          53
+        ],
+        "id": 369773,
+        "title": "House of Time",
+        "original_language": "en",
+        "original_title": "House of Time",
+        "overview": "Robert d'Eglantine invites his friends to spend a few days in an old country house where he proposes them to embark on a daring adventure with a surprising destination.",
+        "popularity": 2.0014,
+        "poster_path": "/kNxr5ppUZ8zLlCAM8MVmOLdgBhR.jpg",
+        "release_date": "2016-01-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 12,
+        "credit_id": "60bd62d6b0460500571f3fae",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 76203,
+        "title": "12 Years a Slave",
+        "original_language": "en",
+        "original_title": "12 Years a Slave",
+        "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+        "popularity": 12.0583,
+        "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+        "release_date": "2013-10-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.928,
+        "vote_count": 12320,
+        "credit_id": "52fe492cc3a368484e11dfe1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          18,
+          36
+        ],
+        "id": 842096,
+        "title": "Civil War (Or, Who Do We Think We Are)",
+        "original_language": "en",
+        "original_title": "Civil War (Or, Who Do We Think We Are)",
+        "overview": "A journey across the United States to explore the story of the Civil War of Americans from President Obama's final year in office through the present.",
+        "popularity": 1.0149,
+        "poster_path": "/c0RwJWGu2urVpeVBABchemspdeE.jpg",
+        "release_date": "2021-06-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 2,
+        "credit_id": "60ce311c2da84600404c6484",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oQMqMLIJXZAVMplga9RhDyZInAW.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "id": 746419,
+        "title": "Father of the Bride",
+        "original_language": "en",
+        "original_title": "Father of the Bride",
+        "overview": "A father comes to grips with his daughter’s upcoming wedding through the prism of multiple relationships within a big, sprawling Cuban-American family.",
+        "popularity": 4.475,
+        "poster_path": "/chKMG9tzFqSkj24ejXTio156Qo0.jpg",
+        "release_date": "2022-07-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 213,
+        "credit_id": "62799073f44f270052d83143",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 174349,
+        "title": "Big Men",
+        "original_language": "en",
+        "original_title": "Big Men",
+        "overview": "For her latest industrial exposé, Rachel Boynton (Our Brand Is Crisis) gained unprecedented access to Africa's oil companies. The result is a gripping account of the costly personal tolls levied when American corporate interests pursue oil in places like Ghana and the Niger River Delta. Executive produced by Steven Shainberg and Brad Pitt, Big Men investigates the caustic blend of ambition, corruption and greed that threatens to exacerbate Africa’s resource curse.",
+        "popularity": 1.2327,
+        "poster_path": "/dIAUdpfNsXztO7n1lZO2N2n52m7.jpg",
+        "release_date": "2014-03-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 15,
+        "credit_id": "52fe4d49c3a36847f8258cf3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kYlBNDkB5qFdpTDpnlQdH0CdK3T.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 60308,
+        "title": "Moneyball",
+        "original_language": "en",
+        "original_title": "Moneyball",
+        "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
+        "popularity": 11.7407,
+        "poster_path": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+        "release_date": "2011-09-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.304,
+        "vote_count": 6091,
+        "credit_id": "5383b2540e0a2624bd00d335",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sdirxnHDdRmrM55mWfLCFeMdRSn.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 301502,
+        "title": "Blonde",
+        "original_language": "en",
+        "original_title": "Blonde",
+        "overview": "From her volatile childhood as Norma Jeane, through her rise to stardom and romantic entanglements, this reimagined fictional portrait of Hollywood legend Marilyn Monroe blurs the lines of fact and fiction to explore the widening split between her public and private selves.",
+        "popularity": 8.0546,
+        "poster_path": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+        "release_date": "2022-09-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.871,
+        "vote_count": 1586,
+        "credit_id": "545c379ec3a368536b002903",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
+        "genre_ids": [
+          10752,
+          18,
+          28
+        ],
+        "id": 228150,
+        "title": "Fury",
+        "original_language": "en",
+        "original_title": "Fury",
+        "overview": "April, 1945. As the Allies make their final push in the European Theater, a battle-hardened army sergeant commands a Sherman tank with a five-man crew on a deadly mission behind enemy lines.",
+        "popularity": 40.1199,
+        "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+        "release_date": "2014-10-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.547,
+        "vote_count": 13377,
+        "credit_id": "5477f63d92514103b80010c0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bTnUxw2qH4oBGDMM0w4r6KQ11BD.jpg",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 273895,
+        "title": "Selma",
+        "original_language": "en",
+        "original_title": "Selma",
+        "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+        "popularity": 3.9357,
+        "poster_path": "/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
+        "release_date": "2014-12-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 2387,
+        "credit_id": "54aeb6ac9251417aa7000998",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/edH2sKM63YiSEOWoaJPN87a71dZ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 777245,
+        "title": "Women Talking",
+        "original_language": "en",
+        "original_title": "Women Talking",
+        "overview": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
+        "popularity": 7.216,
+        "poster_path": "/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+        "release_date": "2022-12-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.826,
+        "vote_count": 783,
+        "credit_id": "630578df263462007e14dcd0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Pq5k17JjKfBErKz42e7mkDlBZF.jpg",
+        "genre_ids": [
+          80,
+          18,
+          36
+        ],
+        "id": 245706,
+        "title": "True Story",
+        "original_language": "en",
+        "original_title": "True Story",
+        "overview": "A drama centered on the relationship between journalist Michael Finkel and Christian Longo, an FBI Most Wanted List murderer who for years lived outside the U.S. under Finkel's name.",
+        "popularity": 3.609,
+        "poster_path": "/ncP8XQ0bXP0xSpJmMsRt8mUcEXd.jpg",
+        "release_date": "2015-04-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.266,
+        "vote_count": 2139,
+        "credit_id": "55a5c16a9251410996000596",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "tagged_images": {
+    "page": 0,
+    "results": [
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+        "height": 3000,
+        "id": "5b6052d0925141181a00c5e8",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "vote_average": 4.194,
+        "vote_count": 36,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+          "id": 807,
+          "title": "Se7en",
+          "original_title": "Se7en",
+          "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+          "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            80,
+            9648,
+            53
+          ],
+          "popularity": 42.291,
+          "release_date": "1995-09-22",
+          "softcore": false,
+          "video": false,
+          "vote_average": 8.383,
+          "vote_count": 24093
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+        "height": 3000,
+        "id": "5e4e1d749a3c490016368f41",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "vote_average": 8.156,
+        "vote_count": 16,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/4xGuNyCX46pwEpdQISRYiaBXEN7.jpg",
+          "id": 64689,
+          "title": "Killing Them Softly",
+          "original_title": "Killing Them Softly",
+          "overview": "Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a Mob protected card game, causing the local criminal economy to collapse.",
+          "poster_path": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            80,
+            53
+          ],
+          "popularity": 5.0328,
+          "release_date": "2012-07-30",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.026,
+          "vote_count": 2521
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+        "height": 3000,
+        "id": "5e9669fc5c5634001a6d531b",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "vote_average": 10,
+        "vote_count": 5,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/uMBByiSDpgFwWVegAtwwnuzvogJ.jpg",
+          "id": 297,
+          "title": "Meet Joe Black",
+          "original_title": "Meet Joe Black",
+          "overview": "Bill Parrish has it all - success, wealth and power. Days before his 65th birthday, he receives a visit from a mysterious stranger, Joe Black, who soon reveals himself as Death. In exchange for extra time, Bill agrees to serve as Joe's earthly guide. But will he regret his choice when Joe unexpectedly falls in love with Bill's beautiful daughter Susan?",
+          "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            14,
+            18,
+            10749
+          ],
+          "popularity": 10.9815,
+          "release_date": "1998-11-12",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.377,
+          "vote_count": 6018
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+        "height": 1500,
+        "id": "5eb22c301fb94f0023f26697",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "vote_average": 3.892,
+        "vote_count": 14,
+        "width": 1000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/2fswjyrY3GEzeoVn6mF8pNeNcgf.jpg",
+          "id": 4922,
+          "title": "The Curious Case of Benjamin Button",
+          "original_title": "The Curious Case of Benjamin Button",
+          "overview": "Born under unusual circumstances, Benjamin Button springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flits in and out of his life as she grows up to be a dancer. Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward.",
+          "poster_path": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            14,
+            10749
+          ],
+          "popularity": 20.2836,
+          "release_date": "2008-12-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.607,
+          "vote_count": 14186
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/jaKgQPjejvwOwwlR0tZoqjK7P0P.jpg",
+        "height": 1500,
+        "id": "6342edbbd34eb30079fd8033",
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "vote_average": 0.972,
+        "vote_count": 6,
+        "width": 1000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/xYUbJWC5f9F61I5TM0CbzGmq3m0.jpg",
+          "id": 1033548,
+          "title": "Brad Pitt: More Than a Pretty Face",
+          "original_title": "Brad Pitt - La Revanche d'un blond",
+          "overview": "Brad Pitt is a singular actor in Hollywood's glamorous world, breaking through his \"playboy image\" and embodying American cinema's renewal. At the beginning there was a humble Midwestern aware of being a smokescreen for the illusions of his time, who has managed to keep control of his image to better serve the most talented directors of our time. To name but a few: David Fincher, Quentin Tarantino, the Coen brothers, Terrence Malick, James Gray and soon Damien Chazelle. This documentary dives into the brain of a complex, brilliant and endearing personality, far from the cliché of a world-famous movie icon to discover the hidden side of the most handsome man in the world.",
+          "poster_path": "/euK4kW6tkeDdVFTFeDpIgYffLYR.jpg",
+          "media_type": "movie",
+          "original_language": "fr",
+          "genre_ids": [
+            99
+          ],
+          "popularity": 1.9068,
+          "release_date": "2022-10-09",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.1,
+          "vote_count": 24
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/yAq2qTnDsBZJ9M51UXoBISNbGa6.jpg",
+        "height": 3000,
+        "id": "636ff03199259c00cd1fc164",
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/mSYuqQE8MXwzz3CqtuEIR2cyUfm.jpg",
+          "id": 10909,
+          "title": "Kalifornia",
+          "original_title": "Kalifornia",
+          "overview": "A journalist duo go on a tour of serial killer murder sites with two companions, unaware that one of them is a serial killer himself.",
+          "poster_path": "/aXyA3UvVaXBoX2zq9zH7NcK5rKT.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            53,
+            80
+          ],
+          "popularity": 5.2709,
+          "release_date": "1993-06-24",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.6,
+          "vote_count": 911
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.701,
+        "file_path": "/qjmquZbUW3b4K292GrHtuL9vsp2.jpg",
+        "height": 1426,
+        "id": "63e7aa019512e100e3d06a0d",
+        "iso_3166_1": "BG",
+        "iso_639_1": "bg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+          "id": 16869,
+          "title": "Inglourious Basterds",
+          "original_title": "Inglourious Basterds",
+          "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+          "poster_path": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            53,
+            10752
+          ],
+          "popularity": 25.9685,
+          "release_date": "2009-08-02",
+          "softcore": false,
+          "video": false,
+          "vote_average": 8.217,
+          "vote_count": 25047
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/yvypLtwlnEhgl0dYK1ejKjpvSXj.jpg",
+        "height": 3000,
+        "id": "65346d1b91f0ea011b3bf1ae",
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/dGaV9hfxztBIaCs0MsMlamRw9hC.jpg",
+          "id": 4944,
+          "title": "Burn After Reading",
+          "original_title": "Burn After Reading",
+          "overview": "When a disc containing memoirs of a former CIA analyst falls into the hands of gym employees, Linda and Chad, they see a chance to make enough money for Linda to have life-changing cosmetic surgery. Predictably, events whirl out of control for the duo, and those in their orbit.",
+          "poster_path": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "popularity": 14.8455,
+          "release_date": "2008-09-05",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.682,
+          "vote_count": 5466
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.675,
+        "file_path": "/4f0v2dyK6AqW4LiSnG4luWfYs4g.jpg",
+        "height": 865,
+        "id": "6586c971325a51587e0123c9",
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 584,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+          "id": 550,
+          "title": "Fight Club",
+          "original_title": "Fight Club",
+          "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+          "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            53
+          ],
+          "popularity": 43.6677,
+          "release_date": "1999-10-15",
+          "softcore": false,
+          "video": false,
+          "vote_average": 8.438,
+          "vote_count": 33159
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.675,
+        "file_path": "/p6V5GJ7S66me3we2A8HZqSy8X12.jpg",
+        "height": 865,
+        "id": "66a5653e8444fde09f86e59d",
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "vote_average": 0.166,
+        "vote_count": 0,
+        "width": 584,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/iof28QKa6bKFYCXSexuITxdKBvi.jpg",
+          "id": 318846,
+          "title": "The Big Short",
+          "original_title": "The Big Short",
+          "overview": "The men who made millions from a global economic meltdown.",
+          "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "popularity": 20.5759,
+          "release_date": "2015-12-11",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.377,
+          "vote_count": 10209
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/h75MpBXj3FcDu04Ha98bg0aJDqY.jpg",
+        "height": 3000,
+        "id": "66c4d3a7fb108d9efdadc2b9",
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "vote_average": 4.572,
+        "vote_count": 14,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/nSVwus6Vcnw06zqKAa1ioacrpUF.jpg",
+          "id": 877817,
+          "title": "Wolfs",
+          "original_title": "Wolfs",
+          "overview": "Hired to cover up a high-profile crime, a fixer soon finds his night spiralling out of control when he's forced to work with an unexpected counterpart.",
+          "poster_path": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            80,
+            35
+          ],
+          "popularity": 12.3149,
+          "release_date": "2024-09-20",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.551,
+          "vote_count": 1629
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/5L3vhA7OcmVBPqBzJJf1AAk65VF.jpg",
+        "height": 3000,
+        "id": "678679b3c5d2e96e267be2b4",
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+          "id": 16869,
+          "title": "Inglourious Basterds",
+          "original_title": "Inglourious Basterds",
+          "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+          "poster_path": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            53,
+            10752
+          ],
+          "popularity": 25.9685,
+          "release_date": "2009-08-02",
+          "softcore": false,
+          "video": false,
+          "vote_average": 8.217,
+          "vote_count": 25047
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/6n8BiphW9fvqC6biB0RMfblqi43.jpg",
+        "height": 3000,
+        "id": "67c48f0a04b6b222cf4e26a8",
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "vote_average": 0,
+        "vote_count": 1,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
+          "id": 652,
+          "title": "Troy",
+          "original_title": "Troy",
+          "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+          "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            12
+          ],
+          "popularity": 21.8424,
+          "release_date": "2004-05-13",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.193,
+          "vote_count": 11657
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/wfpqaxoPKvcqzLy8FO0enGXBzU.jpg",
+        "height": 3000,
+        "id": "685cd79c63ed5e35bb74462e",
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "vote_average": 1.434,
+        "vote_count": 5,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+          "id": 911430,
+          "title": "F1",
+          "original_title": "F1",
+          "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+          "poster_path": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            18
+          ],
+          "popularity": 50.7408,
+          "release_date": "2025-06-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.832,
+          "vote_count": 4922
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/3eNeU58b29NixewjzoCxMWZELSa.jpg",
+        "height": 3000,
+        "id": "688d1ce6649f3f1839b7e830",
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/2fswjyrY3GEzeoVn6mF8pNeNcgf.jpg",
+          "id": 4922,
+          "title": "The Curious Case of Benjamin Button",
+          "original_title": "The Curious Case of Benjamin Button",
+          "overview": "Born under unusual circumstances, Benjamin Button springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flits in and out of his life as she grows up to be a dancer. Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward.",
+          "poster_path": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            14,
+            10749
+          ],
+          "popularity": 20.2836,
+          "release_date": "2008-12-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.607,
+          "vote_count": 14186
+        },
+        "media_type": "movie"
+      },
+      {
+        "aspect_ratio": 0.667,
+        "file_path": "/adJNBhWkqKa2mAgKs6bwWkndC9d.jpg",
+        "height": 3000,
+        "id": "6a4053a1301336567d309a00",
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "vote_average": 0,
+        "vote_count": 0,
+        "width": 2000,
+        "image_type": "poster",
+        "media": {
+          "adult": false,
+          "backdrop_path": "/tgDSUwWMgypgmcBhRs9u30RLPNC.jpg",
+          "id": 787,
+          "title": "Mr. & Mrs. Smith",
+          "original_title": "Mr. & Mrs. Smith",
+          "overview": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.",
+          "poster_path": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            35,
+            18,
+            53
+          ],
+          "popularity": 15.6212,
+          "release_date": "2005-06-07",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.697,
+          "vote_count": 11632
+        },
+        "media_type": "movie"
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 16
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "biography": "William Bradley Pitt (born December 18, 1963) is an American actor and film producer. In a film career spanning more than thirty years, Pitt has received numerous accolades, including two Academy Awards, two British Academy Film Awards, two Golden Globe Awards, two Primetime Emmy Awards and one Volpi Cup. His films as a leading actor have grossed over $7.5 billion worldwide.\n\nPitt first gained recognition as a cowboy hitchhiker in the Ridley Scott road film Thelma & Louise (1991). Pitt emerged as a star taking on starring roles in films such as the drama A River Runs Through It (1992), the western Legends of the Fall (1994), the horror film Interview with the Vampire (1994), the crime thriller Seven (1995), the cult film Fight Club (1999), and the crime comedy Snatch (2000). He cemented his leading man status by starring in blockbusters such as Steven Soderbergh's Ocean's film trilogy (2001–2007), Troy (2004), Mr. & Mrs. Smith (2005), World War Z (2013), Bullet Train (2022) and F1 (2025).\n\nPitt earned Academy Award nominations for his performances in the science fiction drama 12 Monkeys (1995), the fantasy romance The Curious Case of Benjamin Button (2008) and the sports drama Moneyball (2011). For his portrayal of a stuntman in Quentin Tarantino's Once Upon a Time in Hollywood (2019), he won the Academy Award for Best Supporting Actor. He also starred in acclaimed films such as Babel(2006), The Assassination of Jesse James by the Coward Robert Ford (2007), Burn After Reading (2008), Inglourious Basterds (2009), The Tree of Life (2011), Fury (2014), The Big Short (2015), Ad Astra (2019) and Babylon (2022).\n\nIn 2001, Pitt co-founded the production company Plan B Entertainment. As a producer, he won the Academy Award for Best Picture for 12 Years a Slave (2013). He was nominated for Moneyball (2011) and The Big Short (2015). An influential figure in popular culture, Pitt appeared on Forbes' annual Celebrity 100 list from 2006 to 2008, and the Time 100 list in 2007. Regarded as a sex symbol, Pitt was named People's Sexiest Man Alive in 1995 and 2000. Pitt's relationships have also been subject to widespread media attention, particularly his marriages to actresses Jennifer Aniston and Angelina Jolie, the latter of whom he shares six children with.\n\nDescription above from the Wikipedia article Brad Pitt, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+          "name": "Brad Pitt",
+          "primary": true
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "biography": "William Bradley \"Brad\" Pitt (Shawnee, 18 de dezembro de 1963) é um ator e produtor americano. É vencedor de diversos prêmios, dentre os quais um Oscar, dois Globos de Ouro, dois Screen Actors Guild e um BAFTA por atuação, e um Oscar, um BAFTA e um Emmy como produtor; é citado um dos mais bem pagos atores de de Hollywood. Pitt começou sua carreira de ator aparecendo em algumas séries de televisão como Dallas (1987). Posteriormente, ganhou reconhecimento como o cowboy J.D no filme Thelma and Louise (1991).",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "biography": "William Bradley Pitt, dit Brad Pitt, est un acteur et producteur de cinéma américain né le 18 décembre 1963 à Shawnee (Oklahoma).\n\nRepéré dans une publicité pour Levi's, Brad Pitt sort de l'anonymat grâce à un petit rôle dans le film Thelma et Louise de Ridley Scott. En très peu de temps, il devient une véritable star et sa collaboration avec le réalisateur David Fincher donne naissance aux films cultes Seven, Fight Club et L'Étrange Histoire de Benjamin Button. Il tourne dans de nombreux autres succès comme Entretien avec un vampire de Neil Jordan, Ocean's Eleven et ses suites de Steven Soderbergh, Troie de Wolfgang Petersen, Inglourious Basterds de Quentin Tarantino et World War Z de Marc Forster. Au cours de sa carrière, il a reçu quatre nominations aux Oscars et cinq nominations aux Golden Globes, dont un remporté pour L'Armée des douze singes de Terry Gilliam en 1996.\n\nSex-symbol des années 1990, Brad Pitt est le premier acteur élu deux fois « Homme le plus sexy du monde » par le magazine People en 1995 et en 2000. Avec sa femme Angelina Jolie (rencontrée sur le tournage de Mr et Mrs Smith et qui a demandé le divorce en septembre 2016), il est le père de 6 enfants. Leur couple est très médiatisé dans les années 2000, y compris dans leurs actions humanitaires (à l'occasion notamment du tsunami de 2004 et de l'ouragan Katrina).\n\nÀ partir de 2002, il s'investit dans la production via sa société Plan B Entertainment avec des films tels que Les Infiltrés de Martin Scorsese et Twelve Years a Slave de Steve McQueen, qui ont chacun été récompensés par l'Oscar du meilleur film en 2007 et 2014, The Tree of Life de Terrence Malick, qui a reçu la Palme d'or au Festival de Cannes en 2011, ou des succès publics comme World War Z.",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "LT",
+        "iso_639_1": "lt",
+        "name": "Lietuvių",
+        "english_name": "Lithuanian",
+        "data": {
+          "biography": "",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "UA",
+        "iso_639_1": "uk",
+        "name": "Український",
+        "english_name": "Ukrainian",
+        "data": {
+          "biography": "Бред Пітт — американський кіноактор, дворазовий лауреат премій «Оскар» (2014, 2020), «Золотий глобус» (1996, 2020), «Еммі» (2014), БАФТА (2014, 2020) та інших.",
+          "name": "Бред Пітт",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "biography": "William Bradley \"Brad\" Pitt (* 18. Dezember 1963) ist ein US-amerikanischer Schauspieler und Filmproduzent. Pitt erhielt zwei Oscar-Nominierungen und vier Golden Globe Award-Nominierungen und gewann einen. Er wurde als einer der attraktivsten Männer der Welt beschrieben, ein Label, für das er in den Medien große Beachtung gefunden hat. Pitt begann seine Schauspielkarriere mit Fernseh-Gastauftritten, darunter eine Rolle in der CBS-Prime-Time-Soap Opera Dallas im Jahr 1987. Später erlangte Anerkennung als der Cowboy Anhalter, der Geena Davis Charakter in 1991 Roadmovie Thelma & Louise verführt. Pitts erste Hauptrollen in Big-Budget-Produktionen waren \"A River Runs Through It\" (1992) und \"Interview mit einem Vampir\" (1994). Im Drama \"Legends of the Fall\" aus dem Jahr 1994 wurde er mit Anthony Hopkins besetzt, was ihm seine erste Golden Globe-Nominierung einbrachte. 1995 gab er in dem Thriller \"Seven\" und dem Science-Fiction-Film \"12 Monkeys\", der ihm einen Golden Globe Award als Bester Nebendarsteller und eine Oscar-Nominierung einbrachte, viel beachtete Auftritte.\n\nVier Jahre später, 1999, spielte Pitt in dem Kulthit \"Fight Club\". Danach spielte er in dem großen internationalen Hit Rusty Ryan in \"Ocean's Eleven\" (2001) und seinen Folgen \"Ocean's Twelve\" (2004) und \"Ocean's Thirteen\" (2007). Seine größten kommerziellen Erfolge waren \"Troy\" (2004) und \"Mr. & Mrs. Smith\" (2005).\n\nPitt erhielt seine zweite Oscar-Nominierung für seine Titelrolle in dem Film \"Der seltsame Fall von Benjamin Button\". Nach einer Beziehung mit der Schauspielerin Gwyneth Paltrow war Pitt fünf Jahre lang mit der Schauspielerin Jennifer Aniston verheiratet. Pitt lebt mit der Schauspielerin Angelina Jolie in einer Beziehung, die eine breite Öffentlichkeitswirkung hat. Er und Jolie haben sechs Kinder - Maddox, Pax, Zahara, Shiloh, Knox und Vivienne.\n\nSeit Beginn seiner Beziehung zu Jolie engagiert er sich zunehmend in sozialen Fragen sowohl in den Vereinigten Staaten als auch international. Pitt besitzt eine Produktionsfirma mit dem Namen Plan B Entertainment, zu deren Produktionen der mit dem Academy Award 2007 gekürte Best Picture The Departed gehört.",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "biography": "William Bradley „Brad“ Pitt (18. prosince 1963 Shawnee, Oklahoma) je americký filmový herec a producent, držitel dvou Zlatých glóbů za nejlepší mužský herecký výkon ve vedlejší roli za výkon ve filmech Dvanáct opic (1995) a Tenkrát v Hollywoodu (2019), za nějž obdržel svého prvního hereckého Oscara za nejlepší mužský herecký výkon ve vedlejší roli. Je producentem nebo výkonným producentem více než 50 celovečerních hraných filmů a 10 televizních seriálů. Kromě mnoha filmů, ve kterých sám hrál, produkoval i díla jako Skrytá identita (2006), Kick-Ass (2010) či 12 let v řetězech (2013), za které získal svého první Oscara v kategorii nejlepší film.\n\nPoprvé se dočkal uznání vedlejší rolí ve filmu Thelma a Louise (1991) a od té doby si zahrál v mnoha mimořádně úspěšných hollywoodských filmech včetně Sedm (1995), Klubu rváčů (1999), Podfu(c)ku (2000), Dannyho parťáků (2001), Troji (2004), Podivuhodného případu Benjamina Buttona (2008), Hanebných parchantů (2009) či Světové války Z (2013).\n\nJiž v 90. letech se stal jednou z nejpopulárnějších a nejvlivnějších osob filmového průmyslu, dočkal se uznání filmových kritiků a získal si miliony fanoušků po celém světě. Díky svému vzhledu je mimořádně populární u ženského publika. V letech 1995 a 2000 byl časopisem People vyhlášen nejvíc sexy mužem. Na každoročně vyhlašovaném žebříčku 100 nejvlivnějších lidí planety časopisu Forbes se Brad Pitt umístil v letech 2007 a 2009. Brad Pitt patří i mezi nejlépe placené herce světa.\n\nJeho bouřlivý osobní život je již léta předmětem publicity a častým tématem bulvárních plátků. Herec byl v letech 2000–2005 ženatý s herečkou Jennifer Anistonovou. Jeho životní partnerkou se již v roce 2005 stala herečka Angelina Jolie, se kterou se seznámil při natáčení kriminální komedie Mr. & Mrs. Smith (2005). Mají celkem šest dětí, z nichž tři jsou adoptivní. V roce 2014 uzavřeli manželství, ale už 19. září 2016 podala Angelina Jolie žádost o rozvod, který byl dokončen až v roce 2019.",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "biography": "William Bradley Pitt (Shawnee, Oklahoma; 18 de diciembre de 1963) es un actor y productor de cine estadounidense. Además de por su trabajo interpretativo, por el que ha sido nominado en tres ocasiones a los Premios Óscar y en cuatro a los Premios Globo de Oro.\n\nPitt comenzó su carrera interpretativa al aparecer como invitado en programas de televisión, entre los cuales se incluye un papel en el serial televisivo de CBS, Dallas (1987). Posteriormente, obtuvo reconocimiento de la prensa con la interpretación del cowboy autoestopista que seduce al personaje de Geena Davis en la película Thelma & Louise (1991). Los primeros papeles protagónicos de Pitt en producciones de alto presupuesto fueron A River Runs Through It (1992) y Entrevista con el vampiro (1994). También participó junto con Anthony Hopkins en el drama Leyendas de pasión (1994), papel que le hizo obtener su primera nominación a los Premios Globo de Oro.\n\nEn 1995 recibió aclamación de la crítica por sus interpretaciones en el filme de suspense Se7en y en el de ciencia ficción Doce monos, siendo esta última la que lo hizo ganar un Globo de Oro en la categoría de «mejor actor de reparto» y una nominación al Premio Óscar. Cuatro años más tarde, protagonizó el éxito de culto Fight Club (1999), y poco después actuó en el exitoso filme Ocean's Eleven (2001).",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "biography": "💥Уильям Брэдли Питт, более известный как Брэд Питт. Родился в 1963-ем году в Шони, Оклахома, США. Рос в семье с младшим братом и сестрой. Отец работал менеджером в компании по грузоперевозкам, а мать была психологом в школе. Учился в Университете Миссури. Работает актёром и продюсером. Дважды женат: на актрисе Дженнифер Энистон и на актрисе Анджелине Джоли, у пары 6-ро детей: 3-ое биологических (сын Нокс, дочери Шайло и Вивьен) и 3-ое приёмных (сыновья Мэддокс и Пакс, дочь Захара). С 2022-го состоит в отношениях с дизайнером Инес де Рамон, детей у пары нет\n\n🏆Главные награды🏆: Оскар (2014) [12 лет рабства], Оскар (2020) [Однажды… в Голливуде], Золотой глобус (1996) [12 обезьян], BAFTA (2020) [Однажды… в Голливуде]\n\n🎬Главные проекты🎬: «12 обезьян» (1995), «Бойцовский клуб» (1999), «Троя» (2004), «Древо жизни» (2011), «Однажды… в Голливуде» (2019)\n\n⭐Интересный факт⭐: Брэд не только блистает на экране, но и активно работает как продюсер, один из его самых громких успехов как продюсера, фильм «12 лет рабства», ставший победителем «Оскара» как «Лучший фильм»",
+          "name": "Брэд Питт",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "BG",
+        "iso_639_1": "bg",
+        "name": "български език",
+        "english_name": "Bulgarian",
+        "data": {
+          "biography": "Брад Пит (роден на 18 декември 1963 г.) е един от най-известните американски актьори и продуценти, носител на множество престижни награди, включително Оскар. Изгрява през 90-те с роли в „Интервю с вампир“ (1994) и „Седем“ (1995), утвърждавайки се като водеща холивудска звезда с филми като „Боен клуб“ (1999) и „Троя“ (2004).  Роден в Оклахома, учи журналистика преди да се насочи към актьорството в Лос Анджелис. Първите му изяви са в края на 80-те, а пробивът му е в средата на 90-те.  Актьорът е номиниран за Оскар за участието си в „Дванайсет маймуни“ (1996) и „Странният случай с Бенджамин Бътън“ (2009). Участва в редица блокбъстъри, включително поредицата „Бандата на Оушън“.  Бил е женен за Дженифър Анистън и Анджелина Джоли, което предизвиква голям медиен интерес.",
+          "name": "Брад Пит",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "biography": "",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "name": "Hrvatski",
+        "english_name": "Croatian",
+        "data": {
+          "biography": "",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "biography": "William Bradley Pitt (18 Aralık 1963; Shawnee, Oklahoma, ABD), Amerikalı oyuncu ve film yapımcısıdır. Yapım şirketi Plan B Entertainment ile yapımcı olarak bir Akademi Ödülü ve Primetime Emmy Ödülü'nün yanı sıra oyunculuğuyla iki Altın Küre Ödülü ve bir Akademi Ödülü de dâhil olmak üzere birçok ödül almaya hak kazanmıştır.\n\nMissouri Üniversitesinin gazetecilik bölümünden mezun olmasına kısa bir süre kala, uzun süredir aklında olan oyunculuk kariyerini başlatmak için ailesine Pasadena'daki bir Güzel Sanatlar Akademisi'ne devam edeceğini söyleyerek Hollywood'a gitti. Bir süre çeşitli tanıtımlarda tavuk kostümü giyip limuzin şoförlüğü gibi işler yaptıktan sonra Dallas ve Another World gibi dizilerde küçük rollerde oynamaya başladı.\n\n1989'da Cutting Class isimli düşük bütçeli bir yapımda rol alarak ilgi çekti. Bundan iki yıl sonra People Magazin'in kendisine “Dünyanın En Seksi Adamı” unvanını layık görmesine neden olacak olan, Thelma & Louise'deki on beş dakikalık rolü geldi. Büyük bütçeli prodüksiyonlardaki ilk başrol performansını \"A River Runs Through It\" (1992) ve \"Legends of the Fall\" (1994) adlı drama filmleri ile \"Interview with the Vampires\" (1994) adlı korku filmi ile gösterdi. Suç gerilim filmi \"Seven\"da (1995) ve bilim kurgu filmi \"12 Maymun\"da (1995) eleştirmenlerce beğenilen performanslar sergiledi, 12 Maymun filmi ona En İyi Yardımcı Erkek Oyuncu dalında Altın Küre Ödülü ve Akademi Ödülü adaylığı kazandırdı.\n\nPitt, Fight Club (1999) adlı kült film ve soygun filmi Ocean's Eleven (2001) ile devam serisi, Ocean's Twelve (2004) ve Ocean's Thirteen (2007) filmlerinde rol aldı. En büyük gişe başarıları, Ocean's Eleven (2001), Troy (2004), Mr. & Mrs. Smith (2005), World War Z (2013) ve Once Upon a Time in Hollywood (2019) ile oldu. \"Bir Zamanlar Hollywood'da\" filmindeki oyunculuğu ona ikinci Altın Küre Ödülünü ve En İyi Yardımcı Erkek Oyuncu Akademi Ödülünü kazandırdı. Pitt'in Oscar adayı olan diğer performanslarının yer aldığı filmler The Curious Case of Benjamin Button (2008) ve Moneyball (2011) idi. Her ikisi de En İyi Film dalında Akademi Ödülü'nü kazanan The Departed (2006) ve 12 Yıllık Esaret'in (2013) yapımcılığını üstlendi. Ayrıca En İyi Film dalında aday gösterilen The Tree of Life (2011), Moneyball (2011) ve The Big Short (2015) filmlerinin de yapımcısıdır.\n\nHalk tarafından bilinen birisi olarak Pitt, Amerikan eğlence endüstrisindeki en etkili ve güçlü kişilerden biri olarak gösteriliyor. Birkaç yıl boyunca çeşitli medya kuruluşları tarafından dünyanın en çekici adamı olarak gösterildi ve özel hayatı büyük bir magazin konusu oldu. 2000'den 2005'e kadar aktris Jennifer Aniston ile evliydi; 2014'te aktris Angelina Jolie ile evlendi; 2019'da yasal olarak ayrıldılar. Pitt ve Jolie'nin birlikte altı çocuğu var, bunlardan biri Afrika, ikisi Asya'dan evlat edinilmiş çocuklar iken diğer üçü biyolojik çocuklarıdır.",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "biography": "Brad Pitt (nato il 18 dicembre 1963) è un attore e produttore cinematografico statunitense, considerato una delle più grandi star di Hollywood e uno degli interpreti più influenti della sua generazione.\n\nDopo alcuni ruoli televisivi e cinematografici, ha raggiunto la fama internazionale all'inizio degli anni Novanta con Thelma & Louise (1991). Negli anni successivi ha consolidato il suo successo grazie a interpretazioni memorabili in film come Vento di passioni (1994), Seven (1995), L'esercito delle 12 scimmie (1995), Fight Club (1999), Snatch - Lo strappo (2000), Ocean's Eleven (2001), Troy (2004), Babel (2006), L'assassinio di Jesse James per mano del codardo Robert Ford (2007), Bastardi senza gloria (2009), Moneyball - L'arte di vincere (2011), C'era una volta a... Hollywood (2019), Bullet Train (2022) e F1 - Il film (2025).\n\nNel corso della sua carriera ha ricevuto numerosi riconoscimenti, vincendo il Premio Oscar come miglior attore non protagonista per C'era una volta a... Hollywood e un secondo Oscar come produttore per 12 anni schiavo (2013), premiato come miglior film. Attraverso la sua casa di produzione Plan B Entertainment ha inoltre contribuito alla realizzazione di numerose opere acclamate dalla critica.\n\nGrazie al suo straordinario carisma, alla versatilità con cui ha affrontato ruoli drammatici, d'azione e comici e a una carriera costellata di successi, Brad Pitt è diventato una delle figure più iconiche e rispettate della storia del cinema contemporaneo.",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "HU",
+        "iso_639_1": "hu",
+        "name": "Magyar",
+        "english_name": "Hungarian",
+        "data": {
+          "biography": "Brad Pitt Oklahomában született, de a Missouri állam béli Springfieldben nőtt fel. Középiskolás éveiben főleg sporttal foglalkozott, az iskolai tanács tagja volt és érdeklődéssel fordult az iskolai musicalek felé. A Missouri Egyetemen újságírást tanult (főleg reklám szakirányban), de ezen kívül különféle iskolai szórakoztató műsorokban is szerepet vállalt.  Tanulmányai befejeztével Kaliforniába költözött, ahol számos munkát vállalt. Kipróbálta a limuzin-sofőrködést, de szállított hűtőket is. Az el Pollo Loco nevű cégnél dolgozva még csirkekosztümben is feltűnt az utcán. Ridley Scott felfigyelt a fiatal srácra, és szerepet ajánlott neki a Thelma és Louise (1991) című filmjében, aki ezután lassan, de biztosan elindult a filmcsillagok útján. A 12 majom (1995) című, posztapokaliptikus alkotás miatt elutasított egy filmszerepet Tom Hanks-szel, végül azonban Terrry Gilliam filmje meghozta számára az első Oscar-jelölést.  Érdekesség, hogy 1997-ben készült filmje, a %% (1997) óta Brad Pitt nem teheti be a lábát Kínába.\n\nKarrierjének fordulópontját a Trója (2004) jelentette, melynek köszönhetően elfoglalhatta helyét az akciósztárok között. Ezt követte 2005-ben a Mr. és Mrs. Smith (2005), melynek forgatása során megismerkedett Angelina Jolieval, aki miatt elvált korábbi feleségétől.\n\nKarrierje során számos különböző műfajú filmben játszott, melybe éppúgy beletartoznak a hollywoodi szuperprodukciók (Megaagy – 2010), és a komoly színészi kavlitásokat igánylő alkotások (Becstelen brigantyk – 2009, Az élet fája – 2011). Két jelölést gyűjtött be az évek során: egyet a Benjamin Button különös élete (2008) című filmben nyújtott alakításáért, a másikat  a Pénzcsináló (2011) című drámáért.  1996-ban kezdődött kapcsolata Gwyneth Paltrowval, akivel 1997-ben szakítottak, majd 1999-ben feleségül vette Jennifer Anistont, akitől 2005-ben vált el. Jelenleg Angelina Jolie férje. Hat gyermekük van, két fiút és egy lányt fogadtak örökbe.",
+          "name": "",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "GR",
+        "iso_639_1": "el",
+        "name": "ελληνικά",
+        "english_name": "Greek",
+        "data": {
+          "biography": "Ο Μπραντ Πιτ είναι Αμερικανός ηθοποιός. Ο Πιτ έχει λάβει δύο υποψηφιότητες για Όσκαρ και πέντε υποψηφιότητες για Χρυσή Σφαίρα κερδίζοντας μία. Έχει χαρακτηριστεί ως ένας από τους πιο ελκυστικούς άνδρες στον κόσμο. Ο Πιτ ξεκίνησε την καριέρα του κάνοντας γκεστ εμφανίσεις σε τηλεοπτικές σειρές.",
+          "name": "Μπραντ Πιτ",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "biography": "布萊德彼特1963年出生於美國奧克拉荷馬州，1986 年離開家鄉到洛杉磯打天下，努力朝演員之路邁進，剛出道時多演出一些電視節目的小角色，而1991年大導演雷利史考特的《末路狂花》算是他電影生涯的真正開始，他在電影中那張俊俏的臉龐吸引了所有觀眾的目光，也讓他初嚐走紅滋味。1992年他演出勞勃瑞福的《大河戀》，帥氣的形象讓大受到廣大女影迷的喜愛，而1994年的《夜訪吸血鬼》及《真愛一世情》更讓他大紅大紫，1995年演出大衛芬奇的驚悚片《火線追緝令》，此時的他已成為好萊塢最耀眼的金童，同年他在另類科幻片《未來總動員》中演出的瘋狂精神病患，狂放的演技讓他獲得該年金球獎最佳男配角及奧斯卡最佳男配角的提名。2000年他與熱門影集《六人行》女主角珍妮佛安妮斯頓結婚，兩人於2005年離婚，原因是他與安潔莉娜裘莉和演動作喜劇《史密斯任務》時假戲真做。2006年裘莉為彼特生下一女，2008年幼生下一對龍鳳胎，也是完成了彼特想為人父的心願。2007年的《刺殺傑西》彼特扮演傳奇江湖大盜Jesse James，獲得威尼斯影展最佳男主角獎，2008年與大衛芬奇三度合作的《班傑明的奇幻旅程》，該片是當年奧斯卡獎的大熱門，也讓彼特第二度獲奧斯卡提名。",
+          "name": "布萊德·彼特",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "biography": "윌리엄 브래들리 피트(William Bradley Pitt, 1963년 12월 18일생)는 미국의 배우이자 영화 제작자입니다. 30년이 넘는 영화 경력 동안 피트는 두 번의 아카데미상, 두 번의 영국 아카데미 영화상(BAFTA), 두 번의 골든 글로브상, 두 번의 프라임타임 에미상, 그리고 한 번의 베니스 국제 영화제 볼피컵(Volpi Cup)을 포함하여 수많은 상을 받았습니다. 그가 주연을 맡은 영화들은 전 세계적으로 75억 달러 이상의 수익을 올렸습니다.\n\n피트는 리들리 스콧 감독의 로드 무비 '델마와 루이스(1991)'에서 카우보이 히치하이커 역을 맡으며 처음으로 대중의 주목을 받았습니다. 이후 드라마 '흐르는 강물처럼(1992)', 서부극 '가을의 전설(1994)', 공포 영화 '뱀파이어와의 인터뷰(1994)', 범죄 스릴러 '세븐(1995)', 컬트 영화 '파이트 클럽(1999)', 범죄 코미디 '스내치(2000)' 등의 영화에서 주연을 맡으며 스타로 부상했습니다. 또한 스티븐 소더버그 감독의 '오션스' 3부작(2001~2007)을 비롯해 '트로이(2004)', '미스터 & 미세스 스미스(2005)', '월드워Z(2013)', '불릿 트레인(2022)', 'F1(2025)'과 같은 블록버스터에 출연하며 주연 배우로서의 입지를 확고히 했습니다.\n\n피트는 SF 드라마 '12 몽키즈(1995)', 판타지 로맨스 '벤자민 버튼의 시간은 거꾸로 간다(2008)', 스포츠 드라마 '머니볼(2011)'에서의 연기로 아카데미상 후보에 올랐습니다. 2019년에는 쿠엔틴 타란티노 감독의 '원스 어폰 어 타임... 인 할리우드'에서 스턴트맨 역을 맡아 아카데미 남우조연상을 수상했습니다. 이 외에도 '바벨(2006)', '비겁한 로버트 포드의 제시 제임스 암살(2007)', '번 애프터 리딩(2008)', '바스터즈: 거친 녀석들(2009)', '트리 오브 라이프(2011)', '퓨리(2014)', '빅쇼트(2015)', '애드 아스트라(2019)', '바빌론(2022)' 등 평단의 호평을 받은 다양한 작품에 출연했습니다.\n\n2001년, 피트는 제작사 플랜 B 엔터테인먼트(Plan B Entertainment)를 공동 설립했습니다. 그는 제작자로서 '노예 12년(2013)'으로 아카데미 작품상을 수상했으며, '머니볼(2011)'과 '빅쇼트(2015)'로 작품상 후보에 오르기도 했습니다. 대중문화에서 강력한 영향력을 지닌 인물인 피트는 2006년부터 2008년까지 포브스(Forbes)가 선정하는 '셀러브리티 100' 명단에, 2007년에는 타임(Time)지가 선정하는 '타임 100' 명단에 이름을 올렸습니다. 당대의 섹스 심볼로 꼽히는 그는 1995년과 2000년에 피플(People)지가 선정한 '가장 섹시한 남자'로 뽑혔습니다. 피트의 연애사 역시 언론의 큰 관심을 받았는데, 특히 배우 제니퍼 애니스톤, 안젤리나 졸리와의 결혼 생활이 그러했으며, 졸리와의 사이에서는 여섯 명의 자녀를 두고 있습니다.\n\n위 설명은 위키백과 영문판의 'Brad Pitt' 문서를 번역한 것으로, CC-BY-SA 라이선스에 따라 배포되며, 전체 기여자 목록은 위키백과에서 확인할 수 있습니다.",
+          "name": "브래드 피트",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "biography": "布拉德·皮特，1963年12月18日出生于美国俄克拉何马州，美国电影演员、制片人。\n\n1987年，皮特以临时演员的身份参加了他的第一部电影《无主地》的拍摄。1993年，皮特出演《加州杀手》，并凭此片获得威尼斯电影节最佳男演员奖。1995年，皮特出演《十二只猴子》，并凭借片中的表演获得了奥斯卡最佳男配角奖的提名。2002年，布拉德·皮特创立了B计划影业。2005年，皮特与安吉丽娜·朱莉合作了《史密斯夫妇》，两人相恋。2007年，皮特凭《神枪手之死》第二次获得威尼斯电影节最佳男演员奖。2008年，皮特凭借《返老还童》获得第81届奥斯卡最佳男主角的提名。2010年，由他制片并主演的《点球成金》为他带来又一个奥斯卡最佳男主角提名以及最佳影片提名。2011年，他主演了电影《温柔的杀戮》。2013年，皮特主演的《末日之战》上映。2016年，布拉德·皮特主演的好莱坞爱情谍战片《间谍同盟》于11月30日在中国上映。\n\n2016年，布拉德·皮特筹拍新片《他想要月亮》。2016年，布拉德·皮特以3,150万美元（约2.4亿港元）排《福布斯》全球十大最高收入男星第十位。\n\n据CNN消息，2016年9月19日，安吉丽娜·朱莉申请和布拉德·皮特离婚。2019年12月凭借电影《好莱坞往事》获得2019亚特兰大影评人协会奖最佳男配角奖。2019年12月，被“卫报”评为“2019年度十佳男演员”。\n\n2020年1月，布拉德·皮特凭借《好莱坞往事》获得第54届美国国家影评人协会奖最佳男配角、第26届演员工会奖最佳男配角。",
+          "name": "布拉德·皮特",
+          "primary": false
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "biography": "",
+          "name": "בראד פיט",
+          "primary": false
+        }
+      }
+    ]
+  },
+  "tv_credits": {
+    "cast": [
+      {
+        "adult": false,
+        "backdrop_path": "/rwr4VtrwuUuRbIGz5Nar0QmPoNO.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 54,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Growing Pains",
+        "overview": "Fatherhood has taken on a whole new meaning for Jason Seaver, who has assumed the chores of cooking, cleaning and minding the kids so that his wife, Maggie, can pursue a career in journalism after spending 15 years as a housewife.",
+        "popularity": 19.5253,
+        "poster_path": "/dhzttMAkFTFAax2CTBAql1CaaXB.jpg",
+        "first_air_date": "1985-09-24",
+        "softcore": false,
+        "name": "Growing Pains",
+        "vote_average": 6.5,
+        "vote_count": 181,
+        "character": "Jeff",
+        "credit_id": "525333fb19c295794002c720",
+        "episode_count": 1,
+        "first_credit_air_date": "1987-11-10"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oGfKIjC8MVHLxoaPFLFoFXG5Wy4.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1448,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "thirtysomething",
+        "overview": "thirtysomething is an American television drama about a group of baby boomers in their late thirties.",
+        "popularity": 21.6135,
+        "poster_path": "/gC4CW183RUTvOg5nkLfOnERJ5ov.jpg",
+        "first_air_date": "1987-09-29",
+        "softcore": false,
+        "name": "thirtysomething",
+        "vote_average": 6.3,
+        "vote_count": 33,
+        "character": "Bernard",
+        "credit_id": "525704eb760ee3776a008abe",
+        "episode_count": 1,
+        "first_credit_air_date": "1989-10-03"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "id": 1486,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "21 Jump Street",
+        "overview": "21 Jump Street revolves around a group of young cops who would use their youthful appearance to go undercover and solve crimes involving teenagers and young adults.",
+        "popularity": 41.7783,
+        "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+        "first_air_date": "1987-04-12",
+        "softcore": false,
+        "name": "21 Jump Street",
+        "vote_average": 7.3,
+        "vote_count": 213,
+        "character": "Peter",
+        "credit_id": "52570765760ee3776a03124d",
+        "episode_count": 1,
+        "first_credit_air_date": "1988-05-01"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ahBt2NR6C3GZQYhhAptOAjnVno8.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1795,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Jackass",
+        "overview": "Join sadomasochistic superheroes Johnny Knoxville, Bam Margera, and the rest of the Jackass crew as they terrorize your TV screens and everyone that gets in their way (especially themselves) with their own sick and twisted interpretation of physical entertainment.  Their brand of pranks, goofball antics, and unabashed brutal comedy are sure to bring new meaning to the phrase \"Don't Try This At Home!\"",
+        "popularity": 17.2566,
+        "poster_path": "/q8O8ElquAya9SugLNH6N5TWNE4h.jpg",
+        "first_air_date": "2000-04-12",
+        "softcore": false,
+        "name": "Jackass",
+        "vote_average": 6.7,
+        "vote_count": 318,
+        "character": "Self",
+        "credit_id": "5257157c760ee3776a132ba8",
+        "episode_count": 2,
+        "first_credit_air_date": "2002-02-10"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "id": 2224,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Daily Show",
+        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "popularity": 264.746,
+        "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "first_air_date": "1996-07-22",
+        "softcore": false,
+        "name": "The Daily Show",
+        "vote_average": 6.4,
+        "vote_count": 673,
+        "character": "Self",
+        "credit_id": "52572b4e760ee3776a2d9c26",
+        "episode_count": 1,
+        "first_credit_air_date": "2012-02-01"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1668,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Friends",
+        "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+        "popularity": 3693.4616,
+        "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+        "first_air_date": "1994-09-22",
+        "softcore": false,
+        "name": "Friends",
+        "vote_average": 8.408,
+        "vote_count": 9518,
+        "character": "Will Colbert (uncredited)",
+        "credit_id": "5257107819c295731c02cf9b",
+        "episode_count": 1,
+        "first_credit_air_date": "2001-11-22"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/g3brCzb5D9hE7StLiA69rt6pUeW.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 2122,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "King of the Hill",
+        "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+        "popularity": 95.6289,
+        "poster_path": "/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+        "first_air_date": "1997-01-12",
+        "softcore": false,
+        "name": "King of the Hill",
+        "vote_average": 7.4,
+        "vote_count": 713,
+        "character": "Patch Boomhauer (voice)",
+        "credit_id": "52572302760ee3776a22dc59",
+        "episode_count": 1,
+        "first_credit_air_date": "2003-11-02"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/siQgEbkDwku6n5XFFN0IG8kjMZh.jpg",
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "id": 1709,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Today",
+        "overview": "Today is a daily American morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest running American television series. Originally a two-hour program on weekdays, it expanded to Sundays in 1987 and Saturdays in 1992. The weekday broadcast expanded to three hours in 2000, and to four hours in 2007.\n\nToday's dominance was virtually unchallenged by the other networks until the late 1980s, when it was overtaken by ABC's Good Morning America. Today retook the Nielsen ratings lead the week of December 11, 1995, and held onto that position for 852 consecutive weeks until the week of April 9, 2012, when it was beaten by Good Morning America yet again. In 2002, Today was ranked #17 on TV Guide's 50 Greatest Television  Shows of All Time.",
+        "popularity": 29.406,
+        "poster_path": "/27Sje8LhDZ0J71MuKdr7F8Auc4t.jpg",
+        "first_air_date": "1952-01-14",
+        "softcore": false,
+        "name": "Today",
+        "vote_average": 5.6,
+        "vote_count": 32,
+        "character": "Self",
+        "credit_id": "525713d5760ee3776a113c77",
+        "episode_count": 1,
+        "first_credit_air_date": "2007-12-03"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
+        "genre_ids": [
+          10767
+        ],
+        "id": 1900,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "LIVE with Kelly and Mark",
+        "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+        "popularity": 99.5099,
+        "poster_path": "/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
+        "first_air_date": "1988-09-05",
+        "softcore": false,
+        "name": "LIVE with Kelly and Mark",
+        "vote_average": 5.6,
+        "vote_count": 51,
+        "character": "",
+        "credit_id": "52571af119c29571140d5eda",
+        "episode_count": 1,
+        "first_credit_air_date": "2007-12-24"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6uMA6EAiwcsCqQJwWgYwtORvE0v.jpg",
+        "genre_ids": [
+          35,
+          9648,
+          10765
+        ],
+        "id": 2391,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Tales from the Crypt",
+        "overview": "Cadaverous scream legend the Crypt Keeper is your macabre host for these forays of fright and fun based on the classic E.C. Comics tales from back in the day. So shamble up to the bar and pick your poison. Will it be an insane Santa on a personal slay ride? Honeymooners out to fulfill the \"til death do we part\" vow ASAP?",
+        "popularity": 32.2318,
+        "poster_path": "/265Gpw7wSwwMkUQlksot8B2chRg.jpg",
+        "first_air_date": "1989-06-10",
+        "softcore": false,
+        "name": "Tales from the Crypt",
+        "vote_average": 7.985,
+        "vote_count": 1030,
+        "character": "Billy",
+        "credit_id": "525734f6760ee3776a3977e7",
+        "episode_count": 1,
+        "first_credit_air_date": "1992-08-08"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rLy3MQrbJO3eKMs0TsyKtLz15K7.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 2589,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Head of the Class",
+        "overview": "Head of the Class is an American sitcom that ran from 1986 to 1991 on the ABC television network.\n\nThe series follows a group of gifted students in the Individualized Honors Program at the fictional Monroe High School in Manhattan, and their history teacher Charlie Moore. The program was ostensibly a vehicle for Hesseman, best known for his role as radio DJ Dr. Johnny Fever in the sitcom WKRP in Cincinnati. Hesseman left Head of the Class in 1990 and was replaced by Billy Connolly as teacher Billy MacGregor for the final season. After the series ended, Connolly appeared in a short-lived spin-off titled Billy.\n\nThe series was created and executive produced by Rich Eustis and Michael Elias. Rich Eustis had previously worked as a New York City substitute teacher while hoping to become an actor.",
+        "popularity": 16.7058,
+        "poster_path": "/hHa7u2ySBgRtUGpxAkd1Maf6ws6.jpg",
+        "first_air_date": "1986-09-17",
+        "softcore": false,
+        "name": "Head of the Class",
+        "vote_average": 6.3,
+        "vote_count": 41,
+        "character": "",
+        "credit_id": "52573d96760ee36aaa047b7e",
+        "episode_count": 1,
+        "first_credit_air_date": "1989-01-25"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jB66SWgijY4bU8J4msxj768U9Qe.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 3626,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "American Idol",
+        "overview": "Each year, hopeful singers from all over the country audition to be part of one of the biggest shows in American television history. Who will become the new American Idol?",
+        "popularity": 61.5925,
+        "poster_path": "/iIlKBCqv5YkjQIWj7hYcFndxoLp.jpg",
+        "first_air_date": "2002-06-11",
+        "softcore": false,
+        "name": "American Idol",
+        "vote_average": 5,
+        "vote_count": 185,
+        "character": "Self",
+        "credit_id": "525753c6760ee36aaa1f53c7",
+        "episode_count": 1,
+        "first_credit_air_date": "2008-04-09"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10751
+        ],
+        "id": 4325,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Pet Star",
+        "overview": "Pet Star was a show on Animal Planet hosted by Mario Lopez. The show is a contest between owners and their trained pets who perform tricks. The tricks are graded by three celebrity judges on a scale of one to 10. In the end, the three pets with the highest score come out as finalists, and the audience votes on who is the episode's Pet Star. Then, at the end of the season, the winners compete to be the year's ULTIMATE PET STAR. The winner of a regular show gets $2,500, while the winner of the finals gets $25,000.\n\nThere were many celebrity judges, including Gena Lee Nolin, Virginia Madsen, Will Estes, Lindsay Wagner, Matt Gallant, Mackenzie Phillips, Billy West, James Avery, George Wallace, Melissa Peterman, Christopher Rich, John O'Hurley, Vanessa Lengies, Dom Irrera, Carol Leifer, Andy Kindler, Melissa Rivers, Meshach Taylor, Kaley Cuoco, Rosa Blasi, Jeff Cesario, Karri Turner, Peter Scolari, Bruce Jenner, Fred Willard, Shari Belafonte, Josh Meyers, Lori Petty, Ben Stein, Richard Jeni, Ken Howard, Paul Gilmartin, Maria Menounos, Tempestt Bledsoe, David Brenner and Amy Davidson.\n\nPet Star is based on the show Star Search. It is shown in the United Kingdom on Challenge.",
+        "popularity": 10.4543,
+        "poster_path": "/zMpgsJIH0G0rAEaWQUzONCvN6Fr.jpg",
+        "first_air_date": "2002-08-09",
+        "softcore": false,
+        "name": "Pet Star",
+        "vote_average": 7.8,
+        "vote_count": 9,
+        "character": "Self - Judge",
+        "credit_id": "525763be760ee36aaa33f8e7",
+        "episode_count": 1,
+        "first_credit_air_date": "2003-10-31"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/m1Ycku6rUnB2ibyYKoq4UtZYqxA.jpg",
+        "genre_ids": [
+          9648,
+          10765
+        ],
+        "id": 4346,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Freddy's Nightmares",
+        "overview": "The evil, sinister killer of the \"Nightmare On Elm Street\" movies, Freddy Krueger, hosts this show, where each week, he shows us a tale of evil and death about the lives of people who live in Springwood.",
+        "popularity": 15.084,
+        "poster_path": "/tISTXELQn3ZFC8mgBwEH77xKXkZ.jpg",
+        "first_air_date": "1988-10-09",
+        "softcore": false,
+        "name": "Freddy's Nightmares",
+        "vote_average": 7.233,
+        "vote_count": 219,
+        "character": "Rick",
+        "credit_id": "525764f9760ee36aaa357d18",
+        "episode_count": 1,
+        "first_credit_air_date": "1989-02-05"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "id": 4573,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Late Night with Conan O'Brien",
+        "overview": "Stepping into the late-late slot vacated by David Letterman, Conan O'Brien stars in a show that far outdoes its competition in sheer strangeness. Along with the celebrity interviews and musical numbers typical of late-night talk shows, this program make frequent use of odd walk-on characters and frequent \"visits\" from celebrity guests.",
+        "popularity": 65.0886,
+        "poster_path": "/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg",
+        "first_air_date": "1993-09-13",
+        "softcore": false,
+        "name": "Late Night with Conan O'Brien",
+        "vote_average": 7.3,
+        "vote_count": 169,
+        "character": "Self - Guest",
+        "credit_id": "5257713f760ee36aaa496071",
+        "episode_count": 1,
+        "first_credit_air_date": "2004-05-06"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sCTNR6iYgEAaYxjvibhzt8sc1nQ.jpg",
+        "genre_ids": [
+          10766,
+          18,
+          10751
+        ],
+        "id": 40,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Dallas",
+        "overview": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked \"Who shot J.R.?\" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.",
+        "popularity": 82.4382,
+        "poster_path": "/jmqo8bgHrhKYPc0RK5F71GHa8rm.jpg",
+        "first_air_date": "1978-04-02",
+        "softcore": false,
+        "name": "Dallas",
+        "vote_average": 6.9,
+        "vote_count": 252,
+        "character": "Randy",
+        "credit_id": "6076f9262a09bc00404ca503",
+        "episode_count": 4,
+        "first_credit_air_date": "1987-12-11"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10763,
+          99
+        ],
+        "id": 10946,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Celebrities Uncensored",
+        "overview": "Celebrities Uncensored is a TV program on the E! network that edited together amusing paparazzi footage of celebrities, usually in public places such as public sidewalks, restaurants, nightclubs, etc. The celebrities were often friendly, but sometimes their more unfriendly antics were featured in an amusing and entertaining way. It was very popular with stars on the rise and created a stir in the Hollywood community. Paris Hilton was first brought to the public's attention by this show.",
+        "popularity": 0.4766,
+        "poster_path": "/cwZ6ZXREDPOtsAiAUcA4uKBhy1e.jpg",
+        "first_air_date": "2003-06-04",
+        "softcore": false,
+        "name": "Celebrities Uncensored",
+        "vote_average": 4.9,
+        "vote_count": 7,
+        "character": "Self",
+        "credit_id": "5258094919c29531db3e2f4a",
+        "episode_count": 6,
+        "first_credit_air_date": "2003-07-09"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6cnmzp06LxRLdBHyWuA3ijwJ68m.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 29999,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Glory Days",
+        "overview": "Glory Days is an American drama television series that aired from July 25 until September 13, 1990. The series followed the coming of age of four friends; Dave Rotecki who became a cop, Walker Lovejoy the struggling journalist, Dominic the college student and Triggs, the only one who as no idea who he wants to be. We follow these characters as they struggle to achieve success while maintaining the friendship that made them best friends in High School.",
+        "popularity": 4.3386,
+        "poster_path": "/hNJ5HIkjYgZTBY7VTkjsJEfEx1H.jpg",
+        "first_air_date": "1990-07-25",
+        "softcore": false,
+        "name": "Glory Days",
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "character": "Walker Lovejoy",
+        "credit_id": "525895bf760ee3466158aa8e",
+        "episode_count": 6,
+        "first_credit_air_date": "1990-07-25"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fmMOozdSXbzhl6cc2avXI8Y46VK.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 97084,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "DAVE",
+        "overview": "A suburban neurotic man in his late 20s has convinced himself that he’s destined to be one of the best rappers of all time. Now he must convince his closest friends, because with their help, he might actually convince the world.",
+        "popularity": 20.0234,
+        "poster_path": "/iorStu3DHuscNfQiIyQomvMyO0h.jpg",
+        "first_air_date": "2020-03-04",
+        "softcore": false,
+        "name": "DAVE",
+        "vote_average": 7.313,
+        "vote_count": 198,
+        "character": "Brad Pitt",
+        "credit_id": "6478e52dcf4b8b01031d2ca4",
+        "episode_count": 1,
+        "first_credit_air_date": "2023-05-31"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 133401,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The True Story of...",
+        "overview": "",
+        "popularity": 7.9173,
+        "poster_path": "/eStdgoFzifZ7uKRmxqR0FcxqAAj.jpg",
+        "first_air_date": "2017-05-05",
+        "softcore": false,
+        "name": "The True Story of...",
+        "vote_average": 8.3,
+        "vote_count": 3,
+        "character": "Self (archive footage)",
+        "credit_id": "64af19ff8a0e9b00adac70ba",
+        "episode_count": 1,
+        "first_credit_air_date": "2022-02-03"
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "backdrop_path": "/hsSFJ7WyVTNU87c06KFVesntrUQ.jpg",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "id": 69061,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The OA",
+        "overview": "Seven years after vanishing from her home, a young woman returns with mysterious new abilities and recruits five strangers for a secret mission.",
+        "popularity": 17.5634,
+        "poster_path": "/rueY4slMeKtTGitm0raFUJvgaa5.jpg",
+        "first_air_date": "2016-12-16",
+        "softcore": false,
+        "name": "The OA",
+        "vote_average": 7.5,
+        "vote_count": 1483,
+        "credit_id": "58cf92ae9251415a7d0339c3",
+        "department": "Production",
+        "episode_count": 16,
+        "first_credit_air_date": "2016-12-16",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i3crPeFkhLcT9ZRVwPSHQSnd6di.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 69851,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "FEUD",
+        "overview": "Anthology series of famous feuds with the first season based on the legendary rivalry between Bette Davis and Joan Crawford which began early on their careers, climaxed on the set of \"Whatever Happened to Baby Jane?\" and evolved into an Oscar vendetta.",
+        "popularity": 14.2802,
+        "poster_path": "/c5wn2eLRN3naOB1JxEbDIApRN2T.jpg",
+        "first_air_date": "2017-03-05",
+        "softcore": false,
+        "name": "FEUD",
+        "vote_average": 7.6,
+        "vote_count": 261,
+        "credit_id": "58d06d6e9251415a240011dc",
+        "department": "Production",
+        "episode_count": 8,
+        "first_credit_air_date": "2017-03-05",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 6860,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Pretty/Handsome",
+        "overview": "A married gynecologist, father of two sons, slowly comes to terms with the fact that he wants to undergo sexual reassignment surgery.",
+        "popularity": 3.4394,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Pretty/Handsome",
+        "vote_average": 3.4,
+        "vote_count": 5,
+        "credit_id": "5a45e03a9251411fab090cc0",
+        "department": "Production",
+        "episode_count": 1,
+        "first_credit_air_date": null,
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pZcS7g2wsGWqWvleu3f9JS288QT.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 80039,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Underground Railroad",
+        "overview": "Follow young Cora’s journey as she makes a desperate bid for freedom in the antebellum South. After escaping her Georgia plantation for the rumored Underground Railroad, Cora discovers no mere metaphor, but an actual railroad full of engineers and conductors, and a secret network of tracks and tunnels beneath the Southern soil.",
+        "popularity": 8.5723,
+        "poster_path": "/CrrTqw7LHafnbdH9UcK60aOZSm.jpg",
+        "first_air_date": "2021-05-13",
+        "softcore": false,
+        "name": "The Underground Railroad",
+        "vote_average": 7.2,
+        "vote_count": 155,
+        "credit_id": "5b177cc9c3a3687412008e66",
+        "department": "Production",
+        "episode_count": 10,
+        "first_credit_air_date": "2021-05-13",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jIGB53Yto6xOFrFJoOjGKQ9V0ak.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 90259,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Third Day",
+        "overview": "A unique story told over two distinct halves, \"Summer\" follows Sam, a man drawn to a mysterious island off the British coast where he encounters a group of islanders set on preserving their traditions at any cost. \"Winter\" follows Helen, a strong-willed outsider who comes to the island seeking answers, but whose arrival precipitates a fractious battle to decide its fate.",
+        "popularity": 7.0683,
+        "poster_path": "/cW3xE7FKgkXRE1RdZyvUJIoDBFg.jpg",
+        "first_air_date": "2020-09-14",
+        "softcore": false,
+        "name": "The Third Day",
+        "vote_average": 6.5,
+        "vote_count": 238,
+        "credit_id": "5f604e5e156cc70038e2836c",
+        "department": "Production",
+        "episode_count": 6,
+        "first_credit_air_date": "2020-09-14",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wI4aGtreUx7vFtZGcyiFoOX3qf3.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          10765,
+          37
+        ],
+        "id": 113985,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Outer Range",
+        "overview": "A rancher fighting for his land and family stumbles upon an unfathomable mystery at the edge of Wyoming’s wilderness, forcing a confrontation with the Unknown in ways both intimate and cosmic in the untamable American West.",
+        "popularity": 16.6376,
+        "poster_path": "/9leGmIDamsWJELYz0pZkr2EXUFf.jpg",
+        "first_air_date": "2022-04-14",
+        "softcore": false,
+        "name": "Outer Range",
+        "vote_average": 6.9,
+        "vote_count": 438,
+        "credit_id": "62292003a6d9310046252411",
+        "department": "Production",
+        "episode_count": 15,
+        "first_credit_air_date": "2022-04-14",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1U4NVB7PWtPdjSzvSVQqg5CkLLV.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 233356,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Wayne Shorter: Zero Gravity",
+        "overview": "A cinematic ode to jazz legend, Wayne Shorter. Depicted in 3 portals, the viewer is transported into prolific periods of Shorter's life and how through adversity, he grew to greatness, shattered the limitations of jazz, and became one of the most influential musicians and composers in American music.",
+        "popularity": 3.1249,
+        "poster_path": "/hLZ6fiL33b26XW7s9fBffjoE4wA.jpg",
+        "first_air_date": "2023-08-24",
+        "softcore": false,
+        "name": "Wayne Shorter: Zero Gravity",
+        "vote_average": 8.6,
+        "vote_count": 6,
+        "credit_id": "64e968a3e894a601012150af",
+        "department": "Production",
+        "episode_count": 3,
+        "first_credit_air_date": "2023-08-24",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ciizJ9Okzt9tBBGK7Q3T14LFT2j.jpg",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "id": 108545,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "3 Body Problem",
+        "overview": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
+        "popularity": 25.1511,
+        "poster_path": "/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg",
+        "first_air_date": "2024-03-21",
+        "softcore": false,
+        "name": "3 Body Problem",
+        "vote_average": 7.492,
+        "vote_count": 1723,
+        "credit_id": "659dcd6a6728a801a52f1ce2",
+        "department": "Production",
+        "episode_count": 8,
+        "first_credit_air_date": "2024-03-21",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tbskwZdd1X9nCxF3GJ1FlfJ5uY6.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 208061,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "High School",
+        "overview": "A story about finding your own identity—a journey made even more complicated when you have a twin whose own struggle and self-discovery so closely mimics your own. Told through a backdrop of ‘90s grunge and rave culture, the series weaves between parallel and discordant memories of sisters growing up down the hall from one another. Based on the autobiographical book High School by musicians Tegan and Sara.",
+        "popularity": 5.5239,
+        "poster_path": "/cKasVe3wYtZpfQamxZlRCWYeqgX.jpg",
+        "first_air_date": "2022-10-13",
+        "softcore": false,
+        "name": "High School",
+        "vote_average": 7.1,
+        "vote_count": 26,
+        "credit_id": "65aadc2a357c0000cbd6d9a4",
+        "department": "Production",
+        "episode_count": 8,
+        "first_credit_air_date": "2022-10-13",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/llZodlkVKRkTdUsiRxvn8h80hhx.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 249042,
+        "origin_country": [
+          "GB",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Adolescence",
+        "overview": "When a 13-year-old is accused of the murder of a classmate, his family, the psychological expert and the detective in charge are all left asking: what really happened?",
+        "popularity": 17.6915,
+        "poster_path": "/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg",
+        "first_air_date": "2025-03-13",
+        "softcore": false,
+        "name": "Adolescence",
+        "vote_average": 7.806,
+        "vote_count": 1849,
+        "credit_id": "674886d210946c29c602b066",
+        "department": "Production",
+        "episode_count": 4,
+        "first_credit_air_date": "2025-03-13",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 303701,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Black Hole",
+        "overview": "There’s an old myth that haunts the seemingly perfect small town of Roosevelt: If you have sex too young, you’ll contract the ‘bug,’ a virus that literally turns you into a ‘monster’ from your worst nightmares. Absurd, right? That’s what Chris always assumed, until, after one reckless night at the beginning of senior year, she finds herself infected. Now she’ll be cast out to the woods to live with the other infected, where a chilling, new threat emerges: a serial killer who’s hunting them one by one.",
+        "popularity": 2.9735,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Black Hole",
+        "vote_average": 0,
+        "vote_count": 0,
+        "credit_id": "68faaae8836df033d612829c",
+        "department": "Production",
+        "episode_count": 1,
+        "first_credit_air_date": null,
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n4ralzQF1WFAeEb0rK0q2om5P7v.jpg",
+        "genre_ids": [],
+        "id": 243678,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Rx for Survival: A Global Health Challenge",
+        "overview": "From vaccines to antibiotics, clean water to nutrition, bio-terror threats to the HIV/AIDS pandemic, the six-part series Rx for Survival: A Global Health Challenge tells the compelling stories of global health challenges and successes. Employing both historical dramatic sequences and poignant current documentary stories, the series showcases key milestones in public health history, such as the eradication of smallpox, alongside modern and future challenges, including SARS, a potential global flu pandemic and recovery from the Asian tsunami catastrophe.",
+        "popularity": 2.0178,
+        "poster_path": "/xlc5OQSVHD3TF8o8pDilosZFB4d.jpg",
+        "first_air_date": "2005-11-03",
+        "softcore": false,
+        "name": "Rx for Survival: A Global Health Challenge",
+        "vote_average": 10,
+        "vote_count": 1,
+        "credit_id": "6a98592808610020ad11f5cd",
+        "department": "Sound",
+        "episode_count": 1,
+        "first_credit_air_date": "2005-11-03",
+        "job": "Vocals"
+      }
+    ]
+  }
+}

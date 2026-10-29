@@ -1,0 +1,845 @@
+{
+  "cast": [
+    {
+      "adult": false,
+      "backdrop_path": "/rwr4VtrwuUuRbIGz5Nar0QmPoNO.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 54,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Growing Pains",
+      "overview": "Fatherhood has taken on a whole new meaning for Jason Seaver, who has assumed the chores of cooking, cleaning and minding the kids so that his wife, Maggie, can pursue a career in journalism after spending 15 years as a housewife.",
+      "popularity": 19.5253,
+      "poster_path": "/dhzttMAkFTFAax2CTBAql1CaaXB.jpg",
+      "first_air_date": "1985-09-24",
+      "softcore": false,
+      "name": "Growing Pains",
+      "vote_average": 6.5,
+      "vote_count": 181,
+      "character": "Jeff",
+      "credit_id": "525333fb19c295794002c720",
+      "episode_count": 1,
+      "first_credit_air_date": "1987-11-10"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oGfKIjC8MVHLxoaPFLFoFXG5Wy4.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1448,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "thirtysomething",
+      "overview": "thirtysomething is an American television drama about a group of baby boomers in their late thirties.",
+      "popularity": 21.6135,
+      "poster_path": "/gC4CW183RUTvOg5nkLfOnERJ5ov.jpg",
+      "first_air_date": "1987-09-29",
+      "softcore": false,
+      "name": "thirtysomething",
+      "vote_average": 6.3,
+      "vote_count": 33,
+      "character": "Bernard",
+      "credit_id": "525704eb760ee3776a008abe",
+      "episode_count": 1,
+      "first_credit_air_date": "1989-10-03"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        18
+      ],
+      "id": 1486,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "21 Jump Street",
+      "overview": "21 Jump Street revolves around a group of young cops who would use their youthful appearance to go undercover and solve crimes involving teenagers and young adults.",
+      "popularity": 41.7783,
+      "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+      "first_air_date": "1987-04-12",
+      "softcore": false,
+      "name": "21 Jump Street",
+      "vote_average": 7.3,
+      "vote_count": 213,
+      "character": "Peter",
+      "credit_id": "52570765760ee3776a03124d",
+      "episode_count": 1,
+      "first_credit_air_date": "1988-05-01"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ahBt2NR6C3GZQYhhAptOAjnVno8.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1795,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Jackass",
+      "overview": "Join sadomasochistic superheroes Johnny Knoxville, Bam Margera, and the rest of the Jackass crew as they terrorize your TV screens and everyone that gets in their way (especially themselves) with their own sick and twisted interpretation of physical entertainment.  Their brand of pranks, goofball antics, and unabashed brutal comedy are sure to bring new meaning to the phrase \"Don't Try This At Home!\"",
+      "popularity": 17.2566,
+      "poster_path": "/q8O8ElquAya9SugLNH6N5TWNE4h.jpg",
+      "first_air_date": "2000-04-12",
+      "softcore": false,
+      "name": "Jackass",
+      "vote_average": 6.7,
+      "vote_count": 318,
+      "character": "Self",
+      "credit_id": "5257157c760ee3776a132ba8",
+      "episode_count": 2,
+      "first_credit_air_date": "2002-02-10"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
+      "genre_ids": [
+        10763,
+        35
+      ],
+      "id": 2224,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Daily Show",
+      "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "popularity": 264.746,
+      "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+      "first_air_date": "1996-07-22",
+      "softcore": false,
+      "name": "The Daily Show",
+      "vote_average": 6.4,
+      "vote_count": 673,
+      "character": "Self",
+      "credit_id": "52572b4e760ee3776a2d9c26",
+      "episode_count": 1,
+      "first_credit_air_date": "2012-02-01"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1668,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Friends",
+      "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+      "popularity": 3693.4616,
+      "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+      "first_air_date": "1994-09-22",
+      "softcore": false,
+      "name": "Friends",
+      "vote_average": 8.408,
+      "vote_count": 9518,
+      "character": "Will Colbert (uncredited)",
+      "credit_id": "5257107819c295731c02cf9b",
+      "episode_count": 1,
+      "first_credit_air_date": "2001-11-22"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g3brCzb5D9hE7StLiA69rt6pUeW.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 2122,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "King of the Hill",
+      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+      "popularity": 95.6289,
+      "poster_path": "/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+      "first_air_date": "1997-01-12",
+      "softcore": false,
+      "name": "King of the Hill",
+      "vote_average": 7.4,
+      "vote_count": 713,
+      "character": "Patch Boomhauer (voice)",
+      "credit_id": "52572302760ee3776a22dc59",
+      "episode_count": 1,
+      "first_credit_air_date": "2003-11-02"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/siQgEbkDwku6n5XFFN0IG8kjMZh.jpg",
+      "genre_ids": [
+        10763,
+        10767
+      ],
+      "id": 1709,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Today",
+      "overview": "Today is a daily American morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest running American television series. Originally a two-hour program on weekdays, it expanded to Sundays in 1987 and Saturdays in 1992. The weekday broadcast expanded to three hours in 2000, and to four hours in 2007.\n\nToday's dominance was virtually unchallenged by the other networks until the late 1980s, when it was overtaken by ABC's Good Morning America. Today retook the Nielsen ratings lead the week of December 11, 1995, and held onto that position for 852 consecutive weeks until the week of April 9, 2012, when it was beaten by Good Morning America yet again. In 2002, Today was ranked #17 on TV Guide's 50 Greatest Television  Shows of All Time.",
+      "popularity": 29.406,
+      "poster_path": "/27Sje8LhDZ0J71MuKdr7F8Auc4t.jpg",
+      "first_air_date": "1952-01-14",
+      "softcore": false,
+      "name": "Today",
+      "vote_average": 5.6,
+      "vote_count": 32,
+      "character": "Self",
+      "credit_id": "525713d5760ee3776a113c77",
+      "episode_count": 1,
+      "first_credit_air_date": "2007-12-03"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 1900,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "LIVE with Kelly and Mark",
+      "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+      "popularity": 99.5099,
+      "poster_path": "/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
+      "first_air_date": "1988-09-05",
+      "softcore": false,
+      "name": "LIVE with Kelly and Mark",
+      "vote_average": 5.6,
+      "vote_count": 51,
+      "character": "",
+      "credit_id": "52571af119c29571140d5eda",
+      "episode_count": 1,
+      "first_credit_air_date": "2007-12-24"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6uMA6EAiwcsCqQJwWgYwtORvE0v.jpg",
+      "genre_ids": [
+        35,
+        9648,
+        10765
+      ],
+      "id": 2391,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Tales from the Crypt",
+      "overview": "Cadaverous scream legend the Crypt Keeper is your macabre host for these forays of fright and fun based on the classic E.C. Comics tales from back in the day. So shamble up to the bar and pick your poison. Will it be an insane Santa on a personal slay ride? Honeymooners out to fulfill the \"til death do we part\" vow ASAP?",
+      "popularity": 32.2318,
+      "poster_path": "/265Gpw7wSwwMkUQlksot8B2chRg.jpg",
+      "first_air_date": "1989-06-10",
+      "softcore": false,
+      "name": "Tales from the Crypt",
+      "vote_average": 7.985,
+      "vote_count": 1030,
+      "character": "Billy",
+      "credit_id": "525734f6760ee3776a3977e7",
+      "episode_count": 1,
+      "first_credit_air_date": "1992-08-08"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rLy3MQrbJO3eKMs0TsyKtLz15K7.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 2589,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Head of the Class",
+      "overview": "Head of the Class is an American sitcom that ran from 1986 to 1991 on the ABC television network.\n\nThe series follows a group of gifted students in the Individualized Honors Program at the fictional Monroe High School in Manhattan, and their history teacher Charlie Moore. The program was ostensibly a vehicle for Hesseman, best known for his role as radio DJ Dr. Johnny Fever in the sitcom WKRP in Cincinnati. Hesseman left Head of the Class in 1990 and was replaced by Billy Connolly as teacher Billy MacGregor for the final season. After the series ended, Connolly appeared in a short-lived spin-off titled Billy.\n\nThe series was created and executive produced by Rich Eustis and Michael Elias. Rich Eustis had previously worked as a New York City substitute teacher while hoping to become an actor.",
+      "popularity": 16.7058,
+      "poster_path": "/hHa7u2ySBgRtUGpxAkd1Maf6ws6.jpg",
+      "first_air_date": "1986-09-17",
+      "softcore": false,
+      "name": "Head of the Class",
+      "vote_average": 6.3,
+      "vote_count": 41,
+      "character": "",
+      "credit_id": "52573d96760ee36aaa047b7e",
+      "episode_count": 1,
+      "first_credit_air_date": "1989-01-25"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jB66SWgijY4bU8J4msxj768U9Qe.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 3626,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "American Idol",
+      "overview": "Each year, hopeful singers from all over the country audition to be part of one of the biggest shows in American television history. Who will become the new American Idol?",
+      "popularity": 61.5925,
+      "poster_path": "/iIlKBCqv5YkjQIWj7hYcFndxoLp.jpg",
+      "first_air_date": "2002-06-11",
+      "softcore": false,
+      "name": "American Idol",
+      "vote_average": 5,
+      "vote_count": 185,
+      "character": "Self",
+      "credit_id": "525753c6760ee36aaa1f53c7",
+      "episode_count": 1,
+      "first_credit_air_date": "2008-04-09"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        10751
+      ],
+      "id": 4325,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Pet Star",
+      "overview": "Pet Star was a show on Animal Planet hosted by Mario Lopez. The show is a contest between owners and their trained pets who perform tricks. The tricks are graded by three celebrity judges on a scale of one to 10. In the end, the three pets with the highest score come out as finalists, and the audience votes on who is the episode's Pet Star. Then, at the end of the season, the winners compete to be the year's ULTIMATE PET STAR. The winner of a regular show gets $2,500, while the winner of the finals gets $25,000.\n\nThere were many celebrity judges, including Gena Lee Nolin, Virginia Madsen, Will Estes, Lindsay Wagner, Matt Gallant, Mackenzie Phillips, Billy West, James Avery, George Wallace, Melissa Peterman, Christopher Rich, John O'Hurley, Vanessa Lengies, Dom Irrera, Carol Leifer, Andy Kindler, Melissa Rivers, Meshach Taylor, Kaley Cuoco, Rosa Blasi, Jeff Cesario, Karri Turner, Peter Scolari, Bruce Jenner, Fred Willard, Shari Belafonte, Josh Meyers, Lori Petty, Ben Stein, Richard Jeni, Ken Howard, Paul Gilmartin, Maria Menounos, Tempestt Bledsoe, David Brenner and Amy Davidson.\n\nPet Star is based on the show Star Search. It is shown in the United Kingdom on Challenge.",
+      "popularity": 10.4543,
+      "poster_path": "/zMpgsJIH0G0rAEaWQUzONCvN6Fr.jpg",
+      "first_air_date": "2002-08-09",
+      "softcore": false,
+      "name": "Pet Star",
+      "vote_average": 7.8,
+      "vote_count": 9,
+      "character": "Self - Judge",
+      "credit_id": "525763be760ee36aaa33f8e7",
+      "episode_count": 1,
+      "first_credit_air_date": "2003-10-31"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m1Ycku6rUnB2ibyYKoq4UtZYqxA.jpg",
+      "genre_ids": [
+        9648,
+        10765
+      ],
+      "id": 4346,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Freddy's Nightmares",
+      "overview": "The evil, sinister killer of the \"Nightmare On Elm Street\" movies, Freddy Krueger, hosts this show, where each week, he shows us a tale of evil and death about the lives of people who live in Springwood.",
+      "popularity": 15.084,
+      "poster_path": "/tISTXELQn3ZFC8mgBwEH77xKXkZ.jpg",
+      "first_air_date": "1988-10-09",
+      "softcore": false,
+      "name": "Freddy's Nightmares",
+      "vote_average": 7.233,
+      "vote_count": 219,
+      "character": "Rick",
+      "credit_id": "525764f9760ee36aaa357d18",
+      "episode_count": 1,
+      "first_credit_air_date": "1989-02-05"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg",
+      "genre_ids": [
+        35,
+        10767
+      ],
+      "id": 4573,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Late Night with Conan O'Brien",
+      "overview": "Stepping into the late-late slot vacated by David Letterman, Conan O'Brien stars in a show that far outdoes its competition in sheer strangeness. Along with the celebrity interviews and musical numbers typical of late-night talk shows, this program make frequent use of odd walk-on characters and frequent \"visits\" from celebrity guests.",
+      "popularity": 65.0886,
+      "poster_path": "/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg",
+      "first_air_date": "1993-09-13",
+      "softcore": false,
+      "name": "Late Night with Conan O'Brien",
+      "vote_average": 7.3,
+      "vote_count": 169,
+      "character": "Self - Guest",
+      "credit_id": "5257713f760ee36aaa496071",
+      "episode_count": 1,
+      "first_credit_air_date": "2004-05-06"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sCTNR6iYgEAaYxjvibhzt8sc1nQ.jpg",
+      "genre_ids": [
+        10766,
+        18,
+        10751
+      ],
+      "id": 40,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Dallas",
+      "overview": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked \"Who shot J.R.?\" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.",
+      "popularity": 82.4382,
+      "poster_path": "/jmqo8bgHrhKYPc0RK5F71GHa8rm.jpg",
+      "first_air_date": "1978-04-02",
+      "softcore": false,
+      "name": "Dallas",
+      "vote_average": 6.9,
+      "vote_count": 252,
+      "character": "Randy",
+      "credit_id": "6076f9262a09bc00404ca503",
+      "episode_count": 4,
+      "first_credit_air_date": "1987-12-11"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10763,
+        99
+      ],
+      "id": 10946,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Celebrities Uncensored",
+      "overview": "Celebrities Uncensored is a TV program on the E! network that edited together amusing paparazzi footage of celebrities, usually in public places such as public sidewalks, restaurants, nightclubs, etc. The celebrities were often friendly, but sometimes their more unfriendly antics were featured in an amusing and entertaining way. It was very popular with stars on the rise and created a stir in the Hollywood community. Paris Hilton was first brought to the public's attention by this show.",
+      "popularity": 0.4766,
+      "poster_path": "/cwZ6ZXREDPOtsAiAUcA4uKBhy1e.jpg",
+      "first_air_date": "2003-06-04",
+      "softcore": false,
+      "name": "Celebrities Uncensored",
+      "vote_average": 4.9,
+      "vote_count": 7,
+      "character": "Self",
+      "credit_id": "5258094919c29531db3e2f4a",
+      "episode_count": 6,
+      "first_credit_air_date": "2003-07-09"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6cnmzp06LxRLdBHyWuA3ijwJ68m.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 29999,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Glory Days",
+      "overview": "Glory Days is an American drama television series that aired from July 25 until September 13, 1990. The series followed the coming of age of four friends; Dave Rotecki who became a cop, Walker Lovejoy the struggling journalist, Dominic the college student and Triggs, the only one who as no idea who he wants to be. We follow these characters as they struggle to achieve success while maintaining the friendship that made them best friends in High School.",
+      "popularity": 4.3386,
+      "poster_path": "/hNJ5HIkjYgZTBY7VTkjsJEfEx1H.jpg",
+      "first_air_date": "1990-07-25",
+      "softcore": false,
+      "name": "Glory Days",
+      "vote_average": 8.5,
+      "vote_count": 2,
+      "character": "Walker Lovejoy",
+      "credit_id": "525895bf760ee3466158aa8e",
+      "episode_count": 6,
+      "first_credit_air_date": "1990-07-25"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fmMOozdSXbzhl6cc2avXI8Y46VK.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 97084,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "DAVE",
+      "overview": "A suburban neurotic man in his late 20s has convinced himself that he’s destined to be one of the best rappers of all time. Now he must convince his closest friends, because with their help, he might actually convince the world.",
+      "popularity": 20.0234,
+      "poster_path": "/iorStu3DHuscNfQiIyQomvMyO0h.jpg",
+      "first_air_date": "2020-03-04",
+      "softcore": false,
+      "name": "DAVE",
+      "vote_average": 7.313,
+      "vote_count": 198,
+      "character": "Brad Pitt",
+      "credit_id": "6478e52dcf4b8b01031d2ca4",
+      "episode_count": 1,
+      "first_credit_air_date": "2023-05-31"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 133401,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The True Story of...",
+      "overview": "",
+      "popularity": 7.9173,
+      "poster_path": "/eStdgoFzifZ7uKRmxqR0FcxqAAj.jpg",
+      "first_air_date": "2017-05-05",
+      "softcore": false,
+      "name": "The True Story of...",
+      "vote_average": 8.3,
+      "vote_count": 3,
+      "character": "Self (archive footage)",
+      "credit_id": "64af19ff8a0e9b00adac70ba",
+      "episode_count": 1,
+      "first_credit_air_date": "2022-02-03"
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "backdrop_path": "/hsSFJ7WyVTNU87c06KFVesntrUQ.jpg",
+      "genre_ids": [
+        10765,
+        9648,
+        18
+      ],
+      "id": 69061,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The OA",
+      "overview": "Seven years after vanishing from her home, a young woman returns with mysterious new abilities and recruits five strangers for a secret mission.",
+      "popularity": 17.5634,
+      "poster_path": "/rueY4slMeKtTGitm0raFUJvgaa5.jpg",
+      "first_air_date": "2016-12-16",
+      "softcore": false,
+      "name": "The OA",
+      "vote_average": 7.5,
+      "vote_count": 1483,
+      "credit_id": "58cf92ae9251415a7d0339c3",
+      "department": "Production",
+      "episode_count": 16,
+      "first_credit_air_date": "2016-12-16",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i3crPeFkhLcT9ZRVwPSHQSnd6di.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 69851,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "FEUD",
+      "overview": "Anthology series of famous feuds with the first season based on the legendary rivalry between Bette Davis and Joan Crawford which began early on their careers, climaxed on the set of \"Whatever Happened to Baby Jane?\" and evolved into an Oscar vendetta.",
+      "popularity": 14.2802,
+      "poster_path": "/c5wn2eLRN3naOB1JxEbDIApRN2T.jpg",
+      "first_air_date": "2017-03-05",
+      "softcore": false,
+      "name": "FEUD",
+      "vote_average": 7.6,
+      "vote_count": 261,
+      "credit_id": "58d06d6e9251415a240011dc",
+      "department": "Production",
+      "episode_count": 8,
+      "first_credit_air_date": "2017-03-05",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 6860,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Pretty/Handsome",
+      "overview": "A married gynecologist, father of two sons, slowly comes to terms with the fact that he wants to undergo sexual reassignment surgery.",
+      "popularity": 3.4394,
+      "poster_path": null,
+      "first_air_date": "",
+      "softcore": false,
+      "name": "Pretty/Handsome",
+      "vote_average": 3.4,
+      "vote_count": 5,
+      "credit_id": "5a45e03a9251411fab090cc0",
+      "department": "Production",
+      "episode_count": 1,
+      "first_credit_air_date": null,
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pZcS7g2wsGWqWvleu3f9JS288QT.jpg",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 80039,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Underground Railroad",
+      "overview": "Follow young Cora’s journey as she makes a desperate bid for freedom in the antebellum South. After escaping her Georgia plantation for the rumored Underground Railroad, Cora discovers no mere metaphor, but an actual railroad full of engineers and conductors, and a secret network of tracks and tunnels beneath the Southern soil.",
+      "popularity": 8.5723,
+      "poster_path": "/CrrTqw7LHafnbdH9UcK60aOZSm.jpg",
+      "first_air_date": "2021-05-13",
+      "softcore": false,
+      "name": "The Underground Railroad",
+      "vote_average": 7.2,
+      "vote_count": 155,
+      "credit_id": "5b177cc9c3a3687412008e66",
+      "department": "Production",
+      "episode_count": 10,
+      "first_credit_air_date": "2021-05-13",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jIGB53Yto6xOFrFJoOjGKQ9V0ak.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        10765
+      ],
+      "id": 90259,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Third Day",
+      "overview": "A unique story told over two distinct halves, \"Summer\" follows Sam, a man drawn to a mysterious island off the British coast where he encounters a group of islanders set on preserving their traditions at any cost. \"Winter\" follows Helen, a strong-willed outsider who comes to the island seeking answers, but whose arrival precipitates a fractious battle to decide its fate.",
+      "popularity": 7.0683,
+      "poster_path": "/cW3xE7FKgkXRE1RdZyvUJIoDBFg.jpg",
+      "first_air_date": "2020-09-14",
+      "softcore": false,
+      "name": "The Third Day",
+      "vote_average": 6.5,
+      "vote_count": 238,
+      "credit_id": "5f604e5e156cc70038e2836c",
+      "department": "Production",
+      "episode_count": 6,
+      "first_credit_air_date": "2020-09-14",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wI4aGtreUx7vFtZGcyiFoOX3qf3.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        10765,
+        37
+      ],
+      "id": 113985,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Outer Range",
+      "overview": "A rancher fighting for his land and family stumbles upon an unfathomable mystery at the edge of Wyoming’s wilderness, forcing a confrontation with the Unknown in ways both intimate and cosmic in the untamable American West.",
+      "popularity": 16.6376,
+      "poster_path": "/9leGmIDamsWJELYz0pZkr2EXUFf.jpg",
+      "first_air_date": "2022-04-14",
+      "softcore": false,
+      "name": "Outer Range",
+      "vote_average": 6.9,
+      "vote_count": 438,
+      "credit_id": "62292003a6d9310046252411",
+      "department": "Production",
+      "episode_count": 15,
+      "first_credit_air_date": "2022-04-14",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1U4NVB7PWtPdjSzvSVQqg5CkLLV.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 233356,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Wayne Shorter: Zero Gravity",
+      "overview": "A cinematic ode to jazz legend, Wayne Shorter. Depicted in 3 portals, the viewer is transported into prolific periods of Shorter's life and how through adversity, he grew to greatness, shattered the limitations of jazz, and became one of the most influential musicians and composers in American music.",
+      "popularity": 3.1249,
+      "poster_path": "/hLZ6fiL33b26XW7s9fBffjoE4wA.jpg",
+      "first_air_date": "2023-08-24",
+      "softcore": false,
+      "name": "Wayne Shorter: Zero Gravity",
+      "vote_average": 8.6,
+      "vote_count": 6,
+      "credit_id": "64e968a3e894a601012150af",
+      "department": "Production",
+      "episode_count": 3,
+      "first_credit_air_date": "2023-08-24",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ciizJ9Okzt9tBBGK7Q3T14LFT2j.jpg",
+      "genre_ids": [
+        10765,
+        9648,
+        18
+      ],
+      "id": 108545,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "3 Body Problem",
+      "overview": "Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.",
+      "popularity": 25.1511,
+      "poster_path": "/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg",
+      "first_air_date": "2024-03-21",
+      "softcore": false,
+      "name": "3 Body Problem",
+      "vote_average": 7.492,
+      "vote_count": 1723,
+      "credit_id": "659dcd6a6728a801a52f1ce2",
+      "department": "Production",
+      "episode_count": 8,
+      "first_credit_air_date": "2024-03-21",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tbskwZdd1X9nCxF3GJ1FlfJ5uY6.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 208061,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "High School",
+      "overview": "A story about finding your own identity—a journey made even more complicated when you have a twin whose own struggle and self-discovery so closely mimics your own. Told through a backdrop of ‘90s grunge and rave culture, the series weaves between parallel and discordant memories of sisters growing up down the hall from one another. Based on the autobiographical book High School by musicians Tegan and Sara.",
+      "popularity": 5.5239,
+      "poster_path": "/cKasVe3wYtZpfQamxZlRCWYeqgX.jpg",
+      "first_air_date": "2022-10-13",
+      "softcore": false,
+      "name": "High School",
+      "vote_average": 7.1,
+      "vote_count": 26,
+      "credit_id": "65aadc2a357c0000cbd6d9a4",
+      "department": "Production",
+      "episode_count": 8,
+      "first_credit_air_date": "2022-10-13",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/llZodlkVKRkTdUsiRxvn8h80hhx.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 249042,
+      "origin_country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Adolescence",
+      "overview": "When a 13-year-old is accused of the murder of a classmate, his family, the psychological expert and the detective in charge are all left asking: what really happened?",
+      "popularity": 17.6915,
+      "poster_path": "/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg",
+      "first_air_date": "2025-03-13",
+      "softcore": false,
+      "name": "Adolescence",
+      "vote_average": 7.806,
+      "vote_count": 1849,
+      "credit_id": "674886d210946c29c602b066",
+      "department": "Production",
+      "episode_count": 4,
+      "first_credit_air_date": "2025-03-13",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 303701,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Black Hole",
+      "overview": "There’s an old myth that haunts the seemingly perfect small town of Roosevelt: If you have sex too young, you’ll contract the ‘bug,’ a virus that literally turns you into a ‘monster’ from your worst nightmares. Absurd, right? That’s what Chris always assumed, until, after one reckless night at the beginning of senior year, she finds herself infected. Now she’ll be cast out to the woods to live with the other infected, where a chilling, new threat emerges: a serial killer who’s hunting them one by one.",
+      "popularity": 2.9735,
+      "poster_path": null,
+      "first_air_date": "",
+      "softcore": false,
+      "name": "Black Hole",
+      "vote_average": 0,
+      "vote_count": 0,
+      "credit_id": "68faaae8836df033d612829c",
+      "department": "Production",
+      "episode_count": 1,
+      "first_credit_air_date": null,
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n4ralzQF1WFAeEb0rK0q2om5P7v.jpg",
+      "genre_ids": [],
+      "id": 243678,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Rx for Survival: A Global Health Challenge",
+      "overview": "From vaccines to antibiotics, clean water to nutrition, bio-terror threats to the HIV/AIDS pandemic, the six-part series Rx for Survival: A Global Health Challenge tells the compelling stories of global health challenges and successes. Employing both historical dramatic sequences and poignant current documentary stories, the series showcases key milestones in public health history, such as the eradication of smallpox, alongside modern and future challenges, including SARS, a potential global flu pandemic and recovery from the Asian tsunami catastrophe.",
+      "popularity": 2.0178,
+      "poster_path": "/xlc5OQSVHD3TF8o8pDilosZFB4d.jpg",
+      "first_air_date": "2005-11-03",
+      "softcore": false,
+      "name": "Rx for Survival: A Global Health Challenge",
+      "vote_average": 10,
+      "vote_count": 1,
+      "credit_id": "6a98592808610020ad11f5cd",
+      "department": "Sound",
+      "episode_count": 1,
+      "first_credit_air_date": "2005-11-03",
+      "job": "Vocals"
+    }
+  ],
+  "id": 287
+}

@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-10-19",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 340258,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2026-10-19",
+  "last_episode_to_air": {
+    "id": 8027411,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-19",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 3,
+    "season_number": 1,
+    "show_id": 340258,
+    "still_path": null
+  },
+  "name": "拉黑遇真爱",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 179,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "拉黑遇真爱",
+  "overview": "",
+  "popularity": 0,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2026-10-19",
+      "episode_count": 179,
+      "id": 553687,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0
+}

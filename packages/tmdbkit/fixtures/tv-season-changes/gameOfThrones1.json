@@ -1,0 +1,31 @@
+{
+  "changes": [
+    {
+      "key": "episode",
+      "items": [
+        {
+          "id": "6ae1677a064f066832d0214d",
+          "action": "updated",
+          "time": "2026-10-28 03:09:46 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "episode_id": 63063,
+            "episode_number": 8
+          }
+        },
+        {
+          "id": "6ae167865658e5467eb30d46",
+          "action": "updated",
+          "time": "2026-10-28 03:09:58 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "episode_id": 63064,
+            "episode_number": 9
+          }
+        }
+      ]
+    }
+  ]
+}

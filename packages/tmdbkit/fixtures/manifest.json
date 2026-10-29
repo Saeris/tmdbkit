@@ -1,0 +1,2310 @@
+{
+  "recordedAt": "2026-10-29T01:08:58.680Z",
+  "language": "en-US (TMDB default)",
+  "entries": [
+    {
+      "operation": "configuration-details",
+      "label": "default",
+      "path": "configuration",
+      "query": {},
+      "status": 200,
+      "file": "configuration-details/default.json",
+      "truncated": [
+        "change_keys (54)"
+      ]
+    },
+    {
+      "operation": "configuration-countries",
+      "label": "default",
+      "path": "configuration/countries",
+      "query": {},
+      "status": 200,
+      "file": "configuration-countries/default.json",
+      "truncated": [
+        " (251)"
+      ]
+    },
+    {
+      "operation": "configuration-jobs",
+      "label": "default",
+      "path": "configuration/jobs",
+      "query": {},
+      "status": 200,
+      "file": "configuration-jobs/default.json",
+      "truncated": [
+        "[0].jobs (105)",
+        "[1].jobs (105)",
+        "[2].jobs (28)",
+        "[3].jobs (45)",
+        "[4].jobs (49)",
+        "[5].jobs (83)",
+        "[7].jobs (95)",
+        "[8].jobs (189)",
+        "[9].jobs (122)",
+        "[10].jobs (32)",
+        "[11].jobs (83)"
+      ]
+    },
+    {
+      "operation": "configuration-languages",
+      "label": "default",
+      "path": "configuration/languages",
+      "query": {},
+      "status": 200,
+      "file": "configuration-languages/default.json",
+      "truncated": [
+        " (187)"
+      ]
+    },
+    {
+      "operation": "configuration-primary-translations",
+      "label": "default",
+      "path": "configuration/primary_translations",
+      "query": {},
+      "status": 200,
+      "file": "configuration-primary-translations/default.json",
+      "truncated": [
+        " (144)"
+      ]
+    },
+    {
+      "operation": "configuration-timezones",
+      "label": "default",
+      "path": "configuration/timezones",
+      "query": {},
+      "status": 200,
+      "file": "configuration-timezones/default.json",
+      "truncated": [
+        " (249)"
+      ]
+    },
+    {
+      "operation": "certification-movie-list",
+      "label": "default",
+      "path": "certification/movie/list",
+      "query": {},
+      "status": 200,
+      "file": "certification-movie-list/default.json",
+      "truncated": []
+    },
+    {
+      "operation": "certification-tv-list",
+      "label": "default",
+      "path": "certification/tv/list",
+      "query": {},
+      "status": 200,
+      "file": "certification-tv-list/default.json",
+      "truncated": []
+    },
+    {
+      "operation": "genre-movie-list",
+      "label": "default",
+      "path": "genre/movie/list",
+      "query": {},
+      "status": 200,
+      "file": "genre-movie-list/default.json",
+      "truncated": []
+    },
+    {
+      "operation": "genre-tv-list",
+      "label": "default",
+      "path": "genre/tv/list",
+      "query": {},
+      "status": 200,
+      "file": "genre-tv-list/default.json",
+      "truncated": []
+    },
+    {
+      "operation": "watch-providers-regions",
+      "label": "default",
+      "path": "watch/providers/regions",
+      "query": {},
+      "status": 200,
+      "file": "watch-providers-regions/default.json",
+      "truncated": [
+        "results (139)"
+      ]
+    },
+    {
+      "operation": "watch-providers-movie",
+      "label": "default",
+      "path": "watch/providers/movie",
+      "query": {},
+      "status": 200,
+      "file": "watch-providers-movie/default.json",
+      "truncated": [
+        "results (823)"
+      ]
+    },
+    {
+      "operation": "watch-providers-tv",
+      "label": "default",
+      "path": "watch/providers/tv",
+      "query": {},
+      "status": 200,
+      "file": "watch-providers-tv/default.json",
+      "truncated": [
+        "results (744)"
+      ]
+    },
+    {
+      "operation": "movie-details",
+      "label": "starWars",
+      "path": "movie/11",
+      "query": {},
+      "status": 200,
+      "file": "movie-details/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-alternative-titles",
+      "label": "starWars",
+      "path": "movie/11/alternative_titles",
+      "query": {},
+      "status": 200,
+      "file": "movie-alternative-titles/starWars.json",
+      "truncated": [
+        "titles (84)"
+      ]
+    },
+    {
+      "operation": "movie-changes",
+      "label": "starWars",
+      "path": "movie/11/changes",
+      "query": {},
+      "status": 200,
+      "file": "movie-changes/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-credits",
+      "label": "starWars",
+      "path": "movie/11/credits",
+      "query": {},
+      "status": 200,
+      "file": "movie-credits/starWars.json",
+      "truncated": [
+        "cast (105)",
+        "crew (95)"
+      ]
+    },
+    {
+      "operation": "movie-external-ids",
+      "label": "starWars",
+      "path": "movie/11/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "movie-external-ids/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-images",
+      "label": "starWars",
+      "path": "movie/11/images",
+      "query": {},
+      "status": 200,
+      "file": "movie-images/starWars.json",
+      "truncated": [
+        "backdrops (171)",
+        "logos (112)",
+        "posters (454)"
+      ]
+    },
+    {
+      "operation": "movie-keywords",
+      "label": "starWars",
+      "path": "movie/11/keywords",
+      "query": {},
+      "status": 200,
+      "file": "movie-keywords/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-lists",
+      "label": "starWars",
+      "path": "movie/11/lists",
+      "query": {},
+      "status": 200,
+      "file": "movie-lists/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-recommendations",
+      "label": "starWars",
+      "path": "movie/11/recommendations",
+      "query": {},
+      "status": 200,
+      "file": "movie-recommendations/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-release-dates",
+      "label": "starWars",
+      "path": "movie/11/release_dates",
+      "query": {},
+      "status": 200,
+      "file": "movie-release-dates/starWars.json",
+      "truncated": [
+        "results (59)"
+      ]
+    },
+    {
+      "operation": "movie-reviews",
+      "label": "starWars",
+      "path": "movie/11/reviews",
+      "query": {},
+      "status": 200,
+      "file": "movie-reviews/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-similar",
+      "label": "starWars",
+      "path": "movie/11/similar",
+      "query": {},
+      "status": 200,
+      "file": "movie-similar/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-translations",
+      "label": "starWars",
+      "path": "movie/11/translations",
+      "query": {},
+      "status": 200,
+      "file": "movie-translations/starWars.json",
+      "truncated": [
+        "translations (88)"
+      ]
+    },
+    {
+      "operation": "movie-videos",
+      "label": "starWars",
+      "path": "movie/11/videos",
+      "query": {},
+      "status": 200,
+      "file": "movie-videos/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-watch-providers",
+      "label": "starWars",
+      "path": "movie/11/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "movie-watch-providers/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-details",
+      "label": "pulpFiction",
+      "path": "movie/680",
+      "query": {},
+      "status": 200,
+      "file": "movie-details/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-alternative-titles",
+      "label": "pulpFiction",
+      "path": "movie/680/alternative_titles",
+      "query": {},
+      "status": 200,
+      "file": "movie-alternative-titles/pulpFiction.json",
+      "truncated": [
+        "titles (45)"
+      ]
+    },
+    {
+      "operation": "movie-changes",
+      "label": "pulpFiction",
+      "path": "movie/680/changes",
+      "query": {},
+      "status": 200,
+      "file": "movie-changes/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-credits",
+      "label": "pulpFiction",
+      "path": "movie/680/credits",
+      "query": {},
+      "status": 200,
+      "file": "movie-credits/pulpFiction.json",
+      "truncated": [
+        "cast (52)",
+        "crew (129)"
+      ]
+    },
+    {
+      "operation": "movie-external-ids",
+      "label": "pulpFiction",
+      "path": "movie/680/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "movie-external-ids/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-images",
+      "label": "pulpFiction",
+      "path": "movie/680/images",
+      "query": {},
+      "status": 200,
+      "file": "movie-images/pulpFiction.json",
+      "truncated": [
+        "backdrops (85)",
+        "logos (70)",
+        "posters (188)"
+      ]
+    },
+    {
+      "operation": "movie-keywords",
+      "label": "pulpFiction",
+      "path": "movie/680/keywords",
+      "query": {},
+      "status": 200,
+      "file": "movie-keywords/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-lists",
+      "label": "pulpFiction",
+      "path": "movie/680/lists",
+      "query": {},
+      "status": 200,
+      "file": "movie-lists/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-recommendations",
+      "label": "pulpFiction",
+      "path": "movie/680/recommendations",
+      "query": {},
+      "status": 200,
+      "file": "movie-recommendations/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-release-dates",
+      "label": "pulpFiction",
+      "path": "movie/680/release_dates",
+      "query": {},
+      "status": 200,
+      "file": "movie-release-dates/pulpFiction.json",
+      "truncated": [
+        "results (42)"
+      ]
+    },
+    {
+      "operation": "movie-reviews",
+      "label": "pulpFiction",
+      "path": "movie/680/reviews",
+      "query": {},
+      "status": 200,
+      "file": "movie-reviews/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-similar",
+      "label": "pulpFiction",
+      "path": "movie/680/similar",
+      "query": {},
+      "status": 200,
+      "file": "movie-similar/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-translations",
+      "label": "pulpFiction",
+      "path": "movie/680/translations",
+      "query": {},
+      "status": 200,
+      "file": "movie-translations/pulpFiction.json",
+      "truncated": [
+        "translations (50)"
+      ]
+    },
+    {
+      "operation": "movie-videos",
+      "label": "pulpFiction",
+      "path": "movie/680/videos",
+      "query": {},
+      "status": 200,
+      "file": "movie-videos/pulpFiction.json",
+      "truncated": [
+        "results (36)"
+      ]
+    },
+    {
+      "operation": "movie-watch-providers",
+      "label": "pulpFiction",
+      "path": "movie/680/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "movie-watch-providers/pulpFiction.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-details",
+      "label": "sparse",
+      "path": "movie/1811074",
+      "query": {},
+      "status": 200,
+      "file": "movie-details/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-alternative-titles",
+      "label": "sparse",
+      "path": "movie/1811074/alternative_titles",
+      "query": {},
+      "status": 200,
+      "file": "movie-alternative-titles/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-changes",
+      "label": "sparse",
+      "path": "movie/1811074/changes",
+      "query": {},
+      "status": 200,
+      "file": "movie-changes/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-credits",
+      "label": "sparse",
+      "path": "movie/1811074/credits",
+      "query": {},
+      "status": 200,
+      "file": "movie-credits/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-external-ids",
+      "label": "sparse",
+      "path": "movie/1811074/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "movie-external-ids/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-images",
+      "label": "sparse",
+      "path": "movie/1811074/images",
+      "query": {},
+      "status": 200,
+      "file": "movie-images/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-keywords",
+      "label": "sparse",
+      "path": "movie/1811074/keywords",
+      "query": {},
+      "status": 200,
+      "file": "movie-keywords/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-lists",
+      "label": "sparse",
+      "path": "movie/1811074/lists",
+      "query": {},
+      "status": 200,
+      "file": "movie-lists/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-recommendations",
+      "label": "sparse",
+      "path": "movie/1811074/recommendations",
+      "query": {},
+      "status": 200,
+      "file": "movie-recommendations/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-release-dates",
+      "label": "sparse",
+      "path": "movie/1811074/release_dates",
+      "query": {},
+      "status": 200,
+      "file": "movie-release-dates/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-reviews",
+      "label": "sparse",
+      "path": "movie/1811074/reviews",
+      "query": {},
+      "status": 200,
+      "file": "movie-reviews/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-similar",
+      "label": "sparse",
+      "path": "movie/1811074/similar",
+      "query": {},
+      "status": 200,
+      "file": "movie-similar/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-translations",
+      "label": "sparse",
+      "path": "movie/1811074/translations",
+      "query": {},
+      "status": 200,
+      "file": "movie-translations/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-videos",
+      "label": "sparse",
+      "path": "movie/1811074/videos",
+      "query": {},
+      "status": 200,
+      "file": "movie-videos/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-watch-providers",
+      "label": "sparse",
+      "path": "movie/1811074/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "movie-watch-providers/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-details",
+      "label": "starWars-appended",
+      "path": "movie/11",
+      "query": {
+        "append_to_response": "alternative_titles,changes,credits,external_ids,images,keywords,lists,recommendations,release_dates,reviews,similar,translations,videos,watch/providers"
+      },
+      "status": 200,
+      "file": "movie-details/starWars-appended.json",
+      "truncated": [
+        "alternative_titles.titles (84)",
+        "credits.cast (105)",
+        "credits.crew (95)",
+        "images.backdrops (171)",
+        "images.logos (112)",
+        "images.posters (455)",
+        "release_dates.results (59)",
+        "translations.translations (88)"
+      ]
+    },
+    {
+      "operation": "movie-now-playing",
+      "label": "page-1",
+      "path": "movie/now_playing",
+      "query": {},
+      "status": 200,
+      "file": "movie-now-playing/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-popular",
+      "label": "page-1",
+      "path": "movie/popular",
+      "query": {},
+      "status": 200,
+      "file": "movie-popular/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-top-rated",
+      "label": "page-1",
+      "path": "movie/top_rated",
+      "query": {},
+      "status": 200,
+      "file": "movie-top-rated/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-upcoming",
+      "label": "page-1",
+      "path": "movie/upcoming",
+      "query": {},
+      "status": 200,
+      "file": "movie-upcoming/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-changes-list",
+      "label": "default",
+      "path": "movie/changes",
+      "query": {},
+      "status": 200,
+      "file": "movie-changes-list/default.json",
+      "truncated": [
+        "results (100)"
+      ]
+    },
+    {
+      "operation": "movie-changes",
+      "label": "recently-changed",
+      "path": "movie/1591744/changes",
+      "query": {},
+      "status": 200,
+      "file": "movie-changes/recently-changed.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-on-the-air",
+      "label": "page-1",
+      "path": "tv/on_the_air",
+      "query": {},
+      "status": 200,
+      "file": "tv-on-the-air/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-details",
+      "label": "gameOfThrones",
+      "path": "tv/1399",
+      "query": {},
+      "status": 200,
+      "file": "tv-details/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-aggregate-credits",
+      "label": "gameOfThrones",
+      "path": "tv/1399/aggregate_credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-aggregate-credits/gameOfThrones.json",
+      "truncated": [
+        "cast (591)",
+        "crew (348)"
+      ]
+    },
+    {
+      "operation": "tv-alternative-titles",
+      "label": "gameOfThrones",
+      "path": "tv/1399/alternative_titles",
+      "query": {},
+      "status": 200,
+      "file": "tv-alternative-titles/gameOfThrones.json",
+      "truncated": [
+        "results (33)"
+      ]
+    },
+    {
+      "operation": "tv-changes",
+      "label": "gameOfThrones",
+      "path": "tv/1399/changes",
+      "query": {},
+      "status": 200,
+      "file": "tv-changes/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-content-ratings",
+      "label": "gameOfThrones",
+      "path": "tv/1399/content_ratings",
+      "query": {},
+      "status": 200,
+      "file": "tv-content-ratings/gameOfThrones.json",
+      "truncated": [
+        "results (39)"
+      ]
+    },
+    {
+      "operation": "tv-credits",
+      "label": "gameOfThrones",
+      "path": "tv/1399/credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-credits/gameOfThrones.json",
+      "truncated": [
+        "crew (35)"
+      ]
+    },
+    {
+      "operation": "tv-episode-groups",
+      "label": "gameOfThrones",
+      "path": "tv/1399/episode_groups",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-groups/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-external-ids",
+      "label": "gameOfThrones",
+      "path": "tv/1399/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "tv-external-ids/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-images",
+      "label": "gameOfThrones",
+      "path": "tv/1399/images",
+      "query": {},
+      "status": 200,
+      "file": "tv-images/gameOfThrones.json",
+      "truncated": [
+        "backdrops (255)",
+        "logos (73)",
+        "posters (519)"
+      ]
+    },
+    {
+      "operation": "tv-keywords",
+      "label": "gameOfThrones",
+      "path": "tv/1399/keywords",
+      "query": {},
+      "status": 200,
+      "file": "tv-keywords/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-lists",
+      "label": "gameOfThrones",
+      "path": "tv/1399/lists",
+      "query": {},
+      "status": 200,
+      "file": "tv-lists/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-recommendations",
+      "label": "gameOfThrones",
+      "path": "tv/1399/recommendations",
+      "query": {},
+      "status": 200,
+      "file": "tv-recommendations/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-reviews",
+      "label": "gameOfThrones",
+      "path": "tv/1399/reviews",
+      "query": {},
+      "status": 200,
+      "file": "tv-reviews/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-screened-theatrically",
+      "label": "gameOfThrones",
+      "path": "tv/1399/screened_theatrically",
+      "query": {},
+      "status": 200,
+      "file": "tv-screened-theatrically/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-similar",
+      "label": "gameOfThrones",
+      "path": "tv/1399/similar",
+      "query": {},
+      "status": 200,
+      "file": "tv-similar/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-translations",
+      "label": "gameOfThrones",
+      "path": "tv/1399/translations",
+      "query": {},
+      "status": 200,
+      "file": "tv-translations/gameOfThrones.json",
+      "truncated": [
+        "translations (57)"
+      ]
+    },
+    {
+      "operation": "tv-videos",
+      "label": "gameOfThrones",
+      "path": "tv/1399/videos",
+      "query": {},
+      "status": 200,
+      "file": "tv-videos/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-watch-providers",
+      "label": "gameOfThrones",
+      "path": "tv/1399/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "tv-watch-providers/gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-details",
+      "label": "sparse",
+      "path": "tv/340258",
+      "query": {},
+      "status": 200,
+      "file": "tv-details/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-aggregate-credits",
+      "label": "sparse",
+      "path": "tv/340258/aggregate_credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-aggregate-credits/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-alternative-titles",
+      "label": "sparse",
+      "path": "tv/340258/alternative_titles",
+      "query": {},
+      "status": 200,
+      "file": "tv-alternative-titles/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-changes",
+      "label": "sparse",
+      "path": "tv/340258/changes",
+      "query": {},
+      "status": 200,
+      "file": "tv-changes/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-content-ratings",
+      "label": "sparse",
+      "path": "tv/340258/content_ratings",
+      "query": {},
+      "status": 200,
+      "file": "tv-content-ratings/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-credits",
+      "label": "sparse",
+      "path": "tv/340258/credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-credits/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-groups",
+      "label": "sparse",
+      "path": "tv/340258/episode_groups",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-groups/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-external-ids",
+      "label": "sparse",
+      "path": "tv/340258/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "tv-external-ids/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-images",
+      "label": "sparse",
+      "path": "tv/340258/images",
+      "query": {},
+      "status": 200,
+      "file": "tv-images/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-keywords",
+      "label": "sparse",
+      "path": "tv/340258/keywords",
+      "query": {},
+      "status": 200,
+      "file": "tv-keywords/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-lists",
+      "label": "sparse",
+      "path": "tv/340258/lists",
+      "query": {},
+      "status": 200,
+      "file": "tv-lists/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-recommendations",
+      "label": "sparse",
+      "path": "tv/340258/recommendations",
+      "query": {},
+      "status": 200,
+      "file": "tv-recommendations/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-reviews",
+      "label": "sparse",
+      "path": "tv/340258/reviews",
+      "query": {},
+      "status": 200,
+      "file": "tv-reviews/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-screened-theatrically",
+      "label": "sparse",
+      "path": "tv/340258/screened_theatrically",
+      "query": {},
+      "status": 200,
+      "file": "tv-screened-theatrically/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-similar",
+      "label": "sparse",
+      "path": "tv/340258/similar",
+      "query": {},
+      "status": 200,
+      "file": "tv-similar/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-translations",
+      "label": "sparse",
+      "path": "tv/340258/translations",
+      "query": {},
+      "status": 200,
+      "file": "tv-translations/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-videos",
+      "label": "sparse",
+      "path": "tv/340258/videos",
+      "query": {},
+      "status": 200,
+      "file": "tv-videos/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-watch-providers",
+      "label": "sparse",
+      "path": "tv/340258/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "tv-watch-providers/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-details",
+      "label": "airing",
+      "path": "tv/1416",
+      "query": {},
+      "status": 200,
+      "file": "tv-details/airing.json",
+      "truncated": [
+        "seasons (24)"
+      ]
+    },
+    {
+      "operation": "tv-aggregate-credits",
+      "label": "airing",
+      "path": "tv/1416/aggregate_credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-aggregate-credits/airing.json",
+      "truncated": [
+        "cast (3257)",
+        "crew (218)"
+      ]
+    },
+    {
+      "operation": "tv-alternative-titles",
+      "label": "airing",
+      "path": "tv/1416/alternative_titles",
+      "query": {},
+      "status": 200,
+      "file": "tv-alternative-titles/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-changes",
+      "label": "airing",
+      "path": "tv/1416/changes",
+      "query": {},
+      "status": 200,
+      "file": "tv-changes/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-content-ratings",
+      "label": "airing",
+      "path": "tv/1416/content_ratings",
+      "query": {},
+      "status": 200,
+      "file": "tv-content-ratings/airing.json",
+      "truncated": [
+        "results (29)"
+      ]
+    },
+    {
+      "operation": "tv-credits",
+      "label": "airing",
+      "path": "tv/1416/credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-credits/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-groups",
+      "label": "airing",
+      "path": "tv/1416/episode_groups",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-groups/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-external-ids",
+      "label": "airing",
+      "path": "tv/1416/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "tv-external-ids/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-images",
+      "label": "airing",
+      "path": "tv/1416/images",
+      "query": {},
+      "status": 200,
+      "file": "tv-images/airing.json",
+      "truncated": [
+        "backdrops (198)",
+        "logos (38)",
+        "posters (216)"
+      ]
+    },
+    {
+      "operation": "tv-keywords",
+      "label": "airing",
+      "path": "tv/1416/keywords",
+      "query": {},
+      "status": 200,
+      "file": "tv-keywords/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-lists",
+      "label": "airing",
+      "path": "tv/1416/lists",
+      "query": {},
+      "status": 200,
+      "file": "tv-lists/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-recommendations",
+      "label": "airing",
+      "path": "tv/1416/recommendations",
+      "query": {},
+      "status": 200,
+      "file": "tv-recommendations/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-reviews",
+      "label": "airing",
+      "path": "tv/1416/reviews",
+      "query": {},
+      "status": 200,
+      "file": "tv-reviews/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-screened-theatrically",
+      "label": "airing",
+      "path": "tv/1416/screened_theatrically",
+      "query": {},
+      "status": 200,
+      "file": "tv-screened-theatrically/airing.json",
+      "truncated": [
+        "results (24)"
+      ]
+    },
+    {
+      "operation": "tv-similar",
+      "label": "airing",
+      "path": "tv/1416/similar",
+      "query": {},
+      "status": 200,
+      "file": "tv-similar/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-translations",
+      "label": "airing",
+      "path": "tv/1416/translations",
+      "query": {},
+      "status": 200,
+      "file": "tv-translations/airing.json",
+      "truncated": [
+        "translations (52)"
+      ]
+    },
+    {
+      "operation": "tv-videos",
+      "label": "airing",
+      "path": "tv/1416/videos",
+      "query": {},
+      "status": 200,
+      "file": "tv-videos/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-watch-providers",
+      "label": "airing",
+      "path": "tv/1416/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "tv-watch-providers/airing.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-details",
+      "label": "gameOfThrones-appended",
+      "path": "tv/1399",
+      "query": {
+        "append_to_response": "aggregate_credits,alternative_titles,changes,content_ratings,credits,episode_groups,external_ids,images,keywords,lists,recommendations,reviews,screened_theatrically,similar,translations,videos,watch/providers"
+      },
+      "status": 200,
+      "file": "tv-details/gameOfThrones-appended.json",
+      "truncated": [
+        "aggregate_credits.cast (591)",
+        "aggregate_credits.crew (348)",
+        "alternative_titles.results (33)",
+        "content_ratings.results (39)",
+        "credits.crew (35)",
+        "images.backdrops (255)",
+        "images.logos (73)",
+        "images.posters (519)",
+        "translations.translations (57)"
+      ]
+    },
+    {
+      "operation": "tv-airing-today",
+      "label": "page-1",
+      "path": "tv/airing_today",
+      "query": {},
+      "status": 200,
+      "file": "tv-airing-today/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-popular",
+      "label": "page-1",
+      "path": "tv/popular",
+      "query": {},
+      "status": 200,
+      "file": "tv-popular/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-top-rated",
+      "label": "page-1",
+      "path": "tv/top_rated",
+      "query": {},
+      "status": 200,
+      "file": "tv-top-rated/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-changes-list",
+      "label": "default",
+      "path": "tv/changes",
+      "query": {},
+      "status": 200,
+      "file": "tv-changes-list/default.json",
+      "truncated": [
+        "results (100)"
+      ]
+    },
+    {
+      "operation": "tv-changes",
+      "label": "recently-changed",
+      "path": "tv/261557/changes",
+      "query": {},
+      "status": 200,
+      "file": "tv-changes/recently-changed.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-groups",
+      "label": "breakingBad",
+      "path": "tv/1396/episode_groups",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-groups/breakingBad.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-group-details",
+      "label": "breakingBad",
+      "path": "tv/episode_group/69f50757054263b7bc87e32a",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-group-details/breakingBad.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-details",
+      "label": "gameOfThrones1",
+      "path": "tv/1399/season/1",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-details/gameOfThrones1.json",
+      "truncated": [
+        "episodes[0].guest_stars (21)",
+        "episodes[2].guest_stars (24)",
+        "episodes[3].guest_stars (32)",
+        "episodes[4].guest_stars (29)",
+        "episodes[5].guest_stars (28)",
+        "episodes[6].guest_stars (29)",
+        "episodes[7].guest_stars (42)",
+        "episodes[8].guest_stars (32)",
+        "episodes[9].guest_stars (34)"
+      ]
+    },
+    {
+      "operation": "tv-season-aggregate-credits",
+      "label": "gameOfThrones1",
+      "path": "tv/1399/season/1/aggregate_credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-aggregate-credits/gameOfThrones1.json",
+      "truncated": [
+        "cast (132)",
+        "crew (33)"
+      ]
+    },
+    {
+      "operation": "tv-season-credits",
+      "label": "gameOfThrones1",
+      "path": "tv/1399/season/1/credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-credits/gameOfThrones1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-external-ids",
+      "label": "gameOfThrones1",
+      "path": "tv/1399/season/1/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-external-ids/gameOfThrones1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-images",
+      "label": "gameOfThrones1",
+      "path": "tv/1399/season/1/images",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-images/gameOfThrones1.json",
+      "truncated": [
+        "posters (87)"
+      ]
+    },
+    {
+      "operation": "tv-season-translations",
+      "label": "gameOfThrones1",
+      "path": "tv/1399/season/1/translations",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-translations/gameOfThrones1.json",
+      "truncated": [
+        "translations (57)"
+      ]
+    },
+    {
+      "operation": "tv-season-videos",
+      "label": "gameOfThrones1",
+      "path": "tv/1399/season/1/videos",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-videos/gameOfThrones1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-watch-providers",
+      "label": "gameOfThrones1",
+      "path": "tv/1399/season/1/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-watch-providers/gameOfThrones1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-details",
+      "label": "gameOfThronesSpecials",
+      "path": "tv/1399/season/0",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-details/gameOfThronesSpecials.json",
+      "truncated": [
+        "episodes (300)",
+        "episodes[2].guest_stars (29)"
+      ]
+    },
+    {
+      "operation": "tv-season-aggregate-credits",
+      "label": "gameOfThronesSpecials",
+      "path": "tv/1399/season/0/aggregate_credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-aggregate-credits/gameOfThronesSpecials.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-credits",
+      "label": "gameOfThronesSpecials",
+      "path": "tv/1399/season/0/credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-credits/gameOfThronesSpecials.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-external-ids",
+      "label": "gameOfThronesSpecials",
+      "path": "tv/1399/season/0/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-external-ids/gameOfThronesSpecials.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-images",
+      "label": "gameOfThronesSpecials",
+      "path": "tv/1399/season/0/images",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-images/gameOfThronesSpecials.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-translations",
+      "label": "gameOfThronesSpecials",
+      "path": "tv/1399/season/0/translations",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-translations/gameOfThronesSpecials.json",
+      "truncated": [
+        "translations (57)"
+      ]
+    },
+    {
+      "operation": "tv-season-videos",
+      "label": "gameOfThronesSpecials",
+      "path": "tv/1399/season/0/videos",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-videos/gameOfThronesSpecials.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-watch-providers",
+      "label": "gameOfThronesSpecials",
+      "path": "tv/1399/season/0/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-watch-providers/gameOfThronesSpecials.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-details",
+      "label": "sparse",
+      "path": "tv/340258/season/1",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-details/sparse.json",
+      "truncated": [
+        "episodes (179)"
+      ]
+    },
+    {
+      "operation": "tv-season-aggregate-credits",
+      "label": "sparse",
+      "path": "tv/340258/season/1/aggregate_credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-aggregate-credits/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-credits",
+      "label": "sparse",
+      "path": "tv/340258/season/1/credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-credits/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-external-ids",
+      "label": "sparse",
+      "path": "tv/340258/season/1/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-external-ids/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-images",
+      "label": "sparse",
+      "path": "tv/340258/season/1/images",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-images/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-translations",
+      "label": "sparse",
+      "path": "tv/340258/season/1/translations",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-translations/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-videos",
+      "label": "sparse",
+      "path": "tv/340258/season/1/videos",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-videos/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-watch-providers",
+      "label": "sparse",
+      "path": "tv/340258/season/1/watch/providers",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-watch-providers/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-season-details",
+      "label": "gameOfThrones1-appended",
+      "path": "tv/1399/season/1",
+      "query": {
+        "append_to_response": "aggregate_credits,credits,external_ids,images,translations,videos,watch/providers"
+      },
+      "status": 200,
+      "file": "tv-season-details/gameOfThrones1-appended.json",
+      "truncated": [
+        "episodes[0].guest_stars (21)",
+        "episodes[2].guest_stars (24)",
+        "episodes[3].guest_stars (32)",
+        "episodes[4].guest_stars (29)",
+        "episodes[5].guest_stars (28)",
+        "episodes[6].guest_stars (29)",
+        "episodes[7].guest_stars (42)",
+        "episodes[8].guest_stars (32)",
+        "episodes[9].guest_stars (34)",
+        "aggregate_credits.cast (132)",
+        "aggregate_credits.crew (33)",
+        "images.posters (87)",
+        "translations.translations (57)"
+      ]
+    },
+    {
+      "operation": "tv-season-changes",
+      "label": "gameOfThrones1",
+      "path": "tv/season/3624/changes",
+      "query": {},
+      "status": 200,
+      "file": "tv-season-changes/gameOfThrones1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-details",
+      "label": "gameOfThrones1x1",
+      "path": "tv/1399/season/1/episode/1",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-details/gameOfThrones1x1.json",
+      "truncated": [
+        "guest_stars (21)"
+      ]
+    },
+    {
+      "operation": "tv-episode-credits",
+      "label": "gameOfThrones1x1",
+      "path": "tv/1399/season/1/episode/1/credits",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-credits/gameOfThrones1x1.json",
+      "truncated": [
+        "guest_stars (21)"
+      ]
+    },
+    {
+      "operation": "tv-episode-external-ids",
+      "label": "gameOfThrones1x1",
+      "path": "tv/1399/season/1/episode/1/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-external-ids/gameOfThrones1x1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-images",
+      "label": "gameOfThrones1x1",
+      "path": "tv/1399/season/1/episode/1/images",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-images/gameOfThrones1x1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-translations",
+      "label": "gameOfThrones1x1",
+      "path": "tv/1399/season/1/episode/1/translations",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-translations/gameOfThrones1x1.json",
+      "truncated": [
+        "translations (57)"
+      ]
+    },
+    {
+      "operation": "tv-episode-videos",
+      "label": "gameOfThrones1x1",
+      "path": "tv/1399/season/1/episode/1/videos",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-videos/gameOfThrones1x1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-details",
+      "label": "sparse1x1",
+      "path": "tv/340258/season/1/episode/1",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-details/sparse1x1.json",
+      "truncated": []
+    },
+    {
+      "operation": "tv-episode-details",
+      "label": "gameOfThrones1x1-appended",
+      "path": "tv/1399/season/1/episode/1",
+      "query": {
+        "append_to_response": "credits,external_ids,images,translations,videos"
+      },
+      "status": 200,
+      "file": "tv-episode-details/gameOfThrones1x1-appended.json",
+      "truncated": [
+        "guest_stars (21)",
+        "credits.guest_stars (21)",
+        "translations.translations (57)"
+      ]
+    },
+    {
+      "operation": "tv-episode-changes",
+      "label": "gameOfThrones1x1",
+      "path": "tv/episode/63056/changes",
+      "query": {},
+      "status": 200,
+      "file": "tv-episode-changes/gameOfThrones1x1.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-details",
+      "label": "bradPitt",
+      "path": "person/287",
+      "query": {},
+      "status": 200,
+      "file": "person-details/bradPitt.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-changes",
+      "label": "bradPitt",
+      "path": "person/287/changes",
+      "query": {},
+      "status": 200,
+      "file": "person-changes/bradPitt.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-combined-credits",
+      "label": "bradPitt",
+      "path": "person/287/combined_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-combined-credits/bradPitt.json",
+      "truncated": [
+        "cast (159)",
+        "crew (100)"
+      ]
+    },
+    {
+      "operation": "person-external-ids",
+      "label": "bradPitt",
+      "path": "person/287/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "person-external-ids/bradPitt.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-images",
+      "label": "bradPitt",
+      "path": "person/287/images",
+      "query": {},
+      "status": 200,
+      "file": "person-images/bradPitt.json",
+      "truncated": [
+        "profiles (33)"
+      ]
+    },
+    {
+      "operation": "person-movie-credits",
+      "label": "bradPitt",
+      "path": "person/287/movie_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-movie-credits/bradPitt.json",
+      "truncated": [
+        "cast (114)",
+        "crew (88)"
+      ]
+    },
+    {
+      "operation": "person-tagged-images",
+      "label": "bradPitt",
+      "path": "person/287/tagged_images",
+      "query": {},
+      "status": 200,
+      "file": "person-tagged-images/bradPitt.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-translations",
+      "label": "bradPitt",
+      "path": "person/287/translations",
+      "query": {},
+      "status": 200,
+      "file": "person-translations/bradPitt.json",
+      "truncated": [
+        "translations (48)"
+      ]
+    },
+    {
+      "operation": "person-tv-credits",
+      "label": "bradPitt",
+      "path": "person/287/tv_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-tv-credits/bradPitt.json",
+      "truncated": [
+        "cast (45)"
+      ]
+    },
+    {
+      "operation": "person-details",
+      "label": "brando",
+      "path": "person/3084",
+      "query": {},
+      "status": 200,
+      "file": "person-details/brando.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-changes",
+      "label": "brando",
+      "path": "person/3084/changes",
+      "query": {},
+      "status": 200,
+      "file": "person-changes/brando.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-combined-credits",
+      "label": "brando",
+      "path": "person/3084/combined_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-combined-credits/brando.json",
+      "truncated": [
+        "cast (132)"
+      ]
+    },
+    {
+      "operation": "person-external-ids",
+      "label": "brando",
+      "path": "person/3084/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "person-external-ids/brando.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-images",
+      "label": "brando",
+      "path": "person/3084/images",
+      "query": {},
+      "status": 200,
+      "file": "person-images/brando.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-movie-credits",
+      "label": "brando",
+      "path": "person/3084/movie_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-movie-credits/brando.json",
+      "truncated": [
+        "cast (115)"
+      ]
+    },
+    {
+      "operation": "person-tagged-images",
+      "label": "brando",
+      "path": "person/3084/tagged_images",
+      "query": {},
+      "status": 200,
+      "file": "person-tagged-images/brando.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-translations",
+      "label": "brando",
+      "path": "person/3084/translations",
+      "query": {},
+      "status": 200,
+      "file": "person-translations/brando.json",
+      "truncated": [
+        "translations (42)"
+      ]
+    },
+    {
+      "operation": "person-tv-credits",
+      "label": "brando",
+      "path": "person/3084/tv_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-tv-credits/brando.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-details",
+      "label": "sparse",
+      "path": "person/2345735",
+      "query": {},
+      "status": 200,
+      "file": "person-details/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-changes",
+      "label": "sparse",
+      "path": "person/2345735/changes",
+      "query": {},
+      "status": 200,
+      "file": "person-changes/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-combined-credits",
+      "label": "sparse",
+      "path": "person/2345735/combined_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-combined-credits/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-external-ids",
+      "label": "sparse",
+      "path": "person/2345735/external_ids",
+      "query": {},
+      "status": 200,
+      "file": "person-external-ids/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-images",
+      "label": "sparse",
+      "path": "person/2345735/images",
+      "query": {},
+      "status": 200,
+      "file": "person-images/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-movie-credits",
+      "label": "sparse",
+      "path": "person/2345735/movie_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-movie-credits/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-tagged-images",
+      "label": "sparse",
+      "path": "person/2345735/tagged_images",
+      "query": {},
+      "status": 200,
+      "file": "person-tagged-images/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-translations",
+      "label": "sparse",
+      "path": "person/2345735/translations",
+      "query": {},
+      "status": 200,
+      "file": "person-translations/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-tv-credits",
+      "label": "sparse",
+      "path": "person/2345735/tv_credits",
+      "query": {},
+      "status": 200,
+      "file": "person-tv-credits/sparse.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-details",
+      "label": "bradPitt-appended",
+      "path": "person/287",
+      "query": {
+        "append_to_response": "changes,combined_credits,external_ids,images,movie_credits,tagged_images,translations,tv_credits"
+      },
+      "status": 200,
+      "file": "person-details/bradPitt-appended.json",
+      "truncated": [
+        "combined_credits.cast (159)",
+        "combined_credits.crew (100)",
+        "images.profiles (33)",
+        "movie_credits.cast (114)",
+        "movie_credits.crew (88)",
+        "translations.translations (48)",
+        "tv_credits.cast (45)"
+      ]
+    },
+    {
+      "operation": "person-popular",
+      "label": "page-1",
+      "path": "person/popular",
+      "query": {},
+      "status": 200,
+      "file": "person-popular/page-1.json",
+      "truncated": []
+    },
+    {
+      "operation": "person-changes-list",
+      "label": "default",
+      "path": "person/changes",
+      "query": {},
+      "status": 200,
+      "file": "person-changes-list/default.json",
+      "truncated": [
+        "results (100)"
+      ]
+    },
+    {
+      "operation": "person-changes",
+      "label": "recently-changed",
+      "path": "person/2174260/changes",
+      "query": {},
+      "status": 200,
+      "file": "person-changes/recently-changed.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-credits",
+      "label": "starWars-for-credit",
+      "path": "movie/11/credits",
+      "query": {},
+      "status": 200,
+      "file": "movie-credits/starWars-for-credit.json",
+      "truncated": [
+        "cast (105)",
+        "crew (95)"
+      ]
+    },
+    {
+      "operation": "credit-details",
+      "label": "starWars-cast-0",
+      "path": "credit/52fe420dc3a36847f8000441",
+      "query": {},
+      "status": 200,
+      "file": "credit-details/starWars-cast-0.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-reviews",
+      "label": "pulpFiction-for-review",
+      "path": "movie/680/reviews",
+      "query": {},
+      "status": 200,
+      "file": "movie-reviews/pulpFiction-for-review.json",
+      "truncated": []
+    },
+    {
+      "operation": "review-details",
+      "label": "pulpFiction-0",
+      "path": "review/5b53aad4c3a3680b6101b746",
+      "query": {},
+      "status": 200,
+      "file": "review-details/pulpFiction-0.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-lists",
+      "label": "starWars-for-list",
+      "path": "movie/11/lists",
+      "query": {},
+      "status": 200,
+      "file": "movie-lists/starWars-for-list.json",
+      "truncated": []
+    },
+    {
+      "operation": "list-details",
+      "label": "starWars-0",
+      "path": "list/8701798",
+      "query": {},
+      "status": 200,
+      "file": "list-details/starWars-0.json",
+      "truncated": []
+    },
+    {
+      "operation": "list-item-status",
+      "label": "starWars-0",
+      "path": "list/8701798/item_status",
+      "query": {
+        "movie_id": 11
+      },
+      "status": 200,
+      "file": "list-item-status/starWars-0.json",
+      "truncated": []
+    },
+    {
+      "operation": "movie-keywords",
+      "label": "starWars-for-keyword",
+      "path": "movie/11/keywords",
+      "query": {},
+      "status": 200,
+      "file": "movie-keywords/starWars-for-keyword.json",
+      "truncated": []
+    },
+    {
+      "operation": "keyword-details",
+      "label": "starWars-0",
+      "path": "keyword/11195",
+      "query": {},
+      "status": 200,
+      "file": "keyword-details/starWars-0.json",
+      "truncated": []
+    },
+    {
+      "operation": "keyword-movies",
+      "label": "starWars-0",
+      "path": "keyword/11195/movies",
+      "query": {},
+      "status": 200,
+      "file": "keyword-movies/starWars-0.json",
+      "truncated": []
+    },
+    {
+      "operation": "collection-details",
+      "label": "starWars",
+      "path": "collection/10",
+      "query": {},
+      "status": 200,
+      "file": "collection-details/starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "collection-images",
+      "label": "starWars",
+      "path": "collection/10/images",
+      "query": {},
+      "status": 200,
+      "file": "collection-images/starWars.json",
+      "truncated": [
+        "backdrops (41)",
+        "posters (158)"
+      ]
+    },
+    {
+      "operation": "collection-translations",
+      "label": "starWars",
+      "path": "collection/10/translations",
+      "query": {},
+      "status": 200,
+      "file": "collection-translations/starWars.json",
+      "truncated": [
+        "translations (43)"
+      ]
+    },
+    {
+      "operation": "company-details",
+      "label": "lucasfilm",
+      "path": "company/1",
+      "query": {},
+      "status": 200,
+      "file": "company-details/lucasfilm.json",
+      "truncated": []
+    },
+    {
+      "operation": "company-alternative-names",
+      "label": "lucasfilm",
+      "path": "company/1/alternative_names",
+      "query": {},
+      "status": 200,
+      "file": "company-alternative-names/lucasfilm.json",
+      "truncated": []
+    },
+    {
+      "operation": "company-images",
+      "label": "lucasfilm",
+      "path": "company/1/images",
+      "query": {},
+      "status": 200,
+      "file": "company-images/lucasfilm.json",
+      "truncated": []
+    },
+    {
+      "operation": "network-details",
+      "label": "hbo",
+      "path": "network/49",
+      "query": {},
+      "status": 200,
+      "file": "network-details/hbo.json",
+      "truncated": []
+    },
+    {
+      "operation": "network-alternative-names",
+      "label": "hbo",
+      "path": "network/49/alternative_names",
+      "query": {},
+      "status": 200,
+      "file": "network-alternative-names/hbo.json",
+      "truncated": []
+    },
+    {
+      "operation": "network-images",
+      "label": "hbo",
+      "path": "network/49/images",
+      "query": {},
+      "status": 200,
+      "file": "network-images/hbo.json",
+      "truncated": []
+    },
+    {
+      "operation": "search-collection",
+      "label": "star-wars",
+      "path": "search/collection",
+      "query": {
+        "query": "star wars"
+      },
+      "status": 200,
+      "file": "search-collection/star-wars.json",
+      "truncated": []
+    },
+    {
+      "operation": "search-company",
+      "label": "lucasfilm",
+      "path": "search/company",
+      "query": {
+        "query": "lucasfilm"
+      },
+      "status": 200,
+      "file": "search-company/lucasfilm.json",
+      "truncated": []
+    },
+    {
+      "operation": "search-keyword",
+      "label": "space",
+      "path": "search/keyword",
+      "query": {
+        "query": "space"
+      },
+      "status": 200,
+      "file": "search-keyword/space.json",
+      "truncated": []
+    },
+    {
+      "operation": "search-movie",
+      "label": "star-wars",
+      "path": "search/movie",
+      "query": {
+        "query": "star wars"
+      },
+      "status": 200,
+      "file": "search-movie/star-wars.json",
+      "truncated": []
+    },
+    {
+      "operation": "search-multi",
+      "label": "star-wars",
+      "path": "search/multi",
+      "query": {
+        "query": "star wars"
+      },
+      "status": 200,
+      "file": "search-multi/star-wars.json",
+      "truncated": []
+    },
+    {
+      "operation": "search-person",
+      "label": "brad-pitt",
+      "path": "search/person",
+      "query": {
+        "query": "brad pitt"
+      },
+      "status": 200,
+      "file": "search-person/brad-pitt.json",
+      "truncated": []
+    },
+    {
+      "operation": "search-tv",
+      "label": "game-of-thrones",
+      "path": "search/tv",
+      "query": {
+        "query": "game of thrones"
+      },
+      "status": 200,
+      "file": "search-tv/game-of-thrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "search-movie",
+      "label": "no-results",
+      "path": "search/movie",
+      "query": {
+        "query": "zzqxv-no-such-title"
+      },
+      "status": 200,
+      "file": "search-movie/no-results.json",
+      "truncated": []
+    },
+    {
+      "operation": "discover-movie",
+      "label": "default",
+      "path": "discover/movie",
+      "query": {},
+      "status": 200,
+      "file": "discover-movie/default.json",
+      "truncated": []
+    },
+    {
+      "operation": "discover-tv",
+      "label": "default",
+      "path": "discover/tv",
+      "query": {},
+      "status": 200,
+      "file": "discover-tv/default.json",
+      "truncated": []
+    },
+    {
+      "operation": "find",
+      "label": "imdb-starWars",
+      "path": "find/tt0076759",
+      "query": {
+        "external_source": "imdb_id"
+      },
+      "status": 200,
+      "file": "find/imdb-starWars.json",
+      "truncated": []
+    },
+    {
+      "operation": "find",
+      "label": "tvdb-gameOfThrones",
+      "path": "find/121361",
+      "query": {
+        "external_source": "tvdb_id"
+      },
+      "status": 200,
+      "file": "find/tvdb-gameOfThrones.json",
+      "truncated": []
+    },
+    {
+      "operation": "trending-all",
+      "label": "day",
+      "path": "trending/all/day",
+      "query": {},
+      "status": 200,
+      "file": "trending-all/day.json",
+      "truncated": []
+    },
+    {
+      "operation": "trending-movie",
+      "label": "day",
+      "path": "trending/movie/day",
+      "query": {},
+      "status": 200,
+      "file": "trending-movie/day.json",
+      "truncated": []
+    },
+    {
+      "operation": "trending-tv",
+      "label": "day",
+      "path": "trending/tv/day",
+      "query": {},
+      "status": 200,
+      "file": "trending-tv/day.json",
+      "truncated": []
+    },
+    {
+      "operation": "trending-person",
+      "label": "day",
+      "path": "trending/person/day",
+      "query": {},
+      "status": 200,
+      "file": "trending-person/day.json",
+      "truncated": []
+    },
+    {
+      "operation": "trending-all",
+      "label": "week",
+      "path": "trending/all/week",
+      "query": {},
+      "status": 200,
+      "file": "trending-all/week.json",
+      "truncated": []
+    },
+    {
+      "operation": "error",
+      "label": "not-found",
+      "path": "movie/999999999",
+      "query": {},
+      "status": 404,
+      "file": "error/not-found.json",
+      "truncated": []
+    }
+  ]
+}

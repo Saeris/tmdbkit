@@ -1,0 +1,102 @@
+[
+  {
+    "iso_639_1": "ay",
+    "english_name": "Aymara",
+    "name": "Aymara"
+  },
+  {
+    "iso_639_1": "ch",
+    "english_name": "Chamorro",
+    "name": "Finu' Chamorro"
+  },
+  {
+    "iso_639_1": "fj",
+    "english_name": "Fijian",
+    "name": ""
+  },
+  {
+    "iso_639_1": "it",
+    "english_name": "Italian",
+    "name": "Italiano"
+  },
+  {
+    "iso_639_1": "nv",
+    "english_name": "Navajo",
+    "name": ""
+  },
+  {
+    "iso_639_1": "qu",
+    "english_name": "Quechua",
+    "name": ""
+  },
+  {
+    "iso_639_1": "ru",
+    "english_name": "Russian",
+    "name": "Pусский"
+  },
+  {
+    "iso_639_1": "sc",
+    "english_name": "Sardinian",
+    "name": ""
+  },
+  {
+    "iso_639_1": "sw",
+    "english_name": "Swahili",
+    "name": "Kiswahili"
+  },
+  {
+    "iso_639_1": "tn",
+    "english_name": "Tswana",
+    "name": ""
+  },
+  {
+    "iso_639_1": "ur",
+    "english_name": "Urdu",
+    "name": "اردو"
+  },
+  {
+    "iso_639_1": "ho",
+    "english_name": "Hiri Motu",
+    "name": ""
+  },
+  {
+    "iso_639_1": "km",
+    "english_name": "Khmer",
+    "name": ""
+  },
+  {
+    "iso_639_1": "kj",
+    "english_name": "Kuanyama",
+    "name": ""
+  },
+  {
+    "iso_639_1": "tt",
+    "english_name": "Tatar",
+    "name": ""
+  },
+  {
+    "iso_639_1": "ps",
+    "english_name": "Pushto",
+    "name": "پښتو"
+  },
+  {
+    "iso_639_1": "cn",
+    "english_name": "Cantonese",
+    "name": "广州话 / 廣州話"
+  },
+  {
+    "iso_639_1": "mk",
+    "english_name": "Macedonian",
+    "name": ""
+  },
+  {
+    "iso_639_1": "yo",
+    "english_name": "Yoruba",
+    "name": "Èdè Yorùbá"
+  },
+  {
+    "iso_639_1": "fo",
+    "english_name": "Faroese",
+    "name": ""
+  }
+]

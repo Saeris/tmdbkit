@@ -1,0 +1,27 @@
+{
+  "id": 2345735,
+  "translations": [
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "biography": "",
+        "name": "Roohi Bano",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "PK",
+      "iso_639_1": "ur",
+      "name": "اردو",
+      "english_name": "Urdu",
+      "data": {
+        "biography": "",
+        "name": "Roohi Bano",
+        "primary": true
+      }
+    }
+  ]
+}

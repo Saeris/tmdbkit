@@ -1,0 +1,228 @@
+{
+  "id": 11,
+  "page": 1,
+  "results": [
+    {
+      "description": "All movies watched by me",
+      "favorite_count": 0,
+      "id": 8701798,
+      "item_count": 3714,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Watched",
+      "poster_path": null
+    },
+    {
+      "description": "Movies and TV Shows I have seen",
+      "favorite_count": 0,
+      "id": 7069397,
+      "item_count": 996,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Movies and TV Shows I have seen",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8234063,
+      "item_count": 5731,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Favorite Actors",
+      "poster_path": null
+    },
+    {
+      "description": "A list of all the films I have",
+      "favorite_count": 0,
+      "id": 8642657,
+      "item_count": 888,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "My Film Collection",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8710223,
+      "item_count": 172,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Limelight Seen",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8706848,
+      "item_count": 3421,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Movie Collection ",
+      "poster_path": null
+    },
+    {
+      "description": "Mirrored from the Letterboxd list \"Top 250 Films with the Most Fans\" by official, updated automatically.\n\nAs of October 5, 2026. This list ranks narrative feature films by the number of fans. A “fan” is a Letterboxd member with a particular film as one of their four favorites on their profile. These list stats are unlocked for everybody! Changes from the latest update: In: Halloween (at #247) The Pursuit of Happyness (at #250) Out: Flipped (was #247) Frances Ha (was #250) Eligibility rules: • Films must be feature-length (more than 40 minutes long) with a festival premiere, theatrical distribution or professional streaming release. • This list excludes: documentaries of any kind, direct-to-video, self-released web videos, recap…",
+      "favorite_count": 0,
+      "id": 8710557,
+      "item_count": 250,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Letterboxd Top 250 Films",
+      "poster_path": null
+    },
+    {
+      "description": "Movies I have watched (managed by Movie Tracker).",
+      "favorite_count": 0,
+      "id": 8678795,
+      "item_count": 706,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Movie Tracker - Watched",
+      "poster_path": null
+    },
+    {
+      "description": "Here is the list of how many hours of movies that I watched in 2026 movie list here so far.",
+      "favorite_count": 0,
+      "id": 8582706,
+      "item_count": 747,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "2026 movies watched playlist ",
+      "poster_path": null
+    },
+    {
+      "description": "Master List In Progress",
+      "favorite_count": 0,
+      "id": 51108,
+      "item_count": 13663,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "My Movies",
+      "poster_path": null
+    },
+    {
+      "description": "All of my ratings are the movies that I have seen.",
+      "favorite_count": 0,
+      "id": 8302254,
+      "item_count": 2591,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Movies That I have watched all",
+      "poster_path": null
+    },
+    {
+      "description": "Curated movie collection. Copied from my Plex collection, October 2026.",
+      "favorite_count": 0,
+      "id": 8710463,
+      "item_count": 91,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Nostalgia",
+      "poster_path": null
+    },
+    {
+      "description": "Broad family viewing, including some adventures and themes for older children. Combines Time Out (14 August 2025) and TIME / Eliana Dockterman (24 December 2020), deduplicated. Series recommendations expanded to films available at the original TIME publication date. Includes two classic short cartoons and international films. Not a preschool-safe selection. Sources: https://www.timeout.com/film/films-for-families-the-top-50-movies-to-watch-as-a-family ; https://time.com/5918261/best-family-movies/ Followed by 24 separately curated, library-informed supplemental picks. These additions are not attributed to Time Out or TIME.",
+      "favorite_count": 0,
+      "id": 8703184,
+      "item_count": 120,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Family",
+      "poster_path": null
+    },
+    {
+      "description": "What I've Watched.",
+      "favorite_count": 0,
+      "id": 1006,
+      "item_count": 889,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Movies",
+      "poster_path": "/vMUD0oL66LkV6aPrmC1hLSK6bxu.jpg"
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8695216,
+      "item_count": 1082,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Limelight Seen",
+      "poster_path": null
+    },
+    {
+      "description": "The top liked films as the most.",
+      "favorite_count": 0,
+      "id": 8709795,
+      "item_count": 339,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "My top 339 films",
+      "poster_path": null
+    },
+    {
+      "description": "Curated list of Science Fiction on Disney+ (US). Updated frequently. Last updated October 28, 2026.",
+      "favorite_count": 0,
+      "id": 8678647,
+      "item_count": 139,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Disney+ - Science Fiction Movies",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8640389,
+      "item_count": 162,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "My Action Movies & Series",
+      "poster_path": null
+    },
+    {
+      "description": "Curated list of Adventure on Disney+ (US). Updated frequently. Last updated October 28, 2026.",
+      "favorite_count": 0,
+      "id": 8678633,
+      "item_count": 150,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Disney+ - Adventure Movies",
+      "poster_path": null
+    },
+    {
+      "description": "Curated list of Action on Disney+ (US). Updated frequently. Last updated October 28, 2026.",
+      "favorite_count": 0,
+      "id": 8678632,
+      "item_count": 150,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Disney+ - Action Movies",
+      "poster_path": null
+    }
+  ],
+  "total_pages": 123,
+  "total_results": 2454
+}

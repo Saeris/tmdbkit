@@ -1,0 +1,178 @@
+{
+  "changes": [
+    {
+      "key": "images",
+      "items": [
+        {
+          "id": "6ae1abf47687283ba6382be9",
+          "action": "updated",
+          "time": "2026-10-28 08:01:56 UTC",
+          "iso_639_1": "uz",
+          "iso_3166_1": "UZ",
+          "value": {
+            "poster": {
+              "file_path": "/cjrSkULmG2btwLOEvWZCeO5KRY2.jpg",
+              "iso_639_1": "uz",
+              "iso_3166_1": "UZ"
+            }
+          },
+          "original_value": {
+            "poster": {
+              "file_path": "/cjrSkULmG2btwLOEvWZCeO5KRY2.jpg",
+              "iso_639_1": "xx",
+              "iso_3166_1": "XX"
+            }
+          }
+        },
+        {
+          "id": "6ae1ac1d8135fac3ae382c20",
+          "action": "updated",
+          "time": "2026-10-28 08:02:37 UTC",
+          "iso_639_1": "uz",
+          "iso_3166_1": "UZ",
+          "value": {
+            "poster": {
+              "file_path": "/lcFEb7QVlKbeqkQbPA3RpAaS408.jpg",
+              "iso_639_1": "uz",
+              "iso_3166_1": "UZ"
+            }
+          },
+          "original_value": {
+            "poster": {
+              "file_path": "/lcFEb7QVlKbeqkQbPA3RpAaS408.jpg",
+              "iso_639_1": "xx",
+              "iso_3166_1": "XX"
+            }
+          }
+        },
+        {
+          "id": "6ae1acd37c2b5e68db382cba",
+          "action": "updated",
+          "time": "2026-10-28 08:05:39 UTC",
+          "iso_639_1": "ar",
+          "iso_3166_1": "SA",
+          "value": {
+            "poster": {
+              "file_path": "/cjrSkULmG2btwLOEvWZCeO5KRY2.jpg",
+              "iso_639_1": "ar",
+              "iso_3166_1": "SA"
+            }
+          },
+          "original_value": {
+            "poster": {
+              "file_path": "/cjrSkULmG2btwLOEvWZCeO5KRY2.jpg",
+              "iso_639_1": "uz",
+              "iso_3166_1": "UZ"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "season_regular",
+      "items": [
+        {
+          "id": "6ae1658dd3b6bf5b9fa80d49",
+          "action": "deleted",
+          "time": "2026-10-28 03:01:33 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "original_value": {
+            "add_to_every_season": false,
+            "character": "Karl Drogo",
+            "credit_id": "6a53ef97f28191b52de6c85f",
+            "order": 1035,
+            "person_id": 117642,
+            "season_id": 3625
+          }
+        },
+        {
+          "id": "6ae16597d683cf56b02c3761",
+          "action": "added",
+          "time": "2026-10-28 03:01:43 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "add_to_every_season": false,
+            "character": "Khal Drogo",
+            "credit_id": "65101612a9117f00e192467c",
+            "order": 94,
+            "person_id": 117642,
+            "season_id": 3625
+          }
+        }
+      ]
+    },
+    {
+      "key": "season",
+      "items": [
+        {
+          "id": "6ae1667d679b45a049d020ef",
+          "action": "updated",
+          "time": "2026-10-28 03:05:33 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "season_id": 3625,
+            "season_number": 2
+          }
+        },
+        {
+          "id": "6ae166ce67ca06954f2c38fa",
+          "action": "updated",
+          "time": "2026-10-28 03:06:54 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "season_id": 62090,
+            "season_number": 5
+          }
+        },
+        {
+          "id": "6ae16711f0347aa1cda80d30",
+          "action": "updated",
+          "time": "2026-10-28 03:08:01 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "season_id": 71881,
+            "season_number": 6
+          }
+        },
+        {
+          "id": "6ae16779064f066832d0214c",
+          "action": "updated",
+          "time": "2026-10-28 03:09:45 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "season_id": 3624,
+            "season_number": 1
+          }
+        },
+        {
+          "id": "6ae1682ad683cf56b02c3783",
+          "action": "updated",
+          "time": "2026-10-28 03:12:42 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "season_id": 81266,
+            "season_number": 7
+          }
+        },
+        {
+          "id": "6ae16889b4bfcef1e92c38c3",
+          "action": "updated",
+          "time": "2026-10-28 03:14:17 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "season_id": 3628,
+            "season_number": 4
+          }
+        }
+      ]
+    }
+  ]
+}

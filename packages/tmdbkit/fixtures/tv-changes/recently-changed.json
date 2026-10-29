@@ -1,0 +1,18 @@
+{
+  "changes": [
+    {
+      "key": "overview",
+      "items": [
+        {
+          "id": "6ae13b1f6a9f06d9e0d01edc",
+          "action": "added",
+          "time": "2026-10-28 00:00:31 UTC",
+          "iso_639_1": "pl",
+          "iso_3166_1": "PL",
+          "value": "Spin-off głównego serialu SuperKitties, w którym cztery super-kotki używają swoich niezwykłych umiejętności, gadżetów i \"kocięcej życzliwości\", aby pomagać mieszkańcom miasteczka Kittydale",
+          "original_value": ""
+        }
+      ]
+    }
+  ]
+}

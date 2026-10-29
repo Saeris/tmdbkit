@@ -1,0 +1,481 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+      "id": 213375,
+      "name": "VisionQuest",
+      "original_name": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "poster_path": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "popularity": 325.1463,
+      "first_air_date": "2026-10-13",
+      "softcore": false,
+      "vote_average": 8.6,
+      "vote_count": 206,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "id": 96677,
+      "name": "Lupin",
+      "original_name": "Lupin",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "poster_path": "/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "media_type": "tv",
+      "original_language": "fr",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "popularity": 200.3304,
+      "first_air_date": "2021-01-08",
+      "softcore": false,
+      "vote_average": 7.7,
+      "vote_count": 2741,
+      "origin_country": [
+        "FR"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+      "id": 334700,
+      "name": "The Gift of Deceit",
+      "original_name": "Dom de Iludir",
+      "overview": "Desperate to find a cure for the unknown illness affecting her daughter, art collector Lúcia Rossetti turns to a spiritual healer. When Lúcia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt.",
+      "poster_path": "/mAfYj5ZtR2V5ad6uham1PwAh0mc.jpg",
+      "media_type": "tv",
+      "original_language": "pt",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 18.2078,
+      "first_air_date": "2026-10-28",
+      "softcore": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "origin_country": [
+        "BR"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "id": 30984,
+      "name": "Bleach",
+      "original_name": "BLEACH",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "poster_path": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "media_type": "tv",
+      "original_language": "ja",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "popularity": 161.4895,
+      "first_air_date": "2004-10-05",
+      "softcore": false,
+      "vote_average": 8.355,
+      "vote_count": 2322,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "id": 2190,
+      "name": "South Park",
+      "original_name": "South Park",
+      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "poster_path": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "popularity": 157.5845,
+      "first_air_date": "1997-08-13",
+      "softcore": false,
+      "vote_average": 8.3,
+      "vote_count": 5226,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+      "id": 120911,
+      "name": "The Terminal List",
+      "original_name": "The Terminal List",
+      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "poster_path": "/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "popularity": 203.5196,
+      "first_air_date": "2022-06-30",
+      "softcore": false,
+      "vote_average": 7.991,
+      "vote_count": 1291,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+      "id": 37854,
+      "name": "One Piece",
+      "original_name": "ワンピース",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "poster_path": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "media_type": "tv",
+      "original_language": "ja",
+      "genre_ids": [
+        10759,
+        35,
+        16
+      ],
+      "popularity": 72.8641,
+      "first_air_date": "1999-10-20",
+      "softcore": false,
+      "vote_average": 8.754,
+      "vote_count": 5618,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
+      "id": 232018,
+      "name": "Has Fallen",
+      "original_name": "Has Fallen",
+      "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+      "poster_path": "/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
+      "media_type": "tv",
+      "original_language": "fr",
+      "genre_ids": [
+        10759,
+        10768
+      ],
+      "popularity": 30.1402,
+      "first_air_date": "2024-09-23",
+      "softcore": false,
+      "vote_average": 7.078,
+      "vote_count": 135,
+      "origin_country": [
+        "FR"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AdFlgN6pKI6C481z2KshrQL204w.jpg",
+      "id": 275139,
+      "name": "Phony",
+      "original_name": "Phony",
+      "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "poster_path": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        18,
+        9648
+      ],
+      "popularity": 23.3198,
+      "first_air_date": "2026-10-20",
+      "softcore": false,
+      "vote_average": 7.4,
+      "vote_count": 17,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+      "id": 105248,
+      "name": "Cyberpunk: Edgerunners",
+      "original_name": "Cyberpunk: Edgerunners",
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+      "poster_path": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        80
+      ],
+      "popularity": 124.5631,
+      "first_air_date": "2022-09-13",
+      "softcore": false,
+      "vote_average": 8.5,
+      "vote_count": 2101,
+      "origin_country": [
+        "JP",
+        "PL",
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "id": 213562,
+      "name": "Crystal Lake",
+      "original_name": "Crystal Lake",
+      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "poster_path": "/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "popularity": 145.4443,
+      "first_air_date": "2026-10-15",
+      "softcore": false,
+      "vote_average": 8.7,
+      "vote_count": 275,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "id": 95350,
+      "name": "Lanterns",
+      "original_name": "Lanterns",
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "poster_path": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        9648,
+        10765
+      ],
+      "popularity": 67.2287,
+      "first_air_date": "2026-08-16",
+      "softcore": false,
+      "vote_average": 8.232,
+      "vote_count": 830,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+      "id": 333533,
+      "name": "The One About Matthew Perry",
+      "original_name": "The One About Matthew Perry",
+      "overview": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
+      "poster_path": "/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        99
+      ],
+      "popularity": 18.9215,
+      "first_air_date": "2026-10-27",
+      "softcore": false,
+      "vote_average": 7.3,
+      "vote_count": 3,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "id": 456,
+      "name": "The Simpsons",
+      "original_name": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "poster_path": "/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "popularity": 5164.2022,
+      "first_air_date": "1989-12-17",
+      "softcore": false,
+      "vote_average": 8,
+      "vote_count": 11114,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "id": 288673,
+      "name": "Carrie",
+      "original_name": "Carrie",
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "poster_path": "/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        9648,
+        18,
+        10765
+      ],
+      "popularity": 129.6152,
+      "first_air_date": "2026-10-07",
+      "softcore": false,
+      "vote_average": 8.277,
+      "vote_count": 494,
+      "origin_country": [
+        "CA",
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "id": 1413,
+      "name": "American Horror Story",
+      "original_name": "American Horror Story",
+      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "poster_path": "/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        9648,
+        10765
+      ],
+      "popularity": 158.3365,
+      "first_air_date": "2011-10-05",
+      "softcore": false,
+      "vote_average": 8.081,
+      "vote_count": 6272,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "id": 95480,
+      "name": "Slow Horses",
+      "original_name": "Slow Horses",
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "poster_path": "/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "popularity": 224.0788,
+      "first_air_date": "2022-04-01",
+      "softcore": false,
+      "vote_average": 8.072,
+      "vote_count": 1089,
+      "origin_country": [
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+      "id": 289892,
+      "name": "Helluva Boss",
+      "original_name": "Helluva Boss",
+      "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
+      "poster_path": "/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "popularity": 87.2584,
+      "first_air_date": "2020-10-31",
+      "softcore": false,
+      "vote_average": 7.6,
+      "vote_count": 121,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+      "id": 234310,
+      "name": "Where's Wanda?",
+      "original_name": "Where's Wanda?",
+      "overview": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
+      "poster_path": "/e31KF5NW91PA5ktaxqGMmx6myea.jpg",
+      "media_type": "tv",
+      "original_language": "de",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "popularity": 19.6606,
+      "first_air_date": "2024-10-02",
+      "softcore": false,
+      "vote_average": 6.6,
+      "vote_count": 40,
+      "origin_country": [
+        "DE"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+      "id": 387,
+      "name": "SpongeBob SquarePants",
+      "original_name": "SpongeBob SquarePants",
+      "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+      "poster_path": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "popularity": 28.6235,
+      "first_air_date": "1999-05-01",
+      "softcore": false,
+      "vote_average": 7.7,
+      "vote_count": 3297,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}

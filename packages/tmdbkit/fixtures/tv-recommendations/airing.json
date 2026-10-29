@@ -1,0 +1,459 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/en3zftWPQb5Ue6aA8W88RQbtqzd.jpg",
+      "id": 4588,
+      "name": "ER",
+      "original_name": "ER",
+      "overview": "ER explores the inner workings of an urban teaching hospital and the critical issues faced by the dedicated physicians and staff of its overburdened emergency room.",
+      "poster_path": "/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 83.1921,
+      "first_air_date": "1994-09-19",
+      "softcore": false,
+      "vote_average": 7.818,
+      "vote_count": 975,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ajSETcBuftCMeloOxqHMkzdelpa.jpg",
+      "id": 99530,
+      "name": "Transplant",
+      "original_name": "Transplant",
+      "overview": "Dr. Bashir Hamed, a Syrian doctor with battle-tested skills in emergency medicine, makes the difficult decision to flee his country and build a new life in Canada with his younger sister Amira. Bash works to navigate a new environment after earning a coveted residency in the Emergency Department of one of the best hospitals in Toronto, York Memorial.",
+      "poster_path": "/ukvqJZI0XctnLst0CTE2r0AC2eu.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 24.8412,
+      "first_air_date": "2020-02-26",
+      "softcore": false,
+      "vote_average": 7.4,
+      "vote_count": 151,
+      "origin_country": [
+        "CA"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AekZz93QCISOYFELhxyRCSzcAit.jpg",
+      "id": 63418,
+      "name": "Code Black",
+      "original_name": "Code Black",
+      "overview": "Inspired by the award-winning documentary, this medical drama is set in the busiest and most notorious ER in the nation where the extraordinary staff confront a challenged system in order to protect their ideals and the patients who need them the most.",
+      "poster_path": "/3T1b6YK6vLrZoLZC5hd65ZuRLq8.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 18.9621,
+      "first_air_date": "2015-09-30",
+      "softcore": false,
+      "vote_average": 7.8,
+      "vote_count": 285,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fFgVoJuSBewZWlzgaoUWGm8MvD4.jpg",
+      "id": 62650,
+      "name": "Chicago Med",
+      "original_name": "Chicago Med",
+      "overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
+      "poster_path": "/s55mHZ5q68IUtRsQdy2oC3nPpG7.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 133.7851,
+      "first_air_date": "2015-11-17",
+      "softcore": false,
+      "vote_average": 8.3,
+      "vote_count": 1286,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2iYitemZYaZUcmSo0l2p3WHvj5J.jpg",
+      "id": 3172,
+      "name": "Private Practice",
+      "original_name": "Private Practice",
+      "overview": "Having left behind Seattle Grace Hospital, renowned surgeon Addison Forbes Montgomery moves to Los Angeles for sunnier weather and happier possibilities. She reunites with her friends from medical school, joining them at their chic, co-op, Oceanside Wellness Center in Santa Monica.",
+      "poster_path": "/pW20ANAGdrgreYJExduUVaWos6H.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 51.9992,
+      "first_air_date": "2007-09-26",
+      "softcore": false,
+      "vote_average": 7.5,
+      "vote_count": 359,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "id": 250307,
+      "name": "The Pitt",
+      "original_name": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "poster_path": "/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 86.0393,
+      "first_air_date": "2025-01-09",
+      "softcore": false,
+      "vote_average": 8.735,
+      "vote_count": 1034,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y8DjXCsyKFL1Ff0zGtpKIQ2MtoL.jpg",
+      "id": 93749,
+      "name": "Dr. Death",
+      "original_name": "Dr. Death",
+      "overview": "An anthology series, with each season following a new medical true crime story.",
+      "poster_path": "/pNnmxTSc2ixac4xk8T80wchec0r.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 15.3244,
+      "first_air_date": "2021-07-15",
+      "softcore": false,
+      "vote_average": 7.3,
+      "vote_count": 231,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9hfA9zMsyckwZ8WLMVQYKG8YSwY.jpg",
+      "id": 80350,
+      "name": "New Amsterdam",
+      "original_name": "New Amsterdam",
+      "overview": "The new medical director breaks the rules to heal the system at America's oldest public hospital. Max Goodwin sets out to tear up the bureaucracy and provide exceptional care, but the doctors and staff are not so sure he can succeed. They've heard this before. Not taking \"no\" for an answer, Dr. Goodwin's instinctive response to problems large and small is four simple words: \"How can I help?\" He has to disrupt the status quo and prove he'll stop at nothing to breathe new life into this underfunded and underappreciated hospital, returning it to the glory that put it on the map.",
+      "poster_path": "/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 56.5361,
+      "first_air_date": "2018-09-25",
+      "softcore": false,
+      "vote_average": 8.3,
+      "vote_count": 1123,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wTQR8zMJM54fsT75HnkSdCybCh2.jpg",
+      "id": 125952,
+      "name": "Good Sam",
+      "original_name": "Good Sam",
+      "overview": "A gifted heart surgeon excels in her new leadership role as Chief of Surgery after her renowned boss falls into a coma. When her former boss wakes up months later demanding to resume his duties, Sam is tasked with supervising this egotistical expert with a scalpel who never acknowledged her stellar talent.",
+      "poster_path": "/3daYD4eYimoQaPyKIgCADKUovcJ.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 4.8739,
+      "first_air_date": "2022-01-05",
+      "softcore": false,
+      "vote_average": 7.3,
+      "vote_count": 50,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8hMDtSWCZPtD5iZIDLDpNkGfaCi.jpg",
+      "id": 5375,
+      "name": "Emergency!",
+      "original_name": "Emergency!",
+      "overview": "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area.",
+      "poster_path": "/or94yBr8bwDPYYY3n8OIu0Q32S3.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "popularity": 45.6729,
+      "first_air_date": "1972-01-22",
+      "softcore": false,
+      "vote_average": 7.9,
+      "vote_count": 54,
+      "origin_country": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pGW53bLFTUG8Gjx5SDb3hpDQ5Yd.jpg",
+      "id": 249695,
+      "name": "Doctor Odyssey",
+      "original_name": "Doctor Odyssey",
+      "overview": "Max is the new on-board doctor for a luxury cruise ship where the small but mighty medical team navigate unique medical crises and each other, miles from shore.",
+      "poster_path": "/78KamrNZE0ZzPLBjEug16BASJ5M.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 18.3848,
+      "first_air_date": "2024-09-26",
+      "softcore": false,
+      "vote_average": 6.517,
+      "vote_count": 88,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "id": 37092,
+      "name": "Coma",
+      "original_name": "Coma",
+      "overview": "A young medical student discovers that something sinister is going on in her hospital after routine procedures send more than a few seemingly healthy patients into comas on the operating table.",
+      "poster_path": "/sYzdFLCXOtJDZuMcdjR2SSwpYZA.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        9648,
+        10765
+      ],
+      "popularity": 6.179,
+      "first_air_date": "2012-09-03",
+      "softcore": false,
+      "vote_average": 6.4,
+      "vote_count": 63,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tCjXy1iCsr2BVlNczafnkZ40LPn.jpg",
+      "id": 60866,
+      "name": "iZombie",
+      "original_name": "iZombie",
+      "overview": "A medical student who becomes a zombie joins a Coroner's Office in order to gain access to the brains she must reluctantly eat so that she can maintain her humanity. But every brain she eats, she also inherits their memories and must now solve their deaths with help from the Medical examiner and a police detective.",
+      "poster_path": "/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80,
+        10765
+      ],
+      "popularity": 34.4926,
+      "first_air_date": "2015-03-17",
+      "softcore": false,
+      "vote_average": 7.787,
+      "vote_count": 2984,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
+      "id": 205272,
+      "name": "Reasonable Doubt",
+      "original_name": "Reasonable Doubt",
+      "overview": "In this legal drama, you’ll judge Jax Stewart for her questionable ethics and wild interpretations of the law… until you’re the one in trouble. Then you’ll see her for what she is: the most brilliant and fearless defense attorney in Los Angeles who bucks the justice system at every chance she gets.",
+      "poster_path": "/v9p9VbljJdJ9GjLqp3l5YpWJ8HO.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 26.9962,
+      "first_air_date": "2022-09-27",
+      "softcore": false,
+      "vote_average": 6.187,
+      "vote_count": 67,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+      "id": 71712,
+      "name": "The Good Doctor",
+      "original_name": "The Good Doctor",
+      "overview": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+      "poster_path": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 136.0953,
+      "first_air_date": "2017-09-25",
+      "softcore": false,
+      "vote_average": 8.452,
+      "vote_count": 12969,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/LjXBJaNaBGgAsNHDYfFTwGOUWb.jpg",
+      "id": 34415,
+      "name": "The Killing",
+      "original_name": "The Killing",
+      "overview": "The Killing is an American crime drama television series based upon the Danish television series Forbrydelsen. Set in Seattle, Washington, the series follows the various murder investigations by homicide detectives Sarah Linden and Stephen Holder.",
+      "poster_path": "/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "popularity": 29.6622,
+      "first_air_date": "2011-04-03",
+      "softcore": false,
+      "vote_average": 7.8,
+      "vote_count": 921,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5j8IF8gWOTw2WgxYYvrAlGf9eJ6.jpg",
+      "id": 124271,
+      "name": "NCIS: Hawaiʻi",
+      "original_name": "NCIS: Hawaiʻi",
+      "overview": "Jane Tennant, the first female Special Agent in Charge of NCIS Pearl Harbor, and her unwavering team of specialists balance duty to family and country while investigating high-stakes crimes involving military personnel, national security and the mysteries of the sun-drenched island paradise itself.",
+      "poster_path": "/4R8xtDx2ge0GjEOnEwoR8V8X82q.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 25.1299,
+      "first_air_date": "2021-09-20",
+      "softcore": false,
+      "vote_average": 7.746,
+      "vote_count": 337,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gXs6po9ARYYDhYhj3eD34afd5kW.jpg",
+      "id": 158083,
+      "name": "Painkiller",
+      "original_name": "Painkiller",
+      "overview": "The causes and consequences of America's opioid epidemic unfold in this drama following its perpetrators, victims and an investigator seeking the truth.",
+      "poster_path": "/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 9.3453,
+      "first_air_date": "2023-08-10",
+      "softcore": false,
+      "vote_average": 7.219,
+      "vote_count": 226,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ypWZ3iWt16kOoXfaD7KzgPqa8Bl.jpg",
+      "id": 67384,
+      "name": "Goliath",
+      "original_name": "Goliath",
+      "overview": "Once a powerful lawyer, Billy McBride is now burned out and washed up, spending more time in a bar than a courtroom. When he reluctantly agrees to pursue a wrongful death lawsuit against the biggest client of Cooperman &amp; McBride, the massive law firm he helped create, Billy and his ragtag team uncover a vast and deadly conspiracy, pitting them all in a life or death trial against the ultimate Goliath.",
+      "poster_path": "/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 37.7307,
+      "first_air_date": "2016-10-13",
+      "softcore": false,
+      "vote_average": 7.6,
+      "vote_count": 507,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mw9EcIFuWUjkOTF60aYpbpM02Qu.jpg",
+      "id": 61014,
+      "name": "The Knick",
+      "original_name": "The Knick",
+      "overview": "Set in downtown New York in 1900, 'The Knick' is centered on the Knickerbocker Hospital and its staff, notably Dr. John Thackery, the hospital's brilliant chief surgeon who pushes medicine's boundaries, pioneering new procedures despite a severe drug addiction.",
+      "poster_path": "/oeEqDSIVOi6q0GcZj8L9Q6G7fGC.jpg",
+      "media_type": "tv",
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 13.6536,
+      "first_air_date": "2014-08-08",
+      "softcore": false,
+      "vote_average": 7.8,
+      "vote_count": 542,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 44,
+  "total_results": 865
+}

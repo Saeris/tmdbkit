@@ -1,0 +1,228 @@
+{
+  "id": 680,
+  "page": 1,
+  "results": [
+    {
+      "description": "Movies I have watched (managed by Movie Tracker).",
+      "favorite_count": 0,
+      "id": 8678795,
+      "item_count": 711,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Movie Tracker - Watched",
+      "poster_path": null
+    },
+    {
+      "description": "Películas que he visto",
+      "favorite_count": 0,
+      "id": 8208045,
+      "item_count": 1039,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Películas vistas",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8706516,
+      "item_count": 116,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "TVWeekly ",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8575788,
+      "item_count": 230,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Watched",
+      "poster_path": null
+    },
+    {
+      "description": "All movies watched by me",
+      "favorite_count": 0,
+      "id": 8701798,
+      "item_count": 3714,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Watched",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8234063,
+      "item_count": 5731,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Favorite Actors",
+      "poster_path": null
+    },
+    {
+      "description": "A list of all the films I have",
+      "favorite_count": 0,
+      "id": 8642657,
+      "item_count": 888,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "My Film Collection",
+      "poster_path": null
+    },
+    {
+      "description": "Titles marked Not for me or opened from a pick on my TVs (Free My TV).",
+      "favorite_count": 0,
+      "id": 8708002,
+      "item_count": 54,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Free My TV",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8710223,
+      "item_count": 172,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Limelight Seen",
+      "poster_path": null
+    },
+    {
+      "description": "Moonfin home row (auto-built nightly)",
+      "favorite_count": 0,
+      "id": 8706088,
+      "item_count": 20,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Paramount+ - Movies",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8710575,
+      "item_count": 11,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Quentin Tarantino Movies",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8706848,
+      "item_count": 3421,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Movie Collection ",
+      "poster_path": null
+    },
+    {
+      "description": "Mirrored from the Letterboxd list \"Top 250 Films with the Most Fans\" by official, updated automatically.\n\nAs of October 5, 2026. This list ranks narrative feature films by the number of fans. A “fan” is a Letterboxd member with a particular film as one of their four favorites on their profile. These list stats are unlocked for everybody! Changes from the latest update: In: Halloween (at #247) The Pursuit of Happyness (at #250) Out: Flipped (was #247) Frances Ha (was #250) Eligibility rules: • Films must be feature-length (more than 40 minutes long) with a festival premiere, theatrical distribution or professional streaming release. • This list excludes: documentaries of any kind, direct-to-video, self-released web videos, recap…",
+      "favorite_count": 0,
+      "id": 8710557,
+      "item_count": 250,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Letterboxd Top 250 Films",
+      "poster_path": null
+    },
+    {
+      "description": "A list of movies worth watching while underway",
+      "favorite_count": 0,
+      "id": 8710513,
+      "item_count": 126,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "List of all time favorites",
+      "poster_path": null
+    },
+    {
+      "description": "Master List In Progress",
+      "favorite_count": 0,
+      "id": 51108,
+      "item_count": 13663,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "My Movies",
+      "poster_path": null
+    },
+    {
+      "description": "All of my ratings are the movies that I have seen.",
+      "favorite_count": 0,
+      "id": 8302254,
+      "item_count": 2591,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Movies That I have watched all",
+      "poster_path": null
+    },
+    {
+      "description": "Curated movie collection. Copied from my Plex collection, October 2026.",
+      "favorite_count": 0,
+      "id": 8710466,
+      "item_count": 117,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Outstanding",
+      "poster_path": null
+    },
+    {
+      "description": "English-language movies from my library passing all three Bechdel criteria, as recorded by Bechdel Test Movie List. Entries flagged dubious or with conflicting results excluded. No critic or quality filter. Compiled 28 October 2026. Passing does not imply a quality or representation endorsement.",
+      "favorite_count": 0,
+      "id": 8710435,
+      "item_count": 1613,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Bechdel",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8692304,
+      "item_count": 59,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Limelight Watchlist",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8695216,
+      "item_count": 1082,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "list_type": "movie",
+      "name": "Limelight Seen",
+      "poster_path": null
+    }
+  ],
+  "total_pages": 128,
+  "total_results": 2554
+}

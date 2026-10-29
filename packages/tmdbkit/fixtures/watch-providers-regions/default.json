@@ -1,0 +1,104 @@
+{
+  "results": [
+    {
+      "iso_3166_1": "AD",
+      "english_name": "Andorra",
+      "native_name": "Andorra"
+    },
+    {
+      "iso_3166_1": "AE",
+      "english_name": "United Arab Emirates",
+      "native_name": "United Arab Emirates"
+    },
+    {
+      "iso_3166_1": "AG",
+      "english_name": "Antigua and Barbuda",
+      "native_name": "Antigua & Barbuda"
+    },
+    {
+      "iso_3166_1": "AL",
+      "english_name": "Albania",
+      "native_name": "Albania"
+    },
+    {
+      "iso_3166_1": "AO",
+      "english_name": "Angola",
+      "native_name": "Angola"
+    },
+    {
+      "iso_3166_1": "AR",
+      "english_name": "Argentina",
+      "native_name": "Argentina"
+    },
+    {
+      "iso_3166_1": "AT",
+      "english_name": "Austria",
+      "native_name": "Austria"
+    },
+    {
+      "iso_3166_1": "AU",
+      "english_name": "Australia",
+      "native_name": "Australia"
+    },
+    {
+      "iso_3166_1": "AZ",
+      "english_name": "Azerbaijan",
+      "native_name": "Azerbaijan"
+    },
+    {
+      "iso_3166_1": "BA",
+      "english_name": "Bosnia and Herzegovina",
+      "native_name": "Bosnia & Herzegovina"
+    },
+    {
+      "iso_3166_1": "BB",
+      "english_name": "Barbados",
+      "native_name": "Barbados"
+    },
+    {
+      "iso_3166_1": "BE",
+      "english_name": "Belgium",
+      "native_name": "Belgium"
+    },
+    {
+      "iso_3166_1": "BF",
+      "english_name": "Burkina Faso",
+      "native_name": "Burkina Faso"
+    },
+    {
+      "iso_3166_1": "BG",
+      "english_name": "Bulgaria",
+      "native_name": "Bulgaria"
+    },
+    {
+      "iso_3166_1": "BH",
+      "english_name": "Bahrain",
+      "native_name": "Bahrain"
+    },
+    {
+      "iso_3166_1": "BM",
+      "english_name": "Bermuda",
+      "native_name": "Bermuda"
+    },
+    {
+      "iso_3166_1": "BO",
+      "english_name": "Bolivia",
+      "native_name": "Bolivia"
+    },
+    {
+      "iso_3166_1": "BR",
+      "english_name": "Brazil",
+      "native_name": "Brazil"
+    },
+    {
+      "iso_3166_1": "BS",
+      "english_name": "Bahamas",
+      "native_name": "Bahamas"
+    },
+    {
+      "iso_3166_1": "BY",
+      "english_name": "Belarus",
+      "native_name": "Belarus"
+    }
+  ]
+}

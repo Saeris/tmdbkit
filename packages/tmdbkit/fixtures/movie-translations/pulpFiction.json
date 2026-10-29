@@ -1,0 +1,265 @@
+{
+  "id": 680,
+  "translations": [
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "homepage": "https://www.miramax.com/movie/pulp-fiction/",
+        "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+        "runtime": 154,
+        "tagline": "You won’t know the facts until you’ve seen the fiction.",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "FR",
+      "iso_639_1": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "data": {
+        "homepage": "",
+        "overview": "L’odyssée sanglante et burlesque de petits malfrats dans la jungle d’Hollywood : Deux petits tueurs, un dangereux gangster marié à une camée, un boxeur roublard, des prêteurs sur gages sadiques, un caïd élégant et dévoué, un dealer bon mari et deux tourtereaux à la gâchette facile.",
+        "runtime": 154,
+        "tagline": "Vous ne connaîtrez pas les faits tant que vous n’aurez pas vu la fiction.",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "es",
+      "name": "Español",
+      "english_name": "Spanish",
+      "data": {
+        "homepage": "",
+        "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+        "runtime": 154,
+        "tagline": "No sabrás los hechos hasta que veas la ficción.",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "name": "Pусский",
+      "english_name": "Russian",
+      "data": {
+        "homepage": "https://www.miramax.com/movie/pulp-fiction/",
+        "overview": "Пути двух наемных убийц, профессионального бойца, двух бандитов и жены гангстера пересекаются в этом закрученном кровавом путешествии по злачному центру Лос-Анджелеса.",
+        "runtime": 154,
+        "tagline": "«То, что ты персонаж, еще не значит, что у тебя есть характер»",
+        "title": "Криминальное чтиво"
+      }
+    },
+    {
+      "iso_3166_1": "DE",
+      "iso_639_1": "de",
+      "name": "Deutsch",
+      "english_name": "German",
+      "data": {
+        "homepage": "https://www.miramax.com/movie/pulp-fiction/",
+        "overview": "Vincent Vega und Jules Winnfield holen für ihren Boss Marsellus Wallace eine schwarze Aktentasche aus einer Wohnung ab. Drei Jungs, die ihnen dabei im Weg stehen, lassen ihr Leben. Die Killer machen sich mit einem vierten Jungen als Geisel auf den Weg ins Hauptquartier. Doch als das Auto über eine Straßenerhöhung schaukelt, erschießt Vincent aus Versehen die Geisel. Um den blutverspritzten Wagen zu reinigen, machen die beiden einen Abstecher zu Jules's Freund Jimmie, wo auf Befehl vom Boss ein Spezialist für schwierige Aufträge zu ihnen stößt: The Wolf...",
+        "runtime": 154,
+        "tagline": "Drei schwere Jungs und ein Flittchen, das \"Ärger\" heißt.",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "IT",
+      "iso_639_1": "it",
+      "name": "Italiano",
+      "english_name": "Italian",
+      "data": {
+        "homepage": "",
+        "overview": "Le vite di due gangster, di un pugile e della moglie di un potente boss della malavita finiscono per intrecciarsi in una paradossale storia di violenza, vendetta e redenzione.",
+        "runtime": 154,
+        "tagline": "Le ragazze come me non invitano in questo modo a chiunque!",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "HU",
+      "iso_639_1": "hu",
+      "name": "Magyar",
+      "english_name": "Hungarian",
+      "data": {
+        "homepage": "",
+        "overview": "Adott két idősödő, szabad szájú, tökös, szimpatikus gengszter, Vincent és Jules, akik igyekeznek főnöküknek visszaszerezni egy aktatáskát. Ehhez persze meg kell ölniük pár embert, de ez az egyszerű bérgyilkosokkal gyakran megesik. Jules a rá célzott golyókat csodával határos módon elkerüli, s ezt jelnek tekintvén úgy dönt, felhagy eddigi életével. Társának viszont el kell vinnie szórakozni a gengszterfőnök feleségét... Van továbbá egy boxoló, Butch, aki a hírhedt marffiafőnök, Marselleus Wallace átvágását tervezi. Hogy-hogy nem, odáig fajul a történet, hogy végül már inkább a megmentésére készül, mint a lelövésére... Nem utolsósorban, pedig, van egy piti rabló-párosunk is, akik éppen egy étterem kirablására készülnek. Ám ott reggelizik Vincent és Jules.",
+        "runtime": 154,
+        "tagline": "",
+        "title": "Ponyvaregény"
+      }
+    },
+    {
+      "iso_3166_1": "CZ",
+      "iso_639_1": "cs",
+      "name": "Český",
+      "english_name": "Czech",
+      "data": {
+        "homepage": "http://www.pulpfiction.com/",
+        "overview": "Děj Pulp Fiction tvoří několik příběhů z losangeleského gangsterského prostředí, které se v několika scénách spojují a prolínají. Jejich společným prvkem jsou postavy Marsella Wallace, Vincenta Vegy a Miy Wallacové, což jsou jediné tři postavy, které se vyskytují ve všech povídkách. Příběhy jsou plné bizarních dějových zvratů, narážek na klasické béčkové filmy i postmoderních prvků.",
+        "runtime": 154,
+        "tagline": "",
+        "title": "Pulp Fiction: Historky z podsvětí"
+      }
+    },
+    {
+      "iso_3166_1": "SE",
+      "iso_639_1": "sv",
+      "name": "svenska",
+      "english_name": "Swedish",
+      "data": {
+        "homepage": "",
+        "overview": "Jules Winnfield och Vincent Vega är två torpeder som är på jakt efter en resväska som stulits från deras arbetsgivare, maffialedaren Marsellus Wallace. Butch Coolidge är en åldrande boxare som får betalt av Wallace för att förlora nästa match. Dessa människor har till synes inget samband, men deras liv vävs samma i en serie roliga, bisarra och omotiverade incidenter.",
+        "runtime": 155,
+        "tagline": "",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "homepage": "",
+        "overview": "由序幕、尾声及三个独立又环环相扣的故事构成。早餐店两名劫匪打劫时，偶遇黑道打手朱尔斯与文森特；文森特奉命陪伴老大马沙的妻子，深陷诱惑困境；拳击手布奇因祖传金表，和马沙结下恩怨。",
+        "runtime": 0,
+        "tagline": "仅仅因为你是一个角色并不意味着你有角色。",
+        "title": "低俗小说"
+      }
+    },
+    {
+      "iso_3166_1": "TR",
+      "iso_639_1": "tr",
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "data": {
+        "homepage": "",
+        "overview": "Jules Winnfield ve Vincent Vega, mafya babası patronları Marsellus Wallace’tan çalınan bir çantayı geri almaya giden iki profesyonel tetikçidir. Wallace aynı zamanda Vincent’a, kendisi birkaç gün sonra şehir dışındayken karısını dışarı çıkarmasını söyler. Butch Coolidge, bir sonraki maçını kaybetmesi için Wallace’tan para alan yaşlı bir boksördür. Honey Bunny ve Pumpkin, yer değişikliğine ihtiyaçları olduğuna karar veren soyguncu bir çifttir. Görünüşte birbirleriyle alakası olmayan bu insanların hayatları, hem heyecanlı hem de eğlendirici bir sinema filmi macerasında nefes kesici bir şekilde birleşecektir.",
+        "runtime": 154,
+        "tagline": "Kurguyu izleyene kadar gerçekleri bilemezsiniz.",
+        "title": "Ucuz Roman"
+      }
+    },
+    {
+      "iso_3166_1": "NL",
+      "iso_639_1": "nl",
+      "name": "Nederlands",
+      "english_name": "Dutch",
+      "data": {
+        "homepage": "",
+        "overview": "Jules en Vincent werken voor de machtige misdadiger Marsellus Wallace. Vincent komt in de problemen als hij Mia, de vrouw van Wallace, een avondje gezelschap moet houden. Ondertussen is Wallace verwikkeld in een deal met de bokser Butch, die Wallace belazert en er met z'n geld vandoor gaat.",
+        "runtime": 154,
+        "tagline": "",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "PT",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "homepage": "",
+        "overview": "Pulp Fiction retrata três histórias interligadas que seguem as desventuras de dois assassinos baratos, da insinuante mulher do seu patrão e de um desesperado boxeur em fuga.",
+        "runtime": 154,
+        "tagline": "Raparigas como eu não fazem convites destes a qualquer um.",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "FI",
+      "iso_639_1": "fi",
+      "name": "suomi",
+      "english_name": "Finnish",
+      "data": {
+        "homepage": "",
+        "overview": "Jules Winnfield ja Vincent Vega ovat palkkamurhaajia, jotka ovat hakemassa työnantajaltaan, mafiapomo Marsellus Wallacelta varastettua salkkua. Butch Coolidge on ikääntyvä nyrkkeilijä, jolle Wallace maksaa seuraavan ottelun häviämisestä. Näiden ilmeisesti toisiinsa liittymättömien ihmisten elämät punoutuvat yhteen muodostaen sarjan hauskoja, outoja ja aiheettomia tapahtumia.",
+        "runtime": 154,
+        "tagline": "",
+        "title": "Pulp Fiction: Tarinoita väkivallasta"
+      }
+    },
+    {
+      "iso_3166_1": "NO",
+      "iso_639_1": "no",
+      "name": "Norsk",
+      "english_name": "Norwegian",
+      "data": {
+        "homepage": "",
+        "overview": "Pulp fiction er en brutal, svart komedie fra Los Angeles. Tre fortellinger veves inn i hverandre, skjebner krysses - ofte med voldsomme konsekvenser. Vi møter John Travolta som den permanente narkopåtente Vincent som sammen ned Jules (Samuel L. Jackson) er gangsteren Marsellus' håndlanger. Bruce Willis er bokseren Butch, som lar seg bestikke av samme Marcellus til å gå på et tap i femte runde, men ender med å bokse son motstander i hjel. På en småbar samme dag sitter det småkriminelle paret Pumpkin (Tim Roth) og Honey Bunny (Amanda Plummer). De er begge lei av å rane spritbutikker og vil heller trekke våpen og robbe baren og klientellet. Men blant gjestene befinner seg forannevnte Vincent og Jules...",
+        "runtime": 155,
+        "tagline": "",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "DK",
+      "iso_639_1": "da",
+      "name": "Dansk",
+      "english_name": "Danish",
+      "data": {
+        "homepage": "",
+        "overview": "Lejemorderne Vincent Vega og Jules Winnfield arbejder for gangsterbossen Marsellus Wallace i Los Angeles. Deres veje krydses med en bokser på flugt og bossens kone, mens en række uforudsigelige hændelser vender op og ned på deres tilværelse. Quentin Tarantino's kultfilm blander sort humor, vold og kriminalitet i et usædvanligt fortællergreb.",
+        "runtime": 155,
+        "tagline": "",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "RS",
+      "iso_639_1": "sr",
+      "name": "Srpski",
+      "english_name": "Serbian",
+      "data": {
+        "homepage": "",
+        "overview": "Боксер Буч Кулиџ (Брус Вилис) је одлучио да прекине исплате у договору који је направио са ђаволом. Хани Бани (Аманда Пламер) и Пампкин (Тим Рот) су љубавници и ситни лопови који одлучују да им је потребна промена места боравка. У међувремену, два професионална криминалца, Винсент Вега (Џон Траволта) и Џулс (Семјуел Л. Џексон), крећу у редован дневни обилазак и убијање превараната који касне са исплатама њиховом газди. И док је један замољен да чува опасно привлачну супругу њиховог газде, други изненада схвата да мора да остави живот криминалца.",
+        "runtime": 154,
+        "tagline": "Петпарачке приче",
+        "title": "Петпарачке приче"
+      }
+    },
+    {
+      "iso_3166_1": "JP",
+      "iso_639_1": "ja",
+      "name": "日本語",
+      "english_name": "Japanese",
+      "data": {
+        "homepage": "",
+        "overview": "強盗の計画を立てているカップルを導入部に、盗まれたトランクを取り戻そうとする二人組のギャング、ビンセントとジュールス。ボスの情婦と一晩のデートをするハメになるビンセント。ボクシングの八百長試合で金を受け取るボクサーのブッチ。誤って人を殺し血塗れになった車の処理に右往左往するビンセントとジュールス。ギャングのボス、マーセルスを軸としたこれらの物語がラストに向けて収束していく。",
+        "runtime": 154,
+        "tagline": "時代にとどめをさす。",
+        "title": "パルプ・フィクション"
+      }
+    },
+    {
+      "iso_3166_1": "GR",
+      "iso_639_1": "el",
+      "name": "ελληνικά",
+      "english_name": "Greek",
+      "data": {
+        "homepage": "",
+        "overview": "Δυο σκληροτράχηλοι εκτελεστές με φιλοσοφικές ανησυχίες. Ένας αποτυχημένος πυγμάχος που προσπαθεί να πιάσει την καλή. Μια κακομαθημένη καλλονή, εθισμένη στην κοκαϊνη. Ένα τρελά ερωτευμένο ζευγάρι ληστών… Αυτοί είναι μερικοί μόνο από τους συναρπαστικούς χαρακτήρες που συνθέτουν τη σπονδυλωτή ιστορία μας…",
+        "runtime": 154,
+        "tagline": "",
+        "title": ""
+      }
+    },
+    {
+      "iso_3166_1": "BG",
+      "iso_639_1": "bg",
+      "name": "български език",
+      "english_name": "Bulgarian",
+      "data": {
+        "homepage": "",
+        "overview": "Тайните на престъпния свят на Лос Анжелис, в които има насилие, ирония, романтика и изненади. Тук се преплитат съдбите на двойка \"горили\" изпълняващи \"мокри\" поръчки, боксьор-измамник и неговата разсеяна приятелка, повелителят на тълпата и неговата прекалено уморена от живота съпруга, двама любовници, мечтаещи за промяна в живота си. Всичко това се зъбърква в един сюжет, искрящ от остроумие, професионална виртуалност и интелигентност.",
+        "runtime": 0,
+        "tagline": "Наличието на личност не означава, че имаш самоличност.",
+        "title": "Криминале"
+      }
+    }
+  ]
+}

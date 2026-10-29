@@ -1,0 +1,31 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1811074,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "30 Jahre Harald & Eddi: ein verrücktes Paar",
+  "overview": "",
+  "popularity": 0,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "30 Jahre Harald & Eddi: ein verrücktes Paar",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0
+}

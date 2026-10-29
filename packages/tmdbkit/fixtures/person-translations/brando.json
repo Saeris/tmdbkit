@@ -1,0 +1,225 @@
+{
+  "id": 3084,
+  "translations": [
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "biography": "Marlon Brando Jr. (April 3, 1924 – July 1, 2004) was an American actor. Considered one of the most influential actors of the 20th century, he received numerous accolades throughout his career which spanned six decades, including two Academy Awards, two Golden Globe Awards, and three British Academy Film Awards. Brando was also an activist for many causes, notably the civil rights movement and various Native American movements. Having studied with Stella Adler in the 1940s, he is credited with being one of the first actors to bring the Stanislavski system of acting and method acting, derived from the Stanislavski system, to mainstream audiences.\n\nHe initially gained acclaim and his first Academy Award nomination for Best Actor in a Leading Role for reprising the role of Stanley Kowalski in the 1951 film adaptation of Tennessee Williams' play A Streetcar Named Desire, a role that he originated successfully on Broadway. He received further praise, and a first Academy Award and Golden Globe Award, for his performance as Terry Malloy in On the Waterfront, and his portrayal of the rebellious motorcycle gang leader Johnny Strabler in The Wild One proved to be a lasting image in popular culture. Brando received Academy Award nominations for playing Emiliano Zapata in Viva Zapata! (1952); Mark Antony in Joseph L. Mankiewicz's 1953 film adaptation of Shakespeare's Julius Caesar; and Air Force Major Lloyd Gruver in Sayonara (1957), an adaptation of James A. Michener's 1954 novel.\n\nThe 1960s saw Brando's career take a commercial and critical downturn. He directed and starred in the cult western One-Eyed Jacks, a critical and commercial flop, after which he delivered a series of notable box-office failures, beginning with Mutiny on the Bounty (1962). After ten years of underachieving, he agreed to do a screen test as Vito Corleone in Francis Ford Coppola's The Godfather (1972). He got the part and subsequently won his second Academy Award and Golden Globe Award in a performance critics consider among his greatest. He declined the Academy Award due to alleged mistreatment and misportrayal of Native Americans by Hollywood. The Godfather was one of the most commercially successful films of all time, and alongside his Oscar-nominated performance in Last Tango in Paris (1972), Brando reestablished himself in the ranks of top box-office stars.\n\nAfter a hiatus in the early 1970s, Brando was generally content with being a highly paid character actor in supporting roles, such as Jor-El in Superman (1978), as Colonel Kurtz in Apocalypse Now (1979), and Adam Steiffel in The Formula (1980), before taking a nine-year break from film. According to the Guinness Book of World Records, Brando was paid a record $3.7 million ($16 million in inflation-adjusted dollars) and 11.75% of the gross profits for 13 days' work on Superman.\n\nBrando was ranked by the American Film Institute as the fourth-greatest movie star among male movie stars whose screen debuts occurred in or before 1950. He was one of only six actors named in 1999 by Time magazine in its list of the 100 Most Important People of the Century. In this list, Time also designated Brando as the \"Actor of the Century\".",
+        "name": "Marlon Brando",
+        "primary": true
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "es",
+      "name": "Español",
+      "english_name": "Spanish",
+      "data": {
+        "biography": "Actor estadounidense, uno de los intérpretes más importantes de su generación y paradigma de la técnica de interpretación del Actor's Studio de Nueva York. Nació en Omaha, Nebraska, el 3 de abril de 1924 en el seno de una familia muy humilde. Debutó en Broadway en 1944. Fue descubierto gracias a su trabajo como Stanley Kowalski en Un tranvía llamado deseo (1947), de Tennessee Williams, personaje a medida para el estilo de interpretación naturalista del método de Lee Strasberg. Esta obra fue llevada a la pantalla en 1951 por el director Elia Kazan con gran éxito. Desde entonces mostró su versatilidad interpretativa encarnando muy distintos personajes, desde Marco Antonio en Julio César (1953, de Joseph Mankiewicz) hasta el motorista gamberro de ¡Salvaje! (1954, de Laszlo Benedek). Recibió el Oscar al mejor actor por La ley del silencio (1954), de Elia Kazan, y aunque lo ganó de nuevo por su interpretación en El padrino (1972), de Francis Ford Coppola, lo rechazó en señal de protesta por la explotación a la que eran sometidos los indígenas americanos por parte de la industria del cine. Otras películas señaladas de su filmografía son: Viva Zapata (1952), también de Elia Kazan; La casa de té de la luna de agosto (1956), de Daniel Mann; El rostro impenetrable (1961), que dirigió él mismo; Rebelión a bordo (1962), de Lewis Milestone, nueva versión del clásico de 1935 dirigido por Frank Lloyd; El último tango en París (1972), de Bernardo Bertolucci; Missouri (1976), de Arthur Penn; Apocalypse now (1979), de Francis Ford Coppola; Una árida estación blanca (1989), de Euzhan Palcy, y El novato (1990), de Andrew Bergman. Los últimos años de su carrera estuvieron marcados por la tragedia en el ámbito familiar. Durante esos años, sus intervenciones en el cine fueron escasas y poco relevantes. Falleció el 1 de julio de 2004 en Los Ángeles, EEUU.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "UA",
+      "iso_639_1": "uk",
+      "name": "Український",
+      "english_name": "Ukrainian",
+      "data": {
+        "biography": "Марлон Брандо — американський актор театру та кіно. Двічі лауреат премії «Оскар», на яку був номінований вісім разів.\n\nБагатьма шанувальниками вважається одним із найвидатніших кіноакторів XX століття. Він довів техніку акторської майстерності до найвищого рівня у фільмах «Трамвай „Бажання“» (1951) та «У порту» (1954), які поставив Еліа Казан, а також «Хрещений батько» (1972) Френсіса Форда Копполи, де він зіграв роль дона Віто Корлеоне. Його акторський стиль, поєднаний з іміджем байдужого аутсайдера в Голлівуді початку 1950-х років, мав величезний вплив на покоління акторів, які прийшли після нього. Брандо був також активістом багатьох громадських рухів, включаючи Рух американських індіанців.",
+        "name": "Марлон Брандо",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "DE",
+      "iso_639_1": "de",
+      "name": "Deutsch",
+      "english_name": "German",
+      "data": {
+        "biography": "Marlon Brando, Jr. (* 3. April 1924 in Omaha, Nebraska; † 1. Juli 2004 in Los Angeles, Kalifornien) war ein amerikanischer Schauspieler. Er gilt als einer der bedeutendsten Charakterdarsteller der Filmgeschichte des 20. Jahrhunderts.\n\nMit seinen Rollen in den Filmen Endstation Sehnsucht (1951) und Die Faust im Nacken (1954) verschaffte er der Schauspieltechnik des Method Acting weltweit Beachtung. Sowohl mit seiner Art der Darstellung als auch durch sein Auftreten in der Öffentlichkeit als gesellschaftlicher Außenseiter, den die Spielregeln Hollywoods nicht interessierten, beeinflusste er die jüngere Schauspielergeneration nachhaltig.\n\nZwischen 1952 und 1990 war er siebenmal in der Kategorie Bester Hauptdarsteller und einmal als Bester Nebendarsteller für den Oscar nominiert, zweimal (1955 und 1973) gewann er ihn in der Kategorie Bester Hauptdarsteller. 1973 verweigerte er die Annahme seiner zweiten Auszeichnung für seine Titelrolle in Der Pate aus Protest gegen den bis zu dieser Zeit verbreiteten abwertenden Umgang der amerikanischen Filmindustrie mit den Indianern. Weitere Auszeichnungen erhielt Brando bei internationalen Filmfestivals, unter anderem 1952 in Cannes und 1989 in Tokio.\n\nQuelle: Wikipedia",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "TR",
+      "iso_639_1": "tr",
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "data": {
+        "biography": "Küçük yaşta tiyatroya başlamış olan oyuncu, New York'ta Lee Strasberg, Elia Kazan, Stella Adler ve Emir Zahirovic'den senelerce oyunculuk dersi almıştır. Ancak kendisi üzerinde en önemli etkiyi Stella Adler'in (dolaylı olarak ünlü Rus tiyatrocu Konstantin Stanislavski'nin) yaptığını ısrarla belirten Brando, Actors Studio'nun kurucularından olmasa da 1952'den itibaren stüdyonun dünya çapında ün kazanacağı dönemde başında bulanan Lee Strasberg'in kendini hocaların hocası gören kibirli tavrı karşısında hep muhalif olmuştur. Oyunculuk hayatı üzerinde, bir zamanlar Henry Fonda'yı sahnelere kazandıran tiyatrocu annesinin etkisi olduğunu da yadsımaz.\n\n\"Hâlâ Hollywood'da bulunmamın tek nedeni parayı reddedecek ahlaki cesaretimin olmayışıdır\" diyecek kadar cesur, 1972'de The Godfather filmiyle aldığı Oscarı reddedecek kadar da asi biriydi. İkinci Oscarını Amerika'nın Kızılderililere karşı uyguladığı politikayı protesto etmek için ödülü almaya dahi gelmemiştir. On the Waterfront (Rıhtımlar Üzerinde) ile gerçekleştirdiği performansla tüm zamanların en iyi oyuncularından biri olduğunu kanıtladı; ama Brando'nun yakın dostu Elia Kazan'ın da bu başarıda rolü vardı. Elia Kazan film için başta Frank Sinatra ile anlaşmış olmasına rağmen, yapımcı Spiegel'in de etkisiyle Brando'yu başrole koymuştur. Kült filmler arasına giren bir diğer filmi ise \"Last Tango in Paris\" filminde Bernardo Bertolucci ile çalışmıştır. Filmlerinde kendine has bir tarzı vardı. Bunlardan birkaçı; repliklerini ezberlemeyi reddederdi küçük kâğıtlar kullanırdı. Bir filmde sesinin daha boğucu çıkması için yanaklarına pamuklar doldurdu. The Man (1950) filmindeki Ken Wilcheck rolü için haftalarca tekerlekli sandalyeli gazilerle birlikte olmuştu.\n\nBrando ülkesinde Kızılderili ve siyahların hakları için aktif olarak çalışmıştı. Hollywood sinemasının Kızılderililere karşı tutumunu pek çok yollarla protesto etmiş, düşman edinmiştir. Oğlunun cinayet davasında mahkemede kendisini 'ateist' olarak tanımlasa da, dini inancı bulunduğunu hayatının akışında pek çok yerde belirtmiş, özellikle Kızılderili manevi inançlarına kendini yakın hissettiğini belirtmiştir. Oğlu Michael Jackson'ın korumalarından biriydi. Uyuşturucudan kurtulmaya çalışan kızı intihar etti. 2001 yılında zatürreden dolayı hastaneye kaldırıldı. Empire dergisinin 'Film Tarihinin 100 Seksi Starı' listesine 14. sıradan seçilmişti.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "FR",
+      "iso_639_1": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "data": {
+        "biography": "Marlon Brando Jr est né le 3 avril 1924 dans une famille modeste du Nebraska. Après des études médiocres et un passage éclair par une académie militaire, le jeune homme s'envole en 1943 pour New-York. Là, il assiste aux cours de théâtre de Stella Adler qui lui enseigne la méthode de l'Actors Studio. C'est LA révélation : Brando est un acteur né. Sept ans et plusieurs pièces de théâtre plus tard, il fait ses débuts devant les caméras dans \"Un Tramway Nommé Désir\", sous la direction d'Elia Kazan. Le résultat est retentissant : l'acteur, moulé dans son tee-shirt blanc, devient instantanément un sex-symbol. Il poursuit sa collaboration avec Kazan en tournant coup sur coup dans \"Viva Zapata !\" et surtout \"Sur Les Quais\", pour lequel il reçoit l'Oscar et le Prix d'interprétation à Cannes. En 1953, son personnage en blouson Perfecto, dans \"L'Equipée Sauvage\", renforce encore son statut d'icône générationnelle. Il s'illustre ensuite dans  le péplum Jules Cesar,  ou les comédie musicale \"Blanches Colombes\",  \"Vilains Messieurs\". Brando est au sommet, adulé par les foules et courtisé par les producteurs.\n\nDans les années 1960, Marlon Brando prend des risques artistiques. Il s'essaye à la réalisation avec La Vengeance aux deux visages, s'engage dans les films polémiques \"La Poursuite Impitoyable\" et \"Reflet Dans Un Oeil d'Or\", essuie des échecs financiers dans de grosses productions \"Les Révoltés Du Bounty\"… De plus en plus exigeant, il effraie réalisateurs et financiers et devient persona non grata à Hollywood. Au même moment il embrasse la cause indienne et la défend avec une sincérité sans faille. Plus que jamais, l'acteur semble se lasser d'Hollywood et de sa superficialité.\n\nSa résurrection intervient en 1972. Venu incognito passer des auditions pour le rôle-titre du \"Parrain\", Marlon Brando stupéfie l'assistance. Francis Ford Coppola, le réalisateur, le choisit : il sera Vito Corleone, parrain de la pègre italo-new-yorkaise. On connaît la suite : immense succès critique et public, pluie de récompenses (second Oscar pour Brando) et début d'une saga de légende. Bertolucci fait appel à son sex-appeal pour le sulfureux Dernier Tango à Paris et Coppola lui confie le rôle halluciné du Colonel Kurtz dans \"Apocalypse Now\". Pour le comédien, c'est aussi l'époque des petits rôles aux cachets exorbitants (4 millions de dollars pour faire la voix du père de Superman !). Avec cet argent, il achète une île du Pacifique achetée en 1965.\n\nLa fin de sa carrière prend des allures de tragédie grecque. Sa fille, Cheyenne, se suicide en 1995, minée par le meurtre de son amant perpétré en 1990 par son propre frère, Christian Brando. Désespéré, Marlon Brando dépense sa fortune en procès et retourne devant les caméras pour éponger les dettes. Le voilà obligé de cachetonner dans des productions sans envergure (\"Premiers Pas Dans La Mafia\"), voir médiocres (L'Ile Du Dr Moreau). A sauver : sa remarquable prestation dans \"The Brave\", première réalisation de son ami Johnny Depp. Marlon Brando décèdera le 1er juillet 2004 à Los Angeles, loin de son île polynésienne.\n\nConsidéré comme le meilleur acteur de tous les temps par ses contemporains et le public, étoile hollywoodienne, il est aussi connu pour son implication dans le combat pour les droits civiques aux États-Unis, notamment pour la reconnaissance des droits des Amérindiens et des Afro-Américains.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "GE",
+      "iso_639_1": "ka",
+      "name": "ქართული",
+      "english_name": "Georgian",
+      "data": {
+        "biography": "",
+        "name": "მარლონ ბრანდო",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "biography": "马龙·白兰度。1924年4月3日出生于美国内布拉斯加州奥马哈市的一个中产阶级家庭。他自小顽皮好动，性格倔强，从不好好学习。中学毕业后他到纽约，进了一家戏剧学校攻读表演艺术。“AFI百年百大明星”之一。马龙的身后，遗留下一长串数字：1个不朽的角色——教父，5部经典的影片——《欲望号街车》、《现代启示录》、《巴黎最后的探戈》、《码头风云》、《教父》；6个自杀的情妇；17个律师；大约25个不幸的子女；1100万英镑的巨额债务。\n\n他和战争与军旅的关系倒不是由于他的青春时代正逢第二次世界大战，而是早先家人把他送往军校结果竟然是不欢而散---他被军校开除!当家人给他经济支助让他受教育时，他选择了戏剧。显然他自己的选择来得比较高明，并且他还懂得选地点--纽约。\n\n著名的艺术教育家早就看出白兰度是块演戏的材料，并预言他不出几年定会成为美国最优秀的演员。他的预言极快便应验了，1943年他在纽约首次登台献艺，1944年在百老汇崭露头角，成为一位颇受瞩目的人物。以后几年他演了不少出名剧，主角配角都当过。20世纪50年代进入电影界后，他曾饰演过许多不凡的角色。1950年他出演他的第一部影片《The men》，在片中饰演主角；但并未引起人们注意。1951年马龙·白兰度异军突起， 出演影片《欲望号街车》，他以其独特的厚实沉稳，粗野遒劲的表演风格成功地塑造了流氓无产者斯坦利的形象。他的出色表演使他获得他的第一次奥斯卡奖提名。\n\n接着，在《柴巴达万岁》中饰演墨西哥革命领袖，获第五届嘎纳国际电影节最佳男主角奖、英国电影学院最佳外国男演员奖和奥斯卡最佳男主角提名。1953年，在《恺撒大帝》中扮演安东尼，再次荣获英国电影学院最佳外国男演员奖和奥斯卡最佳男主角提名。1954年在《码头风云》中扮演一位孤身与黑社会抗争的码头工人，为此他还亲身去体验生活，真正当起一个码头搬运工。他将这个角色饰演得有血有肉，使之成为美国中下层工人的光辉代表。他第三次荣获电影学院最佳外国男演员奖和二十七届奥斯卡金像奖最佳男主角奖提名。\n\n这四部影片奠定了马龙·白兰度在美国影坛的地位。\n\n在此期间，他在1954年《野性骑手》的表演被认为是“喊出了美国青年一代的心声”。马龙·白兰度的戏路非常宽广，1957年他在《再见》中扮演一位美军少校，1958年在《幼狮》中扮演一位纳粹军官，1959年在《流浪者》中扮演一位流浪汉，他在这些影片中均有不俗的表现。\n\n20世纪六十年代，他的事业出现了滑坡。一场电影官司使他变得怪癖孤独、沉默寡言，几乎于世隔绝。他变得顽世不恭，成为好莱坞最出名的“浪子”。期间，只有《叛舰喋血记》一片是他的成功之作。他自己创办的电影公司也宣告失败。他几乎在影坛销声匿迹。他虽未必是“叛逆”角色的先驱，却是其中最具代表性，最能发扬光大的人物。他为自己，也为观众建立一种风格，一种特性，一种典范。它就是以那独树一帜的“反英雄”格调，突破传统，超越常规，在影坛辉煌了十年。很少人能像他那样，既是魅力十足的男性性感象徵，又有令人称道的出色演技。因此他就在影坛“不可一世”般地闪亮了十年。当人们以为他的一蹶不振终将万劫不复时，他却一如传说中的火鸟，神话般地从死亡中复活，由灰烬里再生，以新的荣耀，新的璀璨，新的震惊开始了他影艺生涯的第三个十年。\n\n此后，他又因《萨巴达》、《朱利斯·凯撒》和《狂野的人》而获得三次奥斯卡奖提名。\n\n1970年，导演弗朗西斯·科波拉力邀他出演影片《教父》，马龙·白兰度产生极大的兴趣。这部反映美国黑手党家族事业的影片一经上映，立刻引起社会的巨大轰动，被称为是继《公民凯恩》后最伟大的一部电影作品。影片创下非凡的票房收入。白兰度把老一代教父维多.柯利昂演绎得出神入化，入木三分，充分展现他惊人的才华。为此他再次获得奥斯卡最佳男主角奖的金像奖。随后，他又出演《巴黎的最后探戈》、《超人》、《现代启示录》和《干燥的白色季节》等片，获得了一致的好评。其中，《干燥的白色季节》又一次让他获得奥斯卡奖的提名。\n\n进入20世纪90年代后，年迈的马龙·白兰度依然演出了颇具水准的影片《唐璜德马科》和《人魔岛》，再一次向人们展示了他那炉火纯青的演技。 　　2004年7月1日6点20分马龙·白兰度逝世。享年80岁。根据UCLA医学中心批示，死因是肺部疾病。",
+        "name": "马龙·白兰度",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "KR",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말",
+      "english_name": "Korean",
+      "data": {
+        "biography": "",
+        "name": "말론 브란도",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "BR",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "biography": "Marlon Brando, Jr. (Omaha, 3 de abril de 1924 – Los Angeles, 1 de julho de 2004) foi um ator de cinema e teatro e diretor norte-americano. É saudado por trazer um estilo realista e emocionante na atuação em seus filmes, e é amplamente considerado um dos maiores e mais influentes atores de todos os tempos. Brando foi um dos três únicos atores profissionais, juntamente com Charlie Chaplin e Marilyn Monroe, a fazer parte da lista de 100 pessoas mais importantes do século compilada pela revista Time, em 1999. Brando foi, também, um ativista, apoiando diversas causas, mais notavelmente o movimento dos direitos civis dos negros nos Estados Unidos.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "ca",
+      "name": "Català",
+      "english_name": "Catalan",
+      "data": {
+        "biography": "Marlon Brando Junior (Omaha, Nebraska, 3 d'abril de 1924-Los Angeles, Califòrnia, 1 de juliol de 2004) fou un actor estatunidenc considerat el més influent del segle XX. Va rebre nombrosos reconeixements al llarg de la seva carrera, que va durar sis dècades, incloent dos premis de l'Acadèmia, dos Premis Globus d'Or, un premi al Festival de Cannes i tres premis de cinema de l'Acadèmia Britànica. Brando també va ser un activista per moltes causes, en particular el moviment dels drets civils i diversos moviments nadius americans.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "HU",
+      "iso_639_1": "hu",
+      "name": "Magyar",
+      "english_name": "Hungarian",
+      "data": {
+        "biography": "Marlon Brando (Omaha, Nebraska, 1924. április 3. – Los Angeles, Kalifornia, 2004. július 1.) kétszeres Oscar-díjas olasz származású amerikai színész, a 20. század egyik legnagyobb hatású filmszínésze.\n\nLegismertebb szerepe A Keresztapa (1972) című filmben Don Vito Corleone megformálása volt. Olyan híres filmekben vállalt még főszerepet, mint A vágy villamosa (1952), A rakparton (1954) vagy az Utolsó tangó Párizsban (1972).",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "SA",
+      "iso_639_1": "ar",
+      "name": "العربية",
+      "english_name": "Arabic",
+      "data": {
+        "biography": "مارلون براندو جونيور (3 أبريل 1924 - 1 يوليو 2004) كان ممثلًا أمريكيًا. يعتبر واحدًا من أكثر الممثلين تأثيرًا في القرن العشرين، وقد حصل على العديد من الجوائز طوال حياته المهنية التي امتدت لستة عقود، بما في ذلك جائزتي الأوسكار، وجائزتي غولدن غلوب، وثلاث جوائز الأكاديمية البريطانية للأفلام. كان براندو أيضًا ناشطًا في العديد من القضايا، أبرزها حركة الحقوق المدنية ومختلف حركات الأمريكيين الأصليين. بعد أن درس مع ستيلا أدلر في الأربعينيات من القرن الماضي، يُنسب إليه الفضل في كونه أحد الممثلين الأوائل الذين جلبوا نظام ستانيسلافسكي للتمثيل وطريقة التمثيل، المشتق من نظام ستانيسلافسكي، إلى الجماهير السائدة.حصل في البداية على استحسان وترشيحه الأول لجائزة الأوسكار لأفضل ممثل في دور قيادي لإعادة تمثيل دور ستانلي كوالسكي في الفيلم المقتبس عام 1951 عن مسرحية تينيسي ويليامز عربة اسمها الرغبة، وهو الدور الذي نشأ فيه بنجاح في برودواي. حصل على المزيد من الثناء، وحصل على جائزة الأوسكار الأولى وجائزة جولدن جلوب، لأدائه دور تيري مالوي في على الواجهة البحرية، وأثبت تصويره لزعيم عصابة الدراجات النارية المتمردة جوني سترابلر في ذا وايلد وان أنه صورة دائمة في الثقافة الشعبية. . تلقى براندو ترشيحات لجائزة الأوسكار عن دور إميليانو زاباتا في Viva Zapata! (1952); مارك أنتوني في فيلم جوزيف إل مانكيويتش المقتبس عام 1953 عن مسرحية شكسبير يوليوس قيصر؛ والرائد بالقوات الجوية لويد جروفر في سايونارا (1957)، وهو مقتبس من رواية جيمس أ.ميشينر لعام 1954.شهدت فترة الستينيات من القرن الماضي انكماشًا تجاريًا وحاسمًا في مسيرة براندو المهنية. قام بإخراج ولعب دور البطولة في الفيلم الغربي One-Eyed Jacks، وهو فشل نقدي وتجاري، وبعد ذلك قدم سلسلة من الإخفاقات الملحوظة في شباك التذاكر، بدءًا من فيلم Mutiny on the Bounty (1962). بعد عشر سنوات من ضعف الإنجاز، وافق على إجراء اختبار على الشاشة بدور فيتو كورليوني في فيلم The Godfather (1972) للمخرج فرانسيس فورد كوبولا. حصل على الدور وفاز بعد ذلك بجائزة الأوسكار الثانية وجائزة جولدن جلوب في أداء يعتبره النقاد من بين أعظم أعماله. لقد رفض جائزة الأوسكار بسبب سوء المعاملة المزعومة وسوء تصوير الأمريكيين الأصليين من قبل هوليوود. كان فيلم العراب واحدًا من أكثر الأفلام نجاحًا تجاريًا على الإطلاق، وإلى جانب أدائه الذي رشح لجائزة الأوسكار في فيلم Last Tango in Paris (1972)، أعاد براندو ترسيخ نفسه في مصاف كبار نجوم شباك التذاكر.بعد توقف في أوائل السبعينيات، كان براندو راضيًا بشكل عام عن كونه ممثلًا ذو أجر مرتفع في الأدوار الداعمة، مثل Jor-El في Superman (1978)، بدور العقيد كورتز في Apocalypse Now (1979)، وآدم ستيفل في The Formula. (1980)، قبل أن يأخذ استراحة لمدة تسع سنوات من السينما. وفقًا لموسوعة غينيس للأرقام القياسية، حصل براندو على مبلغ قياسي قدره 3.7 مليون دولار (16 مليون دولار بالدولار المعدل حسب التضخم) و11.75% من إجمالي الأرباح مقابل 13 يومًا من العمل على سوبرمان.تم تصنيف براندو من قبل معهد الفيلم الأمريكي كرابع أعظم نجم سينمائي بين نجوم السينما الذكور الذين ظهروا لأول مرة على الشاشة في عام 1950 أو قبله. وكان واحدًا من ستة ممثلين فقط تم اختيارهم في عام 1999 من قبل مجلة تايم في قائمتها لأهم 100 شخصية. من القرن. في هذه القائمة، صنفت مجلة تايم أيضًا براندو على أنه \"ممثل القرن\".",
+        "name": "مارلون براندو",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "IR",
+      "iso_639_1": "fa",
+      "name": "فارسی",
+      "english_name": "Persian",
+      "data": {
+        "biography": "",
+        "name": "مارلون براندو",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "TW",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "biography": "",
+        "name": "馬龍·白蘭度",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "IL",
+      "iso_639_1": "he",
+      "name": "עִבְרִית",
+      "english_name": "Hebrew",
+      "data": {
+        "biography": "",
+        "name": "מרלון ברנדו",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "name": "Pусский",
+      "english_name": "Russian",
+      "data": {
+        "biography": "Марлон Брандо (полное имя - Марлон Брандо-младший) - американский актёр и активист. Считающийся одним из величайших и самых влиятельных актёров двадцатого столетия, он получил многочисленные награды за свою шестидесятилетнюю карьеру, включая две премии «Оскар», две премии «Золотой глобус», награду Каннского кинофестиваля и три награды Британской киноакадемии. Брандо приписывают звание одного из первых актёров, представивших систему Станиславского и актёрский метод широкой аудитории. Марлон Брандо попал под влияние Стеллы Адлер и системы Станиславского в начале 1940-х годов. Он начал свою карьеру на театральной сцене, искусно читая своих персонажей и предвосхищая развитие сценических действий. Он совершил переход к кинематографу, получив признание и первую номинацию на «Оскар» за лучшую мужскую роль за воплощение образа Стэнли Ковальского в кинофильме Трамвай «Желание» (1951). Актёр получил большее внимание и первые премии «Оскар» и «Золотой глобус» за роль Терри Маллоя в драме «В порту» (1954), которая становится переломным моментом в истории Голливуда, а его работы продолжают изучать и толковать. Перевоплощение Брандо в мятежного лидера байкерской банды Джонни Страблера в картине «Дикарь» (1953) стало символом разрыва поколений. В 1960-е годы актёрская карьера Марлона Брандо переживала творческий и экономический спад. Он выступил режиссёром и ведущим актёром культового вестерна «Одноглазые валеты», который провалился в прокате, принес убытки и получил негативные критические отзывы. Вслед за этим также последовал ряд заметных кассовых провалов. Так, слабо снятая драма «Мятеж на Баунти» нанесла сильный удар его кинематографической карьере. После десяти лет неудач и заметного снижения интереса к кино Брандо блистательно сыграл роль Вито Корлеоне в эпической криминальной драме «Крёстный отец» (1972), принёсшей ему второй «Оскар» и «Золотой глобус». Этих наград Брандо был удостоен за воплощение образа, считающегося одним из ярчайших в истории искусства, что определилось в ходе многочисленных опросов критиков, режиссёров и других актёров. Роли в «Крестном отце» и эротической драме «Последнее танго в Париже» (1972), принёсшей актёру седьмую номинацию на «Оскар», вернули Брандо звание одного из самых кассовых актёров.",
+        "name": "Марлон Брандо",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "HK",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "biography": "馬龍·白蘭度。1924 年 4 月 3 日出生於美國內布拉斯加州奧馬哈市的一箇中產階級家庭。他自小頑皮好動，性格倔強，從不好好學習。中學畢業後他到紐約，進了一家戲劇學校攻讀表演藝術。“AFI 百年百大明星”之一。馬龍的身後，遺留下一長串數字：1 個不朽的角色——教父，5 部經典的影片——《慾海奇女子》、《現代啟示錄》、《巴黎最後探戈》、《碼頭風雲》、《教父》；6 個自殺的情婦；17 個律師；大約 25 個不幸的子女；1100 萬英鎊的鉅額債務。\n\n他和戰爭與軍旅的關係倒不是由於他的青春時代正逢第二次世界大戰，而是早先家人把他送往軍校結果竟然是不歡而散---他被軍校開除! 當家人給他經濟支助讓他受教育時，他選擇了戲劇。顯然他自己的選擇來得比較高明，並且他還懂得選地點--紐約。\n\n著名的藝術教育家早就看出白蘭度是塊演戲的材料，並預言他不出幾年定會成為美國最優秀的演員。他的預言極快便應驗了，1943 年他在紐約首次登台獻藝，1944 年在百老匯嶄露頭角，成為一位頗受矚目的人物。以後幾年他演了不少出名劇，主角配角都當過。20 世紀 50 年代進入電影界後，他曾飾演過許多不凡的角色。1950 年他出演他的第一部影片《The men》，在片中飾演主角；但並未引起人們注意。1951 年馬龍·白蘭度異軍突起， 出演影片《慾海奇女子》，他以其獨特的厚實沉穩，粗野遒勁的表演風格成功地塑造了流氓無產者斯坦利的形象。他的出色表演使他獲得他的第一次奧斯卡獎提名。\n\n接著，在《柴巴達萬歲》中飾演墨西哥革命領袖，獲第五屆嘎納國際電影節最佳男主角獎、英國電影學院最佳外國男演員獎和奧斯卡最佳男主角提名。1953 年，在《愷撒大帝》中扮演安東尼，再次榮獲英國電影學院最佳外國男演員獎和奧斯卡最佳男主角提名。1954 年在《碼頭風雲》中扮演一位孤身與黑社會抗爭的碼頭工人，為此他還親身去體驗生活，真正當起一個碼頭搬運工。他將這個角色飾演得有血有肉，使之成為美國中下層工人的光輝代表。他第三次榮獲電影學院最佳外國男演員獎和二十七屆奧斯卡金像獎最佳男主角獎提名。\n\n這四部影片奠定了馬龍·白蘭度在美國影壇的地位。\n\n在此期間，他在 1954 年《野性騎手》的表演被認為是“喊出了美國青年一代的心聲”。馬龍·白蘭度的戲路非常寬廣，1957 年他在《再見》中扮演一位美軍少校，1958 年在《幼獅》中扮演一位納粹軍官，1959 年在《流浪者》中扮演一位流浪漢，他在這些影片中均有不俗的表現。\n\n20 世紀六十年代，他的事業出現了滑坡。一場電影官司使他變得怪癖孤獨、沉默寡言，幾乎於世隔絕。他變得頑世不恭，成為好萊塢最出名的“浪子”。期間，只有《叛艦喋血記》一片是他的成功之作。他自己創辦的電影公司也宣告失敗。他幾乎在影壇銷聲匿跡。他雖未必是“叛逆”角色的先驅，卻是其中最具代表性，最能發揚光大的人物。他為自己，也為觀眾建立一種風格，一種特性，一種典範。它就是以那獨樹一幟的“反英雄”格調，突破傳統，超越常規，在影壇輝煌了十年。很少人能像他那樣，既是魅力十足的男性性感象徵，又有令人稱道的出色演技。因此他就在影壇“不可一世”般地閃亮了十年。當人們以為他的一蹶不振終將萬劫不復時，他卻一如傳説中的火鳥，神話般地從死亡中復活，由灰燼裏再生，以新的榮耀，新的璀璨，新的震驚開始了他影藝生涯的第三個十年。\n\n此後，他又因《薩巴達》、《朱利斯·凱撒》和《狂野的人》而獲得三次奧斯卡獎提名。\n\n1970 年，導演弗朗西斯·科波拉力邀他出演影片《教父》，馬龍·白蘭度產生極大的興趣。這部反映美國黑手黨家族事業的影片一經上映，立刻引起社會的巨大轟動，被稱為是繼《大國民》後最偉大的一部電影作品。影片創下非凡的票房收入。白蘭度把老一代教父維多. 柯利昂演繹得出神入化，入木三分，充分展現他驚人的才華。為此他再次獲得奧斯卡最佳男主角獎的金像獎。隨後，他又出演《巴黎的最後探戈》、《超人》、《現代啟示錄》和《乾燥的白色季節》等片，獲得了一致的好評。其中，《乾燥的白色季節》又一次讓他獲得奧斯卡獎的提名。\n\n進入 20 世紀 90 年代後，年邁的馬龍·白蘭度依然演出了頗具水準的影片《唐璜德馬科》和《人魔島》，再一次向人們展示了他那爐火純青的演技。\n\n2004 年 7 月 1 日 6 點 20 分馬龍·白蘭度逝世。享年 80 歲。根據 UCLA 醫學中心批示，死因是肺部疾病。",
+        "name": "馬龍·白蘭度",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "IT",
+      "iso_639_1": "it",
+      "name": "Italiano",
+      "english_name": "Italian",
+      "data": {
+        "biography": "Marlon Brando Jr. è stato un attore americano. Considerato uno degli attori più influenti del 20° secolo, ha ricevuto numerosi riconoscimenti nel corso della sua carriera che ha attraversato sei decenni, tra cui due Academy Awards, due Golden Globe Awards e tre British Academy Film Awards. Brando è stato anche un attivista per molte cause, in particolare il movimento per i diritti civili e vari movimenti dei nativi americani. Avendo studiato con Stella Adler negli anni '40, è accreditato di essere uno dei primi attori a portare il sistema di recitazione e il metodo di recitazione Stanislavskij, derivati dal sistema Stanislavskij, al pubblico mainstream.\n\nInizialmente ha ottenuto il plauso e la sua prima nomination all'Oscar come miglior attore protagonista per aver ripreso il ruolo di Stanley Kowalski nell'adattamento cinematografico del 1951 dell'opera teatrale di Tennessee Williams Un tram che si chiama desiderio, un ruolo che ha interpretato con successo a Broadway. Ha ricevuto ulteriori elogi, e un primo Academy Award e Golden Globe, per la sua interpretazione di Terry Malloy in Fronte del porto, e la sua interpretazione del capo della banda di motociclisti ribelli Johnny Strabler in The Wild One si è rivelata un'immagine duratura nella cultura popolare. Brando ha ricevuto una nomination all'Oscar per aver interpretato Emiliano Zapata in Viva Zapata! (1952); Mark Antony nell'adattamento cinematografico di Joseph L. Mankiewicz del 1953 del Giulio Cesare di Shakespeare; e il maggiore dell'aeronautica Lloyd Gruver in Sayonara (1957), un adattamento del romanzo di James A. Michener del 1954.\n\nGli anni '60 videro la carriera di Brando subire una flessione commerciale e critica. Ha diretto e interpretato il western cult One-Eyed Jacks, un flop di critica e commerciale, dopo il quale ha consegnato una serie di notevoli fallimenti al botteghino, a partire da Gli ammutinati del Bounty (1962). Dopo dieci anni di successi, accettò di fare un provino nel ruolo di Vito Corleone ne Il padrino (1972) di Francis Ford Coppola. Ha ottenuto la parte e successivamente ha vinto il suo secondo Oscar e Golden Globe in una performance che i critici considerano tra le sue più grandi. Ha rifiutato l'Oscar a causa di presunti maltrattamenti e interpretazioni errate dei nativi americani da parte di Hollywood. Il Padrino è stato uno dei film di maggior successo commerciale di tutti i tempi e, insieme alla sua interpretazione nominata all'Oscar in Ultimo tango a Parigi (1972), Brando si è ristabilito tra le fila delle migliori star del botteghino.\n\nDopo una pausa nei primi anni '70, Brando si accontentò di essere un attore caratterista ben pagato in ruoli secondari, come Jor-El in Superman (1978), come il colonnello Kurtz in Apocalypse Now (1979) e Adam Steiffel in The Formula (1980), prima di prendersi una pausa di nove anni dal cinema. Secondo il Guinness dei primati, Brando è stato pagato la cifra record di 3,7 milioni di dollari (16 milioni di dollari al netto dell'inflazione) e l'11,75% dei profitti lordi per 13 giorni di lavoro su Superman.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "GR",
+      "iso_639_1": "el",
+      "name": "ελληνικά",
+      "english_name": "Greek",
+      "data": {
+        "biography": "",
+        "name": "Μάρλον Μπράντο",
+        "primary": false
+      }
+    }
+  ]
+}

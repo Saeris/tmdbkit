@@ -1,0 +1,158 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "id": 1399,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Game of Thrones",
+      "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "popularity": 187.1291,
+      "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "first_air_date": "2011-04-17",
+      "softcore": false,
+      "name": "Game of Thrones",
+      "vote_average": 8.475,
+      "vote_count": 28052
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dEdvPzDTtGQxJo6ikO2PobT5nVt.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 326761,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Official Game of Thrones Podcast: House of the Dragon",
+      "overview": "Each week, hosts Jason Concepcion and Greta Johnsen dive into House of the Dragon, which tells the story of the Targaryen civil war.",
+      "popularity": 1.9954,
+      "poster_path": "/bB1g2Bf8V0QrmNyL7biEtNKzxHE.jpg",
+      "first_air_date": "2026-06-21",
+      "softcore": false,
+      "name": "The Official Game of Thrones Podcast: House of the Dragon",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6dnHVx7m4BgcVuQnuvE6RsxLCO1.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 318472,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Official Game of Thrones Podcast: A Knight of the Seven Kingdoms",
+      "overview": "This Podcast is your go-to source for A Knight of the Seven Kingdoms, the latest HBO original series in the Game of Thrones world. Join hosts Jason Concepcion and Greta Johnsen as we journey with Dunk and Egg.",
+      "popularity": 2.4023,
+      "poster_path": "/lTHjVX3yj1OJPOFkLWkwtnOQIj.jpg",
+      "first_air_date": "2026-01-12",
+      "softcore": false,
+      "name": "The Official Game of Thrones Podcast: A Knight of the Seven Kingdoms",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9ILubr2TnNNWtoo4c76VFyucfrN.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 206584,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Game of Thrones Reunion Hosted by Conan O'Brien",
+      "overview": "A two-part reunion show with cast members from the final season including Kit Harington, Emilia Clarke, Sophie Turner and more, as well as previously departed fan-favorites like Sean Bean, Jason Momoa, Mark Addy and others.",
+      "popularity": 3.2041,
+      "poster_path": "/ArXiKVTmyZYrxbWLsy2XU1Jkcr9.jpg",
+      "first_air_date": "2021-04-05",
+      "softcore": false,
+      "name": "The Game of Thrones Reunion Hosted by Conan O'Brien",
+      "vote_average": 7.5,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e5A0GXTCwJjyqxL2rhQStBQc2Xz.jpg",
+      "genre_ids": [],
+      "id": 338226,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "A Game of Leopard Thrones",
+      "overview": "Filmed over a ten year period, this is an in depth look at the leopard characters who live in Djuma Private Game Reserve, South Africa and their fascinating unfolding story once the Queen is no more.",
+      "popularity": 0.4753,
+      "poster_path": null,
+      "first_air_date": "2026-02-15",
+      "softcore": false,
+      "name": "A Game of Leopard Thrones",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "id": 94997,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "popularity": 104.4627,
+      "poster_path": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "first_air_date": "2022-08-21",
+      "softcore": false,
+      "name": "House of the Dragon",
+      "vote_average": 8.381,
+      "vote_count": 7258
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+      "genre_ids": [
+        18,
+        10765,
+        10759
+      ],
+      "id": 224372,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "A Knight of the Seven Kingdoms",
+      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+      "popularity": 28.9752,
+      "poster_path": "/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+      "first_air_date": "2026-01-18",
+      "softcore": false,
+      "name": "A Knight of the Seven Kingdoms",
+      "vote_average": 8.425,
+      "vote_count": 1255
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 7
+}

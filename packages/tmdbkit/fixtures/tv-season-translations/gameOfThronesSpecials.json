@@ -1,0 +1,205 @@
+{
+  "id": 3627,
+  "translations": [
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "DE",
+      "iso_639_1": "de",
+      "name": "Deutsch",
+      "english_name": "German",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "NL",
+      "iso_639_1": "nl",
+      "name": "Nederlands",
+      "english_name": "Dutch",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "FR",
+      "iso_639_1": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "IT",
+      "iso_639_1": "it",
+      "name": "Italiano",
+      "english_name": "Italian",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "es",
+      "name": "Español",
+      "english_name": "Spanish",
+      "data": {
+        "name": "Especiales",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "name": "Pусский",
+      "english_name": "Russian",
+      "data": {
+        "name": "Специальные выпуски",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "HU",
+      "iso_639_1": "hu",
+      "name": "Magyar",
+      "english_name": "Hungarian",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "name": "特别篇",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "GR",
+      "iso_639_1": "el",
+      "name": "ελληνικά",
+      "english_name": "Greek",
+      "data": {
+        "name": "Ειδικά επεισόδια",
+        "overview": "Στο Παιχνίδι του Στέμματος, θα νικήσεις ή θα πεθάνεις"
+      }
+    },
+    {
+      "iso_3166_1": "CZ",
+      "iso_639_1": "cs",
+      "name": "Český",
+      "english_name": "Czech",
+      "data": {
+        "name": "Speciály",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "PT",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "IR",
+      "iso_639_1": "fa",
+      "name": "فارسی",
+      "english_name": "Persian",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "BG",
+      "iso_639_1": "bg",
+      "name": "български език",
+      "english_name": "Bulgarian",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "SK",
+      "iso_639_1": "sk",
+      "name": "Slovenčina",
+      "english_name": "Slovak",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "IL",
+      "iso_639_1": "he",
+      "name": "עִבְרִית",
+      "english_name": "Hebrew",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "PL",
+      "iso_639_1": "pl",
+      "name": "Polski",
+      "english_name": "Polish",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "SE",
+      "iso_639_1": "sv",
+      "name": "svenska",
+      "english_name": "Swedish",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "DK",
+      "iso_639_1": "da",
+      "name": "Dansk",
+      "english_name": "Danish",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    },
+    {
+      "iso_3166_1": "TR",
+      "iso_639_1": "tr",
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "data": {
+        "name": "",
+        "overview": ""
+      }
+    }
+  ]
+}

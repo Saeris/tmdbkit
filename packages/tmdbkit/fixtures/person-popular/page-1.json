@@ -1,0 +1,1517 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1247604,
+      "known_for_department": "Acting",
+      "name": "Agnez Mo",
+      "original_name": "Agnez Mo",
+      "popularity": 33.0562,
+      "profile_path": "/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+          "id": 108978,
+          "name": "Reacher",
+          "original_name": "Reacher",
+          "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+          "poster_path": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+          "media_type": "tv",
+          "original_language": "en",
+          "genre_ids": [
+            10759,
+            80
+          ],
+          "popularity": 283.1187,
+          "first_air_date": "2022-02-03",
+          "softcore": false,
+          "vote_average": 8.129,
+          "vote_count": 3557,
+          "origin_country": [
+            "US"
+          ]
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "id": 1029756,
+          "title": "Christian Chávez - Esencial",
+          "original_title": "Christian Chávez - Esencial",
+          "overview": "",
+          "poster_path": "/3SrPSMML9pCK51xq0c5JhFGJn7C.jpg",
+          "media_type": "movie",
+          "original_language": "pt",
+          "genre_ids": [],
+          "popularity": 1.3639,
+          "release_date": "2012-08-14",
+          "softcore": false,
+          "video": false,
+          "vote_average": 10,
+          "vote_count": 2
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "id": 138603,
+          "name": "RuPaul Drives...",
+          "original_name": "RuPaul Drives...",
+          "overview": "Hitchhikers beware! RuPaul is behind the wheel, and picking up passengers on the streets of Hollywood! RuPaul Drives... is the brand-new webseries produced by World of Wonder.  And it's about to get REAL. \"Everyone in LA needs a lift; spiritually and physically\" said the Supermodel of the World, \"from drag racing to a leisure drive, I always enjoy being behind the wheel.\"  The concept is simple, every episode RuPaul will chauffeur a special guest vagabond with no clear destination in sight.  These drifters paint the town with she-larious moments, sprinkled with bite size gems of RuPaul's wisdom.",
+          "poster_path": null,
+          "media_type": "tv",
+          "original_language": "en",
+          "genre_ids": [
+            10767
+          ],
+          "popularity": 5.2301,
+          "first_air_date": "2013-08-20",
+          "softcore": false,
+          "vote_average": 5,
+          "vote_count": 1,
+          "origin_country": [
+            "US"
+          ]
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2746726,
+      "known_for_department": "Acting",
+      "name": "铃木浩介",
+      "original_name": "铃木浩介",
+      "popularity": 33.0557,
+      "profile_path": "/msvgbNTpGnLQOlFQdAvbNsgNc0w.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/16ejjnca23QtWG2wMZfjfEiK1pc.jpg",
+          "id": 531743,
+          "title": "The Interrogator Special",
+          "original_title": "ドラマスペシャル 緊急取調室～女ともだち～",
+          "overview": "Yukiko Makabe is the only female interrogator in a department full of men. Their job is to question suspects immediately after a crime, using interrogation skills and psycho-analysis to solve crimes.  As the only female in the department, Yukiko has a different perspective and style from her colleagues. This brings her success in her interrogations of suspects, but Yukiko continues to be troubled by an unsolved cold case from years ago.",
+          "poster_path": "/e39VbCpkooWUbiY1F9zFRVFMpnh.jpg",
+          "media_type": "movie",
+          "original_language": "ja",
+          "genre_ids": [
+            80
+          ],
+          "popularity": 1.2096,
+          "release_date": "2015-09-27",
+          "softcore": false,
+          "video": false,
+          "vote_average": 0,
+          "vote_count": 0
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 33676,
+      "known_for_department": "Acting",
+      "name": "Kathleen Robertson",
+      "original_name": "Kathleen Robertson",
+      "popularity": 26.9972,
+      "profile_path": "/nGaey63oyvcZWXFEwaihGP2YryY.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/cjSB3ZjaMpaa9oHFyeYha3KG0mp.jpg",
+          "id": 4248,
+          "title": "Scary Movie 2",
+          "original_title": "Scary Movie 2",
+          "overview": "A group of students visit a mansion called \"Hell House,\" and murderous high jinks ensue.",
+          "poster_path": "/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            35
+          ],
+          "popularity": 15.8097,
+          "release_date": "2001-07-04",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.85,
+          "vote_count": 5459
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/vxcUvt5V3qsDddh0ivgdeSLUMyG.jpg",
+          "id": 157544,
+          "title": "The Vatican Tapes",
+          "original_title": "The Vatican Tapes",
+          "overview": "In a highly secured vault deep within the walls of Vatican City, the Catholic Church holds thousands of old films and video footage documenting exorcisms/supposed exorcisms and other unexplained religious phenomena they feel the world is not ready to see. This is the first tape - Case 83-G - stolen from these archives and exposed to the public by an anonymous source.",
+          "poster_path": "/eXN0zdTpm772ZCfnCeLAONguqxe.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            53,
+            27
+          ],
+          "popularity": 4.2698,
+          "release_date": "2015-07-23",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.4,
+          "vote_count": 846
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/3NV5ZCZMqd6Rqr6XtqEPMVkZpxf.jpg",
+          "id": 130267,
+          "title": "Seal Team Six: The Raid on Osama Bin Laden",
+          "original_title": "Seal Team Six: The Raid on Osama Bin Laden",
+          "overview": "When the rumored whereabouts of Osama bin Laden are revealed, the CIA readies a team of seasoned U.S. Navy SEALs for the mission of a lifetime. Despite inconclusive evidence that bin Laden is inside the compound, and ignoring the possible ramifications of an unannounced attack on Pakistani soil, the Pentagon orders the attack. The SEAL Team bands together to complete their mission of justice in a riveting final showdown.",
+          "poster_path": "/hau6iHAIWJmlnaaZ0QRYZu9T6B1.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            53,
+            28,
+            18
+          ],
+          "popularity": 2.4972,
+          "release_date": "2012-11-04",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.9,
+          "vote_count": 302
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2451415,
+      "known_for_department": "Acting",
+      "name": "Lenny Rush",
+      "original_name": "Lenny Rush",
+      "popularity": 23.3728,
+      "profile_path": "/yptVdGHYzzYUNICp8UAI8pa0bnn.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/rjlG7C5GZfXutoVoE3BJaYGUhk4.jpg",
+          "id": 829280,
+          "title": "Enola Holmes 2",
+          "original_title": "Enola Holmes 2",
+          "overview": "Enola takes on her first official case as a detective, but to solve the mystery of a missing girl, she'll need help from friends — and brother Sherlock.",
+          "poster_path": "/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            12,
+            9648,
+            80
+          ],
+          "popularity": 7.7784,
+          "release_date": "2022-11-03",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.39,
+          "vote_count": 3216
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/i3FuO7aSoVRoS63if3aetJYJJjF.jpg",
+          "id": 977013,
+          "title": "Haunting of the Queen Mary",
+          "original_title": "Haunting of the Queen Mary",
+          "overview": "When photographers Erin and Patrick are brought aboard the ship with their young son Lukas, they unleash a series of events that entwines their family with the ship’s dark past. As the terror unfolds around them they begin to realise there is more to this sumptuous ocean liner than meets the eye: its remarkable legacy masking violent secrets.",
+          "poster_path": "/y8uEuy1NhOwltHePRqvxcDDUJg1.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            27,
+            53,
+            9648
+          ],
+          "popularity": 3.419,
+          "release_date": "2023-07-21",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.3,
+          "vote_count": 248
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/ubLsCmv36zUUt2zxhFSowYFe5uF.jpg",
+          "id": 656968,
+          "title": "FX's A Christmas Carol",
+          "original_title": "FX's A Christmas Carol",
+          "overview": "London, 1843. Ebenezer Scrooge, a bitter old man, despises the Christmas holiday. Over the course of Christmas Eve night he is visited by three ghosts to show him his past, present and future.",
+          "poster_path": "/Aml2ZwT2Om8o0uLEx8w7jQF5Jzu.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            14
+          ],
+          "popularity": 3.092,
+          "release_date": "2019-12-19",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.234,
+          "vote_count": 222
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1430523,
+      "known_for_department": "Acting",
+      "name": "Judy Levitt",
+      "original_name": "Judy Levitt",
+      "popularity": 18.7293,
+      "profile_path": "/wmRKMRUJJIfMb7jQfRo12K7OvOh.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/2LiU13aDAWpU2mX25JdacTzBnyr.jpg",
+          "id": 168,
+          "title": "Star Trek IV: The Voyage Home",
+          "original_title": "Star Trek IV: The Voyage Home",
+          "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+          "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            878,
+            12
+          ],
+          "popularity": 8.853,
+          "release_date": "1986-11-26",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.179,
+          "vote_count": 1744
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/nGJTamFPZ9V4JX5YpiOS0UDuwmx.jpg",
+          "id": 174,
+          "title": "Star Trek VI: The Undiscovered Country",
+          "original_title": "Star Trek VI: The Undiscovered Country",
+          "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+          "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            878,
+            28,
+            12,
+            53
+          ],
+          "popularity": 5.7409,
+          "release_date": "1991-12-06",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.04,
+          "vote_count": 1492
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/cJyspgBEmxhtYhQKEXox41aC7Cq.jpg",
+          "id": 14916,
+          "title": "Moontrap",
+          "original_title": "Moontrap",
+          "overview": "The Space Shuttle returns to earth, but some of the equipment brought back on it begins to behave strangely. Scientists are unsure what is happening, and decide to take all necessary precautions.",
+          "poster_path": "/9FNWwOSBF7HjzXrKHamk3A3m0QC.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            27,
+            878
+          ],
+          "popularity": 3.5929,
+          "release_date": "1989-04-28",
+          "softcore": false,
+          "video": false,
+          "vote_average": 4.8,
+          "vote_count": 130
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 67047,
+      "known_for_department": "Acting",
+      "name": "Paul Chu Kong",
+      "original_name": "Paul Chu Kong",
+      "popularity": 18.3167,
+      "profile_path": "/rRrrhOLvgYQiTXWsxl9qrvsT5Eg.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/jetidiki3UjVJEpFwcK2kUrvoR5.jpg",
+          "id": 10835,
+          "title": "The Killer",
+          "original_title": "喋血雙雄",
+          "overview": "Mob assassin Jeffrey is no ordinary hired gun; the best in his business, he views his chosen profession as a calling rather than simply a job. So, when beautiful nightclub chanteuse Jennie is blinded in the crossfire of his most recent hit, Jeffrey chooses to retire after one last job to pay for his unintended victim's sight-restoring operation. But when Jeffrey is double-crossed, he reluctantly joins forces with a rogue policeman to make things right.",
+          "poster_path": "/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+          "media_type": "movie",
+          "original_language": "cn",
+          "genre_ids": [
+            28,
+            80,
+            18,
+            53
+          ],
+          "popularity": 8.9606,
+          "release_date": "1989-03-24",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.6,
+          "vote_count": 957
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/r0K79o2AI4VoXFCxXW01HZCwvUh.jpg",
+          "id": 47423,
+          "title": "Once a Thief",
+          "original_title": "縱橫四海",
+          "overview": "Three orphans grow up to become art thieves under the tutelage of a crime boss. Romance complicates matters when the trio are double-crossed.",
+          "poster_path": "/xCm4qIID3oyhBxRNKsYo3TpDivF.jpg",
+          "media_type": "movie",
+          "original_language": "cn",
+          "genre_ids": [
+            28,
+            35,
+            53,
+            80
+          ],
+          "popularity": 5.1899,
+          "release_date": "1991-02-02",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.9,
+          "vote_count": 192
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/h4skbDqGjhj4p6hK8dPA3WKItvD.jpg",
+          "id": 17653,
+          "title": "The Legend",
+          "original_title": "方世玉",
+          "overview": "The secret Red Lotus Flower Society is committed to the overthrow of the evil Manchu Emperor and his minions. One of his Governors is sent on a mission to retrieve a list of members of that secret society. Meanwhile, Canton kung fu practitioner Fong Sai-Yuk falls in love with the beautiful daughter of a rich merchant.",
+          "poster_path": "/hdAqW3qn0Y9jNMjDob5ae0NRa0F.jpg",
+          "media_type": "movie",
+          "original_language": "cn",
+          "genre_ids": [
+            12,
+            28,
+            35
+          ],
+          "popularity": 4.7862,
+          "release_date": "1993-03-04",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7,
+          "vote_count": 191
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 73968,
+      "known_for_department": "Acting",
+      "name": "Henry Cavill",
+      "original_name": "Henry Cavill",
+      "popularity": 18.1037,
+      "profile_path": "/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+          "id": 49521,
+          "title": "Man of Steel",
+          "original_title": "Man of Steel",
+          "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+          "poster_path": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "popularity": 32.7836,
+          "release_date": "2013-06-12",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.7,
+          "vote_count": 16760
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+          "id": 209112,
+          "title": "Batman v Superman: Dawn of Justice",
+          "original_title": "Batman v Superman: Dawn of Justice",
+          "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+          "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            12,
+            14
+          ],
+          "popularity": 27.1519,
+          "release_date": "2016-03-23",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.013,
+          "vote_count": 19503
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/lZ2MSmrhb3zanyvg0KTNNTzmK9B.jpg",
+          "id": 203801,
+          "title": "The Man from U.N.C.L.E.",
+          "original_title": "The Man from U.N.C.L.E.",
+          "overview": "At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo and KGB agent Illya Kuryakin are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo's only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.",
+          "poster_path": "/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            35,
+            28,
+            12
+          ],
+          "popularity": 9.9872,
+          "release_date": "2015-08-13",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.079,
+          "vote_count": 7127
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 137108,
+      "known_for_department": "Acting",
+      "name": "Johnny Flynn",
+      "original_name": "Johnny Flynn",
+      "popularity": 17.6986,
+      "profile_path": "/tS3HIDFJbD8uSLAvaxZfrPc3aM0.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg",
+          "id": 556678,
+          "title": "Emma.",
+          "original_title": "Emma.",
+          "overview": "In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.",
+          "poster_path": "/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            35,
+            10749,
+            18
+          ],
+          "popularity": 8.095,
+          "release_date": "2020-02-13",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.008,
+          "vote_count": 2027
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/7kgDHoXEk0EySTczcmaYpPDBFQS.jpg",
+          "id": 760774,
+          "title": "One Life",
+          "original_title": "One Life",
+          "overview": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
+          "poster_path": "/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            36,
+            18
+          ],
+          "popularity": 7.635,
+          "release_date": "2023-12-21",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 1004
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/jjXnYpRQMqzylAmYqKL7VFa3l9w.jpg",
+          "id": 799876,
+          "title": "The Outfit",
+          "original_title": "The Outfit",
+          "overview": "Leonard is an English tailor who used to craft suits on London’s world-famous Savile Row. After a personal tragedy, he’s ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.",
+          "poster_path": "/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            80,
+            18,
+            53,
+            9648
+          ],
+          "popularity": 6.8065,
+          "release_date": "2022-02-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.092,
+          "vote_count": 1467
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3258734,
+      "known_for_department": "Acting",
+      "name": "Scarlet Rose Stallone",
+      "original_name": "Scarlet Rose Stallone",
+      "popularity": 17.487,
+      "profile_path": "/13f6FANe7TdbvjtZCbArygnDv1S.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+          "id": 1387382,
+          "title": "Hunting Season",
+          "original_title": "Hunting Season",
+          "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
+          "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            18,
+            53
+          ],
+          "popularity": 9.5967,
+          "release_date": "2025-12-05",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.374,
+          "vote_count": 483
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/eca3tlO1vtnua8LUK70ISDMYcwF.jpg",
+          "id": 1146302,
+          "title": "Sly",
+          "original_title": "Sly",
+          "overview": "His love of film began as an escape from a rocky childhood. From underdog to Hollywood legend, Sylvester Stallone tells his story in this documentary.",
+          "poster_path": "/1utWajLPvv1R9ZwkD98s2ZEngS.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            99
+          ],
+          "popularity": 3.4328,
+          "release_date": "2023-09-16",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.2,
+          "vote_count": 247
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/zksO4lVnRKRoaSYzh2EDn2Z3Pel.jpg",
+          "id": 1293286,
+          "title": "Gunslingers",
+          "original_title": "Gunslingers",
+          "overview": "When the most wanted man in America surfaces in a small Kentucky town, his violent history -- and a blood-thirsty mob seeking vengeance and a king’s ransom -- soon follow. As brothers face off against one another and bullets tear the town to shreds, this lightning-fast gunslinger makes his enemies pay the ultimate price for their greed.",
+          "poster_path": "/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            53,
+            37
+          ],
+          "popularity": 7.5583,
+          "release_date": "2025-04-11",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.1,
+          "vote_count": 127
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 57578,
+      "known_for_department": "Acting",
+      "name": "MyAnna Buring",
+      "original_name": "MyAnna Buring",
+      "popularity": 17.4204,
+      "profile_path": "/boC5LKewKpz8zhtUmPScHfkSAlV.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
+          "id": 9392,
+          "title": "The Descent",
+          "original_title": "The Descent",
+          "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+          "poster_path": "/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            12,
+            27
+          ],
+          "popularity": 10.6376,
+          "release_date": "2005-07-08",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7,
+          "vote_count": 4649
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
+          "id": 50620,
+          "title": "The Twilight Saga: Breaking Dawn - Part 2",
+          "original_title": "The Twilight Saga: Breaking Dawn - Part 2",
+          "overview": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
+          "poster_path": "/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            14,
+            18,
+            10749
+          ],
+          "popularity": 17.9719,
+          "release_date": "2012-11-13",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.451,
+          "vote_count": 9563
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+          "id": 71912,
+          "name": "The Witcher",
+          "original_name": "The Witcher",
+          "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+          "poster_path": "/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+          "media_type": "tv",
+          "original_language": "en",
+          "genre_ids": [
+            10765,
+            10759
+          ],
+          "popularity": 59.7982,
+          "first_air_date": "2019-12-20",
+          "softcore": false,
+          "vote_average": 7.883,
+          "vote_count": 6984,
+          "origin_country": [
+            "US"
+          ]
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2430198,
+      "known_for_department": "Acting",
+      "name": "Tian Xiwei",
+      "original_name": "田曦薇",
+      "popularity": 16.1016,
+      "profile_path": "/i5lXDkbCTSD3Y7Vcy00iUtCoalX.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/yiUZ8Ck86FF3obLztVvSQqeBi0Y.jpg",
+          "id": 279388,
+          "name": "Pursuit of Jade",
+          "original_name": "逐玉",
+          "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
+          "poster_path": "/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
+          "media_type": "tv",
+          "original_language": "zh",
+          "genre_ids": [
+            18,
+            10759,
+            10768
+          ],
+          "popularity": 43.0637,
+          "first_air_date": "2026-03-06",
+          "softcore": false,
+          "vote_average": 8.125,
+          "vote_count": 92,
+          "origin_country": [
+            "CN"
+          ]
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/ytMqU90MI12y8YHS4tqtFGYIWMl.jpg",
+          "id": 214172,
+          "name": "New Life Begins",
+          "original_name": "卿卿日常",
+          "overview": "Because of a marriage election, girls from all over the world gather in Xinchuan. Yin Zheng, the sixth young master of Xinchuan, and Li Wei, who only wants to lose the election and live comfortably in her hometown, accidentally meet. There, a new interesting and fun chapter of their lives start. As Yin Zheng opens his house and goes to court, the two of them gradually grow closer, and spend everyday through all four seasons together. They grow together with other siblings of different personalities and fates, writing the warm daily life of the Xinchuan family together.",
+          "poster_path": "/2LSRCKg68ktB5sBtFbOkXwDQTan.jpg",
+          "media_type": "tv",
+          "original_language": "zh",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "popularity": 11.1623,
+          "first_air_date": "2022-11-10",
+          "softcore": false,
+          "vote_average": 7.1,
+          "vote_count": 29,
+          "origin_country": [
+            "CN"
+          ]
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
+          "id": 233912,
+          "name": "Guardians of the Dafeng",
+          "original_name": "大奉打更人",
+          "overview": "Xu Qi’an, a recent police academy graduate, awakens in a strange world filled with Confucians, Taoists, Buddhists, demons, and warlocks. Facing imminent exile to a remote frontier town, he seizes the chance to change his fate by joining a powerful organization of guardians.",
+          "poster_path": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
+          "media_type": "tv",
+          "original_language": "zh",
+          "genre_ids": [
+            18,
+            10759,
+            35,
+            9648
+          ],
+          "popularity": 17.5238,
+          "first_air_date": "2025-02-26",
+          "softcore": false,
+          "vote_average": 7.759,
+          "vote_count": 29,
+          "origin_country": [
+            "CN"
+          ]
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1382773,
+      "known_for_department": "Writing",
+      "name": "Vladislav Krapivin",
+      "original_name": "Владислав Крапивин",
+      "popularity": 15.6817,
+      "profile_path": "/fNltg6xYr6V2Pk4HGTAZgyFwkrV.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/nhRWhMoFfmOzeZRahjogZvhM1St.jpg",
+          "id": 64392,
+          "title": "Lullaby for Brother",
+          "original_title": "Колыбельная для брата",
+          "overview": "Every year in the summer the guys meet in order to go on another sailing trip. All of them were very lucky to have faithful and devoted friends. But the seventh grader Kirill is keenly aware of the lack of friendship in his class.  He especially felt this when he was accused of stealing a wallet. Kirill himself found a thief — he turned out to be a quiet and defenseless Chirok, following the courtesy of yard hooligans. Taking Chirok under his protection, Kirill managed to fend for himself and his new friend.",
+          "poster_path": "/7HYrREyBLKH3tLzMG6UvFq1rarx.jpg",
+          "media_type": "movie",
+          "original_language": "ru",
+          "genre_ids": [
+            10751,
+            18
+          ],
+          "popularity": 1.4771,
+          "release_date": "1982-06-06",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.4,
+          "vote_count": 5
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/wl8MTBbqgmn3Xefj7Onep2KLjfE.jpg",
+          "id": 542090,
+          "title": "The Escape Of Horned Vikings, or Five Days In The Life Of Johnny Vorobyova",
+          "original_title": "Бегство рогатых викингов, или Пять дней из жизни Джонни Воробьева",
+          "overview": "Friends terrorized by a gang of street hooligans run the risk of spending the entire summer being locked up in their backyard. But thanks to their resourcefulness, mutual assistance and the support of the local population, they manage to get into their hands a serious “biological weapon”.",
+          "poster_path": "/36cS4nrgzq1yy2KifCm4NAphTSo.jpg",
+          "media_type": "movie",
+          "original_language": "ru",
+          "genre_ids": [
+            35,
+            10751
+          ],
+          "popularity": 0.6119,
+          "release_date": "2019-06-13",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.8,
+          "vote_count": 4
+        },
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "id": 1484543,
+          "title": "Planet",
+          "original_title": "Планета",
+          "overview": "When you are 10 years old - everything is possible and even an ordinary going out for shopping becomes a space trip through different undiscovered worlds. The main thing is that you must fight the fear.  Based on Vladislav Krapivin's short story \"Такая была планета\".",
+          "poster_path": "/xuJsyXNohRROBFwJAhd9zjaMDfy.jpg",
+          "media_type": "movie",
+          "original_language": "ru",
+          "genre_ids": [
+            10751,
+            878
+          ],
+          "popularity": 1.1614,
+          "release_date": "2003-06-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 10,
+          "vote_count": 1
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 205258,
+      "known_for_department": "Acting",
+      "name": "Harry Lloyd",
+      "original_name": "Harry Lloyd",
+      "popularity": 15.4192,
+      "profile_path": "/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+          "id": 1399,
+          "name": "Game of Thrones",
+          "original_name": "Game of Thrones",
+          "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+          "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+          "media_type": "tv",
+          "original_language": "en",
+          "genre_ids": [
+            10765,
+            18,
+            10759
+          ],
+          "popularity": 187.1291,
+          "first_air_date": "2011-04-17",
+          "softcore": false,
+          "vote_average": 8.475,
+          "vote_count": 28054,
+          "origin_country": [
+            "US"
+          ]
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/dh2QT3TPtAQf057yeLpNMuaJlmp.jpg",
+          "id": 266856,
+          "title": "The Theory of Everything",
+          "original_title": "The Theory of Everything",
+          "overview": "Once a healthy, active young man, Hawking received an earth-shattering diagnosis at 21 years of age. With Jane fighting tirelessly by his side, Stephen embarks on his most ambitious scientific work, studying the very thing he now has precious little of – time.",
+          "poster_path": "/7kwcLFNt887saoQAL7EY0XnW7VI.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            10749
+          ],
+          "popularity": 8.8793,
+          "release_date": "2014-11-07",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.82,
+          "vote_count": 11342
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/iorEuCiGc2YlkkBcWB8iuaIcAbc.jpg",
+          "id": 351339,
+          "title": "Anthropoid",
+          "original_title": "Anthropoid",
+          "overview": "In December 1941, Czech soldiers Jozef Gabčík and Jan Kubiš parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich.",
+          "poster_path": "/5hUghRVVkBYufftfNQkGevY5AmE.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            36,
+            53,
+            10752
+          ],
+          "popularity": 8.2043,
+          "release_date": "2016-08-12",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.129,
+          "vote_count": 1211
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 6217,
+      "known_for_department": "Acting",
+      "name": "Anupam Kher",
+      "original_name": "अनुपम खेर",
+      "popularity": 14.3558,
+      "profile_path": "/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/12GpsUm9nVVKFlcjDTflKLClFVA.jpg",
+          "id": 82693,
+          "title": "Silver Linings Playbook",
+          "original_title": "Silver Linings Playbook",
+          "overview": "After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange.",
+          "poster_path": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            35,
+            10749
+          ],
+          "popularity": 9.7835,
+          "release_date": "2012-11-16",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.154,
+          "vote_count": 12944
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/7VDLEHli74eLsYLNcq9djn1Gw76.jpg",
+          "id": 19404,
+          "title": "Dilwale Dulhania Le Jayenge",
+          "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+          "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+          "poster_path": "/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+          "media_type": "movie",
+          "original_language": "hi",
+          "genre_ids": [
+            35,
+            18,
+            10749
+          ],
+          "popularity": 9.8513,
+          "release_date": "1995-10-20",
+          "softcore": false,
+          "video": false,
+          "vote_average": 8.502,
+          "vote_count": 4637
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
+          "id": 416477,
+          "title": "The Big Sick",
+          "original_title": "The Big Sick",
+          "overview": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+          "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            35,
+            18,
+            10749
+          ],
+          "popularity": 6.5632,
+          "release_date": "2017-03-30",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.321,
+          "vote_count": 2736
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1136406,
+      "known_for_department": "Acting",
+      "name": "Tom Holland",
+      "original_name": "Tom Holland",
+      "popularity": 14.2746,
+      "profile_path": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg",
+          "id": 315635,
+          "title": "Spider-Man: Homecoming",
+          "original_title": "Spider-Man: Homecoming",
+          "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+          "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "popularity": 35.975,
+          "release_date": "2017-07-05",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.333,
+          "vote_count": 24149
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+          "id": 634649,
+          "title": "Spider-Man: No Way Home",
+          "original_title": "Spider-Man: No Way Home",
+          "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+          "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "popularity": 58.9928,
+          "release_date": "2021-12-15",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.9,
+          "vote_count": 23448
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/wqBW5ltBJu0gs26yCc8shQQV82d.jpg",
+          "id": 429617,
+          "title": "Spider-Man: Far From Home",
+          "original_title": "Spider-Man: Far From Home",
+          "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+          "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "popularity": 27.0512,
+          "release_date": "2019-06-28",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.388,
+          "vote_count": 17815
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 64295,
+      "known_for_department": "Acting",
+      "name": "Alan Ritchson",
+      "original_name": "Alan Ritchson",
+      "popularity": 14.2666,
+      "profile_path": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/eezsbzYPbYKjjh6E1XHDBNlLynh.jpg",
+          "id": 98566,
+          "title": "Teenage Mutant Ninja Turtles",
+          "original_title": "Teenage Mutant Ninja Turtles",
+          "overview": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+          "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            878,
+            28,
+            12,
+            35
+          ],
+          "popularity": 17.3737,
+          "release_date": "2014-08-07",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.93,
+          "vote_count": 7370
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+          "id": 108978,
+          "name": "Reacher",
+          "original_name": "Reacher",
+          "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+          "poster_path": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+          "media_type": "tv",
+          "original_language": "en",
+          "genre_ids": [
+            10759,
+            80
+          ],
+          "popularity": 283.1187,
+          "first_air_date": "2022-02-03",
+          "softcore": false,
+          "vote_average": 8.129,
+          "vote_count": 3557,
+          "origin_country": [
+            "US"
+          ]
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+          "id": 1265609,
+          "title": "War Machine",
+          "original_title": "War Machine",
+          "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+          "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            878,
+            53
+          ],
+          "popularity": 32.2595,
+          "release_date": "2026-02-12",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.515,
+          "vote_count": 2662
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 130583,
+      "known_for_department": "Acting",
+      "name": "Bryan Englund",
+      "original_name": "Bryan Englund",
+      "popularity": 13.8798,
+      "profile_path": null,
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/kXqbAK6p2MamuLEAGdx7geyDmIn.jpg",
+          "id": 44247,
+          "title": "The Prowler",
+          "original_title": "The Prowler",
+          "overview": "Thirty years after a murder on the night of Avalon Bay's graduation dance, the sleepy town's teens meet grisly ends at the hands of a prowler once thought to be a jilted soldier home from war.",
+          "poster_path": "/g4sq725mXv5urY6nLQvYmv3RvcO.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            27,
+            53
+          ],
+          "popularity": 2.805,
+          "release_date": "1981-11-06",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.8,
+          "vote_count": 273
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/uZK6kGcO2RRteHoEgkpH4Mwa3lf.jpg",
+          "id": 12535,
+          "title": "High Anxiety",
+          "original_title": "High Anxiety",
+          "overview": "A psychiatrist with intense acrophobia (fear of heights) goes to work for a mental institution run by doctors who appear to be crazier than their patients, and have secrets that they are willing to commit murder to keep.",
+          "poster_path": "/qVuSJaGnomSPon8x3mIYywFGgD8.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            35,
+            9648,
+            53
+          ],
+          "popularity": 3.4078,
+          "release_date": "1977-12-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.4,
+          "vote_count": 422
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/nKmecN2dvKLjkcFol7MdKb6lbiC.jpg",
+          "id": 89602,
+          "title": "Crazy Mama",
+          "original_title": "Crazy Mama",
+          "overview": "Melba Stokes, her mother Sheba and daughter Cheryl embark on a crime spree after their California beauty parlor is repossessed. Their destination is Arkansas, where the three generations of women want to reclaim the family farm.",
+          "poster_path": "/868gQ8gYhBggAy3meIx57fUfsDY.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            80,
+            28,
+            35
+          ],
+          "popularity": 1.5693,
+          "release_date": "1975-06-01",
+          "softcore": false,
+          "video": false,
+          "vote_average": 5.6,
+          "vote_count": 25
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4139,
+      "known_for_department": "Acting",
+      "name": "Tom Skerritt",
+      "original_name": "Tom Skerritt",
+      "popularity": 13.4368,
+      "profile_path": "/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+          "id": 348,
+          "title": "Alien",
+          "original_title": "Alien",
+          "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+          "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            27,
+            878
+          ],
+          "popularity": 37.9015,
+          "release_date": "1979-05-25",
+          "softcore": false,
+          "video": false,
+          "vote_average": 8.175,
+          "vote_count": 17051
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+          "id": 744,
+          "title": "Top Gun",
+          "original_title": "Top Gun",
+          "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+          "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            18,
+            10749
+          ],
+          "popularity": 20.5598,
+          "release_date": "1986-05-16",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.072,
+          "vote_count": 10044
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+          "id": 686,
+          "title": "Contact",
+          "original_title": "Contact",
+          "overview": "A radio astronomer receives the first extraterrestrial radio signal ever picked up on Earth. As the world powers scramble to decipher the message and decide upon a course of action, she must make some difficult decisions between her beliefs, the truth, and reality.",
+          "poster_path": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            878,
+            9648
+          ],
+          "popularity": 33.7749,
+          "release_date": "1997-07-11",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.45,
+          "vote_count": 5256
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 18182,
+      "known_for_department": "Acting",
+      "name": "Olga Kurylenko",
+      "original_name": "Ольга Куриленко",
+      "popularity": 13.3407,
+      "profile_path": "/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/uGs5Z7dMguf7kxWubGFcp9EhKcy.jpg",
+          "id": 10764,
+          "title": "Quantum of Solace",
+          "original_title": "Quantum of Solace",
+          "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
+          "poster_path": "/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            12,
+            28,
+            53
+          ],
+          "popularity": 20.8699,
+          "release_date": "2008-10-29",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.347,
+          "vote_count": 8863
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+          "id": 75612,
+          "title": "Oblivion",
+          "original_title": "Oblivion",
+          "overview": "Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft. Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.",
+          "poster_path": "/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            878,
+            12,
+            9648
+          ],
+          "popularity": 20.7561,
+          "release_date": "2013-04-10",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.698,
+          "vote_count": 11971
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/qw6nuv56NW1JqzMoONlM84Iciwz.jpg",
+          "id": 463272,
+          "title": "Johnny English Strikes Again",
+          "original_title": "Johnny English Strikes Again",
+          "overview": "Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man - Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he’ll need all of his skills - what few he has - as the man with yesterday’s analogue methods faces off against tomorrow’s digital technology.",
+          "poster_path": "/tCBxnZwLiY1BOKw3tH6AxHZdqPh.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            28,
+            12,
+            35
+          ],
+          "popularity": 8.8062,
+          "release_date": "2018-08-30",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.283,
+          "vote_count": 2879
+        }
+      ]
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1813,
+      "known_for_department": "Acting",
+      "name": "Anne Hathaway",
+      "original_name": "Anne Hathaway",
+      "popularity": 13.3005,
+      "profile_path": "/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg",
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+          "id": 157336,
+          "title": "Interstellar",
+          "original_title": "Interstellar",
+          "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+          "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            12,
+            18,
+            878
+          ],
+          "popularity": 76.7147,
+          "release_date": "2014-11-04",
+          "softcore": false,
+          "video": false,
+          "vote_average": 8.493,
+          "vote_count": 41683
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+          "id": 350,
+          "title": "The Devil Wears Prada",
+          "original_title": "The Devil Wears Prada",
+          "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+          "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            18,
+            35
+          ],
+          "popularity": 30.3004,
+          "release_date": "2006-06-29",
+          "softcore": false,
+          "video": false,
+          "vote_average": 7.433,
+          "vote_count": 14377
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/ktPixrzD9Rbet7Co4uUWxyR9191.jpg",
+          "id": 9880,
+          "title": "The Princess Diaries",
+          "original_title": "The Princess Diaries",
+          "overview": "A socially awkward but very bright 15-year-old girl being raised by a single mom discovers that she is the princess of a small European country because of the recent death of her long-absent father, who, unknown to her, was the crown prince of Genovia. She must make a choice between continuing the life of a San Francisco teen or stepping up to the throne.",
+          "poster_path": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+          "media_type": "movie",
+          "original_language": "en",
+          "genre_ids": [
+            35,
+            10751,
+            10749
+          ],
+          "popularity": 12.9251,
+          "release_date": "2001-08-03",
+          "softcore": false,
+          "video": false,
+          "vote_average": 6.968,
+          "vote_count": 5413
+        }
+      ]
+    }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+}

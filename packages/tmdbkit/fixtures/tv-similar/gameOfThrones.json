@@ -1,0 +1,456 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/ndQDCS9jB0KwNUQbwQFJYOHHnwJ.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 312027,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "东北有个周东北",
+      "overview": "After facing major setbacks in his career, Zhou Dongbei returns to Northeast China determined to rebuild his life, protect his family’s legacy, and fight his way back to success.",
+      "popularity": 4.8351,
+      "poster_path": "/984D7VEyhRNDe6SoT1LedozB9xf.jpg",
+      "first_air_date": "2026-09-28",
+      "softcore": false,
+      "name": "Dongbei's Back",
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wA23szRpCL3GweoMIXCJHv6i9uW.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 62187,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Girlfriends' Guide to Divorce",
+      "overview": "Follows a best-selling author of a self-help book series who is secretly hiding her separation from her husband as she starts to navigate her life as a single woman in her 40's in Los Angeles. She starts to side with and take advice more from her divorced friends rather than her married ones and it leads her to some unexpected and life-changing experiences.",
+      "popularity": 12.8174,
+      "poster_path": "/gIK9Z4LVurR2C9KgmexWGbOzYh4.jpg",
+      "first_air_date": "2014-12-02",
+      "softcore": false,
+      "name": "Girlfriends' Guide to Divorce",
+      "vote_average": 5.7,
+      "vote_count": 33
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mmle3isEoxAhXWwJsoQKXrMNGJq.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 211855,
+      "origin_country": [
+        "AR"
+      ],
+      "original_language": "es",
+      "original_name": "El fin del amor",
+      "overview": "After a reunion with her past, Tamara - a Jewish ex-orthodox turned feminist rocker - separates from her boyfriend, rebelling against romantic love and monogamy to embark on a path of exploration in search of her own desire.",
+      "popularity": 9.8016,
+      "poster_path": "/x9Tq1h4SI8f4BGd3f0XUNbEY1sl.jpg",
+      "first_air_date": "2022-11-04",
+      "softcore": false,
+      "name": "The End of Love",
+      "vote_average": 7,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2ffeLfZyBrD480R1J7frxhTsbVx.jpg",
+      "genre_ids": [
+        10759,
+        9648,
+        18
+      ],
+      "id": 95834,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "有翡",
+      "overview": "After growing up in a mountain stronghold created to oversee the martial arts world, Zhou Fei finally sets out to explore life beyond its walls. On her journey, she reunites with the enigmatic Xie Yun, and together they navigate a world of danger, secrets, and adventure across the martial arts realm.",
+      "popularity": 11.2912,
+      "poster_path": "/ycRLElZJcQTQBnf7WQbffiTHctX.jpg",
+      "first_air_date": "2020-12-16",
+      "softcore": false,
+      "name": "Legend of Fei",
+      "vote_average": 7.4,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wl0DQUT90o3e9gXHEeB5iyK05jb.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        10765
+      ],
+      "id": 95839,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lisey's Story",
+      "overview": "This terrifying thriller follows widow Lisey Landon as a series of disturbing events revives memories of her marriage to author Scott Landon and the darkness that plagued him.",
+      "popularity": 11.809,
+      "poster_path": "/nBh4EuCmk3ZWfs16KKuhYHUqWdM.jpg",
+      "first_air_date": "2021-06-04",
+      "softcore": false,
+      "name": "Lisey's Story",
+      "vote_average": 6,
+      "vote_count": 138
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wCdhtaLMNtQ37j4OEch4dSKXyoE.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 62117,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Younger",
+      "overview": "Liza Miller, a suddenly single stay-at-home mother, tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at 40-year old. When a chance encounter convinces her she looks younger than she is, Liza tries to pass herself off as 26 and lands a job as an assistant at Empirical Press. Now she just has to make sure no one finds out the secret only she and her best friend Maggie share.",
+      "popularity": 38.7659,
+      "poster_path": "/feWw6i09zaX2apzRqd7QbKEAsx9.jpg",
+      "first_air_date": "2015-03-31",
+      "softcore": false,
+      "name": "Younger",
+      "vote_average": 6.9,
+      "vote_count": 256
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8BpcZRVPlcujkSDdr89Fe2XAvGg.jpg",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 95813,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "半城明媚半城雨",
+      "overview": "Qian Xun, a determined newspaper intern, investigates a mysterious murder and encounters crafts specialist Su Mingmou and jade spirit Jun Wanglian. Her investigation leads her into a hidden world where traditional crafts come to life, revealing an unexpected connection between her and the mystical realm.",
+      "popularity": 2.1604,
+      "poster_path": "/f08OsH9mry9jiCzeLUEqKXtfkaI.jpg",
+      "first_air_date": "2019-11-25",
+      "softcore": false,
+      "name": "Half Bright and Half Rain",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1I2E27jUcoQj0f46zVO3WYnj5ve.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "id": 62296,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ビター・ブラッド",
+      "overview": "A rookie detective assigned to the Ginza Police Station finds himself partnered with his estranged father. Together with the rest of the team, they solve crimes as an old adversary plots to take revenge on father and son.",
+      "popularity": 4.9929,
+      "poster_path": "/qaGJbF6mbWzOywmwV3qfUXJOvpX.jpg",
+      "first_air_date": "2014-04-15",
+      "softcore": false,
+      "name": "Bitter Blood",
+      "vote_average": 7.3,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
+      "genre_ids": [
+        35,
+        10765
+      ],
+      "id": 2048,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Hitchhiker's Guide to the Galaxy",
+      "overview": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
+      "popularity": 7.4739,
+      "poster_path": "/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+      "first_air_date": "1981-01-05",
+      "softcore": false,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "vote_average": 8.1,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yIdNvXqRj76mTUgNLsq97IWdXLR.jpg",
+      "genre_ids": [
+        10759,
+        18,
+        80
+      ],
+      "id": 244207,
+      "origin_country": [
+        "SE"
+      ],
+      "original_language": "sv",
+      "original_name": "Helikopterrånet",
+      "overview": "Two childhood friends decide to try one last heist — to rob millions from Sweden's safest cash depot. But the police are already on their heels.",
+      "popularity": 6.0924,
+      "poster_path": "/fKZyNZJCIrAll8thK4QyNVkRHy5.jpg",
+      "first_air_date": "2024-11-22",
+      "softcore": false,
+      "name": "The Helicopter Heist",
+      "vote_average": 7,
+      "vote_count": 50
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 244189,
+      "origin_country": [
+        "TW"
+      ],
+      "original_language": "zh",
+      "original_name": "向流星許願的我們",
+      "overview": "After wishing to disappear, a man wakes with a new identity, only to face a painful choice when his secret crush starts to recognize him.",
+      "popularity": 6.7893,
+      "poster_path": "/q5VEoCBIu10Aw6iNKjp6zy9eXWc.jpg",
+      "first_air_date": "2026-03-26",
+      "softcore": false,
+      "name": "Wishing Upon the Shooting Stars",
+      "vote_average": 7.9,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oosMlnURVl08jWTqd6iWPqljhmV.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 129053,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "原来我很爱你",
+      "overview": "A passionate radio fan falls for a reclusive songwriter — her longtime idol who secretly lives with visual impairment. As their love grows, misunderstandings and harsh realities put their fragile connection to the test.",
+      "popularity": 7.9584,
+      "poster_path": "/fXbuAVAn5ITohJG145BDoGJHO2W.jpg",
+      "first_air_date": "2021-08-03",
+      "softcore": false,
+      "name": "Crush",
+      "vote_average": 7.8,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 280945,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "폭군의 셰프",
+      "overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
+      "popularity": 14.0492,
+      "poster_path": "/exUXEOierAwZ597010TLQka9TFy.jpg",
+      "first_air_date": "2025-08-23",
+      "softcore": false,
+      "name": "Bon Appétit, Your Majesty",
+      "vote_average": 8.616,
+      "vote_count": 272
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/17skijhH4yQuhvkoaxpFCM4IL6R.jpg",
+      "genre_ids": [
+        10759,
+        16,
+        35,
+        10765,
+        10768
+      ],
+      "id": 128948,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "無責任艦長タイラー OVA",
+      "overview": "Six long months have passed. The Raalgon Empire has developed a horrible new type of weapon, and Tylor has been charged with the duty of intercepting it as it is being transported. But when all that could go wrong does go wrong, the crew members of the Soyokaze find themselves at the mercy of their enemies. As the hours tick down toward their execution, the crew wonders: has their irresponsible captain misled them? Or is this all a part of some greater strategy?",
+      "popularity": 10.0902,
+      "poster_path": "/agCbY5OpyKw2p3gAZRASl5cqTlA.jpg",
+      "first_air_date": "1994-10-01",
+      "softcore": false,
+      "name": "The Irresponsible Captain Tylor  OVA",
+      "vote_average": 7.2,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4zwjfICGS556wXPyuj3vyk0OZmE.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 280916,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "突然的喜欢",
+      "overview": "A laugh-a-minute romantic comedy where a 2025 feelings coach gets zapped into a cheesy vintage novel and meets her match, a 1999 CEO who's sweet on the outside but shrewd within. In the ultimate battle of romantic tactics, who will out-scheme whom? To get home, influencer Lin Huan'er launches an operation to win over CEO Gao Haiming, only for her clever plans to hilariously backfire. Just as her ticket home appears, she realizes her heart has already checked in for good. Can this cross-storybook couple write their own happy ending?",
+      "popularity": 6.9276,
+      "poster_path": "/pxKsToyM9Szp7wRgTWGdvdH9tv0.jpg",
+      "first_air_date": "2026-01-22",
+      "softcore": false,
+      "name": "My Page in the 90s",
+      "vote_average": 8.5,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
+      "genre_ids": [
+        16,
+        18
+      ],
+      "id": 62564,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "響け！ユーフォニアム",
+      "overview": "Spring in the first year of high school. Kumiko, a member of the brass band in junior high school, visits the high school brass band club with classmates Hazuki and Sapphire. There, she comes across Reina, her former classmate from junior high. Hazuki and Sapphire decide to join the club, but Kumiko can’t make up her mind. She recollects her experience with Reina at a competition in junior high school.",
+      "popularity": 44.9544,
+      "poster_path": "/nY95nbirfKebWxCKEeVWr5AYFmO.jpg",
+      "first_air_date": "2015-04-08",
+      "softcore": false,
+      "name": "Sound! Euphonium",
+      "vote_average": 8,
+      "vote_count": 108
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tAdmbGEywXlWZvbcnYgfpYwuc9H.jpg",
+      "genre_ids": [
+        9648,
+        10759,
+        18,
+        80
+      ],
+      "id": 62478,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Partners in Crime",
+      "overview": "Set in a 1950s Britain rising from the ashes of the Blitz into the grip of a new Cold War, our beekeeping duo stumble into a world of murder, undercover agents and cold war conspiracy. Tuppence is a woman who sees adventure round every corner, throwing herself head first into every mystery with passion and fervour, determined to get to the truth no matter what it takes, much to the dismay of her more cautious husband Tommy.",
+      "popularity": 8.7152,
+      "poster_path": "/2Zwurp836fMcLpOwMDciWiiak0X.jpg",
+      "first_air_date": "2015-07-26",
+      "softcore": false,
+      "name": "Partners in Crime",
+      "vote_average": 7.1,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nwoDMaJ0tOu7jj1hypBOHnVtAFx.jpg",
+      "genre_ids": [
+        10751,
+        18,
+        35
+      ],
+      "id": 95959,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "แม่มดเจ้าเสน่ห์",
+      "overview": "A quirky fashion student becomes the nanny of a handsome widower’s three kids, experiencing a series of silly antics and schemes.",
+      "popularity": 2.8504,
+      "poster_path": "/wgzKCmbfTw34aWzWiRIRY4PKdWS.jpg",
+      "first_air_date": "2019-09-04",
+      "softcore": false,
+      "name": "The Charming Stepmom",
+      "vote_average": 6,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6nfKBMKoavRAYoG2OmFU1ol1kNW.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 62517,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Zoo",
+      "overview": "Set amidst a wave of violent animal attacks sweeping across the planet, a young renegade scientist is thrust into a race to unlock the mystery behind this pandemic before time runs out for animals and humans alike.",
+      "popularity": 26.9355,
+      "poster_path": "/yg9x4J3ZTslvVSz5Mtu9pH0FWcr.jpg",
+      "first_air_date": "2015-06-30",
+      "softcore": false,
+      "name": "Zoo",
+      "vote_average": 6.9,
+      "vote_count": 627
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6PmEwHIyTPmDqmzUq49wYTSaUob.jpg",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 96128,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "琉璃",
+      "overview": "Legend has it that the god of battle saved heaven a 1000 years in the past in a deadly battle against the demon. Both fell from heaven and disappeared from the world. Chu Xuanji was born in the world without the six senses, making her quite clueless and inept. The Zanhua tournament is held within the Shaoyang sect, and leader Chu Lei has two daughters - his relied on eldest daughter Chu Linglong and youngest daughter Chu Xuanji, who is lazy and horrible in martial arts. When Yu Sifeng and Chu Xuanji happen to meet, they befriend each other. Yu Sifeng falls for Xuanji despite the harsh consequences he has to face, as students at Lize Palace are prohibited from falling in love. Four years later, Xuanji and Yu Sifeng meet again. Sifeng wears a mask because of a curse that can only be broken if he finds true love.",
+      "popularity": 8.5429,
+      "poster_path": "/4WiHTvg8667wTSGjcI0kPm0LzRA.jpg",
+      "first_air_date": "2020-08-06",
+      "softcore": false,
+      "name": "Love and Redemption",
+      "vote_average": 7.846,
+      "vote_count": 26
+    }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+}

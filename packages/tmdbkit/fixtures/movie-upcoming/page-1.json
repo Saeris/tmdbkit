@@ -1,0 +1,417 @@
+{
+  "dates": {
+    "maximum": "2026-11-25",
+    "minimum": "2026-11-04"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "genre_ids": [
+        878,
+        9648,
+        28
+      ],
+      "id": 1058424,
+      "title": "Hope",
+      "original_language": "ko",
+      "original_title": "호프",
+      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "popularity": 526.0192,
+      "poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+      "release_date": "2026-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.763,
+      "vote_count": 373
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 1101412,
+      "title": "Fall 2: Deadpoint",
+      "original_language": "en",
+      "original_title": "Fall 2: Deadpoint",
+      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "popularity": 289.7856,
+      "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "release_date": "2026-09-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.302,
+      "vote_count": 686
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "genre_ids": [
+        27,
+        35,
+        14
+      ],
+      "id": 1514026,
+      "title": "Buddy",
+      "original_language": "en",
+      "original_title": "Buddy",
+      "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+      "popularity": 185.723,
+      "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "release_date": "2026-08-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 196
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
+      "genre_ids": [
+        27,
+        14,
+        9648
+      ],
+      "id": 1232569,
+      "title": "Pinocchio: Unstrung",
+      "original_language": "en",
+      "original_title": "Pinocchio: Unstrung",
+      "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+      "popularity": 158.6919,
+      "poster_path": "/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
+      "release_date": "2026-07-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.513,
+      "vote_count": 149
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14
+      ],
+      "id": 791523,
+      "title": "Wildwood",
+      "original_language": "en",
+      "original_title": "Wildwood",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "popularity": 154.7558,
+      "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "release_date": "2026-10-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 94
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1228834,
+      "title": "The Fix",
+      "original_language": "en",
+      "original_title": "The Fix",
+      "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
+      "popularity": 143.9125,
+      "poster_path": "/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+      "release_date": "2026-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 80
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "id": 1283515,
+      "title": "Verity",
+      "original_language": "en",
+      "original_title": "Verity",
+      "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "popularity": 138.1498,
+      "poster_path": "/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+      "release_date": "2026-09-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 277
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1294189,
+      "title": "The Mongoose",
+      "original_language": "en",
+      "original_title": "The Mongoose",
+      "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+      "popularity": 127.8481,
+      "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "release_date": "2026-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1765072,
+      "title": "You Can See Everything",
+      "original_language": "en",
+      "original_title": "You Can See Everything",
+      "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "popularity": 107.7651,
+      "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "release_date": "2026-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.1,
+      "vote_count": 52
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1377237,
+      "title": "Runner",
+      "original_language": "en",
+      "original_title": "Runner",
+      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "popularity": 98.0219,
+      "poster_path": "/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+      "release_date": "2026-09-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.339,
+      "vote_count": 744
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1400837,
+      "title": "Other Mommy",
+      "original_language": "en",
+      "original_title": "Other Mommy",
+      "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "popularity": 97.2845,
+      "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "release_date": "2026-10-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 167
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1503762,
+      "title": "Sense and Sensibility",
+      "original_language": "en",
+      "original_title": "Sense and Sensibility",
+      "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+      "popularity": 86.2164,
+      "poster_path": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "release_date": "2026-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.331,
+      "vote_count": 86
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+      "genre_ids": [
+        27,
+        28,
+        878
+      ],
+      "id": 1375646,
+      "title": "Colony",
+      "original_language": "ko",
+      "original_title": "군체",
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "popularity": 85.6484,
+      "poster_path": "/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
+      "release_date": "2026-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.217,
+      "vote_count": 1434
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "id": 1284046,
+      "title": "Onslaught",
+      "original_language": "en",
+      "original_title": "Onslaught",
+      "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+      "popularity": 83.712,
+      "poster_path": "/eAs7G3yFaULpfwfVdGvPo5HmFJS.jpg",
+      "release_date": "2026-09-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 132
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "genre_ids": [
+        35,
+        12,
+        10751,
+        16
+      ],
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "original_language": "en",
+      "original_title": "Coyote vs. Acme",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "popularity": 81.0023,
+      "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "release_date": "2026-08-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.469,
+      "vote_count": 799
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 1255833,
+      "title": "Whalefall",
+      "original_language": "en",
+      "original_title": "Whalefall",
+      "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+      "popularity": 79.2953,
+      "poster_path": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+      "release_date": "2026-10-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 123
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1376400,
+      "title": "Crawlers",
+      "original_language": "en",
+      "original_title": "Crawlers",
+      "overview": "Tenants at Paradiso Palms apartments fight a deadly spider invasion while the cunning building manager might be their only hope for survival.",
+      "popularity": 74.9515,
+      "poster_path": "/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+      "release_date": "2026-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.181,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "title": "Dune: Part Two",
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "popularity": 72.238,
+      "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+      "release_date": "2024-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.144,
+      "vote_count": 8849
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+      "genre_ids": [
+        10749,
+        14,
+        35
+      ],
+      "id": 1195803,
+      "title": "Wicker",
+      "original_language": "en",
+      "original_title": "Wicker",
+      "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+      "popularity": 68.1485,
+      "poster_path": "/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "release_date": "2026-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 1433583,
+      "title": "The Weight",
+      "original_language": "en",
+      "original_title": "The Weight",
+      "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+      "popularity": 66.7089,
+      "poster_path": "/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "release_date": "2026-09-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.697,
+      "vote_count": 76
+    }
+  ],
+  "total_pages": 77,
+  "total_results": 1522
+}

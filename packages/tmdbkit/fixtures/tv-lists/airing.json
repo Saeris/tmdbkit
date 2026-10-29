@@ -1,0 +1,208 @@
+{
+  "id": 1416,
+  "page": 1,
+  "results": [
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8691710,
+      "item_count": 193,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "my watched series",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8234063,
+      "item_count": 5731,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Favorite Actors",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8710225,
+      "item_count": 584,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Limelight Not Seen",
+      "poster_path": null
+    },
+    {
+      "description": "Moonfin home row (auto-built nightly)",
+      "favorite_count": 0,
+      "id": 8706100,
+      "item_count": 20,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Popular - Series",
+      "poster_path": null
+    },
+    {
+      "description": "Moonfin home row (auto-built nightly)",
+      "favorite_count": 0,
+      "id": 8706077,
+      "item_count": 20,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Disney+ - Series",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8676008,
+      "item_count": 402,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Hulu",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8676002,
+      "item_count": 481,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "JioHotstar",
+      "poster_path": null
+    },
+    {
+      "description": "Netflix - Movies & Shows",
+      "favorite_count": 0,
+      "id": 8675961,
+      "item_count": 927,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Netflix",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8698977,
+      "item_count": 134,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Trending Shows",
+      "poster_path": null
+    },
+    {
+      "description": "Top 15 Series on Hulu in the US",
+      "favorite_count": 0,
+      "id": 8691961,
+      "item_count": 10,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Top 10 Series",
+      "poster_path": null
+    },
+    {
+      "description": "Top 10 Disney + Series in the US",
+      "favorite_count": 0,
+      "id": 8691939,
+      "item_count": 10,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Top 10 Series",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8710506,
+      "item_count": 2,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "the",
+      "poster_path": null
+    },
+    {
+      "description": "TV Shows",
+      "favorite_count": 0,
+      "id": 8523560,
+      "item_count": 51,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "TMDB TV Shows Watchlist ",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8695216,
+      "item_count": 1082,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Limelight Seen",
+      "poster_path": null
+    },
+    {
+      "description": "[valhalla:475a5c61-87bc-4f13-a11d-7b1f6be52826]",
+      "favorite_count": 0,
+      "id": 8710285,
+      "item_count": 100,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "IMDb: Most Votes Top 100 (Shows)",
+      "poster_path": null
+    },
+    {
+      "description": "[valhalla:9bdb6f27-47af-4481-ac52-e65283753133]",
+      "favorite_count": 0,
+      "id": 8683036,
+      "item_count": 102,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Screen Actors Guild Awards: Winners (Shows)",
+      "poster_path": null
+    },
+    {
+      "description": "[valhalla:f20a9e2c-00bb-4954-b5e3-b6d0d711532e]",
+      "favorite_count": 0,
+      "id": 8683035,
+      "item_count": 312,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Golden Globes: Winners (Shows)",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8676818,
+      "item_count": 98,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Kodi TV Shows",
+      "poster_path": null
+    },
+    {
+      "description": "[valhalla:3a3261f9-a5a5-4df0-9a39-70adb70892ec]",
+      "favorite_count": 0,
+      "id": 8683034,
+      "item_count": 1316,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Emmy Awards: Winners (Shows)",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8654496,
+      "item_count": 50,
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "TV to watch.",
+      "poster_path": null
+    }
+  ],
+  "total_pages": 47,
+  "total_results": 932
+}

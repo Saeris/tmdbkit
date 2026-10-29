@@ -1,0 +1,433 @@
+{
+  "cast": [
+    {
+      "adult": false,
+      "backdrop_path": "/gpNkUDzIkrVJpVmbNWWdhxfqhpy.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 3739,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "E! True Hollywood Story",
+      "overview": "E! True Hollywood Story is an American documentary series on E! that deals with famous Hollywood celebrities, movies, TV shows and also well-known public figures. Among the topics covered on the program include salacious re-tellings of Hollywood secrets, show-biz scandals, celebrity murders and mysteries, porn-star biographies, and \"where-are-they-now?\" investigations of former child stars. It frequently features in-depth interviews, actual courtroom footage, and dramatic reenactments. When aired on the E! network, episodes will be updated to reflect the current life or status of the subject.",
+      "popularity": 3.3077,
+      "poster_path": "/zuXXivVEjOkMswJvNFFRmJW0bTZ.jpg",
+      "first_air_date": "1996-08-21",
+      "softcore": false,
+      "name": "E! True Hollywood Story",
+      "vote_average": 8.1,
+      "vote_count": 81,
+      "character": "",
+      "credit_id": "525755ff19c29531db13ba15",
+      "episode_count": 1,
+      "first_credit_air_date": "2006-08-20"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dk5ZJWkdTYdfJnbTeBS7wJs4qqw.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 5496,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The David Susskind Show",
+      "overview": "The David Susskind Show is an American television talk show hosted by David Susskind. The program began its existence in 1958 as Open End, and was broadcast by WNTA-TV in New York City. The title referred to the fact that the program continued until Susskind or his guests were too tired to continue late on a Sunday night.",
+      "popularity": 6.3024,
+      "poster_path": "/sDI77pZpm11jFgOOR5e0HGQb4vq.jpg",
+      "first_air_date": "1959-01-18",
+      "softcore": false,
+      "name": "The David Susskind Show",
+      "vote_average": 7,
+      "vote_count": 2,
+      "character": "Self",
+      "credit_id": "60180c921b70ae003c658403",
+      "episode_count": 1,
+      "first_credit_air_date": "1963-04-21"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e1UMtpKhOJSz7QCbR6bmM39Fziv.jpg",
+      "genre_ids": [
+        35,
+        10767
+      ],
+      "id": 5307,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Ed Sullivan Show",
+      "overview": "The Ed Sullivan Show is an American TV variety show that originally ran on CBS from Sunday June 20, 1948 to Sunday June 6, 1971, and was hosted by New York entertainment columnist Ed Sullivan. It was replaced in September 1971 by the CBS Sunday Night Movie, which ran only one season and was eventually replaced by other shows.\n\nIn 2002, The Ed Sullivan Show was ranked #15 on TV Guide's 50 Greatest TV Shows of All Time.",
+      "popularity": 29.3755,
+      "poster_path": "/gUEfDXUxwhgXBX7LSk57vJKXCTp.jpg",
+      "first_air_date": "1948-06-20",
+      "softcore": false,
+      "name": "The Ed Sullivan Show",
+      "vote_average": 6.8,
+      "vote_count": 23,
+      "character": "Self",
+      "credit_id": "52577fde760ee36aaa5d9206",
+      "episode_count": 2,
+      "first_credit_air_date": "1956-02-12"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10763,
+        99
+      ],
+      "id": 10946,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Celebrities Uncensored",
+      "overview": "Celebrities Uncensored is a TV program on the E! network that edited together amusing paparazzi footage of celebrities, usually in public places such as public sidewalks, restaurants, nightclubs, etc. The celebrities were often friendly, but sometimes their more unfriendly antics were featured in an amusing and entertaining way. It was very popular with stars on the rise and created a stir in the Hollywood community. Paris Hilton was first brought to the public's attention by this show.",
+      "popularity": 0.4663,
+      "poster_path": "/cwZ6ZXREDPOtsAiAUcA4uKBhy1e.jpg",
+      "first_air_date": "2003-06-04",
+      "softcore": false,
+      "name": "Celebrities Uncensored",
+      "vote_average": 4.9,
+      "vote_count": 7,
+      "character": "Self",
+      "credit_id": "5258094b19c29531db3e317e",
+      "episode_count": 1,
+      "first_credit_air_date": "2003-07-09"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w893iPsjk3yw4dJRaU3bETJ4WOX.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 13436,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Roots: The Next Generations",
+      "overview": "Roots: The Next Generations is a television miniseries, introduced in 1979, continuing, from 1882 to the 1960s, the fictionalized story of the family of Alex Haley and their life in Henning, Lauderdale County, Tennessee, USA. This sequel to the 1977 miniseries is based on the last seven chapters of Haley's novel entitled Roots: The Saga of an American Family plus additional material by Haley.\n\nRoots: The Next Generations was produced with a budget of $16.6 million, nearly three times as large as that of the original.",
+      "popularity": 8.34,
+      "poster_path": "/4yALWSK2sf02pHJvRi0QyFAljEx.jpg",
+      "first_air_date": "1979-02-18",
+      "softcore": false,
+      "name": "Roots: The Next Generations",
+      "vote_average": 7.5,
+      "vote_count": 36,
+      "character": "George Lincoln Rockwell",
+      "credit_id": "525827c0760ee36aaa82bc4c",
+      "episode_count": 1,
+      "first_credit_air_date": "1979-02-25"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 21246,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Hollywood Greats",
+      "overview": "Hollywood Greats was a BBC Television series, which began in 1977. The film critic Barry Norman wrote and narrated a series of in depth profiles on major Hollywood film personalities, in which he interviewed surviving associates. He later made a series called British Greats in 1980. A series of books, entitled The Hollywood Greats, The Movie Greats and The British Greats, which were authored by Norman were subsequently published. A series of the same name was later presented by Jonathan Ross from 1999 to 2006.",
+      "popularity": 4.3843,
+      "poster_path": "/mvKYncb9tm0mXtAQRGcrDFGPLdu.jpg",
+      "first_air_date": "1977-08-04",
+      "softcore": false,
+      "name": "The Hollywood Greats",
+      "vote_average": 4.7,
+      "vote_count": 3,
+      "character": "Self (archive footage)",
+      "credit_id": "525865df760ee346611811af",
+      "episode_count": 1,
+      "first_credit_air_date": "2006-04-18"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AvydGD3Y03ad7QLxQ3tAZ3VVkng.jpg",
+      "genre_ids": [],
+      "id": 27023,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Oscars",
+      "overview": "An annual American awards ceremony honoring cinematic achievements in the film industry. The various category winners are awarded a copy of a statuette, officially the Academy Award of Merit, that is better known by its nickname Oscar.",
+      "popularity": 18.4134,
+      "poster_path": "/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg",
+      "first_air_date": "1953-03-19",
+      "softcore": false,
+      "name": "The Oscars",
+      "vote_average": 7.1,
+      "vote_count": 88,
+      "character": "Self",
+      "credit_id": "525882b0760ee346613d9179",
+      "episode_count": 3,
+      "first_credit_air_date": "1954-03-25"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ev3DavWp8CEuNBTicb6UAS7Lwvv.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 39651,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Mario Puzo's The Godfather: The Complete Novel for Television",
+      "overview": "A seven-hour chronological edit of The Godfather and The Godfather Part II, expanded with over an hour of restored scenes to trace the Corleone family’s rise from Vito’s youth in Sicily to Michael’s reign in 1950s America.",
+      "popularity": 6.905,
+      "poster_path": "/zqIfrXlz3xT31uem2jA2acXinr7.jpg",
+      "first_air_date": "1977-11-12",
+      "softcore": false,
+      "name": "Mario Puzo's The Godfather: The Complete Novel for Television",
+      "vote_average": 8.6,
+      "vote_count": 96,
+      "character": "Don Vito Corleone",
+      "credit_id": "5a959b619251415639005e10",
+      "episode_count": 4,
+      "first_credit_air_date": "1977-11-12"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10764
+      ],
+      "id": 112766,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Midi trente",
+      "overview": "",
+      "popularity": 28.1341,
+      "poster_path": "/tex4fBzv5fa5yAcGwLIY4XbI4IB.jpg",
+      "first_air_date": "1972-03-06",
+      "softcore": false,
+      "name": "Midi trente",
+      "vote_average": 6,
+      "vote_count": 1,
+      "character": "Self",
+      "credit_id": "638ddfe1befd9100ab630674",
+      "episode_count": 1,
+      "first_credit_air_date": "1972-04-13"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ilEht2mkC51htymkX4zYN3vuS77.jpg",
+      "genre_ids": [
+        99,
+        10751,
+        10767
+      ],
+      "id": 79313,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Cinépanorama",
+      "overview": "",
+      "popularity": 16.3544,
+      "poster_path": "/aA3E04yh8xeNbOEp3Imsq2gqidc.jpg",
+      "first_air_date": "1956-02-04",
+      "softcore": false,
+      "name": "Cinépanorama",
+      "vote_average": 8.7,
+      "vote_count": 3,
+      "character": "Self",
+      "credit_id": "63b045fd1d1bf40082883b56",
+      "episode_count": 1,
+      "first_credit_air_date": "1957-07-04"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fvNn1mQS4ecSph1QVSpKCQNyh47.jpg",
+      "genre_ids": [
+        10767
+      ],
+      "id": 9890,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Dick Cavett Show",
+      "overview": "The Dick Cavett Show has been the title of several talk shows hosted by Dick Cavett on various television networks.",
+      "popularity": 47.2169,
+      "poster_path": "/uDkndfnwbEGeSY4YmZbTRg4U5RQ.jpg",
+      "first_air_date": "1968-06-06",
+      "softcore": false,
+      "name": "The Dick Cavett Show",
+      "vote_average": 6.8,
+      "vote_count": 22,
+      "character": "Self - Guest",
+      "credit_id": "5e085bd3d236e60012a0a7d1",
+      "episode_count": 1,
+      "first_credit_air_date": "1973-06-12"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 42463,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Brando: The Documentary",
+      "overview": "The life and legacy of Marlon Brando and how he changed acting.",
+      "popularity": 2.137,
+      "poster_path": "/xVkexarhEjCRRBFDdNTHsBzNvRm.jpg",
+      "first_air_date": "2007-05-01",
+      "softcore": false,
+      "name": "Brando: The Documentary",
+      "vote_average": 4.5,
+      "vote_count": 2,
+      "character": "Self (archive footage)",
+      "credit_id": "5fb6c18d967cc7003f168bea",
+      "episode_count": 2,
+      "first_credit_air_date": "2007-05-01"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wW9TkEkmiDD6XAfiBQ07kL7KK8x.jpg",
+      "genre_ids": [
+        35,
+        10767
+      ],
+      "id": 10536,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Mike Douglas Show",
+      "overview": "The Mike Douglas Show is an American daytime television talk show hosted by Mike Douglas that originally aired only in the Cleveland area during much of its first two years on the air. It then went into syndication in 1963 and remained on television until 1982. It was distributed by Westinghouse Broadcasting and for much of its run, originated from studios of two of the company's TV stations in Cleveland and Philadelphia.",
+      "popularity": 131.9392,
+      "poster_path": "/qNk97cbF3dZyhkfIcJhjFDD64sM.jpg",
+      "first_air_date": "1961-12-11",
+      "softcore": false,
+      "name": "The Mike Douglas Show",
+      "vote_average": 5.8,
+      "vote_count": 11,
+      "character": "Self",
+      "credit_id": "6768e55646a5a438790b041f",
+      "episode_count": 1,
+      "first_credit_air_date": "1975-11-05"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sPAW9tJVcHKWW3zaXnhCfNYJp5a.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 60909,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Sixties",
+      "overview": "The space race, the cold war, \"free love,\" civil rights and more: The decade of the 1960s shaped our history -- and changed the world. In collaboration with Tom Hanks, Gary Goetzman and Mark Herzog, CNN explores perhaps the most transformative decade of the modern era in a 10-part documentary series and brings new insights into how those events shaped today.",
+      "popularity": 7.5922,
+      "poster_path": "/wJndYfUYeszk44ZSD5HP5rjcHAW.jpg",
+      "first_air_date": "2014-05-29",
+      "softcore": false,
+      "name": "The Sixties",
+      "vote_average": 7.4,
+      "vote_count": 21,
+      "character": "Self - Civil Rights Activist (archive footage)",
+      "credit_id": "682fd0a374bf8ae53f2b616a",
+      "episode_count": 1,
+      "first_credit_air_date": "2014-06-26"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mZrCrbNOynUOhmP1k5bDhWVAqgA.jpg",
+      "genre_ids": [
+        99,
+        80
+      ],
+      "id": 207517,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Vow of Silence: The Assassination of Annie Mae",
+      "overview": "This true crime docuseries examines the murder of Annie Mae Aquash – a Mi'kmaq woman from Nova Scotia, Canada, a mother of two daughters, a teacher, and a revolutionary who fought for Indigenous rights in the 1970s whose death went unsolved for almost 30 years.",
+      "popularity": 3.8674,
+      "poster_path": "/763MzoY4NPYk09p6SbSEv8r3Kru.jpg",
+      "first_air_date": "2024-11-26",
+      "softcore": false,
+      "name": "Vow of Silence: The Assassination of Annie Mae",
+      "vote_average": 8.7,
+      "vote_count": 3,
+      "character": "Self (archive footage)",
+      "credit_id": "686ef7388de47e8a7e703e9c",
+      "episode_count": 1,
+      "first_credit_air_date": "2024-11-26"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        18
+      ],
+      "id": 47724,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The English Programme",
+      "overview": "Long-running series for schools and colleges produced by Thames Television which comprised classic plays, contemporary dramas, poetry anthologies, documentaries and other material suitable for English language and literature syllabuses.",
+      "popularity": 5.8406,
+      "poster_path": null,
+      "first_air_date": "1976-09-20",
+      "softcore": false,
+      "name": "The English Programme",
+      "vote_average": 0,
+      "vote_count": 0,
+      "character": "Self - Narrator (voice)",
+      "credit_id": "689de270b787a192fb269018",
+      "episode_count": 1,
+      "first_credit_air_date": "1976-09-20"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wj7Y2QBRIcXEvd6U4b0sItrumYI.jpg",
+      "genre_ids": [],
+      "id": 135236,
+      "origin_country": [],
+      "original_language": "en",
+      "original_name": "MGM Parade",
+      "overview": "The original concept of the show was to allow the viewer to see the inner workings of a movie studio and featured interviews with MGM stars and explanations of how movies were made. Later, the format changed to show edited versions of MGM films.",
+      "popularity": 15.4568,
+      "poster_path": "/oso0jA0fxVfb0VUFRT5WN4F7gdz.jpg",
+      "first_air_date": "1955-09-14",
+      "softcore": false,
+      "name": "MGM Parade",
+      "vote_average": 7.5,
+      "vote_count": 2,
+      "character": "",
+      "credit_id": "695086a2def737c09ae40cfa",
+      "episode_count": 2,
+      "first_credit_air_date": "1955-11-09"
+    }
+  ],
+  "crew": [],
+  "id": 3084
+}

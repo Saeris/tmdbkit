@@ -1,0 +1,225 @@
+{
+  "id": 287,
+  "translations": [
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "biography": "William Bradley Pitt (born December 18, 1963) is an American actor and film producer. In a film career spanning more than thirty years, Pitt has received numerous accolades, including two Academy Awards, two British Academy Film Awards, two Golden Globe Awards, two Primetime Emmy Awards and one Volpi Cup. His films as a leading actor have grossed over $7.5 billion worldwide.\n\nPitt first gained recognition as a cowboy hitchhiker in the Ridley Scott road film Thelma & Louise (1991). Pitt emerged as a star taking on starring roles in films such as the drama A River Runs Through It (1992), the western Legends of the Fall (1994), the horror film Interview with the Vampire (1994), the crime thriller Seven (1995), the cult film Fight Club (1999), and the crime comedy Snatch (2000). He cemented his leading man status by starring in blockbusters such as Steven Soderbergh's Ocean's film trilogy (2001–2007), Troy (2004), Mr. & Mrs. Smith (2005), World War Z (2013), Bullet Train (2022) and F1 (2025).\n\nPitt earned Academy Award nominations for his performances in the science fiction drama 12 Monkeys (1995), the fantasy romance The Curious Case of Benjamin Button (2008) and the sports drama Moneyball (2011). For his portrayal of a stuntman in Quentin Tarantino's Once Upon a Time in Hollywood (2019), he won the Academy Award for Best Supporting Actor. He also starred in acclaimed films such as Babel(2006), The Assassination of Jesse James by the Coward Robert Ford (2007), Burn After Reading (2008), Inglourious Basterds (2009), The Tree of Life (2011), Fury (2014), The Big Short (2015), Ad Astra (2019) and Babylon (2022).\n\nIn 2001, Pitt co-founded the production company Plan B Entertainment. As a producer, he won the Academy Award for Best Picture for 12 Years a Slave (2013). He was nominated for Moneyball (2011) and The Big Short (2015). An influential figure in popular culture, Pitt appeared on Forbes' annual Celebrity 100 list from 2006 to 2008, and the Time 100 list in 2007. Regarded as a sex symbol, Pitt was named People's Sexiest Man Alive in 1995 and 2000. Pitt's relationships have also been subject to widespread media attention, particularly his marriages to actresses Jennifer Aniston and Angelina Jolie, the latter of whom he shares six children with.\n\nDescription above from the Wikipedia article Brad Pitt, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "name": "Brad Pitt",
+        "primary": true
+      }
+    },
+    {
+      "iso_3166_1": "BR",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "biography": "William Bradley \"Brad\" Pitt (Shawnee, 18 de dezembro de 1963) é um ator e produtor americano. É vencedor de diversos prêmios, dentre os quais um Oscar, dois Globos de Ouro, dois Screen Actors Guild e um BAFTA por atuação, e um Oscar, um BAFTA e um Emmy como produtor; é citado um dos mais bem pagos atores de de Hollywood. Pitt começou sua carreira de ator aparecendo em algumas séries de televisão como Dallas (1987). Posteriormente, ganhou reconhecimento como o cowboy J.D no filme Thelma and Louise (1991).",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "FR",
+      "iso_639_1": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "data": {
+        "biography": "William Bradley Pitt, dit Brad Pitt, est un acteur et producteur de cinéma américain né le 18 décembre 1963 à Shawnee (Oklahoma).\n\nRepéré dans une publicité pour Levi's, Brad Pitt sort de l'anonymat grâce à un petit rôle dans le film Thelma et Louise de Ridley Scott. En très peu de temps, il devient une véritable star et sa collaboration avec le réalisateur David Fincher donne naissance aux films cultes Seven, Fight Club et L'Étrange Histoire de Benjamin Button. Il tourne dans de nombreux autres succès comme Entretien avec un vampire de Neil Jordan, Ocean's Eleven et ses suites de Steven Soderbergh, Troie de Wolfgang Petersen, Inglourious Basterds de Quentin Tarantino et World War Z de Marc Forster. Au cours de sa carrière, il a reçu quatre nominations aux Oscars et cinq nominations aux Golden Globes, dont un remporté pour L'Armée des douze singes de Terry Gilliam en 1996.\n\nSex-symbol des années 1990, Brad Pitt est le premier acteur élu deux fois « Homme le plus sexy du monde » par le magazine People en 1995 et en 2000. Avec sa femme Angelina Jolie (rencontrée sur le tournage de Mr et Mrs Smith et qui a demandé le divorce en septembre 2016), il est le père de 6 enfants. Leur couple est très médiatisé dans les années 2000, y compris dans leurs actions humanitaires (à l'occasion notamment du tsunami de 2004 et de l'ouragan Katrina).\n\nÀ partir de 2002, il s'investit dans la production via sa société Plan B Entertainment avec des films tels que Les Infiltrés de Martin Scorsese et Twelve Years a Slave de Steve McQueen, qui ont chacun été récompensés par l'Oscar du meilleur film en 2007 et 2014, The Tree of Life de Terrence Malick, qui a reçu la Palme d'or au Festival de Cannes en 2011, ou des succès publics comme World War Z.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "LT",
+      "iso_639_1": "lt",
+      "name": "Lietuvių",
+      "english_name": "Lithuanian",
+      "data": {
+        "biography": "",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "UA",
+      "iso_639_1": "uk",
+      "name": "Український",
+      "english_name": "Ukrainian",
+      "data": {
+        "biography": "Бред Пітт — американський кіноактор, дворазовий лауреат премій «Оскар» (2014, 2020), «Золотий глобус» (1996, 2020), «Еммі» (2014), БАФТА (2014, 2020) та інших.",
+        "name": "Бред Пітт",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "DE",
+      "iso_639_1": "de",
+      "name": "Deutsch",
+      "english_name": "German",
+      "data": {
+        "biography": "William Bradley \"Brad\" Pitt (* 18. Dezember 1963) ist ein US-amerikanischer Schauspieler und Filmproduzent. Pitt erhielt zwei Oscar-Nominierungen und vier Golden Globe Award-Nominierungen und gewann einen. Er wurde als einer der attraktivsten Männer der Welt beschrieben, ein Label, für das er in den Medien große Beachtung gefunden hat. Pitt begann seine Schauspielkarriere mit Fernseh-Gastauftritten, darunter eine Rolle in der CBS-Prime-Time-Soap Opera Dallas im Jahr 1987. Später erlangte Anerkennung als der Cowboy Anhalter, der Geena Davis Charakter in 1991 Roadmovie Thelma & Louise verführt. Pitts erste Hauptrollen in Big-Budget-Produktionen waren \"A River Runs Through It\" (1992) und \"Interview mit einem Vampir\" (1994). Im Drama \"Legends of the Fall\" aus dem Jahr 1994 wurde er mit Anthony Hopkins besetzt, was ihm seine erste Golden Globe-Nominierung einbrachte. 1995 gab er in dem Thriller \"Seven\" und dem Science-Fiction-Film \"12 Monkeys\", der ihm einen Golden Globe Award als Bester Nebendarsteller und eine Oscar-Nominierung einbrachte, viel beachtete Auftritte.\n\nVier Jahre später, 1999, spielte Pitt in dem Kulthit \"Fight Club\". Danach spielte er in dem großen internationalen Hit Rusty Ryan in \"Ocean's Eleven\" (2001) und seinen Folgen \"Ocean's Twelve\" (2004) und \"Ocean's Thirteen\" (2007). Seine größten kommerziellen Erfolge waren \"Troy\" (2004) und \"Mr. & Mrs. Smith\" (2005).\n\nPitt erhielt seine zweite Oscar-Nominierung für seine Titelrolle in dem Film \"Der seltsame Fall von Benjamin Button\". Nach einer Beziehung mit der Schauspielerin Gwyneth Paltrow war Pitt fünf Jahre lang mit der Schauspielerin Jennifer Aniston verheiratet. Pitt lebt mit der Schauspielerin Angelina Jolie in einer Beziehung, die eine breite Öffentlichkeitswirkung hat. Er und Jolie haben sechs Kinder - Maddox, Pax, Zahara, Shiloh, Knox und Vivienne.\n\nSeit Beginn seiner Beziehung zu Jolie engagiert er sich zunehmend in sozialen Fragen sowohl in den Vereinigten Staaten als auch international. Pitt besitzt eine Produktionsfirma mit dem Namen Plan B Entertainment, zu deren Produktionen der mit dem Academy Award 2007 gekürte Best Picture The Departed gehört.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "CZ",
+      "iso_639_1": "cs",
+      "name": "Český",
+      "english_name": "Czech",
+      "data": {
+        "biography": "William Bradley „Brad“ Pitt (18. prosince 1963 Shawnee, Oklahoma) je americký filmový herec a producent, držitel dvou Zlatých glóbů za nejlepší mužský herecký výkon ve vedlejší roli za výkon ve filmech Dvanáct opic (1995) a Tenkrát v Hollywoodu (2019), za nějž obdržel svého prvního hereckého Oscara za nejlepší mužský herecký výkon ve vedlejší roli. Je producentem nebo výkonným producentem více než 50 celovečerních hraných filmů a 10 televizních seriálů. Kromě mnoha filmů, ve kterých sám hrál, produkoval i díla jako Skrytá identita (2006), Kick-Ass (2010) či 12 let v řetězech (2013), za které získal svého první Oscara v kategorii nejlepší film.\n\nPoprvé se dočkal uznání vedlejší rolí ve filmu Thelma a Louise (1991) a od té doby si zahrál v mnoha mimořádně úspěšných hollywoodských filmech včetně Sedm (1995), Klubu rváčů (1999), Podfu(c)ku (2000), Dannyho parťáků (2001), Troji (2004), Podivuhodného případu Benjamina Buttona (2008), Hanebných parchantů (2009) či Světové války Z (2013).\n\nJiž v 90. letech se stal jednou z nejpopulárnějších a nejvlivnějších osob filmového průmyslu, dočkal se uznání filmových kritiků a získal si miliony fanoušků po celém světě. Díky svému vzhledu je mimořádně populární u ženského publika. V letech 1995 a 2000 byl časopisem People vyhlášen nejvíc sexy mužem. Na každoročně vyhlašovaném žebříčku 100 nejvlivnějších lidí planety časopisu Forbes se Brad Pitt umístil v letech 2007 a 2009. Brad Pitt patří i mezi nejlépe placené herce světa.\n\nJeho bouřlivý osobní život je již léta předmětem publicity a častým tématem bulvárních plátků. Herec byl v letech 2000–2005 ženatý s herečkou Jennifer Anistonovou. Jeho životní partnerkou se již v roce 2005 stala herečka Angelina Jolie, se kterou se seznámil při natáčení kriminální komedie Mr. & Mrs. Smith (2005). Mají celkem šest dětí, z nichž tři jsou adoptivní. V roce 2014 uzavřeli manželství, ale už 19. září 2016 podala Angelina Jolie žádost o rozvod, který byl dokončen až v roce 2019.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "es",
+      "name": "Español",
+      "english_name": "Spanish",
+      "data": {
+        "biography": "William Bradley Pitt (Shawnee, Oklahoma; 18 de diciembre de 1963) es un actor y productor de cine estadounidense. Además de por su trabajo interpretativo, por el que ha sido nominado en tres ocasiones a los Premios Óscar y en cuatro a los Premios Globo de Oro.\n\nPitt comenzó su carrera interpretativa al aparecer como invitado en programas de televisión, entre los cuales se incluye un papel en el serial televisivo de CBS, Dallas (1987). Posteriormente, obtuvo reconocimiento de la prensa con la interpretación del cowboy autoestopista que seduce al personaje de Geena Davis en la película Thelma & Louise (1991). Los primeros papeles protagónicos de Pitt en producciones de alto presupuesto fueron A River Runs Through It (1992) y Entrevista con el vampiro (1994). También participó junto con Anthony Hopkins en el drama Leyendas de pasión (1994), papel que le hizo obtener su primera nominación a los Premios Globo de Oro.\n\nEn 1995 recibió aclamación de la crítica por sus interpretaciones en el filme de suspense Se7en y en el de ciencia ficción Doce monos, siendo esta última la que lo hizo ganar un Globo de Oro en la categoría de «mejor actor de reparto» y una nominación al Premio Óscar. Cuatro años más tarde, protagonizó el éxito de culto Fight Club (1999), y poco después actuó en el exitoso filme Ocean's Eleven (2001).",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "name": "Pусский",
+      "english_name": "Russian",
+      "data": {
+        "biography": "💥Уильям Брэдли Питт, более известный как Брэд Питт. Родился в 1963-ем году в Шони, Оклахома, США. Рос в семье с младшим братом и сестрой. Отец работал менеджером в компании по грузоперевозкам, а мать была психологом в школе. Учился в Университете Миссури. Работает актёром и продюсером. Дважды женат: на актрисе Дженнифер Энистон и на актрисе Анджелине Джоли, у пары 6-ро детей: 3-ое биологических (сын Нокс, дочери Шайло и Вивьен) и 3-ое приёмных (сыновья Мэддокс и Пакс, дочь Захара). С 2022-го состоит в отношениях с дизайнером Инес де Рамон, детей у пары нет\n\n🏆Главные награды🏆: Оскар (2014) [12 лет рабства], Оскар (2020) [Однажды… в Голливуде], Золотой глобус (1996) [12 обезьян], BAFTA (2020) [Однажды… в Голливуде]\n\n🎬Главные проекты🎬: «12 обезьян» (1995), «Бойцовский клуб» (1999), «Троя» (2004), «Древо жизни» (2011), «Однажды… в Голливуде» (2019)\n\n⭐Интересный факт⭐: Брэд не только блистает на экране, но и активно работает как продюсер, один из его самых громких успехов как продюсера, фильм «12 лет рабства», ставший победителем «Оскара» как «Лучший фильм»",
+        "name": "Брэд Питт",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "BG",
+      "iso_639_1": "bg",
+      "name": "български език",
+      "english_name": "Bulgarian",
+      "data": {
+        "biography": "Брад Пит (роден на 18 декември 1963 г.) е един от най-известните американски актьори и продуценти, носител на множество престижни награди, включително Оскар. Изгрява през 90-те с роли в „Интервю с вампир“ (1994) и „Седем“ (1995), утвърждавайки се като водеща холивудска звезда с филми като „Боен клуб“ (1999) и „Троя“ (2004).  Роден в Оклахома, учи журналистика преди да се насочи към актьорството в Лос Анджелис. Първите му изяви са в края на 80-те, а пробивът му е в средата на 90-те.  Актьорът е номиниран за Оскар за участието си в „Дванайсет маймуни“ (1996) и „Странният случай с Бенджамин Бътън“ (2009). Участва в редица блокбъстъри, включително поредицата „Бандата на Оушън“.  Бил е женен за Дженифър Анистън и Анджелина Джоли, което предизвиква голям медиен интерес.",
+        "name": "Брад Пит",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "PT",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "biography": "",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "HR",
+      "iso_639_1": "hr",
+      "name": "Hrvatski",
+      "english_name": "Croatian",
+      "data": {
+        "biography": "",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "TR",
+      "iso_639_1": "tr",
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "data": {
+        "biography": "William Bradley Pitt (18 Aralık 1963; Shawnee, Oklahoma, ABD), Amerikalı oyuncu ve film yapımcısıdır. Yapım şirketi Plan B Entertainment ile yapımcı olarak bir Akademi Ödülü ve Primetime Emmy Ödülü'nün yanı sıra oyunculuğuyla iki Altın Küre Ödülü ve bir Akademi Ödülü de dâhil olmak üzere birçok ödül almaya hak kazanmıştır.\n\nMissouri Üniversitesinin gazetecilik bölümünden mezun olmasına kısa bir süre kala, uzun süredir aklında olan oyunculuk kariyerini başlatmak için ailesine Pasadena'daki bir Güzel Sanatlar Akademisi'ne devam edeceğini söyleyerek Hollywood'a gitti. Bir süre çeşitli tanıtımlarda tavuk kostümü giyip limuzin şoförlüğü gibi işler yaptıktan sonra Dallas ve Another World gibi dizilerde küçük rollerde oynamaya başladı.\n\n1989'da Cutting Class isimli düşük bütçeli bir yapımda rol alarak ilgi çekti. Bundan iki yıl sonra People Magazin'in kendisine “Dünyanın En Seksi Adamı” unvanını layık görmesine neden olacak olan, Thelma & Louise'deki on beş dakikalık rolü geldi. Büyük bütçeli prodüksiyonlardaki ilk başrol performansını \"A River Runs Through It\" (1992) ve \"Legends of the Fall\" (1994) adlı drama filmleri ile \"Interview with the Vampires\" (1994) adlı korku filmi ile gösterdi. Suç gerilim filmi \"Seven\"da (1995) ve bilim kurgu filmi \"12 Maymun\"da (1995) eleştirmenlerce beğenilen performanslar sergiledi, 12 Maymun filmi ona En İyi Yardımcı Erkek Oyuncu dalında Altın Küre Ödülü ve Akademi Ödülü adaylığı kazandırdı.\n\nPitt, Fight Club (1999) adlı kült film ve soygun filmi Ocean's Eleven (2001) ile devam serisi, Ocean's Twelve (2004) ve Ocean's Thirteen (2007) filmlerinde rol aldı. En büyük gişe başarıları, Ocean's Eleven (2001), Troy (2004), Mr. & Mrs. Smith (2005), World War Z (2013) ve Once Upon a Time in Hollywood (2019) ile oldu. \"Bir Zamanlar Hollywood'da\" filmindeki oyunculuğu ona ikinci Altın Küre Ödülünü ve En İyi Yardımcı Erkek Oyuncu Akademi Ödülünü kazandırdı. Pitt'in Oscar adayı olan diğer performanslarının yer aldığı filmler The Curious Case of Benjamin Button (2008) ve Moneyball (2011) idi. Her ikisi de En İyi Film dalında Akademi Ödülü'nü kazanan The Departed (2006) ve 12 Yıllık Esaret'in (2013) yapımcılığını üstlendi. Ayrıca En İyi Film dalında aday gösterilen The Tree of Life (2011), Moneyball (2011) ve The Big Short (2015) filmlerinin de yapımcısıdır.\n\nHalk tarafından bilinen birisi olarak Pitt, Amerikan eğlence endüstrisindeki en etkili ve güçlü kişilerden biri olarak gösteriliyor. Birkaç yıl boyunca çeşitli medya kuruluşları tarafından dünyanın en çekici adamı olarak gösterildi ve özel hayatı büyük bir magazin konusu oldu. 2000'den 2005'e kadar aktris Jennifer Aniston ile evliydi; 2014'te aktris Angelina Jolie ile evlendi; 2019'da yasal olarak ayrıldılar. Pitt ve Jolie'nin birlikte altı çocuğu var, bunlardan biri Afrika, ikisi Asya'dan evlat edinilmiş çocuklar iken diğer üçü biyolojik çocuklarıdır.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "IT",
+      "iso_639_1": "it",
+      "name": "Italiano",
+      "english_name": "Italian",
+      "data": {
+        "biography": "Brad Pitt (nato il 18 dicembre 1963) è un attore e produttore cinematografico statunitense, considerato una delle più grandi star di Hollywood e uno degli interpreti più influenti della sua generazione.\n\nDopo alcuni ruoli televisivi e cinematografici, ha raggiunto la fama internazionale all'inizio degli anni Novanta con Thelma & Louise (1991). Negli anni successivi ha consolidato il suo successo grazie a interpretazioni memorabili in film come Vento di passioni (1994), Seven (1995), L'esercito delle 12 scimmie (1995), Fight Club (1999), Snatch - Lo strappo (2000), Ocean's Eleven (2001), Troy (2004), Babel (2006), L'assassinio di Jesse James per mano del codardo Robert Ford (2007), Bastardi senza gloria (2009), Moneyball - L'arte di vincere (2011), C'era una volta a... Hollywood (2019), Bullet Train (2022) e F1 - Il film (2025).\n\nNel corso della sua carriera ha ricevuto numerosi riconoscimenti, vincendo il Premio Oscar come miglior attore non protagonista per C'era una volta a... Hollywood e un secondo Oscar come produttore per 12 anni schiavo (2013), premiato come miglior film. Attraverso la sua casa di produzione Plan B Entertainment ha inoltre contribuito alla realizzazione di numerose opere acclamate dalla critica.\n\nGrazie al suo straordinario carisma, alla versatilità con cui ha affrontato ruoli drammatici, d'azione e comici e a una carriera costellata di successi, Brad Pitt è diventato una delle figure più iconiche e rispettate della storia del cinema contemporaneo.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "HU",
+      "iso_639_1": "hu",
+      "name": "Magyar",
+      "english_name": "Hungarian",
+      "data": {
+        "biography": "Brad Pitt Oklahomában született, de a Missouri állam béli Springfieldben nőtt fel. Középiskolás éveiben főleg sporttal foglalkozott, az iskolai tanács tagja volt és érdeklődéssel fordult az iskolai musicalek felé. A Missouri Egyetemen újságírást tanult (főleg reklám szakirányban), de ezen kívül különféle iskolai szórakoztató műsorokban is szerepet vállalt.  Tanulmányai befejeztével Kaliforniába költözött, ahol számos munkát vállalt. Kipróbálta a limuzin-sofőrködést, de szállított hűtőket is. Az el Pollo Loco nevű cégnél dolgozva még csirkekosztümben is feltűnt az utcán. Ridley Scott felfigyelt a fiatal srácra, és szerepet ajánlott neki a Thelma és Louise (1991) című filmjében, aki ezután lassan, de biztosan elindult a filmcsillagok útján. A 12 majom (1995) című, posztapokaliptikus alkotás miatt elutasított egy filmszerepet Tom Hanks-szel, végül azonban Terrry Gilliam filmje meghozta számára az első Oscar-jelölést.  Érdekesség, hogy 1997-ben készült filmje, a %% (1997) óta Brad Pitt nem teheti be a lábát Kínába.\n\nKarrierjének fordulópontját a Trója (2004) jelentette, melynek köszönhetően elfoglalhatta helyét az akciósztárok között. Ezt követte 2005-ben a Mr. és Mrs. Smith (2005), melynek forgatása során megismerkedett Angelina Jolieval, aki miatt elvált korábbi feleségétől.\n\nKarrierje során számos különböző műfajú filmben játszott, melybe éppúgy beletartoznak a hollywoodi szuperprodukciók (Megaagy – 2010), és a komoly színészi kavlitásokat igánylő alkotások (Becstelen brigantyk – 2009, Az élet fája – 2011). Két jelölést gyűjtött be az évek során: egyet a Benjamin Button különös élete (2008) című filmben nyújtott alakításáért, a másikat  a Pénzcsináló (2011) című drámáért.  1996-ban kezdődött kapcsolata Gwyneth Paltrowval, akivel 1997-ben szakítottak, majd 1999-ben feleségül vette Jennifer Anistont, akitől 2005-ben vált el. Jelenleg Angelina Jolie férje. Hat gyermekük van, két fiút és egy lányt fogadtak örökbe.",
+        "name": "",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "GR",
+      "iso_639_1": "el",
+      "name": "ελληνικά",
+      "english_name": "Greek",
+      "data": {
+        "biography": "Ο Μπραντ Πιτ είναι Αμερικανός ηθοποιός. Ο Πιτ έχει λάβει δύο υποψηφιότητες για Όσκαρ και πέντε υποψηφιότητες για Χρυσή Σφαίρα κερδίζοντας μία. Έχει χαρακτηριστεί ως ένας από τους πιο ελκυστικούς άνδρες στον κόσμο. Ο Πιτ ξεκίνησε την καριέρα του κάνοντας γκεστ εμφανίσεις σε τηλεοπτικές σειρές.",
+        "name": "Μπραντ Πιτ",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "TW",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "biography": "布萊德彼特1963年出生於美國奧克拉荷馬州，1986 年離開家鄉到洛杉磯打天下，努力朝演員之路邁進，剛出道時多演出一些電視節目的小角色，而1991年大導演雷利史考特的《末路狂花》算是他電影生涯的真正開始，他在電影中那張俊俏的臉龐吸引了所有觀眾的目光，也讓他初嚐走紅滋味。1992年他演出勞勃瑞福的《大河戀》，帥氣的形象讓大受到廣大女影迷的喜愛，而1994年的《夜訪吸血鬼》及《真愛一世情》更讓他大紅大紫，1995年演出大衛芬奇的驚悚片《火線追緝令》，此時的他已成為好萊塢最耀眼的金童，同年他在另類科幻片《未來總動員》中演出的瘋狂精神病患，狂放的演技讓他獲得該年金球獎最佳男配角及奧斯卡最佳男配角的提名。2000年他與熱門影集《六人行》女主角珍妮佛安妮斯頓結婚，兩人於2005年離婚，原因是他與安潔莉娜裘莉和演動作喜劇《史密斯任務》時假戲真做。2006年裘莉為彼特生下一女，2008年幼生下一對龍鳳胎，也是完成了彼特想為人父的心願。2007年的《刺殺傑西》彼特扮演傳奇江湖大盜Jesse James，獲得威尼斯影展最佳男主角獎，2008年與大衛芬奇三度合作的《班傑明的奇幻旅程》，該片是當年奧斯卡獎的大熱門，也讓彼特第二度獲奧斯卡提名。",
+        "name": "布萊德·彼特",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "KR",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말",
+      "english_name": "Korean",
+      "data": {
+        "biography": "윌리엄 브래들리 피트(William Bradley Pitt, 1963년 12월 18일생)는 미국의 배우이자 영화 제작자입니다. 30년이 넘는 영화 경력 동안 피트는 두 번의 아카데미상, 두 번의 영국 아카데미 영화상(BAFTA), 두 번의 골든 글로브상, 두 번의 프라임타임 에미상, 그리고 한 번의 베니스 국제 영화제 볼피컵(Volpi Cup)을 포함하여 수많은 상을 받았습니다. 그가 주연을 맡은 영화들은 전 세계적으로 75억 달러 이상의 수익을 올렸습니다.\n\n피트는 리들리 스콧 감독의 로드 무비 '델마와 루이스(1991)'에서 카우보이 히치하이커 역을 맡으며 처음으로 대중의 주목을 받았습니다. 이후 드라마 '흐르는 강물처럼(1992)', 서부극 '가을의 전설(1994)', 공포 영화 '뱀파이어와의 인터뷰(1994)', 범죄 스릴러 '세븐(1995)', 컬트 영화 '파이트 클럽(1999)', 범죄 코미디 '스내치(2000)' 등의 영화에서 주연을 맡으며 스타로 부상했습니다. 또한 스티븐 소더버그 감독의 '오션스' 3부작(2001~2007)을 비롯해 '트로이(2004)', '미스터 & 미세스 스미스(2005)', '월드워Z(2013)', '불릿 트레인(2022)', 'F1(2025)'과 같은 블록버스터에 출연하며 주연 배우로서의 입지를 확고히 했습니다.\n\n피트는 SF 드라마 '12 몽키즈(1995)', 판타지 로맨스 '벤자민 버튼의 시간은 거꾸로 간다(2008)', 스포츠 드라마 '머니볼(2011)'에서의 연기로 아카데미상 후보에 올랐습니다. 2019년에는 쿠엔틴 타란티노 감독의 '원스 어폰 어 타임... 인 할리우드'에서 스턴트맨 역을 맡아 아카데미 남우조연상을 수상했습니다. 이 외에도 '바벨(2006)', '비겁한 로버트 포드의 제시 제임스 암살(2007)', '번 애프터 리딩(2008)', '바스터즈: 거친 녀석들(2009)', '트리 오브 라이프(2011)', '퓨리(2014)', '빅쇼트(2015)', '애드 아스트라(2019)', '바빌론(2022)' 등 평단의 호평을 받은 다양한 작품에 출연했습니다.\n\n2001년, 피트는 제작사 플랜 B 엔터테인먼트(Plan B Entertainment)를 공동 설립했습니다. 그는 제작자로서 '노예 12년(2013)'으로 아카데미 작품상을 수상했으며, '머니볼(2011)'과 '빅쇼트(2015)'로 작품상 후보에 오르기도 했습니다. 대중문화에서 강력한 영향력을 지닌 인물인 피트는 2006년부터 2008년까지 포브스(Forbes)가 선정하는 '셀러브리티 100' 명단에, 2007년에는 타임(Time)지가 선정하는 '타임 100' 명단에 이름을 올렸습니다. 당대의 섹스 심볼로 꼽히는 그는 1995년과 2000년에 피플(People)지가 선정한 '가장 섹시한 남자'로 뽑혔습니다. 피트의 연애사 역시 언론의 큰 관심을 받았는데, 특히 배우 제니퍼 애니스톤, 안젤리나 졸리와의 결혼 생활이 그러했으며, 졸리와의 사이에서는 여섯 명의 자녀를 두고 있습니다.\n\n위 설명은 위키백과 영문판의 'Brad Pitt' 문서를 번역한 것으로, CC-BY-SA 라이선스에 따라 배포되며, 전체 기여자 목록은 위키백과에서 확인할 수 있습니다.",
+        "name": "브래드 피트",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "biography": "布拉德·皮特，1963年12月18日出生于美国俄克拉何马州，美国电影演员、制片人。\n\n1987年，皮特以临时演员的身份参加了他的第一部电影《无主地》的拍摄。1993年，皮特出演《加州杀手》，并凭此片获得威尼斯电影节最佳男演员奖。1995年，皮特出演《十二只猴子》，并凭借片中的表演获得了奥斯卡最佳男配角奖的提名。2002年，布拉德·皮特创立了B计划影业。2005年，皮特与安吉丽娜·朱莉合作了《史密斯夫妇》，两人相恋。2007年，皮特凭《神枪手之死》第二次获得威尼斯电影节最佳男演员奖。2008年，皮特凭借《返老还童》获得第81届奥斯卡最佳男主角的提名。2010年，由他制片并主演的《点球成金》为他带来又一个奥斯卡最佳男主角提名以及最佳影片提名。2011年，他主演了电影《温柔的杀戮》。2013年，皮特主演的《末日之战》上映。2016年，布拉德·皮特主演的好莱坞爱情谍战片《间谍同盟》于11月30日在中国上映。\n\n2016年，布拉德·皮特筹拍新片《他想要月亮》。2016年，布拉德·皮特以3,150万美元（约2.4亿港元）排《福布斯》全球十大最高收入男星第十位。\n\n据CNN消息，2016年9月19日，安吉丽娜·朱莉申请和布拉德·皮特离婚。2019年12月凭借电影《好莱坞往事》获得2019亚特兰大影评人协会奖最佳男配角奖。2019年12月，被“卫报”评为“2019年度十佳男演员”。\n\n2020年1月，布拉德·皮特凭借《好莱坞往事》获得第54届美国国家影评人协会奖最佳男配角、第26届演员工会奖最佳男配角。",
+        "name": "布拉德·皮特",
+        "primary": false
+      }
+    },
+    {
+      "iso_3166_1": "IL",
+      "iso_639_1": "he",
+      "name": "עִבְרִית",
+      "english_name": "Hebrew",
+      "data": {
+        "biography": "",
+        "name": "בראד פיט",
+        "primary": false
+      }
+    }
+  ]
+}

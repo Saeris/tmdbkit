@@ -1,0 +1,31 @@
+{
+  "changes": [
+    {
+      "key": "season",
+      "items": [
+        {
+          "id": "6ae2751fc1f68d229fed9174",
+          "action": "updated",
+          "time": "2026-10-28 22:20:15 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "season_id": 3719,
+            "season_number": 2
+          }
+        },
+        {
+          "id": "6ae2762d8a72f1406ced91e4",
+          "action": "updated",
+          "time": "2026-10-28 22:24:45 UTC",
+          "iso_639_1": "",
+          "iso_3166_1": "",
+          "value": {
+            "season_id": 3715,
+            "season_number": 3
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "logos": [
+    {
+      "aspect_ratio": 3.0395136778115504,
+      "file_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+      "height": 329,
+      "id": "63306b352b8a430096598b3d",
+      "file_type": ".svg",
+      "vote_average": 3.334,
+      "vote_count": 1,
+      "width": 1000
+    },
+    {
+      "aspect_ratio": 2.9797979797979797,
+      "file_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+      "height": 99,
+      "id": "5aa080d6c3a3683fea00011e",
+      "file_type": ".svg",
+      "vote_average": 2.278,
+      "vote_count": 3,
+      "width": 295
+    }
+  ]
+}

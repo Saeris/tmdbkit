@@ -1,0 +1,155 @@
+[
+  {
+    "iso_3166_1": "AD",
+    "zones": [
+      "Europe/Andorra"
+    ]
+  },
+  {
+    "iso_3166_1": "AE",
+    "zones": [
+      "Asia/Dubai"
+    ]
+  },
+  {
+    "iso_3166_1": "AF",
+    "zones": [
+      "Asia/Kabul"
+    ]
+  },
+  {
+    "iso_3166_1": "AG",
+    "zones": [
+      "America/Puerto_Rico"
+    ]
+  },
+  {
+    "iso_3166_1": "AI",
+    "zones": [
+      "America/Puerto_Rico"
+    ]
+  },
+  {
+    "iso_3166_1": "AL",
+    "zones": [
+      "Europe/Tirane"
+    ]
+  },
+  {
+    "iso_3166_1": "AM",
+    "zones": [
+      "Asia/Yerevan"
+    ]
+  },
+  {
+    "iso_3166_1": "AO",
+    "zones": [
+      "Africa/Lagos"
+    ]
+  },
+  {
+    "iso_3166_1": "AQ",
+    "zones": [
+      "Antarctica/Casey",
+      "Antarctica/Davis",
+      "Antarctica/Mawson",
+      "Antarctica/Palmer",
+      "Antarctica/Rothera",
+      "Antarctica/Troll",
+      "Antarctica/Vostok",
+      "Pacific/Auckland",
+      "Pacific/Port_Moresby",
+      "Asia/Riyadh",
+      "Asia/Singapore"
+    ]
+  },
+  {
+    "iso_3166_1": "AR",
+    "zones": [
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Salta",
+      "America/Argentina/Jujuy",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Catamarca",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/San_Juan",
+      "America/Argentina/Mendoza",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Ushuaia"
+    ]
+  },
+  {
+    "iso_3166_1": "AS",
+    "zones": [
+      "Pacific/Pago_Pago"
+    ]
+  },
+  {
+    "iso_3166_1": "AT",
+    "zones": [
+      "Europe/Vienna"
+    ]
+  },
+  {
+    "iso_3166_1": "AU",
+    "zones": [
+      "Australia/Lord_Howe",
+      "Antarctica/Macquarie",
+      "Australia/Hobart",
+      "Australia/Melbourne",
+      "Australia/Sydney",
+      "Australia/Broken_Hill",
+      "Australia/Brisbane",
+      "Australia/Lindeman",
+      "Australia/Adelaide",
+      "Australia/Darwin",
+      "Australia/Perth",
+      "Australia/Eucla",
+      "Asia/Tokyo"
+    ]
+  },
+  {
+    "iso_3166_1": "AW",
+    "zones": [
+      "America/Puerto_Rico"
+    ]
+  },
+  {
+    "iso_3166_1": "AX",
+    "zones": [
+      "Europe/Helsinki"
+    ]
+  },
+  {
+    "iso_3166_1": "AZ",
+    "zones": [
+      "Asia/Baku"
+    ]
+  },
+  {
+    "iso_3166_1": "BA",
+    "zones": [
+      "Europe/Belgrade"
+    ]
+  },
+  {
+    "iso_3166_1": "BB",
+    "zones": [
+      "America/Barbados"
+    ]
+  },
+  {
+    "iso_3166_1": "BD",
+    "zones": [
+      "Asia/Dhaka"
+    ]
+  },
+  {
+    "iso_3166_1": "BE",
+    "zones": [
+      "Europe/Brussels"
+    ]
+  }
+]
