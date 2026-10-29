@@ -30,6 +30,18 @@ describe(`addParams`, () => {
       query({ page: 0, includeAdult: false, region: null, language: undefined })
     ).toBe(`?page=0&include_adult=false`);
   });
+
+  // TMDB's discover filters are dotted (`vote_average.gte`). camelCasing the flat key would send `vote_average_gte`, which TMDB silently ignores.
+  it(`flattens a nested range into TMDB's dotted params`, () => {
+    expect(
+      query({
+        voteAverage: { gte: 7, lte: 9 },
+        primaryReleaseDate: { gte: `2020-01-01`, lte: undefined }
+      })
+    ).toBe(
+      `?vote_average.gte=7&vote_average.lte=9&primary_release_date.gte=2020-01-01`
+    );
+  });
 });
 
 describe(`buildURL`, () => {

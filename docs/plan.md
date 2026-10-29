@@ -39,6 +39,15 @@ Each phase ends with `vp check` + `vp test` green and a commit.
 - **Phase 2 done:** `yarn fixtures:record` stored 231 real responses (114 operations, recorded 2026-10-28 with a v3 key) in `packages/tmdbkit/fixtures/`, with `manifest.json` and `shapes.json`, the per-field evidence (kinds seen, how often absent). Arrays are capped at 20 items. Subjects mix rich titles with sparse ones found by ascending popularity.
 - **Next:** Phase 3, the read endpoints.
 
+## Phase 3 conventions
+
+The checklist is `scripts/codegen/operations.ts` (116 read operations, checked against the spec and the fixtures). Per operation:
+
+- **Files** follow discordkit: `src/<domain>/<name>.ts` (input schema `<name>Schema` + `Fetcher`), `src/<domain>/__tests__/<name>.spec.ts`. Response schemas live where `outputFrom` says: `src/types/` for entities shared across domains, `src/<domain>/types/` otherwise. Each exports `xEntries` (when other schemas extend it), the interface, and `xSchema = schema<X>(…)`.
+- **Inputs.** Path params are top-level camelCase (`movieId`, `seriesId`, `seasonNumber`); query params go under `params`, typed from the spec (enums → `v.picklist`, int32 → integer). Dotted range params are nested objects that `addParams` flattens: `voteAverage: { gte: 7 }` → `vote_average.gte=7`. Comma lists are arrays; OR-lists are a `|`-joined string. `appendToResponse` is a picklist array of at most 20.
+- **Outputs** come from `node scripts/codegen/draft.ts <fixture> [path]`, then a person names the shared entities and documents only what isn't obvious from the name (`""` meaning unknown, record keys being ISO codes). Appended keys are `v.exactOptional(omitFields(standaloneSchema, ["id"]))` on the details schema. Mixed-media lists (`search/multi`, `trending/all`, `known_for`) are a `v.variant(`mediaType`, …)`.
+- **Specs** (scaffolded by `scripts/codegen/scaffold.ts`, which never overwrites a file) check two things: the request that was sent (path, plus each given param in the query), and that **every recorded fixture** for the operation passes the output schema. The second is what catches a wrong nullability.
+
 ## What the fixtures established (2026-10-28)
 
 Schema authors: read `fixtures/shapes.json` for the operation, and also check the field name across operations, since four samples can't show every `null`.
